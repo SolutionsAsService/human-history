@@ -12,6 +12,7 @@ import { QUEUE } from './queue';
 import * as XA from './extra/a';
 import * as XB from './extra/b';
 import * as XC from './extra/c';
+import * as XD from './extra/d';
 import { SOURCES_D, LINKS_D } from './extra/d';
 
 export const ENTRIES: Entry[] = [...ORIGINS, ...SITES, ...MEMORY, ...FRONTIER, ...XA.ENTRIES_A, ...XB.ENTRIES_B, ...XC.ENTRIES_C];

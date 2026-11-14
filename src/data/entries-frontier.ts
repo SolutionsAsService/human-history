@@ -5,6 +5,7 @@ import { entry } from './helpers';
 export const FRONTIER = [
   entry({
     id: 'nuremberg-1561', title: 'Nuremberg celestial phenomenon, 1561', cat: 'uap', priority: 'P2',
+    lines: ["analysis of contemporary broadsheet", "atmospheric optics"],
     place: 'Nuremberg, Germany', lat: 49.452, lon: 11.077,
     start: 1561, end: 1561, dateKind: 'measured', dateConfidence: 'high',
     ev: 'E1', interp: 'E3',
@@ -16,6 +17,7 @@ export const FRONTIER = [
   }),
   entry({
     id: 'basel-1566', title: 'Basel celestial phenomenon, 1566', cat: 'uap', priority: 'P3',
+    lines: ["analysis of contemporary broadsheet", "atmospheric optics"],
     place: 'Basel, Switzerland', lat: 47.56, lon: 7.589,
     start: 1566, end: 1566, dateKind: 'measured', dateConfidence: 'high',
     ev: 'E1', interp: 'E3',
@@ -25,6 +27,8 @@ export const FRONTIER = [
   }),
   entry({
     id: 'utsuro-bune', title: 'Utsuro-bune (1803)', cat: 'uap', priority: 'P3',
+    against: ["Surviving accounts were written years after the reported event and differ in details", "The earliest versions describe a box-like boat, not a disc; the saucer form appears in later retellings"],
+    alternatives: [{ name: "Folk tale or garbled account of a foreign vessel", status: "E3", text: "Edo-period “curiosity” collections (kawaraban and zuihitsu) often recorded wonders of uncertain origin." }],
     place: 'Hitachi coast, Japan', lat: 36.7, lon: 140.8, geoNote: 'Approximate beach location.',
     start: 1803, end: 1803, dateKind: 'textual', dateConfidence: 'low',
     ev: 'E5', interp: 'E7',
@@ -74,6 +78,7 @@ export const FRONTIER = [
   }),
   entry({
     id: 'aaro-2024', title: 'US government UAP reviews (ODNI 2021, AARO 2024)', cat: 'uap', priority: 'P2',
+    lines: ["official report review", "comparison with ODNI 2021"],
     place: 'Washington, DC', lat: 38.9, lon: -77.04, geoKind: 'archive',
     start: 2021, end: 2024, dateKind: 'measured', dateConfidence: 'high',
     ev: 'E1', interp: 'E5',
@@ -87,6 +92,7 @@ export const FRONTIER = [
   // ---------------- Esoteric movements
   entry({
     id: 'ariosophy', title: 'Ariosophy and völkisch mysticism', cat: 'esoteric', priority: 'P3',
+    lines: ["intellectual-history analysis", "analysis of published works"],
     place: 'Vienna, Austria', lat: 48.21, lon: 16.37,
     start: 1890, end: 1920, dateKind: 'measured', dateConfidence: 'high',
     ev: 'E1', interp: 'E8',
@@ -97,6 +103,9 @@ export const FRONTIER = [
   }),
   entry({
     id: 'thule-society', title: 'Thule Society', cat: 'esoteric', priority: 'P3',
+    lines: ['archival history','intellectual-history analysis'],
+    against: ["The society’s documented activity was political and völkisch; no evidence supports claims of occult powers, hidden technologies or a Hyperborean contact", "Historians such as Goodrick-Clarke stress that its influence on Nazi ideology was limited and was exaggerated in postwar accounts"],
+    alternatives: [{ name: "A real völkisch group exaggerated by later occult mythology", status: "E2", text: "The mainstream historical reading, separate from the postwar “Nazi occult” literature." }],
     place: 'Munich, Germany', lat: 48.135, lon: 11.582,
     start: 1918, end: 1925, dateKind: 'measured', dateConfidence: 'high',
     ev: 'E1', interp: 'E7',
@@ -106,6 +115,8 @@ export const FRONTIER = [
   }),
   entry({
     id: 'ahnenerbe', title: 'SS-Ahnenerbe and its expeditions', cat: 'esoteric', priority: 'P3',
+    against: ["Its racial anthropology and “Aryan” prehistory are rejected by genetics, archaeology and history", "Archival records document its role in pseudoscientific research and in crimes, not discoveries"],
+    alternatives: [{ name: "Pseudoscientific ideological research organisation", status: "E1", text: "The documented historical reading (Kater; Pringle)." }],
     place: 'Berlin, Germany', lat: 52.52, lon: 13.4, geoKind: 'archive',
     start: 1935, end: 1945, dateKind: 'measured', dateConfidence: 'high',
     ev: 'E1', interp: 'E8',
