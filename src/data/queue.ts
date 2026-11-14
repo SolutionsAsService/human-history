@@ -1,0 +1,52 @@
+import type { QueueItem } from '../types';
+
+// The research queue: ledger subjects that do not yet have a built entry (design/ledger.md §21, step 9).
+// Built entries live in the other data files; the Ledger view merges both lists.
+const q = (title: string, section: string, cat: QueueItem['cat'], priority: QueueItem['priority'], note?: string): QueueItem =>
+  ({ title, section, cat, priority, note });
+
+export const QUEUE: QueueItem[] = [
+  q('Sayburç, Sefer Tepe, Çakmaktepe and other Taş Tepeler sites', '3.2', 'monument', 'P1', 'Individual entries under the Karahan Tepe network.'),
+  q('Nevalı Çori and Ain Ghazal', '3.3', 'settlement', 'P2'),
+  q('Ancient earthworks in the Americas (beyond Poverty Point and Serpent Mound)', '3.3', 'monument', 'P2'),
+  q('Caribbean submerged landscapes', '3.4', 'submerged', 'P2'),
+  q('Black Sea shelf settlements and shorelines', '3.4', 'submerged', 'P2', 'Needs dated shelf archaeology, not only the flood model.'),
+  q('Japanese underwater structures beyond Yonaguni', '3.4', 'submerged', 'P3'),
+  q('Brain-volume change around 200 ka', '4.1', 'origins', 'P1', 'Investigate fossils, endocasts and genetics independently; do not assume one transformation.'),
+  q('Cognitive revolution: Pinnacle Point, Diepkloof, other early symbolic sites', '4.2', 'cognition', 'P1'),
+  q('FOXP2 and the genetics of language', '4.3', 'genetics', 'P2', 'Language is not one gene.'),
+  q('Genetic bottleneck models and ghost archaic populations', '4.4', 'genetics', 'P1'),
+  q('Egyptian king lists, Abydos', '4.6', 'text', 'P2'),
+  q('Chinese genealogical traditions and Xia/Shang chronology', '4.6', 'text', 'P2'),
+  q('Nommo / Dogon cosmology: first recording, informants, other communities', '5.1', 'text', 'P2', 'Hypotheses question is in the Lab; entry pending.'),
+  q('Anunnaki, Apkallu, Watchers, devas: language-by-language source analysis', '5.2', 'text', 'P3'),
+  q('Vedic texts, Vimanas, yugas, ancient Indian astronomy', '5.4', 'text', 'P2', 'Separate original Sanskrit from modern reinterpretation.'),
+  q('Manu, Deucalion, Chinese, Mesoamerican, Pacific flood traditions', '5.5', 'text', 'P2'),
+  q('Baalbek quarry survey data', '6.1', 'monument', 'P2'),
+  q('Egyptian pyramids: Meidum, Bent, Red, Djoser entries', '6.4', 'monument', 'P1'),
+  q('Malta, Hypogeum, Easter Island statues: chronology and transport entries', '6.7', 'monument', 'P2'),
+  q('Machu Picchu, Lalibela, Mapungubwe, Great Serpent Mound details', '6.7', 'monument', 'P3'),
+  q('Chinese stone and earthwork sites, Japanese kofun, Bada Valley megaliths', '6.7', 'monument', 'P3'),
+  q('Buache map (1737)', '7.3', 'map', 'P3'),
+  q('Babylonian, Ptolemaic, Roman, Chinese and Islamic cartographic traditions', '7.4', 'map', 'P3'),
+  q('Polynesian stick charts and Pacific navigation', '7.5', 'map', 'P2'),
+  q('Hancock’s works: claim-by-claim catalogue', '8.3', 'lostciv', 'P1', 'Treated as a source of hypotheses, not verification.'),
+  q('Ancient Sahara settlements, Atlantic civilization hypotheses', '8.4', 'lostciv', 'P3'),
+  q('Tres Zapotes, Tikal, Calakmul, Palenque, Copán, Nakbe', '9.2', 'settlement', 'P2'),
+  q('Norte Chico, Wari, Chan Chan, Marajoara, Amazonian geoglyphs', '9.6', 'settlement', 'P2'),
+  q('Maya collapse and continuity', '9.7', 'settlement', 'P2', 'Continuity as well as collapse.'),
+  q('Mapungubwe, Swahili cities, Mali Empire, Napata', '10', 'settlement', 'P3'),
+  q('Minoan civilization: Knossos, Linear A', '8.2', 'settlement', 'P2'),
+  q('Ancient impact craters and the impact-claim catalogue', '14', 'event', 'P2'),
+  q('Meltwater pulses and post-glacial sea-level curve detail by region', '14', 'event', 'P1', 'Needs real regional relative-sea-level data, not the schematic curve.'),
+  q('Egyptian decans, Babylonian and Chinese astronomy, eclipse prediction', '15', 'astronomy', 'P2'),
+  q('Polynesian–American contact: sweet potato, genetics, linguistics', '16', 'text', 'P2'),
+  q('Richat, Bimini, Gunung Padang, Yonaguni primary survey data', '17', 'geology', 'P3'),
+  q('Calico Early Man Site', '17', 'origins', 'P3'),
+  q('Out-of-place artefact and “giant skeleton” claims', '17', 'artifact', 'P3', 'Require museum records, excavation reports and osteological examination.'),
+  q('Egyptian precision stone vessels, Damascus/wootz steel, ancient mechanical devices', '13', 'artifact', 'P3'),
+  q('Nuclear-site UAP statistical analysis against observer density', '12.5', 'uap', 'P2', 'Needs normalised data.'),
+  q('Witness testimonies: Grusch, Graves, Fravor, Elizondo — separate firsthand from secondhand', '12.4', 'uap', 'P2'),
+  q('Ancient and medieval aerial reports: Roman, medieval, Chinese records', '12.1', 'uap', 'P3'),
+  q('Esoteric movements: Hyperborea, postwar Nazi-occult mythology', '11', 'esoteric', 'P3'),
+];
