@@ -57,7 +57,7 @@ const mapControls = h('div', { class: 'map-ctrls' },
 
 const caveat = h('div', { class: 'map-caveat' },
   h('span', { class: 'mc-touch' }, 'Tap a dot for its evidence. '), h('span', { class: 'mc-click' }, 'Click a dot for its evidence. '),
-  'Dashed ring = claimed date. Sand tint = exposed shelf, schematic. Positions approximate; records unverified. ', h('a', { href: '#/about' }, 'Method'));
+  'Dashed ring = claimed date. Routes and the sand-tint shelf are schematic. Positions approximate; records unverified. ', h('a', { href: '#/about' }, 'Method'));
 const loading = h('div', { class: 'loading' }, h('div', { class: 'spin' }), 'Loading the world…');
 
 const scrim = h('div', { class: 'scrim', on: { click: () => set({ panelOpen: false }) } });

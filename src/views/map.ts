@@ -221,12 +221,15 @@ export class MapView {
       if (hit) this.focusSelection(hit, 6);
     });
     this.canvas.addEventListener('keydown', ev => this.onKey(ev));
-    this.canvas.addEventListener('blur', () => { if (state.hover) set({ hover: null }); });
+    this.canvas.addEventListener('blur', () => { this.kbSnap = null; if (state.hover) set({ hover: null }); });
   }
   /** Keyboard access: arrows / PageUp / PageDown step through the visible records (west to east, then north to south), Enter selects, +/- zoom. */
   private kb = -1;
+  private kbSnap: Marker[] | null = null;
   private onKey(ev: KeyboardEvent) {
-    const list = [...this.markersA].sort((a, b) => a.x - b.x || a.y - b.y);
+    // one snapshot per keyboard session so "n of m" stays stable while the markers pulse and move
+    if (!this.kbSnap) this.kbSnap = [...this.markersA].sort((a, b) => a.x - b.x || a.y - b.y);
+    const list = this.kbSnap;
     const step = (d: number) => {
       if (!list.length) return;
       const cur = state.hover ? list.findIndex(m => m.id === state.hover!.id) : -1;
@@ -241,7 +244,7 @@ export class MapView {
     else if ((ev.key === 'Enter' || ev.key === ' ') && state.hover) { ev.preventDefault(); set({ selected: state.hover }); }
     else if (ev.key === '+' || ev.key === '=') this.zoomBy(1.4);
     else if (ev.key === '-') this.zoomBy(1 / 1.4);
-    else if (ev.key === 'Escape') set({ selected: null, hover: null });
+    else if (ev.key === 'Escape') { this.kbSnap = null; set({ selected: null, hover: null }); }
   }
   private dragMoved(x: number, y: number) { return this.dragStart[0] !== 0 && Math.hypot(x - this.dragStart[0], y - this.dragStart[1]) > 4 && state.projection === 'globe'; }
   private pt(ev: MouseEvent): [number, number] { const r = this.canvas.getBoundingClientRect(); return [ev.clientX - r.left, ev.clientY - r.top]; }

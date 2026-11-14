@@ -486,3 +486,26 @@ h1.brand { margin: 0; font-size: inherit; font-weight: inherit; display: flex; }
   .stage[data-sel='1'] .presets, .stage[data-sel='1'] .chips-active { display: none; }
   .stage[data-sel='1'] .readout-box { display: none; }
 }
+
+/* ---------- polish round 4: gutters, filters, sheet note */
+.foot-note { display: none; }
+@media (max-width: 719px) {
+  .stats, .ag { scroll-padding-inline: 14px; }
+  .rules > .dim { display: none; }
+  .lg-tools select { flex: 1 1 calc(50% - 8px); min-width: 0; }
+  .sheet-foot .foot-note { display: block; font-size: 12px; color: var(--dim); margin: 0 0 8px; text-align: center; }
+  .sheet-foot { padding-top: 14px; }
+}
+
+@media (max-width: 719px) {
+  .foot-note { display: block; font-size: 12px; color: var(--dim); margin: 0 48px 4px 0; line-height: 1.35; }
+  .sheet-foot .foot-note { display: none; }
+  .sheet-foot { padding-top: 10px; }
+}
+
+/* ---------- polish round 5 (after the round cap): statuses side by side in the sheet so the date card clears the pinned Close bar */
+@media (max-width: 719px) {
+  .drawer .dual { grid-template-columns: 1fr 1fr; gap: 6px; }
+  .drawer .dual .badge { font-size: 12px; padding: 3px 8px; white-space: normal; }
+  .drawer .dual-k { margin-bottom: 2px; }
+}

@@ -22,7 +22,12 @@ export class Drawer {
     const sel = state.selected;
     const wasOpen = this.el.classList.contains('open');
     this.el.classList.toggle('open', !!sel);
-    if (!sel) { this.el.replaceChildren(); return; }
+    if (!sel) {
+      this.el.replaceChildren();
+      if (wasOpen) { const o = this.opener; this.opener = null; const usable = !!o && document.contains(o) && o !== document.body && o.offsetParent !== null && !o.closest('.palette');
+        setTimeout(() => ((usable ? o : document.querySelector('.map-canvas')) as HTMLElement | null)?.focus({ preventScroll: true }), 0); }
+      return;
+    }
     let y0 = 0, moved = false;
     const handle = h('button', { class: 'sheet-handle', 'aria-label': 'Record panel: tap to expand or collapse, swipe down to close', 'aria-expanded': String(this.el.classList.contains('full')), on: {
       pointerdown: (e: PointerEvent) => { y0 = e.clientY; moved = false; (e.currentTarget as HTMLElement).setPointerCapture(e.pointerId); },
@@ -36,11 +41,11 @@ export class Drawer {
     else if (sel.kind === 'migration') { const m = MIGRATIONS.find(m => m.id === sel.id); if (m) body = this.migration(m); }
     this.el.classList.remove('full');
     const foot = h('div', { class: 'sheet-foot' }, h('button', { class: 'btn', on: { click: () => set({ selected: null }) } }, 'Close record'));
-    this.el.replaceChildren(handle, close, body ?? h('p', { class: 'dim' }, 'Record not found.'), foot);
+    const note = h('div', { class: 'foot-note' }, 'Positions approximate · routes and shelf tint schematic · records unverified');
+    this.el.replaceChildren(handle, close, note, body ?? h('p', { class: 'dim' }, 'Record not found.'), foot);
     this.el.scrollTop = 0;
     if (sel && !wasOpen) { this.opener = document.activeElement as HTMLElement | null; }
     if (sel) { this.el.setAttribute('tabindex', '-1'); this.el.setAttribute('aria-label', 'Evidence record'); this.el.focus({ preventScroll: true }); }
-    else if (wasOpen) { const o = this.opener; this.opener = null; setTimeout(() => ((o && document.contains(o) ? o : document.querySelector('.map-canvas')) as HTMLElement | null)?.focus({ preventScroll: true }), 0); }
   }
 
   private dates(e: { start: number; end: number; dateKind: string; dateConfidence: any; datingMethod?: string; dateNote?: string; altChron?: Entry['altChron'] }) {
