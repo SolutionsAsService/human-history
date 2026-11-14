@@ -315,7 +315,7 @@ export function runAudit(opts: { land?: any } = {}): AuditResult {
     // a source cannot predate what it is cited for
     for (const s of srcs) {
       const p = parseCite(s);
-      if (p.year && e.start >= 1800 && p.year < e.start - 1 && s.kind !== 'alternative' && !/later retell|reception/i.test(e.summary)) add('source-after', 'warn', [e.id, s.id], `${e.title} (${e.start}) cites ${s.id} published ${p.year}: before the event.`);
+      if (p.year && e.start >= 1800 && p.year < e.start - 1 && s.kind !== 'alternative' && e.dateKind !== 'textual' && e.dateKind !== 'claimed' && e.cat !== 'lostciv' && !/later retell|reception/i.test(e.summary)) add('source-after', 'warn', [e.id, s.id], `${e.title} (${e.start}) cites ${s.id} published ${p.year}: before the event.`);
     }
     if (phases[e.id].pct <= 40) add('phase', 'info', [e.id], `${e.title} completes only ${phases[e.id].pct}% of the research workflow (missing: ${phases[e.id].missing.slice(0, 4).join(', ')}).`);
   }

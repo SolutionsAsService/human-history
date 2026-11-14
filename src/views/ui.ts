@@ -16,7 +16,7 @@ export function dualBadges(ev: Status, interp: Status) {
 }
 export function confDots(c: Confidence) {
   const n = c === 'high' ? 3 : c === 'medium' ? 2 : 1;
-  return h('span', { class: 'conf', title: `${c} confidence` }, '●'.repeat(n), h('span', { class: 'off' }, '●'.repeat(3 - n)));
+  return h('span', { class: 'conf', title: `${c} confidence` }, h('span', { 'aria-hidden': 'true' }, '●'.repeat(n)), h('span', { class: 'off', 'aria-hidden': 'true' }, '●'.repeat(3 - n)), h('span', { class: 'sr-only' }, `${c} confidence`));
 }
 
 const KIND_LABEL: Record<Source['kind'], string> = { primary: 'primary', secondary: 'secondary', alternative: 'alternative', official: 'official', skeptical: 'critical' };

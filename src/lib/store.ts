@@ -48,12 +48,12 @@ export const state: State = {
   showShelf: true,
   showLinks: true,
   colorBy: 'category',
-  projection: 'flat',
+  projection: typeof innerWidth !== 'undefined' && innerWidth < 720 ? 'globe' : 'flat',
   statuses: new Set(['E1', 'E2', 'E3', 'E4', 'E5', 'E6', 'E7', 'E8'] as Status[]),
   query: '',
   routeGroups: new Set<string>(),
   labPick: null,
-  panelOpen: typeof innerWidth === 'undefined' || innerWidth > 960,
+  panelOpen: typeof innerWidth === 'undefined' || innerWidth > 1100,
 };
 
 type Listener = (keys: Set<string>) => void;

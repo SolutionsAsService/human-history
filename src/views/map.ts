@@ -59,7 +59,7 @@ const reduceMotion = typeof matchMedia !== 'undefined' && matchMedia('(prefers-r
 
 export class MapView {
   readonly el: HTMLElement;
-  private canvas = h('canvas', { class: 'map-canvas', tabindex: 0, 'aria-label': 'Interactive evidence map. Use the time slider to move through history.' });
+  private canvas = h('canvas', { class: 'map-canvas', tabindex: 0, 'aria-label': 'Interactive evidence map. Arrow keys step through the records shown, Enter opens one, plus and minus zoom. The time slider moves through history.' });
   private ctx: CanvasRenderingContext2D;
   private tip = h('div', { class: 'tip', role: 'status' });
   private w = 0; private hgt = 0; private dpr = 1;
@@ -82,6 +82,10 @@ export class MapView {
   private grat = d3.geoGraticule10();
   private matchIds: Set<string> | null = null;
   private pendingFocus: Selection = null;
+  private inset = 0;                       // bottom area covered by the phone sheet; the focus point is centred above it
+  private pointers = new Map<number, [number, number]>();
+  private pinch = 0;
+  private coarse = typeof matchMedia !== 'undefined' && matchMedia('(pointer: coarse)').matches;
 
   constructor() {
     this.ctx = this.canvas.getContext('2d')!;
@@ -116,6 +120,7 @@ export class MapView {
   private onState(keys: Set<string>) {
     if (keys.has('projection')) { this.fitProjection(); this.tr = d3.zoomIdentity; this.canvas.style.cursor = state.projection === 'globe' ? 'grab' : 'default'; }
     if (keys.has('selected') && state.selected && state.view === 'map') this.focusSelection();
+    if (keys.has('selected') && !state.selected && this.inset) { const i0 = this.inset; d3.select(this.canvas).transition().duration(reduceMotion ? 0 : 350).tween('inset', () => t => { this.inset = i0 * (1 - t); this.dirty = true; }); }
     this.matchIds = state.query.trim() ? new Set(ENTRIES.filter(e => this.matches(e, state.query)).map(e => e.id)) : null;
     this.dirty = true;
   }
@@ -149,7 +154,7 @@ export class MapView {
   }
   private projection() {
     if (state.projection === 'globe') {
-      return this.globe.scale(this.baseGlobe * this.globeK).translate([this.w / 2, this.hgt / 2]).rotate([this.rot[0], this.rot[1], 0]);
+      return this.globe.scale(this.baseGlobe * this.globeK).translate([this.w / 2, (this.hgt - this.inset) / 2]).rotate([this.rot[0], this.rot[1], 0]);
     }
     const k = this.tr.k;
     return this.flat.scale(this.baseFlat * k).translate([this.tr.k * this.w / 2 + this.tr.x, this.tr.k * this.hgt / 2 + this.tr.y]);
@@ -173,6 +178,8 @@ export class MapView {
 
     this.canvas.addEventListener('pointerdown', ev => {
       const [x, y] = this.pt(ev);
+      this.pointers.set(ev.pointerId, [x, y]);
+      if (this.pointers.size === 2 && state.projection === 'globe') { const [a, b] = [...this.pointers.values()]; this.pinch = Math.hypot(a[0] - b[0], a[1] - b[1]); this.dragging = null; return; }
       if (state.compare && this.nearDivider(ev)) { this.dragging = 'divider'; this.canvas.setPointerCapture(ev.pointerId); return; }
       if (state.projection === 'globe') {
         this.dragging = 'globe'; this.dragStart = [x, y, this.rot[0], this.rot[1]];
@@ -181,6 +188,11 @@ export class MapView {
     });
     this.canvas.addEventListener('pointermove', ev => {
       const [x, y] = this.pt(ev);
+      if (this.pointers.has(ev.pointerId)) this.pointers.set(ev.pointerId, [x, y]);
+      if (this.pointers.size === 2 && state.projection === 'globe' && this.pinch) {
+        const [a, b] = [...this.pointers.values()]; const d = Math.hypot(a[0] - b[0], a[1] - b[1]);
+        this.globeK = Math.min(12, Math.max(0.8, this.globeK * (d / this.pinch))); this.pinch = d; this.dirty = true; return;
+      }
       if (this.dragging === 'divider') { this.divX = Math.min(0.95, Math.max(0.05, x / this.w)); this.dirty = true; return; }
       if (this.dragging === 'globe') {
         const k = 0.28 / this.globeK;
@@ -190,6 +202,7 @@ export class MapView {
       this.hover(x, y, ev);
     });
     const end = (ev: PointerEvent) => {
+      this.pointers.delete(ev.pointerId); if (this.pointers.size < 2) this.pinch = 0;
       if (this.dragging) { try { this.canvas.releasePointerCapture(ev.pointerId); } catch { /* ignore */ } }
       this.dragging = null; this.canvas.style.cursor = state.projection === 'globe' ? 'grab' : 'default';
     };
@@ -207,9 +220,28 @@ export class MapView {
       const hit = this.pick(x, y);
       if (hit) this.focusSelection(hit, 6);
     });
-    this.canvas.addEventListener('keydown', ev => {
-      if (ev.key === 'Escape') set({ selected: null });
-    });
+    this.canvas.addEventListener('keydown', ev => this.onKey(ev));
+    this.canvas.addEventListener('blur', () => { if (state.hover) set({ hover: null }); });
+  }
+  /** Keyboard access: arrows / PageUp / PageDown step through the visible records (west to east, then north to south), Enter selects, +/- zoom. */
+  private kb = -1;
+  private onKey(ev: KeyboardEvent) {
+    const list = [...this.markersA].sort((a, b) => a.x - b.x || a.y - b.y);
+    const step = (d: number) => {
+      if (!list.length) return;
+      const cur = state.hover ? list.findIndex(m => m.id === state.hover!.id) : -1;
+      this.kb = (cur < 0 ? (d > 0 ? 0 : list.length - 1) : (cur + d + list.length) % list.length);
+      const m = list[this.kb]; set({ hover: { kind: m.kind, id: m.id } });
+      const e = m.kind === 'entry' ? ENTRY_BY_ID[m.id] : null; const v = m.kind === 'event' ? EVENT_BY_ID[m.id] : null;
+      const live = document.getElementById('sr-live');
+      if (live) live.textContent = e ? `${e.title}. ${CATS[e.cat].label}, ${fmtRange(e.start, e.end)}. Evidence ${e.ev}, interpretation ${e.interp}. ${this.kb + 1} of ${list.length}. Press Enter for the record.` : v ? `${v.title}, environmental event. ${this.kb + 1} of ${list.length}.` : '';
+    };
+    if (['ArrowRight', 'ArrowDown', 'PageDown'].includes(ev.key)) { ev.preventDefault(); step(1); }
+    else if (['ArrowLeft', 'ArrowUp', 'PageUp'].includes(ev.key)) { ev.preventDefault(); step(-1); }
+    else if ((ev.key === 'Enter' || ev.key === ' ') && state.hover) { ev.preventDefault(); set({ selected: state.hover }); }
+    else if (ev.key === '+' || ev.key === '=') this.zoomBy(1.4);
+    else if (ev.key === '-') this.zoomBy(1 / 1.4);
+    else if (ev.key === 'Escape') set({ selected: null, hover: null });
   }
   private dragMoved(x: number, y: number) { return this.dragStart[0] !== 0 && Math.hypot(x - this.dragStart[0], y - this.dragStart[1]) > 4 && state.projection === 'globe'; }
   private pt(ev: MouseEvent): [number, number] { const r = this.canvas.getBoundingClientRect(); return [ev.clientX - r.left, ev.clientY - r.top]; }
@@ -220,7 +252,7 @@ export class MapView {
     let best: Marker | null = null; let bd = 1e9;
     for (const m of list) {
       const d = Math.hypot(m.x - x, m.y - y);
-      if (d <= m.r + 5 && d < bd) { best = m; bd = d; }
+      if (d <= m.r + (this.coarse ? 14 : 5) && d < bd) { best = m; bd = d; }
     }
     if (best) return { kind: best.kind, id: best.id };
     let rb: RouteHit | null = null; let rd = 6;
@@ -263,6 +295,8 @@ export class MapView {
   focusSelection(sel: Selection = state.selected, zoom = 4, instant = false) {
     if (!sel) return;
     if (!this.w) { this.pendingFocus = sel; return; }
+    const dr = document.querySelector('.drawer') as HTMLElement | null;
+    const toInset = innerWidth < 720 ? Math.round(dr?.offsetHeight || this.hgt * 0.5) : 0;
     let lat: number | undefined, lon: number | undefined;
     if (sel.kind === 'entry') { const e = ENTRY_BY_ID[sel.id]; lat = e?.lat; lon = e?.lon; }
     else if (sel.kind === 'event') { const e = EVENT_BY_ID[sel.id]; lat = e?.lat; lon = e?.lon; }
@@ -271,13 +305,14 @@ export class MapView {
     if (state.projection === 'globe') {
       const from = [...this.rot] as [number, number]; const to: [number, number] = [-lon, -lat];
       const interp = d3.interpolate(from, to);
-      d3.select(this.canvas).transition().duration(reduceMotion || instant ? 0 : 700).tween('rot', () => t => { this.rot = interp(t) as [number, number]; this.dirty = true; });
+      const i0 = this.inset;
+      d3.select(this.canvas).transition().duration(reduceMotion || instant ? 0 : 700).tween('rot', () => t => { this.rot = interp(t) as [number, number]; this.inset = i0 + (toInset - i0) * t; this.dirty = true; });
       return;
     }
     const p = this.flat.scale(this.baseFlat).translate([this.w / 2, this.hgt / 2])([lon, lat]);
     if (!p) return;
     const k = Math.max(this.tr.k, zoom);
-    const t = d3.zoomIdentity.translate(this.w / 2 - p[0] * k, this.hgt / 2 - p[1] * k).scale(k);
+    const t = d3.zoomIdentity.translate(this.w / 2 - p[0] * k, (this.hgt - toInset) / 2 - p[1] * k).scale(k);
     d3.select(this.canvas).transition().duration(reduceMotion || instant ? 0 : 700).call(this.zoomBehavior.transform as any, t);
   }
   zoomBy(f: number) {
@@ -332,7 +367,7 @@ export class MapView {
       ctx.strokeStyle = 'rgba(255,255,255,0.75)'; ctx.lineWidth = 1.5;
       ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, H); ctx.stroke();
       ctx.fillStyle = '#e8eefc'; ctx.beginPath(); ctx.arc(x, H / 2, 11, 0, Math.PI * 2); ctx.fill();
-      ctx.fillStyle = '#0a1424'; ctx.font = '700 11px system-ui'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText('↔', x, H / 2 + 0.5);
+      ctx.fillStyle = '#0a1424'; ctx.font = '700 12px system-ui'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText('↔', x, H / 2 + 0.5);
       this.badge(ctx, 12, H - 36, 'A · ' + fmtYear(state.t));
       this.badge(ctx, w - 12, H - 36, 'B · ' + fmtYear(state.tB), true);
     } else {
@@ -433,7 +468,7 @@ export class MapView {
         }
         if (prog > 0 && (sel || hov)) {
           const first = DENSE[m.id].pts[0]; const s = screen(first[0], first[1]);
-          if (s) { ctx.fillStyle = '#fff'; ctx.font = '600 11px system-ui'; ctx.textAlign = 'left'; ctx.textBaseline = 'middle'; ctx.fillText(m.model, s[0] + 8, s[1] - 10); }
+          if (s) { ctx.fillStyle = '#fff'; ctx.font = '600 12px system-ui'; ctx.textAlign = 'left'; ctx.textBaseline = 'middle'; ctx.fillText(m.model, s[0] + 8, s[1] - 10); }
         }
       }
     }
@@ -495,7 +530,7 @@ export class MapView {
       const selected = sel?.kind === 'entry' && sel.id === e.id;
       const hovered = state.hover?.kind === 'entry' && state.hover.id === e.id;
       const linked = selNodeId && linksOf(selNodeId).some(l => l.other === e.id);
-      const base = e.priority === 'P1' ? 6.2 : e.priority === 'P2' ? 5 : 4;
+      const base = (e.priority === 'P1' ? 6.2 : e.priority === 'P2' ? 5 : 4) * (this.coarse ? 1.3 : 1);
       const act = ph === 'active';
       const r = (act ? base : base * 0.62) * (selected || hovered ? 1.35 : 1);
       const fill = this.fillColor(e), ring = this.ringColor(e);
@@ -524,7 +559,7 @@ export class MapView {
     // --- labels with simple overlap rejection
     labels.sort((a, b) => b.pri - a.pri);
     const boxes: [number, number, number, number][] = [];
-    ctx.font = '600 11.5px system-ui'; ctx.textBaseline = 'middle'; ctx.textAlign = 'left';
+    ctx.font = '600 12px system-ui'; ctx.textBaseline = 'middle'; ctx.textAlign = 'left';
     for (const l of labels) {
       const wd = ctx.measureText(l.text).width;
       const box: [number, number, number, number] = [l.x - 3, l.y - 9, l.x + wd + 3, l.y + 9];

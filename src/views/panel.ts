@@ -51,7 +51,7 @@ export class LayerPanel {
     const legendFill = state.colorBy === 'category' ? 'fill = category' : state.colorBy === 'evidence' ? 'fill = evidence status' : 'fill = interpretation status';
     const legendRing = state.colorBy === 'interpretation' ? 'ring = evidence status' : 'ring = interpretation status';
     this.el.replaceChildren(
-      h('div', { class: 'lp-head' }, h('b', null, 'Layers'),
+      h('div', { class: 'lp-head' }, h('span', null, h('b', null, 'Layers'), h('span', { class: 'dim small' }, '  numbers = records active at this date')), h('button', { class: 'btn icon lp-close', 'aria-label': 'Close layers', on: { click: () => set({ panelOpen: false }) } }, '✕'),
         h('span', { class: 'lp-btns' },
           h('button', { class: 'link', on: { click: () => set({ layers: new Set(Object.keys(CATS) as Cat[]) }) } }, 'all'),
           h('button', { class: 'link', on: { click: () => set({ layers: new Set() }) } }, 'none'))),

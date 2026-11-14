@@ -1,3 +1,4 @@
+import * as d3 from 'd3';
 import { feature } from 'topojson-client';
 import { ENTRIES, ENTRY_BY_ID, EVENT_BY_ID, MIGRATIONS, QUESTIONS, SOURCES } from '../data';
 import { PHASES, RULES, getAudit, linesOf, type Finding, type Severity } from '../lib/audit';
@@ -7,6 +8,15 @@ import { h } from '../lib/dom';
 import { set, state, subscribe } from '../lib/store';
 import { badge } from './ui';
 
+const lum = (hex: string) => { const n = parseInt(hex.slice(1), 16); const f = (v: number) => { v /= 255; return v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4; }; return 0.2126 * f((n >> 16) & 255) + 0.7152 * f((n >> 8) & 255) + 0.0722 * f(n & 255); };
+const ratio = (a: string, b: string) => { const x = lum(a), y = lum(b); return (Math.max(x, y) + 0.05) / (Math.min(x, y) + 0.05); };
+/** Opaque heat colour with whichever label colour contrasts better (never relies on a translucent tint). */
+function cellStyle(n: number, max: number) {
+  if (n === 0) return 'background:#2a1218;color:#ffb3b8';
+  const r = n / max; const bg = r < 0.4 ? d3.interpolateRgb('#16304d', '#2c6aa3')(r / 0.4) : d3.interpolateRgb('#76dbea', '#a6f6ff')((r - 0.4) / 0.6); const hex = d3.color(bg)!.formatHex();
+  const fg = ratio(hex, '#06101d') >= ratio(hex, '#f2f6ff') ? '#06101d' : '#f2f6ff';
+  return `background:${hex};color:${fg}`;
+}
 /** Audit view: the evidence tables checking each other. */
 export class AuditView {
   readonly el = h('div', { class: 'audit' });
@@ -50,7 +60,7 @@ export class AuditView {
     // coverage heat map
     const c = a.coverage; const max = Math.max(1, ...c.cells.flat());
     const heat = h('table', { class: 'heat' }, h('thead', null, h('tr', null, h('th'), c.eras.map(e => h('th', null, e)))),
-      h('tbody', null, c.regions.map((r, i) => h('tr', null, h('td', { class: 'rl' }, r), c.cells[i].map(n => h('td', { style: `background:${n === 0 ? 'rgba(229,83,91,.18)' : `rgba(124,240,255,${0.12 + 0.7 * (n / max)})`};color:${n === 0 ? '#ff9aa2' : '#06101d'}` }, n === 0 ? '·' : String(n)))))));
+      h('tbody', null, c.regions.map((r, i) => h('tr', null, h('td', { class: 'rl' }, r), c.cells[i].map(n => h('td', { style: cellStyle(n, max) }, n === 0 ? '·' : String(n)))))));
 
     // triangulation
     const tri = ENTRIES.map(e => ({ e, t: a.triang[e.id] })).filter(x => x.t.gap >= 1).sort((x, y) => y.t.gap - x.t.gap || x.t.score - y.t.score).slice(0, 25);
@@ -72,7 +82,8 @@ export class AuditView {
     this.el.replaceChildren(
       h('header', null,
         h('h2', null, 'Evidence audit'),
-        h('p', { class: 'ctx' }, 'The evidence tables checking each other. Declared statuses are compared with the sources and independent lines of evidence behind them; graph relations are tested against dates, geography and each other; hypotheses against their own evidence lists and the records they cite; migration routes against the records that should anchor them; and coverage is mapped by region and era. These are prompts for review, not verdicts. An algorithm cannot tell you which side of a dispute is right.'),
+        h('details', { class: 'intro', open: innerWidth >= 720 }, h('summary', null, 'What this audit does'), h('p', { class: 'ctx' }, 'The evidence tables checking each other. Declared statuses are compared with the sources and independent lines of evidence behind them; graph relations are tested against dates, geography and each other; hypotheses against their own evidence lists and the records they cite; migration routes against the records that should anchor them; and coverage is mapped by region and era. ')),
+        h('p', { class: 'ctx verdictline' }, h('b', null, 'Prompts for review, not verdicts.'), ' An algorithm cannot tell you which side of a dispute is right.'),
         h('div', { class: 'ag' },
           tile(count('error'), 'errors'), tile(count('warn'), 'warnings'), tile(count('info'), 'notes'),
           tile(a.stats.avgPhasePct + '%', 'avg workflow completeness'), tile(a.stats.reportReady, 'report-ready records'),

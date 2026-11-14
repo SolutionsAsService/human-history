@@ -25,8 +25,8 @@ export class Dock {
   private sub = h('div', { class: 'readout-sub' });
   private chips = h('div', { class: 'chips-active' });
   private playBtn = h('button', { class: 'btn icon', title: 'Play / pause (space)', 'aria-label': 'Play or pause' }, '▶');
-  private speedBtn = h('button', { class: 'btn', title: 'Playback speed' }, '1×');
-  private dirBtn = h('button', { class: 'btn icon', title: 'Direction' }, '→');
+  private speedBtn = h('button', { class: 'btn hide-sm', title: 'Playback speed' }, '1×');
+  private dirBtn = h('button', { class: 'btn icon hide-sm', title: 'Direction' }, '→');
   private cmpBtn = h('button', { class: 'btn', title: 'Compare two moments with a swipe curtain' }, 'Compare');
   private stats = h('div', { class: 'dock-stats' });
   private ctx: CanvasRenderingContext2D;
@@ -117,7 +117,7 @@ export class Dock {
 
     this.readout.textContent = fmtYear(state.t);
     const sl = seaLevel(state.t);
-    const slText = sl.grade === 'none' ? 'sea level not modelled' : `sea level ${sl.m >= 0 ? '+' : '−'}${Math.abs(Math.round(sl.m))} m${sl.grade === 'schematic' ? ' (schematic)' : ''}`;
+    const slText = sl.grade === 'none' ? 'sea level not modelled' : `sea level ${sl.m >= 0 ? '+' : '−'}${Math.abs(Math.round(sl.m))} m · shelf tint schematic${sl.grade === 'schematic' ? ', deep-time curve illustrative' : ''}`;
     let active = 0, started = 0;
     for (const e of ENTRIES) { if (!state.layers.has(e.cat)) continue; const p = phase(e.start, e.end, state.t); if (p === 'active') active++; if (p !== 'future') started++; }
     this.sub.textContent = slText;
@@ -153,10 +153,11 @@ export class Dock {
     }
     ctx.strokeStyle = 'rgba(201,165,106,0.9)'; ctx.lineWidth = 1.5; ctx.stroke();
     // anchor ticks & labels
-    ctx.fillStyle = 'rgba(190,205,235,0.65)'; ctx.font = '10px system-ui'; ctx.textBaseline = 'alphabetic';
+    ctx.fillStyle = 'rgba(190,205,235,0.65)'; ctx.font = '12px system-ui'; ctx.textBaseline = 'alphabetic';
     ANCHORS.forEach((y, i) => {
       const x = (i / (ANCHORS.length - 1)) * w;
-      if (w < 700 && i % 2 === 1 && i !== ANCHORS.length - 1) { ctx.fillRect(Math.min(w - 1, x), hh - 14, 1, 5); return; }
+      const step = w < 480 ? 3 : w < 760 ? 2 : 1;
+      if (i % step !== 0 && i !== ANCHORS.length - 1) { ctx.fillRect(Math.min(w - 1, x), hh - 14, 1, 5); return; }
       ctx.fillRect(Math.min(w - 1, x), hh - 14, 1, 5);
       ctx.textAlign = i === 0 ? 'left' : i === ANCHORS.length - 1 ? 'right' : 'center';
       ctx.fillText(y === NOW ? 'now' : fmtYear(y, true), i === 0 ? x + 3 : i === ANCHORS.length - 1 ? x - 3 : x, hh - 2);
@@ -180,7 +181,7 @@ export class Dock {
       const x = yearToPos(y) * w;
       ctx.strokeStyle = col; ctx.lineWidth = 2; ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, hh - 12); ctx.stroke();
       ctx.fillStyle = col; ctx.beginPath(); ctx.arc(x, 4, 4, 0, 7); ctx.fill();
-      if (label) { ctx.font = '700 10px system-ui'; ctx.textAlign = x > w - 20 ? 'right' : 'left'; ctx.fillText(label, x + (x > w - 20 ? -7 : 7), 12); }
+      if (label) { ctx.font = '700 12px system-ui'; ctx.textAlign = x > w - 20 ? 'right' : 'left'; ctx.fillText(label, x + (x > w - 20 ? -7 : 7), 12); }
     };
     head(state.t, '#ffffff', state.compare ? 'A' : '');
     if (state.compare) head(state.tB, '#ffd37a', 'B');

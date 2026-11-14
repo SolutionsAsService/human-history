@@ -28,16 +28,18 @@ export class GraphView {
   private fitted = false;
 
   constructor() {
-    const filters = h('div', { class: 'gfilters' },
-      h('div', { class: 'gf-title' }, 'Relations'),
+    const filters = h('details', { class: 'gfilters', open: innerWidth >= 720 },
+      h('summary', { class: 'gf-title' }, 'Relations and cautions'),
       ...(Object.entries(REL) as [Relation, typeof REL[Relation]][]).map(([k, v]) => {
         const cb = h('input', { type: 'checkbox', checked: true, on: { change: () => { cb.checked ? this.rels.add(k) : this.rels.delete(k); this.applyFilter(); } } }) as HTMLInputElement;
         return h('label', { class: 'gf' }, cb, h('span', { class: 'lgline', style: `--c:${v.color}; --d:${v.dash ? 'dashed' : 'solid'}` }), v.label);
       }),
       h('p', { class: 'gcaution' }, 'Correlation does not establish causation. Similarity does not establish contact. Chronological overlap does not establish interaction.'));
-    this.el = h('div', { class: 'graph-wrap' }, this.svgEl, filters, this.panel);
+    const hint = h('div', { class: 'graph-hint' }, 'Evidence graph · pinch to zoom · drag to pan · tap a node');
+    this.svgEl.addEventListener('pointerdown', () => hint.classList.add('gone'), { once: true });
+    this.el = h('div', { class: 'graph-wrap' }, this.svgEl, filters, this.panel, hint);
     this.svgEl.appendChild(this.gRoot);
-    subscribe(keys => { if (state.view === 'graph' && (keys.has('selected') || keys.has('view'))) this.style(); if (keys.has('view') && state.view === 'graph') this.build(); });
+    subscribe(keys => { if (state.view === 'graph' && (keys.has('selected') || keys.has('view'))) this.style(); if (keys.has('view') && state.view === 'graph') requestAnimationFrame(() => this.build()); });
   }
 
   build() {
@@ -77,7 +79,8 @@ export class GraphView {
       const s = d3.select(this);
       if (d.kind === 'event') s.append('rect').attr('x', -d.r * 0.8).attr('y', -d.r * 0.8).attr('width', d.r * 1.6).attr('height', d.r * 1.6).attr('transform', 'rotate(45)');
       else s.append('circle').attr('r', d.r);
-      s.select('circle,rect').attr('fill', d.color).attr('stroke', '#050b16').attr('stroke-width', 1.5);
+      s.select('circle:not(.hit),rect').attr('fill', d.color).attr('stroke', '#050b16').attr('stroke-width', 1.5);
+      s.insert('circle', ':first-child').attr('r', Math.max(d.r + 6, 22)).attr('fill', 'transparent').attr('class', 'hit');
       s.append('text').attr('x', d.r + 4).attr('y', 3.5).text(d.title.length > 34 ? d.title.slice(0, 33) + '…' : d.title).attr('class', 'nlabel');
       s.append('title').text(d.title);
     });
@@ -86,7 +89,7 @@ export class GraphView {
       .force('link', d3.forceLink<N, E>(this.edges).id(d => d.id).distance(d => 40 + 70 / (1 + (d.link.conf === 'high' ? 2 : d.link.conf === 'medium' ? 1 : 0))).strength(0.35))
       .force('charge', d3.forceManyBody().strength(-340).distanceMax(520))
       .force('collide', d3.forceCollide<N>().radius(d => d.r + 16))
-      .force('x', d3.forceX(width / 2).strength(0.07)).force('y', d3.forceY(height / 2).strength(0.09))
+      .force('x', d3.forceX(width / 2).strength(width < height ? 0.16 : 0.07)).force('y', d3.forceY(height / 2).strength(width < height ? 0.035 : 0.09))
       .on('tick', () => {
         this.edgeSel.attr('x1', d => (d.source as N).x!).attr('y1', d => (d.source as N).y!).attr('x2', d => (d.target as N).x!).attr('y2', d => (d.target as N).y!);
         this.nodeSel.attr('transform', d => `translate(${d.x},${d.y})`);
@@ -95,7 +98,8 @@ export class GraphView {
     this.zoom = d3.zoom<SVGSVGElement, unknown>().scaleExtent([0.2, 6]).on('zoom', ev => {
       d3.select(this.gRoot).attr('transform', ev.transform.toString());
       const prev = this.k; this.k = ev.transform.k;
-      if ((prev < 1.7) !== (this.k < 1.7)) this.style();
+      d3.select(this.gRoot).selectAll('.nlabel').attr('font-size', 12 / this.k);
+      if ((prev < 1.7) !== (this.k < 1.7) || (prev < 2.4) !== (this.k < 2.4)) this.style();
     });
     d3.select(this.svgEl).call(this.zoom as any);
     // seed on a ring so the first frames are not a pile
@@ -128,9 +132,9 @@ export class GraphView {
     const nb = new Set<string>();
     if (sel) for (const l of LINKS) if (this.rels.has(l.rel)) { if (l.a === sel) nb.add(l.b); if (l.b === sel) nb.add(l.a); }
     this.nodeSel.attr('opacity', d => (!sel || d.id === sel || nb.has(d.id) ? 1 : 0.18));
-    const zoomed = this.k >= 1.7;
+    const zoomed = this.k >= (innerWidth < 720 ? 2.4 : 1.7);
     this.nodeSel.select('.nlabel').attr('opacity', d => (sel ? (d.id === sel || nb.has(d.id) ? 1 : 0) : (zoomed || d.deg >= 5 ? 1 : 0))).attr('font-weight', d => (d.id === sel ? 700 : 500));
-    this.nodeSel.each(function (d) { d3.select(this).select('circle,rect').attr('stroke', d.id === sel ? '#ffffff' : '#050b16').attr('stroke-width', d.id === sel ? 3 : 1.5); });
+    this.nodeSel.each(function (d) { d3.select(this).select('circle:not(.hit),rect').attr('stroke', d.id === sel ? '#ffffff' : '#050b16').attr('stroke-width', d.id === sel ? 3 : 1.5); });
     this.edgeSel.attr('opacity', d => (!sel || (d.source as N).id === sel || (d.target as N).id === sel ? 1 : 0.06));
   }
 

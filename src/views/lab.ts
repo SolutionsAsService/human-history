@@ -10,15 +10,18 @@ export class LabView {
   readonly el = h('div', { class: 'lab' });
   private listEl = h('nav', { class: 'lab-list', 'aria-label': 'Questions' });
   private main = h('div', { class: 'lab-main' });
+  private sel!: HTMLSelectElement;
 
   constructor() {
-    this.el.append(this.listEl, this.main);
+    this.sel = h('select', { class: 'lab-sel', 'aria-label': 'Choose an open question', on: { change: () => set({ labPick: this.sel.value }) } }, QUESTIONS.map(q => h('option', { value: q.id }, q.question))) as HTMLSelectElement;
+    this.el.append(this.sel, this.listEl, this.main);
     subscribe(keys => { if (state.view === 'lab' && (keys.has('labPick') || keys.has('view'))) this.render(); });
     this.render();
   }
 
   render() {
     const pick = QUESTION_BY_ID[state.labPick ?? ''] ?? QUESTIONS[0];
+    this.sel.value = pick.id;
     this.listEl.replaceChildren(
       h('div', { class: 'lab-title' }, 'Open questions', h('em', null, String(QUESTIONS.length))),
       ...QUESTIONS.map(q => h('button', { class: 'lab-q' + (q.id === pick.id ? ' on' : ''), on: { click: () => set({ labPick: q.id }) } },
@@ -42,7 +45,7 @@ export class LabView {
   private axis(q: Question) {
     const cells = STATUS_ORDER.map(s => {
       const here = q.options.filter(o => o.status === s);
-      return h('div', { class: 'ax-cell' }, h('div', { class: 'ax-marks' }, here.map(o => h('span', { class: 'ax-mark', style: `--c:${STATUS[s].color}`, title: o.name }, o.name.length > 26 ? o.name.slice(0, 25) + '…' : o.name))), h('div', { class: 'ax-lab', style: `--c:${STATUS[s].color}` }, s), h('div', { class: 'ax-sub' }, STATUS[s].short));
+      return h('div', { class: 'ax-cell' }, h('div', { class: 'ax-marks' }, here.map(o => h('span', { class: 'ax-mark', style: `--c:${STATUS[s].color}`, title: o.name }, o.name))), h('div', { class: 'ax-lab', style: `--c:${STATUS[s].color}` }, s), h('div', { class: 'ax-sub' }, STATUS[s].short));
     });
     return h('div', { class: 'axis', role: 'img', 'aria-label': 'Where each explanation sits on the evidence scale' }, cells);
   }

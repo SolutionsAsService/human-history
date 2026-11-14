@@ -11,7 +11,9 @@
     "validate": "tsx scripts/validate-data.ts",
     "export": "tsx scripts/export-data.ts",
     "audit": "tsx scripts/audit.ts",
-    "check": "npm run validate && npm run audit"
+    "check": "npm run validate && npm run audit && npm run coverage",
+    "coverage": "tsx scripts/coverage-md.ts",
+    "floor": "node scripts/measure-mobile.cjs"
   },
   "devDependencies": {
     "@types/d3": "^7.4.3",

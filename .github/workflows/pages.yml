@@ -29,6 +29,8 @@ jobs:
         run: npm run validate
       - name: Cross-table evidence audit (fails on errors)
         run: npm run audit
+      - name: Coverage of the design documents (named subjects must have a record)
+        run: npm run coverage
       - name: Type-check and build
         run: npm run build
       - uses: actions/upload-pages-artifact@v3

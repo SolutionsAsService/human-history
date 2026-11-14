@@ -37,7 +37,7 @@ export class LedgerView {
       h('header', { class: 'lg-head' },
         h('div', null, h('h2', null, 'Evidence ledger'), h('p', { class: 'ctx' }, 'Built records and the research queue from design/ledger.md. Every record carries separate evidence and interpretation classifications, and records are added here before any narrative is built on them.')),
         h('div', { class: 'stats' }, stat(built, 'records built'), stat(queued, 'queued'), stat(d.full, 'fully filled'), stat(d.partial, 'partial'), stat(d.stub, 'stubs'), stat(LINKS.length, 'graph links'), stat(EVENTS.length, 'events'), stat(MIGRATIONS.length, 'routes'), stat(QUESTIONS.length, 'questions'), stat(SOURCES.length, 'sources')),
-        h('div', null, h('div', { class: 'bars-t' }, 'Records by evidence status'), dist)),
+        h('details', { class: 'bars-d', open: innerWidth >= 720 }, h('summary', { class: 'bars-t' }, 'Records by evidence status'), dist)),
       h('div', { class: 'lg-tools' }, search,
         sel('pri', [['P1', 'P1'], ['P2', 'P2'], ['P3', 'P3']], 'Priority'),
         sel('cat', Object.entries(CATS).map(([k, v]) => [k, v.label] as [string, string]), 'Category'),
@@ -65,14 +65,14 @@ export class LedgerView {
     this.count.textContent = `${rows.length} shown`;
     this.tbody.replaceChildren(...rows.map(r => h('tr', { class: r.kind, tabindex: r.kind === 'built' ? 0 : -1, on: r.kind === 'built' ? { click: () => set({ view: 'map', selected: { kind: 'entry', id: r.id! } }), keydown: (e: KeyboardEvent) => { if (e.key === 'Enter') set({ view: 'map', selected: { kind: 'entry', id: r.id! } }); } } : {} },
       h('td', { class: 'ttl' }, r.title, r.kind === 'queued' ? h('div', { class: 'qn' }, `Queued · ledger §${r.section}${r.note ? ' — ' + r.note : ''}`) : null),
-      h('td', null, (CATS as any)[r.cat] ? h('span', { class: 'dot', style: `background:${(CATS as any)[r.cat].color}` }) : h('span', { class: 'dot', style: 'background:#ff9d4d' }), (CATS as any)[r.cat]?.label ?? r.cat),
-      h('td', null, r.pri),
-      h('td', null, r.ev ? badge(r.ev, r.ev) : '—'),
-      h('td', null, r.interp ? badge(r.interp, r.interp) : '—'),
-      h('td', { class: 'dim' }, r.when ?? '—'),
-      h('td', null, r.depth ? h('span', { class: 'tag d-' + r.depth }, r.depth) : '—'),
-      h('td', null, r.pct != null ? `${r.pct}%` : '—'),
-      h('td', null, r.gap == null ? '—' : r.gap >= 1 ? h('span', { class: 'tag warn', title: 'Declared status is stronger than the independent sourcing supports' }, `thin ×${r.gap}`) : h('span', { class: 'tag' }, 'ok')))));
+      h('td', { 'data-l': 'Category' }, (CATS as any)[r.cat] ? h('span', { class: 'dot', style: `background:${(CATS as any)[r.cat].color}` }) : h('span', { class: 'dot', style: 'background:#ff9d4d' }), (CATS as any)[r.cat]?.label ?? r.cat),
+      h('td', { 'data-l': 'Priority' }, r.pri),
+      h('td', { 'data-l': 'Evidence' }, r.ev ? badge(r.ev, r.ev) : '—'),
+      h('td', { 'data-l': 'Interpretation' }, r.interp ? badge(r.interp, r.interp) : '—'),
+      h('td', { class: 'dim', 'data-l': 'Date' }, r.when ?? '—'),
+      h('td', { 'data-l': 'Depth' }, r.depth ? h('span', { class: 'tag d-' + r.depth }, r.depth) : '—'),
+      h('td', { 'data-l': 'Workflow' }, r.pct != null ? `${r.pct}%` : '—'),
+      h('td', { 'data-l': 'Sourcing' }, r.gap == null ? '—' : r.gap >= 1 ? h('span', { class: 'tag warn', title: 'Declared status is stronger than the independent sourcing supports' }, `thin ×${r.gap}`) : h('span', { class: 'tag' }, 'ok')))));
     void (null as unknown as Cat);
   }
 }
