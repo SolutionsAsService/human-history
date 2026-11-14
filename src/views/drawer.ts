@@ -6,6 +6,8 @@ import { fmtRange, fmtYear, NOW } from '../lib/time';
 import { set, state, subscribe } from '../lib/store';
 import { badge, confDots, copy, dualBadges, list, section, sourceCard, yaml } from './ui';
 import { GROUP_LABELS } from './map';
+import { contextOf, findingsFor, linesOf, phasesOf, PHASES, triangulate, RULES } from '../lib/audit';
+import { buildReport, downloadText } from '../lib/report';
 
 /** Right-hand evidence explorer panel. */
 export class Drawer {
@@ -70,16 +72,61 @@ export class Drawer {
     add(section('For and against', fa.children.length ? fa : null));
     add(section('Unresolved questions', list(e.unresolved)));
     add(section('What would prove or disprove it', list(e.predictions)));
+    add(section('Site record', this.siteRecord(e), true));
+    add(section('Research workflow and audit', this.auditPanel(e), false));
+    add(section('Context (derived)', this.context(e), false));
     add(section('Connections', links.length ? this.connections(links) : null, true, links.length));
     add(section('Sources', e.sources.length ? h('ul', { class: 'srcs' }, e.sources.map(sourceCard)) : h('p', { class: 'dim' }, 'No sources recorded.'), true, e.sources.length));
     const related = QUESTIONS.filter(q => q.options.some(o => o.entries?.includes(e.id)));
     if (related.length) add(section('Hypothesis laboratory', h('div', null, related.map(q => h('a', { class: 'xref block', href: `#/lab?q=${q.id}`, on: { click: (ev: Event) => { ev.preventDefault(); set({ view: 'lab', labPick: q.id }); } } }, '⚗ ', q.question)))));
     const tools = h('footer', { class: 'tools' },
       h('button', { class: 'btn', on: { click: (ev: Event) => copy(yaml(e), ev.currentTarget as HTMLElement, 'YAML copied') } }, 'Copy ledger YAML'),
+      h('button', { class: 'btn', title: 'Research report in the ledger §19 structure', on: { click: () => downloadText(`${e.id}.md`, buildReport(e)) } }, 'Export report (.md)'),
       h('button', { class: 'btn', on: { click: (ev: Event) => copy(location.href, ev.currentTarget as HTMLElement, 'Link copied') } }, 'Copy link'),
       h('span', { class: 'dim' }, `reviewed ${e.reviewed}`));
     add(tools);
     return frag;
+  }
+
+  private siteRecord(e: Entry): Node | null {
+    const m = e.megalith;
+    const rows: [string, string | undefined][] = [
+      ['Culture', e.culture], ['Discovery & excavation', e.discovered], ['Proposed purpose', e.purpose], ['Current consensus', e.consensus], ['Environmental context', e.environment],
+      ['Geology', m?.geology], ['Quarry', m?.quarry], ['Transport', m?.transport], ['Estimated weight', m?.weightT], ['Chronology', m?.chronology], ['Tool marks', m?.toolMarks], ['Precision', m?.precision], ['Labour', m?.labor], ['Building phases', m?.phases],
+    ];
+    const present = rows.filter(([, v]) => v);
+    if (!present.length && !e.artifacts?.length && !e.construction?.length && !m?.methods?.length) return null;
+    return h('div', null,
+      h('dl', { class: 'kv' }, present.flatMap(([k, v]) => [h('dt', null, k), h('dd', null, v!)])),
+      e.artifacts?.length ? h('div', null, h('h4', null, 'Associated artifacts'), list(e.artifacts)) : null,
+      e.construction?.length ? h('div', null, h('h4', null, 'Construction techniques'), list(e.construction)) : null,
+      m?.methods?.length ? h('div', null, h('h4', null, 'Competing construction models'), list(m.methods)) : null);
+  }
+
+  private auditPanel(e: Entry): Node {
+    const t = triangulate(e), ph = phasesOf(e), fs = findingsFor(e.id);
+    const over = t.gap >= 1;
+    return h('div', null,
+      h('div', { class: 'tri' },
+        h('div', { class: 'tri-n' }, t.score.toFixed(1)),
+        h('div', null, h('div', null, `Source triangulation: supports about `, badge(t.band), ` · declared `, badge(t.declared)),
+          h('div', { class: over ? 'warnline' : 'dim small' }, over ? `Declared status is ${t.gap} step${t.gap > 1 ? 's' : ''} stronger than the independent sourcing justifies.` : 'Declared status is within what the sourcing supports.'),
+          h('div', { class: 'dim small' }, `${t.groups} source discipline${t.groups === 1 ? '' : 's'} · lines: ${linesOf(e).join(', ') || 'none'}`))),
+      h('h4', null, `Research workflow (§14) · ${ph.pct}%`),
+      h('div', { class: 'bar-h' }, h('i', { style: `width:${ph.pct}%` })),
+      h('ol', { class: 'phases' }, PHASES.map((n, i) => h('li', { class: ph.done[i] ? 'ok' : '' }, n))),
+      h('h4', null, `Audit findings (${fs.length})`),
+      fs.length ? h('ul', { class: 'finds' }, fs.slice(0, 8).map(f => h('li', { class: f.sev }, h('b', null, RULES[f.rule]?.title ?? f.rule), h('div', null, f.msg), f.fix ? h('div', { class: 'dim small' }, 'Fix: ' + f.fix) : null))) : h('p', { class: 'dim small' }, 'No open findings.'));
+  }
+
+  private context(e: Entry): Node | null {
+    const c = contextOf(e);
+    const chip = (id: string, label: string, extra = '') => h('a', { class: 'chip', href: `#/map?e=${id}`, on: { click: (ev: Event) => { ev.preventDefault(); set({ selected: { kind: ENTRY_BY_ID[id] ? 'entry' : 'event', id } }); } } }, label, extra ? h('em', { class: 'dim' }, ' ' + extra) : null);
+    return h('div', null,
+      c.seaM != null ? h('p', { class: 'dim small' }, `Global sea level at the start of the range ≈ ${c.seaM} m (schematic).`) : null,
+      c.contemporaries.length ? h('div', null, h('h4', null, 'Contemporary records nearby'), h('div', { class: 'chips' }, c.contemporaries.map(x => chip(x.id, ENTRY_BY_ID[x.id].title, `${x.km} km`)))) : h('p', { class: 'dim small' }, 'No contemporary records in range yet: a gap in the ledger or in the evidence.'),
+      c.events.length ? h('div', null, h('h4', null, 'Environmental events in this window'), h('div', { class: 'chips' }, c.events.map(id => chip(id, EVENT_BY_ID[id].title)))) : null,
+      c.routes.length ? h('div', null, h('h4', null, 'Migration models passing nearby'), h('div', { class: 'chips' }, c.routes.map(id => h('a', { class: 'chip', href: '#', on: { click: (ev: Event) => { ev.preventDefault(); set({ selected: { kind: 'migration', id } }); } } }, MIGRATIONS.find(m => m.id === id)?.title ?? id)))) : null);
   }
 
   private connections(links: ReturnType<typeof linksOf>) {

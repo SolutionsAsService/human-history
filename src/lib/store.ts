@@ -2,7 +2,7 @@ import type { Cat, Status } from '../types';
 import { CATS } from './classification';
 import { yearToPos, posToYear, NOW } from './time';
 
-export type View = 'map' | 'graph' | 'lab' | 'ledger' | 'about';
+export type View = 'map' | 'graph' | 'lab' | 'ledger' | 'audit' | 'about';
 export type Selection = { kind: 'entry' | 'event' | 'migration'; id: string } | null;
 export type ColorBy = 'category' | 'evidence' | 'interpretation';
 
@@ -89,7 +89,7 @@ export function readHash() {
   const m = location.hash.replace(/^#\/?/, '');
   const [view, qs] = m.split('?');
   const patch: Partial<State> = {};
-  if (['map', 'graph', 'lab', 'ledger', 'about'].includes(view)) patch.view = view as View;
+  if (['map', 'graph', 'lab', 'ledger', 'audit', 'about'].includes(view)) patch.view = view as View;
   const p = new URLSearchParams(qs ?? '');
   const e = p.get('e'); patch.selected = e ? { kind: (p.get('k') as any) || 'entry', id: e } : null;
   const t = p.get('t'); if (t && !Number.isNaN(Number(t))) patch.t = Number(t);

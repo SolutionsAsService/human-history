@@ -21,6 +21,8 @@ export class AboutView {
       h('h2', null, 'Two classifications, always separate'),
       p('Every record has the reliability of the underlying evidence and the reliability of the proposed interpretation. Göbekli Tepe is an established site (E1) while the claim that it is the work of a lost advanced civilization is unsupported (E7). The ledger scale:'),
       h('div', { class: 'scale' }, STATUS_ORDER.map(s => h('div', null, badge(s), h('span', null, STATUS[s].desc)))),
+      h('h2', null, 'The audit: tables that check each other'),
+      h('p', null, 'The Audit tab runs algorithms over the whole dataset. Declared evidence statuses are compared with the independent sources and lines of evidence behind them (a triangulation score). Relations in the graph are tested against dates, geography and each other (a record cannot “predate” something earlier than itself, “correlate” across 20,000 years, or “independently corroborate” with the same two sources). Hypotheses are checked against their own evidence lists and the records they cite. Migration routes must be anchored by records, and dates along a route must run in its direction. Coordinates are tested against land polygons. Coverage is mapped by region and era. Each record also shows its progress through the ten research-workflow phases. These are prompts for review, not verdicts.'),
       h('h2', null, 'Standing rules'),
       h('ul', null,
         h('li', null, 'No record is excluded for being controversial, and none is promoted for being interesting. Unconventional sources are treated as sources of hypotheses and leads, never as independent verification.'),

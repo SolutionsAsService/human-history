@@ -27,6 +27,8 @@ jobs:
       - run: npm ci
       - name: Validate evidence data (sources required for E1/E2, referential integrity)
         run: npm run validate
+      - name: Cross-table evidence audit (fails on errors)
+        run: npm run audit
       - name: Type-check and build
         run: npm run build
       - uses: actions/upload-pages-artifact@v3

@@ -13,12 +13,13 @@ and it is designed around one rule: **nothing is allowed to quietly turn into a 
 | **Evidence graph** | Force graph of records and events. Every edge has a relation type (supports, contradicts, correlates with, predates, derived from, shares characteristics with, potentially influenced, …), a confidence, a note and sources, with the standing cautions repeated. |
 | **Hypothesis lab** | Open questions with competing explanations side by side: evidence for and against, assumptions, testable predictions, weaknesses, what would falsify each, and how confidence has changed. No option is chosen for you. |
 | **Ledger** | Built records and the research queue, with depth (stub / partial / full), filters, and JSON and CSV export. |
+| **Audit** | Cross-table checks: status vs sourcing (triangulation score), relation vs dates/geography, hypothesis vs its evidence and cited records, route anchoring and direction, sea-coordinate typos, coverage heat map by region and era, per-record research-workflow completeness. `npm run audit` runs the same checks in CI. |
 | **Method** | The classification scale, standing rules and the data-honesty notice. |
 
 Selecting a record opens the **evidence explorer**: two separate classifications (evidence and interpretation, E1 to E8),
 measured, estimated or claimed dates with competing chronologies, mainstream and alternative readings, what
 supports and contradicts each, unresolved questions, what would prove or disprove it, connections and sources.
-“Copy ledger YAML” exports a record in the ledger template.
+“Copy ledger YAML” exports a record in the ledger template, and “Export report (.md)” writes the 16-section research report from the ledger (§19).
 
 ## Data honesty
 
@@ -37,6 +38,8 @@ npm run dev          # http://localhost:5173
 npm run validate     # data integrity + the evidence rules (also runs in CI)
 npm run build        # type-check and production build to dist/
 ```
+
+`npm run audit` runs the cross-table checks (exit 1 on errors, `--strict` also on warnings, `--all` lists notes).
 
 `npm run validate` enforces, among other things, that **a record classified E1 or E2 names its sources**, that every
 link, source and hypothesis reference resolves, and that every question has at least two competing options.

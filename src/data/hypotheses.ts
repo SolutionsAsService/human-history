@@ -569,7 +569,7 @@ export const QUESTIONS: Question[] = [
     context: 'A 2023 paper claiming a ~27,000-year-old buried pyramid was retracted in 2024.',
     history: [{ date: '2023', note: 'Paper claims an Ice Age structure.' }, { date: '2024-03', note: 'Paper retracted by the publisher.' }],
     options: [
-      o('h-gp-natural', 'A natural volcanic hill with later megalithic terraces', 'E2', 'The core is volcanic lava; only the surface terraces are human-built, and probably far later.', {
+      o('h-gp-natural', 'A natural volcanic hill with later megalithic terraces', 'E3', 'The core is volcanic lava; only the surface terraces are human-built, and probably far later.', {
         supports: ['Geology of the hill', 'Reported retraction reasons'],
         contradicts: [],
         assumptions: [],

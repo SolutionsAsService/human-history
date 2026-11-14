@@ -2,6 +2,7 @@ import type { Entry, Source, Status, Confidence } from '../types';
 import { h } from '../lib/dom';
 import { STATUS } from '../lib/classification';
 import { SOURCE_BY_ID } from '../data';
+import { parseCite } from '../lib/audit';
 import { set } from '../lib/store';
 
 export function badge(code: Status, label?: string) {
@@ -22,15 +23,20 @@ const KIND_LABEL: Record<Source['kind'], string> = { primary: 'primary', seconda
 export function sourceCard(id: string) {
   const s = SOURCE_BY_ID[id];
   if (!s) return h('li', { class: 'src bad' }, `Unknown source “${id}”`);
+  const p = parseCite(s);
+  const extra = (k: string, v?: string) => (v ? h('div', { class: 'src-f' }, h('b', null, k), ' ', v) : null);
   return h('li', { class: 'src' },
     h('div', { class: 'src-cite' }, s.cite),
+    h('div', { class: 'src-parsed' }, [p.authors && `Author(s): ${p.authors}`, p.year && `Year: ${p.year}`, p.venue && `Venue: ${p.venue}`].filter(Boolean).join(' · ')),
     h('div', { class: 'src-meta' },
       h('span', { class: `tag k-${s.kind}` }, KIND_LABEL[s.kind]),
       h('span', { class: 'tag' }, s.discipline),
       h('span', { class: `tag rel-${s.reliability}` }, `reliability: ${s.reliability}`),
       s.placeholder ? h('span', { class: 'tag warn', title: 'This record does not yet identify a specific publication.' }, 'citation to locate') : h('span', { class: 'tag dim', title: 'Recalled during the first build and not yet checked against the original.' }, 'unverified'),
     ),
-    s.note ? h('div', { class: 'src-note' }, s.note) : null);
+    extra('Methodology', s.methodology), extra('Evidence presented', s.evidence),
+    s.note ? h('div', { class: 'src-note' }, h('b', null, 'Limitations '), s.note) : null,
+    extra('Conflicts of interest', s.conflicts));
 }
 
 export function list(items?: string[], cls = '') {

@@ -52,6 +52,21 @@ export interface Entry {
   predictions?: string[];
   sources: string[];
   reviewed: string;
+
+  // --- Site / structure fields (master prompt §3.3 and §3.4). All optional; fill what is actually documented.
+  culture?: string;                 // archaeological culture or civilization
+  discovered?: string;              // discovery date and excavation history
+  artifacts?: string[];             // associated artifacts
+  construction?: string[];          // construction techniques
+  purpose?: string;                 // proposed purpose
+  consensus?: string;               // current archaeological consensus, if one exists
+  environment?: string;             // environmental context at the time (§10)
+  megalith?: {                      // §3.4 engineering record
+    geology?: string; quarry?: string; transport?: string; weightT?: string; chronology?: string;
+    toolMarks?: string; precision?: string; labor?: string; methods?: string[]; phases?: string;
+  };
+  /** Methodological lines of evidence independent of each other (e.g. radiocarbon, stratigraphy, textual). */
+  lines?: string[];
 }
 
 export interface Source {
@@ -63,6 +78,13 @@ export interface Source {
   reliability: 'high' | 'medium' | 'mixed' | 'low' | 'unassessed';
   /** True when the exact bibliographic details are a placeholder that still needs locating. */
   placeholder?: boolean;
+  // --- Source record fields (master prompt §13). `authors`, `year` and `venue` are parsed from `cite` when absent.
+  authors?: string;
+  year?: number;
+  venue?: string;
+  methodology?: string;
+  evidence?: string;           // what evidence the source presents
+  conflicts?: string;          // conflicts of interest / positionality
 }
 
 export type Relation =

@@ -9,6 +9,7 @@ import { GraphView } from './views/graph';
 import { LabView } from './views/lab';
 import { LedgerView } from './views/ledger';
 import { AboutView } from './views/about';
+import { AuditView } from './views/audit';
 import { Palette } from './views/search';
 import { ENTRIES } from './data';
 
@@ -17,6 +18,7 @@ const TABS: [View, string, string][] = [
   ['graph', 'Evidence graph', 'Connections across disciplines'],
   ['lab', 'Hypothesis lab', 'Competing explanations side by side'],
   ['ledger', 'Ledger', 'Built records and the research queue'],
+  ['audit', 'Audit', 'The evidence tables checking each other'],
   ['about', 'Method', 'How to read this and how it stays honest'],
 ];
 
@@ -29,6 +31,7 @@ const graph = new GraphView();
 const lab = new LabView();
 const ledger = new LedgerView();
 const about = new AboutView();
+const audit = new AuditView();
 const palette = new Palette();
 
 const tabs = h('nav', { class: 'tabs', role: 'tablist' }, TABS.map(([v, label, tip]) =>
@@ -52,13 +55,14 @@ const vGraph = h('section', { class: 'view v-graph' }, graph.el);
 const vLab = h('section', { class: 'view v-lab' }, lab.el);
 const vLedger = h('section', { class: 'view v-ledger' }, ledger.el);
 const vAbout = h('section', { class: 'view v-about' }, about.el);
+const vAudit = h('section', { class: 'view v-audit' }, audit.el);
 
 const header = h('header', { class: 'top' },
   h('a', { class: 'brand', href: '#/map', title: 'Human History' }, h('span', { class: 'logo' }), h('b', null, 'HUMAN HISTORY'), h('span', { class: 'tag-line' }, 'follow the evidence')),
   tabs, h('span', { class: 'grow' }),
   h('button', { class: 'btn search', on: { click: () => palette.open() } }, 'Search', h('kbd', null, '/')));
 
-const stage = h('main', { class: 'stage' }, vMap, vGraph, vLab, vLedger, vAbout, drawer.el);
+const stage = h('main', { class: 'stage' }, vMap, vGraph, vLab, vLedger, vAudit, vAbout, drawer.el);
 app.append(header, stage, palette.el);
 
 function sync() {
@@ -67,7 +71,7 @@ function sync() {
   tabs.querySelectorAll<HTMLElement>('.tab').forEach(b => { const on = b.dataset.v === state.view; b.classList.toggle('on', on); b.setAttribute('aria-selected', String(on)); });
   projToggle.querySelectorAll<HTMLElement>('.seg').forEach(b => b.classList.toggle('on', b.dataset.p === state.projection));
   vMap.classList.toggle('panel-open', state.panelOpen);
-  drawer.el.classList.toggle('hidden', state.view === 'lab' || state.view === 'about' || state.view === 'ledger');
+  drawer.el.classList.toggle('hidden', state.view === 'lab' || state.view === 'about' || state.view === 'ledger' || state.view === 'audit');
 }
 
 subscribe(keys => {
@@ -98,4 +102,4 @@ readHash();
 sync();
 dock.update();
 layers.render();
-void vGraph; void vLab; void vLedger; void vAbout;
+void vGraph; void vLab; void vLedger; void vAbout; void vAudit;

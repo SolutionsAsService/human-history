@@ -5,8 +5,9 @@ import { set } from '../lib/store';
 import { fmtRange } from '../lib/time';
 import type { Cat, Priority, Status } from '../types';
 import { badge } from './ui';
+import { getAudit } from '../lib/audit';
 
-type Row = { kind: 'built' | 'queued'; id?: string; title: string; cat: string; pri: Priority; ev?: Status; interp?: Status; when?: string; depth?: string; section?: string; note?: string };
+type Row = { kind: 'built' | 'queued'; id?: string; title: string; cat: string; pri: Priority; ev?: Status; interp?: Status; when?: string; depth?: string; pct?: number; gap?: number; section?: string; note?: string };
 
 /** The ledger as a working document: what has been built, what is queued, and how deep each record goes. */
 export class LedgerView {
@@ -45,12 +46,12 @@ export class LedgerView {
         h('span', { class: 'grow' }),
         h('button', { class: 'btn', on: { click: () => download('human-history-ledger.json', JSON.stringify({ entries: ENTRIES, events: EVENTS, migrations: MIGRATIONS, links: LINKS, questions: QUESTIONS, sources: SOURCES, queue: QUEUE }, null, 2), 'application/json') } }, 'Export JSON'),
         h('button', { class: 'btn', on: { click: () => download('human-history-ledger.csv', csv(), 'text/csv') } }, 'Export CSV')),
-      h('div', { class: 'tablewrap' }, h('table', null, h('thead', null, h('tr', null, ['Record', 'Category', 'Pri', 'Evidence', 'Interpretation', 'Date', 'Depth'].map(t => h('th', null, t)))), this.tbody)));
+      h('div', { class: 'tablewrap' }, h('table', null, h('thead', null, h('tr', null, ['Record', 'Category', 'Pri', 'Evidence', 'Interpretation', 'Date', 'Depth', 'Workflow', 'Sourcing'].map(t => h('th', null, t)))), this.tbody)));
     this.draw();
   }
 
   private rows(): Row[] {
-    const a: Row[] = ENTRIES.map(e => ({ kind: 'built', id: e.id, title: e.title, cat: e.cat, pri: e.priority, ev: e.ev, interp: e.interp, when: fmtRange(e.start, e.end), depth: depth(e) }));
+    const a: Row[] = ENTRIES.map(e => ({ kind: 'built', id: e.id, title: e.title, cat: e.cat, pri: e.priority, ev: e.ev, interp: e.interp, when: fmtRange(e.start, e.end), depth: depth(e), pct: getAudit().phases[e.id].pct, gap: getAudit().triang[e.id].gap }));
     const b: Row[] = QUEUE.map(q => ({ kind: 'queued', title: q.title, cat: q.cat, pri: q.priority, section: q.section, note: q.note }));
     return [...a, ...b];
   }
@@ -67,7 +68,9 @@ export class LedgerView {
       h('td', null, r.ev ? badge(r.ev, r.ev) : '—'),
       h('td', null, r.interp ? badge(r.interp, r.interp) : '—'),
       h('td', { class: 'dim' }, r.when ?? '—'),
-      h('td', null, r.depth ? h('span', { class: 'tag d-' + r.depth }, r.depth) : '—'))));
+      h('td', null, r.depth ? h('span', { class: 'tag d-' + r.depth }, r.depth) : '—'),
+      h('td', null, r.pct != null ? `${r.pct}%` : '—'),
+      h('td', null, r.gap == null ? '—' : r.gap >= 1 ? h('span', { class: 'tag warn', title: 'Declared status is stronger than the independent sourcing supports' }, `thin ×${r.gap}`) : h('span', { class: 'tag' }, 'ok')))));
     void (null as unknown as Cat);
   }
 }
