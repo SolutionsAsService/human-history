@@ -12,11 +12,12 @@ import { QUEUE } from './queue';
 import * as XA from './extra/a';
 import * as XB from './extra/b';
 import * as XC from './extra/c';
+import { SOURCES_D, LINKS_D } from './extra/d';
 
 export const ENTRIES: Entry[] = [...ORIGINS, ...SITES, ...MEMORY, ...FRONTIER, ...XA.ENTRIES_A, ...XB.ENTRIES_B, ...XC.ENTRIES_C];
-export const SOURCES: Source[] = [...SOURCES_0, ...XA.SOURCES_A, ...XB.SOURCES_B, ...XC.SOURCES_C];
+export const SOURCES: Source[] = [...SOURCES_0, ...XA.SOURCES_A, ...XB.SOURCES_B, ...XC.SOURCES_C, ...SOURCES_D];
 export const SOURCE_BY_ID: Record<string, Source> = Object.fromEntries(SOURCES.map(x => [x.id, x]));
-export const LINKS: Link[] = [...LINKS_0, ...XA.LINKS_A, ...XB.LINKS_B, ...XC.LINKS_C];
+export const LINKS: Link[] = [...LINKS_0, ...XA.LINKS_A, ...XB.LINKS_B, ...XC.LINKS_C, ...LINKS_D];
 export const EVENTS = [...EVENTS_0, ...XA.EVENTS_A, ...XB.EVENTS_B, ...XC.EVENTS_C];
 export const MIGRATIONS = [...MIGRATIONS_0, ...XA.MIGRATIONS_A, ...XB.MIGRATIONS_B, ...XC.MIGRATIONS_C];
 export const QUESTIONS = [...QUESTIONS_0, ...XA.QUESTIONS_A, ...XB.QUESTIONS_B, ...XC.QUESTIONS_C];

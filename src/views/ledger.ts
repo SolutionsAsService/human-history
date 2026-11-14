@@ -6,6 +6,7 @@ import { fmtRange } from '../lib/time';
 import type { Cat, Priority, Status } from '../types';
 import { badge } from './ui';
 import { getAudit } from '../lib/audit';
+import { buildReport, downloadText } from '../lib/report';
 
 type Row = { kind: 'built' | 'queued'; id?: string; title: string; cat: string; pri: Priority; ev?: Status; interp?: Status; when?: string; depth?: string; pct?: number; gap?: number; section?: string; note?: string };
 
@@ -45,7 +46,8 @@ export class LedgerView {
         this.count,
         h('span', { class: 'grow' }),
         h('button', { class: 'btn', on: { click: () => download('human-history-ledger.json', JSON.stringify({ entries: ENTRIES, events: EVENTS, migrations: MIGRATIONS, links: LINKS, questions: QUESTIONS, sources: SOURCES, queue: QUEUE }, null, 2), 'application/json') } }, 'Export JSON'),
-        h('button', { class: 'btn', on: { click: () => download('human-history-ledger.csv', csv(), 'text/csv') } }, 'Export CSV')),
+        h('button', { class: 'btn', on: { click: () => download('human-history-ledger.csv', csv(), 'text/csv') } }, 'Export CSV'),
+        h('button', { class: 'btn', title: 'One research report per record, in the ledger §19 structure', on: { click: () => downloadText('human-history-reports.md', ENTRIES.map(buildReport).join('\n\n---\n\n')) } }, 'Export all reports (.md)')),
       h('div', { class: 'tablewrap' }, h('table', null, h('thead', null, h('tr', null, ['Record', 'Category', 'Pri', 'Evidence', 'Interpretation', 'Date', 'Depth', 'Workflow', 'Sourcing'].map(t => h('th', null, t)))), this.tbody)));
     this.draw();
   }
