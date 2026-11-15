@@ -1,0 +1,852 @@
+{
+ "meta": {
+  "version": "0.1.0",
+  "generated": "2026-11-15",
+  "nodes": 354,
+  "entries": 321,
+  "links": 521,
+  "seeds": 5,
+  "fast": false,
+  "seconds": 214,
+  "warning": "Model-generated leads for a human reviewer. Not evidence. Nothing here has been checked against a source. Statuses are the authors' own judgements."
+ },
+ "task1_links": {
+  "runs": 5,
+  "ranking": {
+   "model": {
+    "mrr": {
+     "mean": 0.4153218905921687,
+     "std": 0.05328558094457268
+    },
+    "hits@1": {
+     "mean": 0.2805152394775036,
+     "std": 0.06371375269862015
+    },
+    "hits@3": {
+     "mean": 0.4711901306240929,
+     "std": 0.03576577735744383
+    },
+    "hits@10": {
+     "mean": 0.6923802612481859,
+     "std": 0.07240025750816584
+    },
+    "auroc": {
+     "mean": 0.9453108259904239,
+     "std": 0.017200424547900835
+    },
+    "ap": {
+     "mean": 0.6599759956513631,
+     "std": 0.04243255423581853
+    }
+   },
+   "pair-feature logistic regression": {
+    "mrr": {
+     "mean": 0.4137892693811581,
+     "std": 0.05700200216635532
+    },
+    "hits@1": {
+     "mean": 0.28784470246734395,
+     "std": 0.0620103188869982
+    },
+    "hits@3": {
+     "mean": 0.4596879535558781,
+     "std": 0.04756469189322455
+    },
+    "hits@10": {
+     "mean": 0.6923802612481857,
+     "std": 0.07230226764145385
+    },
+    "auroc": {
+     "mean": 0.9325491578211202,
+     "std": 0.025562593698159563
+    },
+    "ap": {
+     "mean": 0.6402358853862743,
+     "std": 0.040949022037370525
+    }
+   },
+   "text cosine": {
+    "mrr": {
+     "mean": 0.39530087964302824,
+     "std": 0.04128839539620466
+    },
+    "hits@1": {
+     "mean": 0.2745645863570392,
+     "std": 0.04782791444604558
+    },
+    "hits@3": {
+     "mean": 0.4330914368650218,
+     "std": 0.044919734529175206
+    },
+    "hits@10": {
+     "mean": 0.6465529753265602,
+     "std": 0.06445090246157668
+    },
+    "auroc": {
+     "mean": 0.9135900600036653,
+     "std": 0.02838437572088561
+    },
+    "ap": {
+     "mean": 0.6163122806620569,
+     "std": 0.0442675189822857
+    }
+   },
+   "adamic-adar (train graph)": {
+    "mrr": {
+     "mean": 0.15328256304659676,
+     "std": 0.034161953618855094
+    },
+    "hits@1": {
+     "mean": 0.061284470246734404,
+     "std": 0.04255882219590421
+    },
+    "hits@3": {
+     "mean": 0.18896952104499273,
+     "std": 0.035063379124245266
+    },
+    "hits@10": {
+     "mean": 0.297677793904209,
+     "std": 0.04156613729345432
+    },
+    "auroc": {
+     "mean": 0.6529755799985676,
+     "std": 0.0242209312446736
+    },
+    "ap": {
+     "mean": 0.25292646068279623,
+     "std": 0.04381136424213484
+    }
+   },
+   "random": {
+    "mrr": {
+     "mean": 0.019530410195371887,
+     "std": 0.003548463191423162
+    },
+    "hits@1": {
+     "mean": 0.0038461538461538464,
+     "std": 0.0047105571976599585
+    },
+    "hits@3": {
+     "mean": 0.01146589259796807,
+     "std": 0.0038832859918580304
+    },
+    "hits@10": {
+     "mean": 0.02677793904208999,
+     "std": 0.011313891149992667
+    },
+    "auroc": {
+     "mean": 0.4721956304334546,
+     "std": 0.08075540233121868
+    },
+    "ap": {
+     "mean": 0.04771738235800873,
+     "std": 0.010133704703455492
+    }
+   }
+  },
+  "relation": {
+   "model": {
+    "accuracy": {
+     "mean": 0.42721335268505084,
+     "std": 0.031663351434240664
+    },
+    "macro_f1": {
+     "mean": 0.33809957637691773,
+     "std": 0.04658945690994255
+    }
+   },
+   "pair+signed-feature logistic regression": {
+    "accuracy": {
+     "mean": 0.37431059506531206,
+     "std": 0.03387236436176938
+    },
+    "macro_f1": {
+     "mean": 0.26495528561787424,
+     "std": 0.027423423126118854
+    }
+   },
+   "majority class": {
+    "accuracy": {
+     "mean": 0.19862119013062413,
+     "std": 0.02082817088990323
+    },
+    "macro_f1": {
+     "mean": 0.03386741195880981,
+     "std": 0.003687873292252702
+    }
+   }
+  },
+  "best_epochs": [
+   300,
+   290,
+   180,
+   230,
+   160
+  ],
+  "n_test": 52,
+  "grid_size": 4,
+  "chosen_graph_share": 0.0,
+  "chosen": [
+   {
+    "graph": false,
+    "hid": 64
+   },
+   {
+    "graph": false,
+    "hid": 32
+   },
+   {
+    "graph": false,
+    "hid": 64
+   },
+   {
+    "graph": false,
+    "hid": 64
+   },
+   {
+    "graph": false,
+    "hid": 32
+   }
+  ]
+ },
+ "task2_status": {
+  "ev": {
+   "config": {
+    "hid": 64,
+    "dropout": 0.3,
+    "wd": 0.002,
+    "epochs": 220
+   },
+   "metrics": {
+    "model": {
+     "mae_steps": 0.3146417445482866,
+     "exact": 0.7538940809968847,
+     "within1": 0.9470404984423676,
+     "qwk": 0.7555096926365445,
+     "ece": 0.09002419490742408
+    },
+    "majority class": {
+     "mae_steps": 0.514018691588785,
+     "exact": 0.7476635514018691,
+     "within1": 0.8753894080996885,
+     "qwk": 0.0
+    },
+    "category median": {
+     "mae_steps": 0.43613707165109034,
+     "exact": 0.735202492211838,
+     "within1": 0.9065420560747663,
+     "qwk": 0.4492343327757047
+    },
+    "logistic regression": {
+     "mae_steps": 0.35202492211838005,
+     "exact": 0.7570093457943925,
+     "within1": 0.9376947040498442,
+     "qwk": 0.6597847009339133
+    },
+    "audit triangulation band": {
+     "mae_steps": 0.8099688473520249,
+     "exact": 0.4423676012461059,
+     "within1": 0.8130841121495327,
+     "qwk": 0.4142517704062616
+    },
+    "model, structured features only (no text)": {
+     "mae_steps": 0.3302180685358255,
+     "exact": 0.7757009345794392,
+     "within1": 0.940809968847352,
+     "qwk": 0.668711113732197,
+     "ece": 0.10205922542702744
+    }
+   },
+   "n_flagged": 12,
+   "n": 321,
+   "class_counts": [
+    240,
+    41,
+    17,
+    2,
+    21,
+    0,
+    0,
+    0
+   ]
+  },
+  "interp": {
+   "config": {
+    "hid": 64,
+    "dropout": 0.3,
+    "wd": 0.002,
+    "epochs": 220
+   },
+   "metrics": {
+    "model": {
+     "mae_steps": 0.8785046728971962,
+     "exact": 0.38317757009345793,
+     "within1": 0.838006230529595,
+     "qwk": 0.7832757584143677,
+     "ece": 0.20400700010485012
+    },
+    "majority class": {
+     "mae_steps": 1.3738317757009346,
+     "exact": 0.3925233644859813,
+     "within1": 0.778816199376947,
+     "qwk": 0.0
+    },
+    "category median": {
+     "mae_steps": 1.0249221183800623,
+     "exact": 0.40186915887850466,
+     "within1": 0.8317757009345794,
+     "qwk": 0.5135544704495707
+    },
+    "logistic regression": {
+     "mae_steps": 0.7258566978193146,
+     "exact": 0.573208722741433,
+     "within1": 0.8722741433021807,
+     "qwk": 0.7222771224664726
+    },
+    "audit triangulation band": {
+     "mae_steps": 1.4361370716510904,
+     "exact": 0.2772585669781931,
+     "within1": 0.6697819314641744,
+     "qwk": 0.30966691272154434
+    },
+    "model, structured features only (no text)": {
+     "mae_steps": 0.9252336448598131,
+     "exact": 0.3582554517133956,
+     "within1": 0.8286604361370716,
+     "qwk": 0.7747596117116492,
+     "ece": 0.2105985279673728
+    }
+   },
+   "n_flagged": 32,
+   "n": 321,
+   "class_counts": [
+    38,
+    126,
+    86,
+    3,
+    21,
+    5,
+    24,
+    18
+   ]
+  }
+ },
+ "task3_alternatives": {
+  "k": 16,
+  "coverage": 0.6415929203539823,
+  "unassigned": [
+   {
+    "record": "giza",
+    "name": "Debated detail: the ramp system"
+   },
+   {
+    "record": "tiwanaku",
+    "name": "Impossible-precision claims"
+   },
+   {
+    "record": "sundaland",
+    "name": "Source region of later Southeast Asian and Pacific cultures"
+   },
+   {
+    "record": "persian-gulf",
+    "name": "Refugium for early modern humans"
+   },
+   {
+    "record": "khambhat",
+    "name": "Natural seabed features (paleochannels and bedrock)"
+   },
+   {
+    "record": "genesis-flood",
+    "name": "A global flood at a specific date"
+   },
+   {
+    "record": "atlantis-plato",
+    "name": "Specific location candidates (Richat, Bimini, etc.)"
+   },
+   {
+    "record": "oronce-fine",
+    "name": "Speculative Terra Australis"
+   },
+   {
+    "record": "aaro-2024",
+    "name": "Concealed programme / incomplete review"
+   },
+   {
+    "record": "abu-hureyra-settlement",
+    "name": "Younger Dryas impact destroyed the village"
+   },
+   {
+    "record": "ur",
+    "name": "Mass human sacrifice at royal funerals"
+   },
+   {
+    "record": "tell-el-daba",
+    "name": "A source for Israelite sojourn traditions"
+   },
+   {
+    "record": "knossos",
+    "name": "Evans\u2019s \u201cMinoan thalassocracy\u201d as peaceful priest-kings"
+   },
+   {
+    "record": "mycenae",
+    "name": "Homeric Agamemnon\u2019s capital"
+   },
+   {
+    "record": "heit-el-ghurab",
+    "name": "Unlimited unskilled labour or slaves"
+   },
+   {
+    "record": "abydos-king-list",
+    "name": "A complete record of all kings"
+   },
+   {
+    "record": "erlitou",
+    "name": "The capital of the Xia dynasty"
+   },
+   {
+    "record": "sannai-maruyama",
+    "name": "Small-scale cultivation supplemented foraging"
+   },
+   {
+    "record": "plain-of-jars",
+    "name": "Wine or rice-beer vessels of a legendary giant"
+   },
+   {
+    "record": "manu-flood",
+    "name": "Borrowed from Near Eastern flood tradition"
+   },
+   {
+    "record": "rigveda",
+    "name": "Contains advanced scientific knowledge"
+   },
+   {
+    "record": "emerald-tablet",
+    "name": "Inscribed by Hermes Trismegistus in Atlantis or ancient Egypt"
+   },
+   {
+    "record": "nag-hammadi",
+    "name": "Secret ancient knowledge suppressed by the Church"
+   },
+   {
+    "record": "popol-vuh",
+    "name": "A direct record of an Ice Age flood"
+   },
+   {
+    "record": "clovis-blackwater-draw",
+    "name": "Clovis-first"
+   },
+   {
+    "record": "hoyo-negro",
+    "name": "Separate early population unrelated to modern Native Americans"
+   },
+   {
+    "record": "nakbe",
+    "name": "Very early complex state"
+   },
+   {
+    "record": "aspero",
+    "name": "Maritime foundations of Andean civilization"
+   },
+   {
+    "record": "aspero",
+    "name": "Agriculture-driven inland origin"
+   },
+   {
+    "record": "newark-earthworks",
+    "name": "Alignments by chance"
+   },
+   {
+    "record": "marajoara",
+    "name": "Stratified chiefdom"
+   },
+   {
+    "record": "terra-preta",
+    "name": "Deliberate soil creation at large scale"
+   },
+   {
+    "record": "terra-preta",
+    "name": "Amazonia largely a pristine forest"
+   },
+   {
+    "record": "kow-swamp",
+    "name": "Two separate populations"
+   },
+   {
+    "record": "ness-of-brodgar",
+    "name": "Orkney as the origin of Grooved Ware culture that spread south"
+   },
+   {
+    "record": "lepenski-vir",
+    "name": "Early monumental sculpture in Europe"
+   },
+   {
+    "record": "maidanetske",
+    "name": "City-scale settlement"
+   },
+   {
+    "record": "arkaim",
+    "name": "Proto-Indo-Iranian homeland"
+   },
+   {
+    "record": "sahelanthropus",
+    "name": "An early ape unrelated to the hominin line"
+   },
+   {
+    "record": "ardipithecus",
+    "name": "Reconstruction of the pelvis and locomotion is overstated"
+   },
+   {
+    "record": "gran-dolina",
+    "name": "H. antecessor is an ancestor of Neanderthals and modern humans"
+   },
+   {
+    "record": "sima-huesos",
+    "name": "Deliberate deposition of the dead"
+   },
+   {
+    "record": "zhoukoudian",
+    "name": "Ash layers are natural or reworked"
+   },
+   {
+    "record": "shanidar",
+    "name": "Deliberate flower burial"
+   },
+   {
+    "record": "calico-site",
+    "name": "Flaked artefacts"
+   },
+   {
+    "record": "lowenmensch",
+    "name": "A shaman or a spirit being"
+   },
+   {
+    "record": "cheddar-man",
+    "name": "Exact skin colour"
+   },
+   {
+    "record": "foxp2-neanderthal",
+    "name": "FOXP2 as the single cause of language"
+   },
+   {
+    "record": "mt-eve",
+    "name": "The first or only woman"
+   },
+   {
+    "record": "wootz-damascus",
+    "name": "Carbon nanotubes explain the properties"
+   },
+   {
+    "record": "wootz-damascus",
+    "name": "Trace-element control of banding"
+   },
+   {
+    "record": "ulfberht-swords",
+    "name": "Locally smelted steel of unusual purity"
+   },
+   {
+    "record": "aeolipile",
+    "name": "A suppressed industrial steam age"
+   },
+   {
+    "record": "waldseemuller-1507",
+    "name": "Evidence of pre-Columbian knowledge of the Pacific"
+   },
+   {
+    "record": "foo-fighters",
+    "name": "Secret German or Japanese technology"
+   },
+   {
+    "record": "rendlesham-1980",
+    "name": "A landed craft"
+   },
+   {
+    "record": "fravor-testimony",
+    "name": "Misperception of an ordinary object"
+   },
+   {
+    "record": "graves-testimony",
+    "name": "Radar and sensor upgrades created new clutter detections"
+   },
+   {
+    "record": "grusch-2023",
+    "name": "Accurate account of concealed programmes"
+   },
+   {
+    "record": "grusch-2023",
+    "name": "Misinformation passed through intermediaries"
+   },
+   {
+    "record": "wewelsburg",
+    "name": "A cult centre for an SS ritual religion"
+   },
+   {
+    "record": "hyperborea",
+    "name": "A real northern civilization"
+   },
+   {
+    "record": "hancock-claims",
+    "name": "Younger Dryas cosmic impact"
+   },
+   {
+    "record": "hancock-claims",
+    "name": "Piri Reis map shows ice-free Antarctica"
+   },
+   {
+    "record": "hancock-claims",
+    "name": "Gunung Padang as an Ice Age pyramid"
+   },
+   {
+    "record": "dwarka-submerged",
+    "name": "The remains are the epic city"
+   },
+   {
+    "record": "poompuhar",
+    "name": "Kumari Kandam, a sunken continent"
+   },
+   {
+    "record": "adams-bridge",
+    "name": "Human-built causeway"
+   },
+   {
+    "record": "genesis-adam-and-eve",
+    "name": "A literal first pair"
+   },
+   {
+    "record": "ninti-rib-wordplay",
+    "name": "Direct source of the Genesis rib motif"
+   },
+   {
+    "record": "autosomal-admixture-method",
+    "name": "Treating ancestry fractions as identities"
+   },
+   {
+    "record": "indo-aryan-migration",
+    "name": "Multi-stage arrival with local continuity of culture"
+   },
+   {
+    "record": "hominin-brain-evolution",
+    "name": "One sudden brain transformation ~200 ka"
+   },
+   {
+    "record": "aboriginal-oral-histories",
+    "name": "Traditions are too fluid to carry memories over millennia"
+   },
+   {
+    "record": "hancock-magicians",
+    "name": "Younger Dryas impact"
+   },
+   {
+    "record": "koumbi-saleh",
+    "name": "Almoravid conquest ended Ghana"
+   },
+   {
+    "record": "chaco-canyon",
+    "name": "The centre of a larger political axis (Chaco Meridian)"
+   },
+   {
+    "record": "linear-b-and-minoan-legacy",
+    "name": "Minoan memory in later myths (e.g. Theseus and the Minotaur)"
+   },
+   {
+    "record": "nazi-leadership-occult-claims",
+    "name": "Occult influence on policy"
+   },
+   {
+    "record": "uap-military-installation-reports",
+    "name": "A real pattern"
+   },
+   {
+    "record": "uap-military-installation-reports",
+    "name": "Observation and reporting bias"
+   }
+  ],
+  "n_archetypes_modelled": 14,
+  "n_alternatives": 226,
+  "retrieval": {
+   "model": {
+    "recall@3": 0.6919642857142859,
+    "recall@5": 0.8154761904761907,
+    "mrr": 0.625005995988139,
+    "macro_ap": 0.2842229172165783,
+    "n_records": 112
+   },
+   "frequency prior": {
+    "recall@3": 0.18749999999999997,
+    "recall@5": 0.47023809523809523,
+    "mrr": 0.24380247728461996,
+    "macro_ap": 0.024046337877854096,
+    "n_records": 112
+   },
+   "category prior": {
+    "recall@3": 0.6889880952380955,
+    "recall@5": 0.8139880952380952,
+    "mrr": 0.5913725907029479,
+    "macro_ap": 0.10754662112199301,
+    "n_records": 112
+   },
+   "kNN (k=10)": {
+    "recall@3": 0.6607142857142857,
+    "recall@5": 0.7321428571428573,
+    "mrr": 0.6138760049474338,
+    "macro_ap": 0.19686494095359666,
+    "n_records": 112
+   },
+   "model without for/against text": {
+    "recall@3": 0.6532738095238095,
+    "recall@5": 0.7410714285714286,
+    "mrr": 0.5624818385979102,
+    "macro_ap": 0.24607039547897508,
+    "n_records": 112
+   },
+   "model without declared statuses": {
+    "recall@3": 0.6145833333333333,
+    "recall@5": 0.7961309523809526,
+    "mrr": 0.5923724836671267,
+    "macro_ap": 0.2649310058430186,
+    "n_records": 112
+   }
+  },
+  "archetypes": [
+   {
+    "id": "lost_advanced_civilization",
+    "label": "A lost advanced civilization or unknown technology",
+    "examples": [
+     "Work of a technologically advanced lost civilization",
+     "Lost advanced construction technology",
+     "Lost lifting technology"
+    ],
+    "support": 15
+   },
+   {
+    "id": "non_human_craft",
+    "label": "A non-human craft or intelligence",
+    "examples": [
+     "Technological craft",
+     "Non-human technology",
+     "Non-human craft"
+    ],
+    "support": 9
+   },
+   {
+    "id": "misidentification_mundane",
+    "label": "Misidentification or a mundane cause",
+    "examples": [
+     "Sensor artefacts or misidentification",
+     "Mundane explanation",
+     "A model aircraft"
+    ],
+    "support": 7
+   },
+   {
+    "id": "natural_not_human",
+    "label": "A natural formation rather than a human construction",
+    "examples": [
+     "Natural fracture / non-hominin percussion",
+     "Pre-dynastic Ice Age/Holocene date by rain weathering",
+     "Natural carnivore or weathering marks"
+    ],
+    "support": 5
+   },
+   {
+    "id": "contamination_or_dating_error",
+    "label": "Contamination, intrusion or a dating artefact",
+    "examples": [
+     "Younger occupation with downward movement of artefacts",
+     "Contamination by old carbon",
+     "Coprolite DNA is contaminated"
+    ],
+    "support": 5
+   },
+   {
+    "id": "forgery_or_later_invention",
+    "label": "A forgery, hoax or later invention",
+    "examples": [
+     "Folk tale or garbled account of a foreign vessel",
+     "A real v\u00f6lkisch group exaggerated by later occult mythology",
+     "Pseudoscientific ideological research organisation"
+    ],
+    "support": 6
+   },
+   {
+    "id": "symbolic_or_nonliteral",
+    "label": "A symbolic, literary or non-literal reading",
+    "examples": [
+     "Deliberate burial and symbolic engraving",
+     "Reigns as symbolic numbers (sexagesimal)",
+     "Religious sanctuary / \u201clost city of the Incas\u201d"
+    ],
+    "support": 9
+   },
+   {
+    "id": "memory_of_real_event",
+    "label": "A memory of a real event",
+    "examples": [
+     "Memory of regional flooding",
+     "Memory of the Thera/Minoan catastrophe",
+     "Memory of post-glacial inundation"
+    ],
+    "support": 10
+   },
+   {
+    "id": "diffusion_or_contact",
+    "label": "Contact, diffusion or outside influence",
+    "examples": [
+     "Folk tale or garbled account of a foreign vessel",
+     "Destroyed by Indo-Aryan invasion",
+     "Urbanism introduced from Mesopotamia"
+    ],
+    "support": 13
+   },
+   {
+    "id": "alternative_function",
+    "label": "A different function or purpose",
+    "examples": [
+     "Practical uses of ochre only",
+     "Feasting and prestige-competition hub",
+     "Domestic buildings, not temples"
+    ],
+    "support": 16
+   },
+   {
+    "id": "different_chronology",
+    "label": "A different (older or younger) date",
+    "examples": [
+     "Early Dynastic, before Khafre",
+     "Pre-dynastic Ice Age/Holocene date by rain weathering",
+     "Pre-Roman megalithic platform"
+    ],
+    "support": 14
+   },
+   {
+    "id": "alternative_population_lineage",
+    "label": "A different population, lineage or species",
+    "examples": [
+     "Archaic Levantine population with some modern traits",
+     "Pathological modern human",
+     "Unrelated \u201cCaucasoid\u201d or Ainu-like population"
+    ],
+    "support": 13
+   },
+   {
+    "id": "overreading_pattern",
+    "label": "Over-reading a pattern or selective matching",
+    "examples": [
+     "Stellar record of a Younger Dryas cometary event",
+     "Angle change for a royal reason, not a structural problem",
+     "The signs are early writing"
+    ],
+    "support": 11
+   },
+   {
+    "id": "alternative_cause",
+    "label": "A different cause (climate, ecology or politics)",
+    "examples": [
+     "Sedentism driven by climate stress",
+     "Collapsed because of a structural flaw in a rapid design change",
+     "Declined with the weakening monsoon and river shifts"
+    ],
+    "support": 9
+   }
+  ]
+ }
+}

@@ -1,0 +1,6159 @@
+{
+ "meta": {
+  "version": "0.1.0",
+  "generated": "2026-11-15",
+  "nodes": 354,
+  "entries": 321,
+  "links": 521,
+  "seeds": 5,
+  "fast": false,
+  "seconds": 214,
+  "warning": "Model-generated leads for a human reviewer. Not evidence. Nothing here has been checked against a source. Statuses are the authors' own judgements."
+ },
+ "links": [
+  {
+   "kind": "link",
+   "a": "budj-bim",
+   "b": "budj-bim-eruption",
+   "relation": "correlates_with",
+   "pair_score": 2.687497615814209,
+   "relation_prob": 0.9604191184043884,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.9060761332511902,
+    "same_category": false,
+    "km": 0,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "durrington-walls",
+   "b": "silbury-hill",
+   "relation": "correlates_with",
+   "pair_score": 2.590571165084839,
+   "relation_prob": 0.9037299156188965,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7501104474067688,
+    "same_category": false,
+    "km": 25,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "palenque",
+   "b": "calakmul",
+   "relation": "correlates_with",
+   "pair_score": 2.586578607559204,
+   "relation_prob": 0.8883765935897827,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.9141374230384827,
+    "same_category": true,
+    "km": 247,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "gobero",
+   "b": "takarkori",
+   "relation": "correlates_with",
+   "pair_score": 2.5726356506347656,
+   "relation_prob": 0.8976062536239624,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7699562311172485,
+    "same_category": true,
+    "km": 883,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "bent-pyramid",
+   "b": "giza",
+   "relation": "predates",
+   "pair_score": 2.50421142578125,
+   "relation_prob": 0.9676995277404785,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7218347191810608,
+    "same_category": true,
+    "km": 22,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "san-bartolo",
+   "b": "maya-lidar",
+   "relation": "geographically_associated_with",
+   "pair_score": 2.4915924072265625,
+   "relation_prob": 0.9537516236305237,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7839980125427246,
+    "same_category": true,
+    "km": 63,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "copan",
+   "b": "calakmul",
+   "relation": "correlates_with",
+   "pair_score": 2.453792095184326,
+   "relation_prob": 0.8988069891929626,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.9185000061988831,
+    "same_category": true,
+    "km": 370,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "roman-concrete",
+   "b": "obsequens-prodigies",
+   "relation": "correlates_with",
+   "pair_score": 2.4294559955596924,
+   "relation_prob": 0.7514957785606384,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6431095600128174,
+    "same_category": false,
+    "km": 1,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "rapa-nui",
+   "b": "polynesian-navigation",
+   "relation": "correlates_with",
+   "pair_score": 2.3913047313690186,
+   "relation_prob": 0.5692829489707947,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6147729158401489,
+    "same_category": false,
+    "km": 4247,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "yinxu",
+   "b": "shiji",
+   "relation": "contradicts",
+   "pair_score": 2.386315107345581,
+   "relation_prob": 0.6313475370407104,
+   "needs_sources": true,
+   "evidence": {
+    "text_cosine": 0.8076620101928711,
+    "same_category": false,
+    "km": 528,
+    "years_apart": 937
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "kow-swamp",
+   "b": "sahul-oral",
+   "relation": "shares_characteristics_with",
+   "pair_score": 2.385230302810669,
+   "relation_prob": 0.7102476358413696,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5841973423957825,
+    "same_category": false,
+    "km": 245,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "marajoara",
+   "b": "bolivian-raised-fields",
+   "relation": "correlates_with",
+   "pair_score": 2.347529888153076,
+   "relation_prob": 0.970478892326355,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6529884934425354,
+    "same_category": true,
+    "km": 2090,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "sefer-cakmak-tepe",
+   "b": "gobekli-tepe",
+   "relation": "shares_characteristics_with",
+   "pair_score": 2.2998857498168945,
+   "relation_prob": 0.9809983372688293,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7824671864509583,
+    "same_category": true,
+    "km": 25,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "meidum",
+   "b": "giza",
+   "relation": "predates",
+   "pair_score": 2.2972235679626465,
+   "relation_prob": 0.9732862114906311,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6417649388313293,
+    "same_category": true,
+    "km": 66,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "anzick",
+   "b": "beringia",
+   "relation": "supports",
+   "pair_score": 2.293285608291626,
+   "relation_prob": 0.4552266597747803,
+   "needs_sources": true,
+   "evidence": {
+    "text_cosine": 0.46924149990081787,
+    "same_category": false,
+    "km": 3994,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "ariosophy",
+   "b": "ahnenerbe",
+   "relation": "correlates_with",
+   "pair_score": 2.2703285217285156,
+   "relation_prob": 0.5568957924842834,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.8302348256111145,
+    "same_category": true,
+    "km": 523,
+    "years_apart": 15
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "hadar-lucy",
+   "b": "ardipithecus",
+   "relation": "postdates",
+   "pair_score": 2.236525297164917,
+   "relation_prob": 0.8054280281066895,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7830543518066406,
+    "same_category": true,
+    "km": 68,
+    "years_apart": 1100000
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "djoser-step",
+   "b": "heit-el-ghurab",
+   "relation": "predates",
+   "pair_score": 2.2327721118927,
+   "relation_prob": 0.8935853242874146,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6262508630752563,
+    "same_category": false,
+    "km": 14,
+    "years_apart": 100
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "terminal-classic-drought",
+   "b": "palenque",
+   "relation": "correlates_with",
+   "pair_score": 2.2315921783447266,
+   "relation_prob": 0.9274292588233948,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.821072518825531,
+    "same_category": false,
+    "km": 323,
+    "years_apart": 1
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "nakbe",
+   "b": "maya-lidar",
+   "relation": "predates",
+   "pair_score": 2.209690570831299,
+   "relation_prob": 0.4831903576850891,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.8236182928085327,
+    "same_category": true,
+    "km": 40,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "hancock-message-sphinx",
+   "b": "heit-el-ghurab",
+   "relation": "geographically_associated_with",
+   "pair_score": 2.20501708984375,
+   "relation_prob": 0.07449076324701309,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6743404865264893,
+    "same_category": false,
+    "km": 1,
+    "years_apart": 4486
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "budj-bim",
+   "b": "aboriginal-oral-histories",
+   "relation": "correlates_with",
+   "pair_score": 2.204923629760742,
+   "relation_prob": 0.9397722482681274,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5543161034584045,
+    "same_category": false,
+    "km": 1634,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "palermo-stone",
+   "b": "turin-canon",
+   "relation": "supports",
+   "pair_score": 2.191652297973633,
+   "relation_prob": 0.5376040935516357,
+   "needs_sources": true,
+   "evidence": {
+    "text_cosine": 0.7185843586921692,
+    "same_category": true,
+    "km": 905,
+    "years_apart": 1150
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "wadi-al-jarf",
+   "b": "sphinx",
+   "relation": "geographically_associated_with",
+   "pair_score": 2.1869964599609375,
+   "relation_prob": 0.6522523164749146,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6705739498138428,
+    "same_category": false,
+    "km": 179,
+    "years_apart": 8
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "enuma-elish",
+   "b": "gilgamesh-xi",
+   "relation": "postdates",
+   "pair_score": 2.167764186859131,
+   "relation_prob": 0.5780206918716431,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7328938245773315,
+    "same_category": true,
+    "km": 441,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "dholavira",
+   "b": "harappa",
+   "relation": "shares_characteristics_with",
+   "pair_score": 2.161215305328369,
+   "relation_prob": 0.873557984828949,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7298934459686279,
+    "same_category": true,
+    "km": 794,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "djoser-step",
+   "b": "bent-pyramid",
+   "relation": "predates",
+   "pair_score": 2.1583194732666016,
+   "relation_prob": 0.9516950845718384,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7809925079345703,
+    "same_category": true,
+    "km": 9,
+    "years_apart": 40
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "djoser-step",
+   "b": "wadi-al-jarf",
+   "relation": "predates",
+   "pair_score": 2.1537466049194336,
+   "relation_prob": 0.7322604656219482,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6748248338699341,
+    "same_category": false,
+    "km": 166,
+    "years_apart": 61
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "djoser-step",
+   "b": "red-pyramid",
+   "relation": "predates",
+   "pair_score": 2.1450445652008057,
+   "relation_prob": 0.9500219225883484,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.8072166442871094,
+    "same_category": true,
+    "km": 7,
+    "years_apart": 45
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "genesis-adam-and-eve",
+   "b": "genesis-flood",
+   "relation": "shares_characteristics_with",
+   "pair_score": 2.131197214126587,
+   "relation_prob": 0.950552761554718,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.8737989664077759,
+    "same_category": true,
+    "km": 0,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "meidum",
+   "b": "red-pyramid",
+   "relation": "predates",
+   "pair_score": 2.115565061569214,
+   "relation_prob": 0.9773736000061035,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.919500470161438,
+    "same_category": true,
+    "km": 47,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "pavlopetri",
+   "b": "stonehenge",
+   "relation": "correlates_with",
+   "pair_score": 2.107937812805176,
+   "relation_prob": 0.8732703328132629,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.41167914867401123,
+    "same_category": false,
+    "km": 2556,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "archaic-introgression",
+   "b": "ust-ishim",
+   "relation": "shares_characteristics_with",
+   "pair_score": 2.0969653129577637,
+   "relation_prob": 0.7380249500274658,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6644434332847595,
+    "same_category": true,
+    "km": 2125,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "vindija",
+   "b": "foxp2-neanderthal",
+   "relation": "correlates_with",
+   "pair_score": 2.0801610946655273,
+   "relation_prob": 0.8550262451171875,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6872667670249939,
+    "same_category": true,
+    "km": 1712,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "ain-mallaha",
+   "b": "abu-hureyra-settlement",
+   "relation": "predates",
+   "pair_score": 2.06050443649292,
+   "relation_prob": 0.5124423503875732,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6714588403701782,
+    "same_category": true,
+    "km": 409,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "uruk",
+   "b": "ninti-rib-wordplay",
+   "relation": "predates",
+   "pair_score": 2.0591673851013184,
+   "relation_prob": 0.2948879599571228,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.433011919260025,
+    "same_category": false,
+    "km": 97,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "african-population-structure",
+   "b": "naledi",
+   "relation": "correlates_with",
+   "pair_score": 2.0496063232421875,
+   "relation_prob": 0.988184928894043,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5643215179443359,
+    "same_category": false,
+    "km": 521,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "african-population-structure",
+   "b": "hominin-brain-evolution",
+   "relation": "correlates_with",
+   "pair_score": 2.0230765342712402,
+   "relation_prob": 0.9922288060188293,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7217252254486084,
+    "same_category": false,
+    "km": 3351,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "thule-society",
+   "b": "wewelsburg",
+   "relation": "correlates_with",
+   "pair_score": 2.0165531635284424,
+   "relation_prob": 0.8409730792045593,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.714434802532196,
+    "same_category": true,
+    "km": 439,
+    "years_apart": 9
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "koumbi-saleh",
+   "b": "kilwa",
+   "relation": "correlates_with",
+   "pair_score": 2.0055911540985107,
+   "relation_prob": 0.9116261601448059,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6202539801597595,
+    "same_category": true,
+    "km": 5910,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "harappa",
+   "b": "indus-monsoon-weakening",
+   "relation": "correlates_with",
+   "pair_score": 1.9992315769195557,
+   "relation_prob": 0.6546741127967834,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.41335493326187134,
+    "same_category": false,
+    "km": 491,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "vril-myth",
+   "b": "thule-society",
+   "relation": "potentially_influenced",
+   "pair_score": 1.9987595081329346,
+   "relation_prob": 0.9943462014198303,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.9206713438034058,
+    "same_category": true,
+    "km": 918,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "younger-dryas-abu-hureyra",
+   "b": "ain-mallaha",
+   "relation": "potentially_influenced",
+   "pair_score": 1.9844768047332764,
+   "relation_prob": 0.8932381272315979,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.3375728726387024,
+    "same_category": false,
+    "km": 409,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "wadi-al-jarf",
+   "b": "heit-el-ghurab",
+   "relation": "supports",
+   "pair_score": 1.98018479347229,
+   "relation_prob": 0.6586646437644958,
+   "needs_sources": true,
+   "evidence": {
+    "text_cosine": 0.7306726574897766,
+    "same_category": true,
+    "km": 179,
+    "years_apart": 16
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "chankillo",
+   "b": "caral",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.9660958051681519,
+   "relation_prob": 0.6798434853553772,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5531082153320312,
+    "same_category": false,
+    "km": 167,
+    "years_apart": 1400
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "vesuvius-79",
+   "b": "akrotiri",
+   "relation": "postdates",
+   "pair_score": 1.9205372333526611,
+   "relation_prob": 0.6844213604927063,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5876996517181396,
+    "same_category": false,
+    "km": 1074,
+    "years_apart": 1679
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "stonehenge",
+   "b": "silbury-hill",
+   "relation": "correlates_with",
+   "pair_score": 1.909574031829834,
+   "relation_prob": 0.6473220586776733,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5739994049072266,
+    "same_category": true,
+    "km": 26,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "indus-monsoon-weakening",
+   "b": "dholavira",
+   "relation": "potentially_influenced",
+   "pair_score": 1.9015833139419556,
+   "relation_prob": 0.9954096674919128,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4037313461303711,
+    "same_category": false,
+    "km": 347,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "catalhoyuk",
+   "b": "maidanetske",
+   "relation": "predates",
+   "pair_score": 1.9000422954559326,
+   "relation_prob": 0.611579179763794,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5718538761138916,
+    "same_category": true,
+    "km": 1262,
+    "years_apart": 1950
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "liang-bua",
+   "b": "madjedbebe",
+   "relation": "predates",
+   "pair_score": 1.8915114402770996,
+   "relation_prob": 0.9252187013626099,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.48527592420578003,
+    "same_category": true,
+    "km": 1434,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "eridu",
+   "b": "ur",
+   "relation": "predates",
+   "pair_score": 1.885102391242981,
+   "relation_prob": 0.9267868399620056,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6731902360916138,
+    "same_category": true,
+    "km": 19,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "babylonian-diaries",
+   "b": "enuma-elish",
+   "relation": "potentially_influenced",
+   "pair_score": 1.8677529096603394,
+   "relation_prob": 0.6276232600212097,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.47968319058418274,
+    "same_category": false,
+    "km": 0,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "durrington-walls",
+   "b": "west-kennet-long-barrow",
+   "relation": "correlates_with",
+   "pair_score": 1.8533697128295898,
+   "relation_prob": 0.9520574808120728,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6187950968742371,
+    "same_category": false,
+    "km": 24,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "lake-mungo",
+   "b": "sahul-oral",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.836188554763794,
+   "relation_prob": 0.7619078159332275,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5205309987068176,
+    "same_category": false,
+    "km": 512,
+    "years_apart": 30000
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "ninti-rib-wordplay",
+   "b": "sumerian-king-list",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.8333723545074463,
+   "relation_prob": 0.6069130897521973,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6091358065605164,
+    "same_category": true,
+    "km": 0,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "ness-of-brodgar",
+   "b": "catalhoyuk",
+   "relation": "postdates",
+   "pair_score": 1.832929015159607,
+   "relation_prob": 0.723705530166626,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6132291555404663,
+    "same_category": false,
+    "km": 3492,
+    "years_apart": 2650
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "acre-geoglyphs",
+   "b": "upano",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.8318970203399658,
+   "relation_prob": 0.9913200736045837,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.423351913690567,
+    "same_category": false,
+    "km": 1419,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "younger-dryas-abu-hureyra",
+   "b": "hancock-magicians",
+   "relation": "potentially_influenced",
+   "pair_score": 1.8302525281906128,
+   "relation_prob": 0.02571442537009716,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6379103660583496,
+    "same_category": false,
+    "km": 166,
+    "years_apart": 12865
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "hancock-message-sphinx",
+   "b": "wadi-al-jarf",
+   "relation": "postdates",
+   "pair_score": 1.8186367750167847,
+   "relation_prob": 0.02756645530462265,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7279087901115417,
+    "same_category": false,
+    "km": 179,
+    "years_apart": 4562
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "wari",
+   "b": "chavin",
+   "relation": "postdates",
+   "pair_score": 1.817029356956482,
+   "relation_prob": 0.8549469709396362,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.47277307510375977,
+    "same_category": false,
+    "km": 504,
+    "years_apart": 800
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "hancock-america-before",
+   "b": "yd-impact",
+   "relation": "geographically_associated_with",
+   "pair_score": 1.8076249361038208,
+   "relation_prob": 0.0017931935144588351,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.2693885564804077,
+    "same_category": false,
+    "km": 629,
+    "years_apart": 12969
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "malta-siberia",
+   "b": "beringia",
+   "relation": "supports",
+   "pair_score": 1.8002700805664062,
+   "relation_prob": 0.5951022505760193,
+   "needs_sources": true,
+   "evidence": {
+    "text_cosine": 0.5228788256645203,
+    "same_category": false,
+    "km": 4772,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "hancock-ancient-apocalypse",
+   "b": "yd-impact",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.7948154211044312,
+   "relation_prob": 0.011286878027021885,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.3632710576057434,
+    "same_category": false,
+    "km": 2159,
+    "years_apart": 12972
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "timbuktu",
+   "b": "djenne-djenno",
+   "relation": "correlates_with",
+   "pair_score": 1.7860074043273926,
+   "relation_prob": 0.9553565979003906,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4824141263961792,
+    "same_category": true,
+    "km": 359,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "roman-concrete",
+   "b": "baiae-submerged",
+   "relation": "correlates_with",
+   "pair_score": 1.7763478755950928,
+   "relation_prob": 0.9049356579780579,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7117523550987244,
+    "same_category": false,
+    "km": 181,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "menga-dolmen",
+   "b": "newgrange",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.773193597793579,
+   "relation_prob": 0.9697242975234985,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7223923206329346,
+    "same_category": true,
+    "km": 1859,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "nebra",
+   "b": "akrotiri",
+   "relation": "correlates_with",
+   "pair_score": 1.769639253616333,
+   "relation_prob": 0.8103972673416138,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.3752305507659912,
+    "same_category": false,
+    "km": 1992,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "hallstatt",
+   "b": "talayotic-menorca",
+   "relation": "correlates_with",
+   "pair_score": 1.767143726348877,
+   "relation_prob": 0.9462440013885498,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5363956689834595,
+    "same_category": false,
+    "km": 1145,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "beringia",
+   "b": "kennewick-man",
+   "relation": "potentially_influenced",
+   "pair_score": 1.7412047386169434,
+   "relation_prob": 0.6645844578742981,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5202181935310364,
+    "same_category": false,
+    "km": 3587,
+    "years_apart": 2000
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "anzick",
+   "b": "hoyo-negro",
+   "relation": "predates",
+   "pair_score": 1.737626075744629,
+   "relation_prob": 0.5526794195175171,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.39502912759780884,
+    "same_category": false,
+    "km": 3565,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "shiji",
+   "b": "shang-oracle-bone-astronomy",
+   "relation": "correlates_with",
+   "pair_score": 1.7251825332641602,
+   "relation_prob": 0.9285116791725159,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.714800238609314,
+    "same_category": false,
+    "km": 528,
+    "years_apart": 937
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "lanse-aux-meadows",
+   "b": "medieval-drought-na",
+   "relation": "correlates_with",
+   "pair_score": 1.724826455116272,
+   "relation_prob": 0.9671112895011902,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5351182222366333,
+    "same_category": false,
+    "km": 4989,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "copan",
+   "b": "popol-vuh",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.7192518711090088,
+   "relation_prob": 0.46905753016471863,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7487849593162537,
+    "same_category": false,
+    "km": 212,
+    "years_apart": 728
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "phaistos-disc",
+   "b": "knossos",
+   "relation": "geographically_associated_with",
+   "pair_score": 1.7044060230255127,
+   "relation_prob": 0.9120725989341736,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6721245646476746,
+    "same_category": false,
+    "km": 42,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "jericho",
+   "b": "nevali-cori",
+   "relation": "potentially_influenced",
+   "pair_score": 1.6958341598510742,
+   "relation_prob": 0.7025501728057861,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6669389605522156,
+    "same_category": true,
+    "km": 691,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "cheddar-man",
+   "b": "star-carr",
+   "relation": "correlates_with",
+   "pair_score": 1.6832736730575562,
+   "relation_prob": 0.4129699766635895,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5585211515426636,
+    "same_category": false,
+    "km": 362,
+    "years_apart": 150
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "ninti-rib-wordplay",
+   "b": "atrahasis",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.682533621788025,
+   "relation_prob": 0.4779931604862213,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4991140365600586,
+    "same_category": true,
+    "km": 137,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "naledi",
+   "b": "omo-kibish",
+   "relation": "correlates_with",
+   "pair_score": 1.6706805229187012,
+   "relation_prob": 0.987454891204834,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.3887689709663391,
+    "same_category": true,
+    "km": 3605,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "coso-artifact",
+   "b": "calico-site",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.6598751544952393,
+   "relation_prob": 0.981008768081665,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4833453595638275,
+    "same_category": false,
+    "km": 189,
+    "years_apart": 100011
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "abydos-king-list",
+   "b": "tell-el-daba",
+   "relation": "correlates_with",
+   "pair_score": 1.6343636512756348,
+   "relation_prob": 0.8042075634002686,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5500283241271973,
+    "same_category": false,
+    "km": 512,
+    "years_apart": 260
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "jericho",
+   "b": "catalhoyuk",
+   "relation": "predates",
+   "pair_score": 1.629078984260559,
+   "relation_prob": 0.6191461086273193,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5411207675933838,
+    "same_category": true,
+    "km": 687,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "rapa-nui",
+   "b": "mu-lemuria",
+   "relation": "predates",
+   "pair_score": 1.6239728927612305,
+   "relation_prob": 0.2907141447067261,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.23715850710868835,
+    "same_category": false,
+    "km": 4660,
+    "years_apart": 142
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "coso-artifact",
+   "b": "kensington-runestone",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.6210873126983643,
+   "relation_prob": 0.9927055239677429,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.14539027214050293,
+    "same_category": true,
+    "km": 2138,
+    "years_apart": 63
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "bent-pyramid",
+   "b": "wadi-al-jarf",
+   "relation": "predates",
+   "pair_score": 1.6061195135116577,
+   "relation_prob": 0.8110427856445312,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6302412152290344,
+    "same_category": false,
+    "km": 162,
+    "years_apart": 1
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "mycenae",
+   "b": "akrotiri",
+   "relation": "postdates",
+   "pair_score": 1.601662516593933,
+   "relation_prob": 0.687231719493866,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.40339651703834534,
+    "same_category": true,
+    "km": 281,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "foxp2-neanderthal",
+   "b": "sima-huesos",
+   "relation": "postdates",
+   "pair_score": 1.600149393081665,
+   "relation_prob": 0.3019762635231018,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7526626586914062,
+    "same_category": false,
+    "km": 188,
+    "years_apart": 350000
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "haushofer-tibet",
+   "b": "ariosophy",
+   "relation": "correlates_with",
+   "pair_score": 1.5957212448120117,
+   "relation_prob": 0.9132614731788635,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6794633865356445,
+    "same_category": true,
+    "km": 355,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "avebury",
+   "b": "carnac",
+   "relation": "correlates_with",
+   "pair_score": 1.5944571495056152,
+   "relation_prob": 0.8237360715866089,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4454316198825836,
+    "same_category": true,
+    "km": 437,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "roswell-1947",
+   "b": "uap-military-installation-reports",
+   "relation": "contradicts",
+   "pair_score": 1.5880424976348877,
+   "relation_prob": 0.8010321855545044,
+   "needs_sources": true,
+   "evidence": {
+    "text_cosine": 0.47533464431762695,
+    "same_category": true,
+    "km": 891,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "akrotiri",
+   "b": "campi-flegrei-ci",
+   "relation": "postdates",
+   "pair_score": 1.5812575817108154,
+   "relation_prob": 0.6802784204483032,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5314075350761414,
+    "same_category": false,
+    "km": 1097,
+    "years_apart": 34850
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "palenque",
+   "b": "maya-lidar",
+   "relation": "geographically_associated_with",
+   "pair_score": 1.5800585746765137,
+   "relation_prob": 0.6700058579444885,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5444714426994324,
+    "same_category": true,
+    "km": 244,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "terminal-classic-drought",
+   "b": "el-mirador",
+   "relation": "correlates_with",
+   "pair_score": 1.5788342952728271,
+   "relation_prob": 0.7772271633148193,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4704996943473816,
+    "same_category": false,
+    "km": 102,
+    "years_apart": 650
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "mycenae",
+   "b": "su-nuraxi",
+   "relation": "correlates_with",
+   "pair_score": 1.577649712562561,
+   "relation_prob": 0.9786816239356995,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.33694514632225037,
+    "same_category": false,
+    "km": 1213,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "cahokia",
+   "b": "tenochtitlan",
+   "relation": "potentially_influenced",
+   "pair_score": 1.573868751525879,
+   "relation_prob": 0.8336799144744873,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.38713496923446655,
+    "same_category": true,
+    "km": 2309,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "genesis-flood",
+   "b": "ninti-rib-wordplay",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.5673143863677979,
+   "relation_prob": 0.8727453351020813,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6743301749229431,
+    "same_category": true,
+    "km": 946,
+    "years_apart": 900
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "jerf-el-ahmar",
+   "b": "jericho",
+   "relation": "predates",
+   "pair_score": 1.5647486448287964,
+   "relation_prob": 0.5970439910888672,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7860535383224487,
+    "same_category": true,
+    "km": 574,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "djoser-step",
+   "b": "coffin-texts",
+   "relation": "potentially_influenced",
+   "pair_score": 1.5572102069854736,
+   "relation_prob": 0.7298866510391235,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5431591272354126,
+    "same_category": false,
+    "km": 238,
+    "years_apart": 550
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "watson-brake",
+   "b": "serpent-mound",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.5543606281280518,
+   "relation_prob": 0.9353067278862,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5803486704826355,
+    "same_category": true,
+    "km": 1074,
+    "years_apart": 2729
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "meadowcroft",
+   "b": "paisley-caves",
+   "relation": "correlates_with",
+   "pair_score": 1.5542171001434326,
+   "relation_prob": 0.9553897976875305,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6647318005561829,
+    "same_category": true,
+    "km": 3330,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "bent-pyramid",
+   "b": "heit-el-ghurab",
+   "relation": "predates",
+   "pair_score": 1.5406311750411987,
+   "relation_prob": 0.9651795625686646,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5792573094367981,
+    "same_category": false,
+    "km": 21,
+    "years_apart": 40
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "white-sands",
+   "b": "paisley-caves",
+   "relation": "predates",
+   "pair_score": 1.5389022827148438,
+   "relation_prob": 0.9786454439163208,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6838691830635071,
+    "same_category": true,
+    "km": 1721,
+    "years_apart": 6700
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "rigveda",
+   "b": "indus-monsoon-weakening",
+   "relation": "postdates",
+   "pair_score": 1.5289692878723145,
+   "relation_prob": 0.9541130661964417,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5186935067176819,
+    "same_category": false,
+    "km": 387,
+    "years_apart": 400
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "acre-geoglyphs",
+   "b": "marajoara",
+   "relation": "correlates_with",
+   "pair_score": 1.5136611461639404,
+   "relation_prob": 0.7188266515731812,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.2117166519165039,
+    "same_category": false,
+    "km": 2258,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "meadowcroft",
+   "b": "clovis-blackwater-draw",
+   "relation": "predates",
+   "pair_score": 1.4893393516540527,
+   "relation_prob": 0.493434876203537,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6338229179382324,
+    "same_category": false,
+    "km": 2121,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "white-sands",
+   "b": "missoula",
+   "relation": "predates",
+   "pair_score": 1.488619327545166,
+   "relation_prob": 0.7006338834762573,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4791109263896942,
+    "same_category": false,
+    "km": 1901,
+    "years_apart": 3000
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "rigveda",
+   "b": "harappa",
+   "relation": "postdates",
+   "pair_score": 1.4859111309051514,
+   "relation_prob": 0.9859458804130554,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4140669107437134,
+    "same_category": false,
+    "km": 109,
+    "years_apart": 400
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "bimini",
+   "b": "hancock-america-before",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.4815235137939453,
+   "relation_prob": 0.0063866376876831055,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.2307083159685135,
+    "same_category": false,
+    "km": 1625,
+    "years_apart": 5019
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "avebury",
+   "b": "ness-of-brodgar",
+   "relation": "correlates_with",
+   "pair_score": 1.4789469242095947,
+   "relation_prob": 0.6526680588722229,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4349660873413086,
+    "same_category": true,
+    "km": 846,
+    "years_apart": 50
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "silbury-hill",
+   "b": "carnac",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.4779490232467651,
+   "relation_prob": 0.45203977823257446,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.37515726685523987,
+    "same_category": true,
+    "km": 435,
+    "years_apart": 10
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "hyperborea",
+   "b": "akrotiri",
+   "relation": "postdates",
+   "pair_score": 1.4774444103240967,
+   "relation_prob": 0.9091271758079529,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.20483675599098206,
+    "same_category": false,
+    "km": 117,
+    "years_apart": 1130
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "upano",
+   "b": "caral",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.4571192264556885,
+   "relation_prob": 0.9063290357589722,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.41121038794517517,
+    "same_category": true,
+    "km": 958,
+    "years_apart": 1300
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "piltdown",
+   "b": "kensington-runestone",
+   "relation": "correlates_with",
+   "pair_score": 1.4568586349487305,
+   "relation_prob": 0.011235465295612812,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.17477834224700928,
+    "same_category": false,
+    "km": 6575,
+    "years_apart": 14
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "nebra",
+   "b": "stonehenge",
+   "relation": "correlates_with",
+   "pair_score": 1.4543609619140625,
+   "relation_prob": 0.8674111366271973,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.30174729228019714,
+    "same_category": false,
+    "km": 929,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "upano",
+   "b": "chankillo",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.4535765647888184,
+   "relation_prob": 0.9351638555526733,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.39544928073883057,
+    "same_category": false,
+    "km": 807,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "genesis-flood",
+   "b": "ezekiel-vision",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.4340811967849731,
+   "relation_prob": 0.933222770690918,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.38233470916748047,
+    "same_category": true,
+    "km": 943,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "eridu-genesis",
+   "b": "genesis-flood",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.4339570999145508,
+   "relation_prob": 0.9740400314331055,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5158866047859192,
+    "same_category": true,
+    "km": 946,
+    "years_apart": 900
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "erlitou",
+   "b": "sanxingdui",
+   "relation": "predates",
+   "pair_score": 1.4295072555541992,
+   "relation_prob": 0.8682825565338135,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.7168813943862915,
+    "same_category": true,
+    "km": 893,
+    "years_apart": 330
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "carnac",
+   "b": "west-kennet-long-barrow",
+   "relation": "correlates_with",
+   "pair_score": 1.419283151626587,
+   "relation_prob": 0.753670871257782,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4719370901584625,
+    "same_category": true,
+    "km": 434,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "hierakonpolis",
+   "b": "napata",
+   "relation": "predates",
+   "pair_score": 1.4167473316192627,
+   "relation_prob": 0.9472858905792236,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.42785072326660156,
+    "same_category": true,
+    "km": 737,
+    "years_apart": 2350
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "akrotiri",
+   "b": "laacher-see",
+   "relation": "postdates",
+   "pair_score": 1.4150422811508179,
+   "relation_prob": 0.768267035484314,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.38123226165771484,
+    "same_category": false,
+    "km": 2131,
+    "years_apart": 7930
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "vril-myth",
+   "b": "ahnenerbe",
+   "relation": "potentially_influenced",
+   "pair_score": 1.4145276546478271,
+   "relation_prob": 0.93572998046875,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5980471968650818,
+    "same_category": true,
+    "km": 931,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "polynesian-navigation",
+   "b": "mu-lemuria",
+   "relation": "supports",
+   "pair_score": 1.4142506122589111,
+   "relation_prob": 0.5034976601600647,
+   "needs_sources": true,
+   "evidence": {
+    "text_cosine": 0.38505563139915466,
+    "same_category": false,
+    "km": 836,
+    "years_apart": 564
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "nakbe",
+   "b": "san-bartolo",
+   "relation": "predates",
+   "pair_score": 1.412215232849121,
+   "relation_prob": 0.9001680016517639,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.8646868467330933,
+    "same_category": true,
+    "km": 35,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "budj-bim-eruption",
+   "b": "sahul-oral",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.4105608463287354,
+   "relation_prob": 0.43684929609298706,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.29917722940444946,
+    "same_category": false,
+    "km": 260,
+    "years_apart": 27000
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "durrington-walls",
+   "b": "skara-brae",
+   "relation": "correlates_with",
+   "pair_score": 1.405669927597046,
+   "relation_prob": 0.7464380860328674,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4761403501033783,
+    "same_category": true,
+    "km": 879,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "aspero",
+   "b": "upano",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.4052482843399048,
+   "relation_prob": 0.9761154055595398,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.3305094838142395,
+    "same_category": true,
+    "km": 946,
+    "years_apart": 1300
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "coffin-texts",
+   "b": "kerma",
+   "relation": "correlates_with",
+   "pair_score": 1.402130365371704,
+   "relation_prob": 0.6476544141769409,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4540160596370697,
+    "same_category": false,
+    "km": 908,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "uap-task-force",
+   "b": "nasa-uap-study-2023",
+   "relation": "predates",
+   "pair_score": 1.3969215154647827,
+   "relation_prob": 0.9814242720603943,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.9460670351982117,
+    "same_category": true,
+    "km": 2,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "liang-bua",
+   "b": "sulawesi-art",
+   "relation": "correlates_with",
+   "pair_score": 1.3853715658187866,
+   "relation_prob": 0.7057045698165894,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.19163566827774048,
+    "same_category": false,
+    "km": 404,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "medieval-drought-na",
+   "b": "chaco-canyon",
+   "relation": "correlates_with",
+   "pair_score": 1.3849866390228271,
+   "relation_prob": 0.8547532558441162,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.3723493218421936,
+    "same_category": false,
+    "km": 916,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "stonehenge",
+   "b": "akrotiri",
+   "relation": "correlates_with",
+   "pair_score": 1.3792428970336914,
+   "relation_prob": 0.929939866065979,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.2273925244808197,
+    "same_category": false,
+    "km": 2712,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "sefer-cakmak-tepe",
+   "b": "sayburc",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.376781940460205,
+   "relation_prob": 0.9330890774726868,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.8607392311096191,
+    "same_category": true,
+    "km": 16,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "sahara-wet",
+   "b": "nok",
+   "relation": "potentially_influenced",
+   "pair_score": 1.375284194946289,
+   "relation_prob": 0.9975837469100952,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.3584931790828705,
+    "same_category": false,
+    "km": 1676,
+    "years_apart": 2050
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "nevali-cori",
+   "b": "karahan-tepe",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.3734245300292969,
+   "relation_prob": 0.7424608469009399,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6456131935119629,
+    "same_category": false,
+    "km": 84,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "kow-swamp",
+   "b": "aboriginal-oral-histories",
+   "relation": "potentially_influenced",
+   "pair_score": 1.373060703277588,
+   "relation_prob": 0.9250679612159729,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5445994138717651,
+    "same_category": false,
+    "km": 1565,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "coffin-texts",
+   "b": "abusir-el-meleq-genomes",
+   "relation": "potentially_influenced",
+   "pair_score": 1.3718361854553223,
+   "relation_prob": 0.5364866852760315,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4689875841140747,
+    "same_category": false,
+    "km": 167,
+    "years_apart": 262
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "paisley-caves",
+   "b": "cactus-hill",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.3607628345489502,
+   "relation_prob": 0.7053859233856201,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.6342214941978455,
+    "same_category": true,
+    "km": 3724,
+    "years_apart": 700
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "tiwanaku",
+   "b": "casarabe",
+   "relation": "geographically_associated_with",
+   "pair_score": 1.3520522117614746,
+   "relation_prob": 0.3723675310611725,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.10203203558921814,
+    "same_category": false,
+    "km": 558,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "indus-monsoon-weakening",
+   "b": "indo-aryan-migration",
+   "relation": "potentially_influenced",
+   "pair_score": 1.3511533737182617,
+   "relation_prob": 0.9874629378318787,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.28341272473335266,
+    "same_category": false,
+    "km": 895,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "mawangdui-comet-atlas",
+   "b": "yinxu",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.3444489240646362,
+   "relation_prob": 0.8539398312568665,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4593167006969452,
+    "same_category": false,
+    "km": 888,
+    "years_apart": 878
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "lake-mungo",
+   "b": "budj-bim-eruption",
+   "relation": "predates",
+   "pair_score": 1.3437563180923462,
+   "relation_prob": 0.7466849088668823,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.29646944999694824,
+    "same_category": false,
+    "km": 492,
+    "years_apart": 3000
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "enuma-elish",
+   "b": "uruk",
+   "relation": "postdates",
+   "pair_score": 1.3384218215942383,
+   "relation_prob": 0.9224752187728882,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4559505879878998,
+    "same_category": false,
+    "km": 177,
+    "years_apart": 800
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "eridu-genesis",
+   "b": "enuma-elish",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.3345288038253784,
+   "relation_prob": 0.9108412265777588,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.5872153043746948,
+    "same_category": true,
+    "km": 89,
+    "years_apart": 400
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "bimini",
+   "b": "yd-impact",
+   "relation": "correlates_with",
+   "pair_score": 1.3305695056915283,
+   "relation_prob": 0.5957422256469727,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.11260560899972916,
+    "same_category": false,
+    "km": 2152,
+    "years_apart": 950
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "coso-artifact",
+   "b": "vinland-map",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.3277240991592407,
+   "relation_prob": 0.9770500659942627,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.1661444902420044,
+    "same_category": true,
+    "km": 3901,
+    "years_apart": 4
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "vinland-map",
+   "b": "piltdown",
+   "relation": "shares_characteristics_with",
+   "pair_score": 1.3238635063171387,
+   "relation_prob": 0.9470836520195007,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.4211674928665161,
+    "same_category": false,
+    "km": 5488,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "dead-sea-scrolls",
+   "b": "babylonian-diaries",
+   "relation": "correlates_with",
+   "pair_score": 1.321663498878479,
+   "relation_prob": 0.07594481110572815,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.11526156216859818,
+    "same_category": false,
+    "km": 848,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "anzick",
+   "b": "megafauna-na",
+   "relation": "correlates_with",
+   "pair_score": 1.3207969665527344,
+   "relation_prob": 0.6635361909866333,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.16950258612632751,
+    "same_category": false,
+    "km": 836,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "bamboo-annals",
+   "b": "yinxu",
+   "relation": "contradicts",
+   "pair_score": 1.320237398147583,
+   "relation_prob": 0.5816512107849121,
+   "needs_sources": true,
+   "evidence": {
+    "text_cosine": 0.30741921067237854,
+    "same_category": false,
+    "km": 54,
+    "years_apart": 746
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "link",
+   "a": "hallstatt",
+   "b": "su-nuraxi",
+   "relation": "correlates_with",
+   "pair_score": 1.317183494567871,
+   "relation_prob": 0.8776615262031555,
+   "needs_sources": false,
+   "evidence": {
+    "text_cosine": 0.3999725878238678,
+    "same_category": false,
+    "km": 950,
+    "years_apart": 0
+   },
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  }
+ ],
+ "alternatives": [
+  {
+   "kind": "alternative",
+   "record": "rendlesham-1980",
+   "archetype": {
+    "id": "non_human_craft",
+    "label": "A non-human craft or intelligence",
+    "what_to_check": "Physical evidence or multi-sensor data that survives mundane explanations.",
+    "records_with": 9
+   },
+   "score": 0.9968076050281525,
+   "precedents": [
+    {
+     "record": "roswell-1947",
+     "alternative": "Recovery of an extraterrestrial craft",
+     "alternative_status": "E8",
+     "authors_said_would_test": "The Mogul balloon documents",
+     "similarity": 0.6670237183570862
+    },
+    {
+     "record": "dc-1952",
+     "alternative": "Unknown craft",
+     "alternative_status": "E6",
+     "authors_said_would_test": "",
+     "similarity": 0.6341339349746704
+    },
+    {
+     "record": "tehran-1976",
+     "alternative": "Unknown craft",
+     "alternative_status": "E6",
+     "authors_said_would_test": "",
+     "similarity": 0.6015804409980774
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "karahan-tepe",
+   "archetype": {
+    "id": "alternative_function",
+    "label": "A different function or purpose",
+    "what_to_check": "Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "records_with": 16
+   },
+   "score": 0.9967469573020935,
+   "precedents": [
+    {
+     "record": "sayburc",
+     "alternative": "A domestic house with decorated furniture",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Radiocarbon series from sealed floors should place the settlement within the 10th\u20139th millennia BCE",
+     "similarity": 0.5365284085273743
+    },
+    {
+     "record": "nevali-cori",
+     "alternative": "Source of the einkorn domestication hearth",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Contemporary settlements in the region will show the same pillar and sculpture traditions",
+     "similarity": 0.35123440623283386
+    },
+    {
+     "record": "nimrud-lens",
+     "alternative": "Decorative inlay or ornament",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Rock-crystal discs of this kind often served as decorative inlays, so function cannot be read from the shape alone",
+     "similarity": 0.278560072183609
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "mapungubwe",
+   "archetype": {
+    "id": "diffusion_or_contact",
+    "label": "Contact, diffusion or outside influence",
+    "what_to_check": "Multiple independent lines (material, genetic, linguistic) for the contact, not a visual resemblance.",
+    "records_with": 13
+   },
+   "score": 0.993086576461792,
+   "precedents": [
+    {
+     "record": "kilwa",
+     "alternative": "A foreign colony",
+     "alternative_status": "E8",
+     "authors_said_would_test": "Isotope and DNA work would reveal mixed ancestry",
+     "similarity": 0.856773853302002
+    },
+    {
+     "record": "napata",
+     "alternative": "An Egyptian colony",
+     "alternative_status": "E8",
+     "authors_said_would_test": "Excavation of earlier levels may show the transition from Kerma culture",
+     "similarity": 0.6111840605735779
+    },
+    {
+     "record": "harappa",
+     "alternative": "Urbanism introduced from Mesopotamia",
+     "alternative_status": "E8",
+     "authors_said_would_test": "More radiocarbon from the earliest levels will tighten the sequence",
+     "similarity": 0.4491092562675476
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "gimbal-2015",
+   "archetype": {
+    "id": "non_human_craft",
+    "label": "A non-human craft or intelligence",
+    "what_to_check": "Physical evidence or multi-sensor data that survives mundane explanations.",
+    "records_with": 9
+   },
+   "score": 0.9929597973823547,
+   "precedents": [
+    {
+     "record": "nimitz-2004",
+     "alternative": "Non-human technology",
+     "alternative_status": "E6",
+     "authors_said_would_test": "",
+     "similarity": 0.8773502707481384
+    },
+    {
+     "record": "dc-1952",
+     "alternative": "Unknown craft",
+     "alternative_status": "E6",
+     "authors_said_would_test": "",
+     "similarity": 0.44310566782951355
+    },
+    {
+     "record": "arnold-1947",
+     "alternative": "Unknown craft",
+     "alternative_status": "E6",
+     "authors_said_would_test": "",
+     "similarity": 0.380301296710968
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "mt-eve",
+   "archetype": {
+    "id": "alternative_population_lineage",
+    "label": "A different population, lineage or species",
+    "what_to_check": "Ancient DNA or morphology that separates the proposed lineage from the standard model.",
+    "records_with": 13
+   },
+   "score": 0.9912694990634918,
+   "precedents": [
+    {
+     "record": "y-a00",
+     "alternative": "Introgression from an archaic African lineage",
+     "alternative_status": "E5",
+     "authors_said_would_test": "",
+     "similarity": 0.6717895865440369
+    },
+    {
+     "record": "african-population-structure",
+     "alternative": "A single, small founding population",
+     "alternative_status": "E8",
+     "authors_said_would_test": "Older African ancient DNA, if recoverable, should show the same deep structure",
+     "similarity": 0.5674294233322144
+    },
+    {
+     "record": "sex-chromosome-coalescence",
+     "alternative": "The coalescence ancestors are the biblical Adam and Eve",
+     "alternative_status": "E8",
+     "authors_said_would_test": "Date estimates vary with mutation rate and with newly found divergent lineages",
+     "similarity": 0.5494827032089233
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "ninti-rib-wordplay",
+   "archetype": {
+    "id": "symbolic_or_nonliteral",
+    "label": "A symbolic, literary or non-literal reading",
+    "what_to_check": "The genre and the language of the earliest source before any literal reading.",
+    "records_with": 9
+   },
+   "score": 0.9837283492088318,
+   "precedents": [
+    {
+     "record": "genesis-adam-and-eve",
+     "alternative": "Symbolic account of shared human origins",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Further Mesopotamian parallels would clarify the borrowing of motifs",
+     "similarity": 0.9430565237998962
+    },
+    {
+     "record": "cain-and-abel",
+     "alternative": "Etiology of the Kenite clan",
+     "alternative_status": "E3",
+     "authors_said_would_test": "No external evidence for the events",
+     "similarity": 0.7610138654708862
+    },
+    {
+     "record": "nephilim-watchers-tradition",
+     "alternative": "Mythic account of Near Eastern ruling elites",
+     "alternative_status": "E3",
+     "authors_said_would_test": "No archaeological counterpart for giants or hybrid beings",
+     "similarity": 0.7595874667167664
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "sphinx",
+   "archetype": {
+    "id": "overreading_pattern",
+    "label": "Over-reading a pattern or selective matching",
+    "what_to_check": "A pre-registered test of the pattern against randomised alternatives.",
+    "records_with": 11
+   },
+   "score": 0.9608433842658997,
+   "precedents": [
+    {
+     "record": "dogon-sirius-tradition",
+     "alternative": "Recent contact with Western astronomy",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Independent pre-1930 documentation would greatly strengthen the ancient-knowledge claim",
+     "similarity": 0.46003252267837524
+    },
+    {
+     "record": "hancock-message-sphinx",
+     "alternative": "Orion correlation as intentional design",
+     "alternative_status": "E7",
+     "authors_said_would_test": "A pre-Dynastic date would need dated quarry debris or occupation at Giza",
+     "similarity": 0.44692274928092957
+    },
+    {
+     "record": "gobekli-tepe",
+     "alternative": "Stellar record of a Younger Dryas cometary event",
+     "alternative_status": "E6",
+     "authors_said_would_test": "Settlement and food-production evidence should be found in the surrounding landscape",
+     "similarity": 0.42692962288856506
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "denisova-cave",
+   "archetype": {
+    "id": "alternative_population_lineage",
+    "label": "A different population, lineage or species",
+    "what_to_check": "Ancient DNA or morphology that separates the proposed lineage from the standard model.",
+    "records_with": 13
+   },
+   "score": 0.9465284943580627,
+   "precedents": [
+    {
+     "record": "archaic-introgression",
+     "alternative": "Admixture from yet-unsampled \u201cghost\u201d archaic populations",
+     "alternative_status": "E3",
+     "authors_said_would_test": "More archaic genomes should account for \u201cghost\u201d segments",
+     "similarity": 0.8891588449478149
+    },
+    {
+     "record": "y-a00",
+     "alternative": "Introgression from an archaic African lineage",
+     "alternative_status": "E5",
+     "authors_said_would_test": "",
+     "similarity": 0.6051233410835266
+    },
+    {
+     "record": "xiahe-denisovan",
+     "alternative": "Other archaic Homo",
+     "alternative_status": "E5",
+     "authors_said_would_test": "DNA or additional proteins from the cave sediments should corroborate the assignment",
+     "similarity": 0.4791525602340698
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "fravor-testimony",
+   "archetype": {
+    "id": "misidentification_mundane",
+    "label": "Misidentification or a mundane cause",
+    "what_to_check": "Whether the reported effect is reproduced by an ordinary cause (sensor geometry, atmosphere, known aircraft).",
+    "records_with": 7
+   },
+   "score": 0.9281195402145386,
+   "precedents": [
+    {
+     "record": "arnold-1947",
+     "alternative": "Atmospheric or astronomical phenomena",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.805061399936676
+    },
+    {
+     "record": "dc-1952",
+     "alternative": "Temperature-inversion ducting of radar",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.7219858169555664
+    },
+    {
+     "record": "tehran-1976",
+     "alternative": "Misidentification of planets and stars plus equipment faults",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.6459761261940002
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "shangchen",
+   "archetype": {
+    "id": "alternative_population_lineage",
+    "label": "A different population, lineage or species",
+    "what_to_check": "Ancient DNA or morphology that separates the proposed lineage from the standard model.",
+    "records_with": 13
+   },
+   "score": 0.877486914396286,
+   "precedents": [
+    {
+     "record": "zhoukoudian",
+     "alternative": "Habitual use of fire by Homo erectus here",
+     "alternative_status": "E5",
+     "authors_said_would_test": "Independent analyses of the remaining samples should either support or exclude in situ fire",
+     "similarity": 0.7011860013008118
+    },
+    {
+     "record": "misliya",
+     "alternative": "Archaic Levantine population with some modern traits",
+     "alternative_status": "E5",
+     "authors_said_would_test": "One fragmentary specimen",
+     "similarity": 0.6773372888565063
+    },
+    {
+     "record": "hadar-lucy",
+     "alternative": "A single lineage vs multiple species at Hadar",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.5715569257736206
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "hancock-america-before",
+   "archetype": {
+    "id": "lost_advanced_civilization",
+    "label": "A lost advanced civilization or unknown technology",
+    "what_to_check": "Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+    "records_with": 15
+   },
+   "score": 0.8748564720153809,
+   "precedents": [
+    {
+     "record": "hancock-magicians",
+     "alternative": "G\u00f6bekli Tepe as a survivor legacy",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Impact markers are not reproducibly diagnostic",
+     "similarity": 0.8844366073608398
+    },
+    {
+     "record": "hancock-ancient-apocalypse",
+     "alternative": "A lost Ice Age civilization",
+     "alternative_status": "E7",
+     "authors_said_would_test": "The claim would gain only from dated, in-context finds of out-of-sequence technology",
+     "similarity": 0.8795744180679321
+    },
+    {
+     "record": "hancock-underworld",
+     "alternative": "Drowned prehistoric cities",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Dated, in-situ anthropogenic material from a claimed site would change the assessment",
+     "similarity": 0.842643141746521
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "haushofer-tibet",
+   "archetype": {
+    "id": "forgery_or_later_invention",
+    "label": "A forgery, hoax or later invention",
+    "what_to_check": "Provenance and the earliest independent record of the object or claim.",
+    "records_with": 6
+   },
+   "score": 0.8748080432415009,
+   "precedents": [
+    {
+     "record": "thule-society",
+     "alternative": "A real v\u00f6lkisch group exaggerated by later occult mythology",
+     "alternative_status": "E2",
+     "authors_said_would_test": "The society\u2019s documented activity was political and v\u00f6lkisch; no evidence supports claims of occult powers, hidden technologies or a Hyperborean contact",
+     "similarity": 0.7952060699462891
+    },
+    {
+     "record": "ahnenerbe",
+     "alternative": "Pseudoscientific ideological research organisation",
+     "alternative_status": "E1",
+     "authors_said_would_test": "Its racial anthropology and \u201cAryan\u201d prehistory are rejected by genetics, archaeology and history",
+     "similarity": 0.6552684903144836
+    },
+    {
+     "record": "utsuro-bune",
+     "alternative": "Folk tale or garbled account of a foreign vessel",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Surviving accounts were written years after the reported event and differ in details",
+     "similarity": 0.2985741198062897
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "fravor-testimony",
+   "archetype": {
+    "id": "non_human_craft",
+    "label": "A non-human craft or intelligence",
+    "what_to_check": "Physical evidence or multi-sensor data that survives mundane explanations.",
+    "records_with": 9
+   },
+   "score": 0.8424045741558075,
+   "precedents": [
+    {
+     "record": "arnold-1947",
+     "alternative": "Unknown craft",
+     "alternative_status": "E6",
+     "authors_said_would_test": "",
+     "similarity": 0.805061399936676
+    },
+    {
+     "record": "dc-1952",
+     "alternative": "Unknown craft",
+     "alternative_status": "E6",
+     "authors_said_would_test": "",
+     "similarity": 0.7219858169555664
+    },
+    {
+     "record": "tehran-1976",
+     "alternative": "Unknown craft",
+     "alternative_status": "E6",
+     "authors_said_would_test": "",
+     "similarity": 0.6459761261940002
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "sannai-maruyama",
+   "archetype": {
+    "id": "alternative_cause",
+    "label": "A different cause (climate, ecology or politics)",
+    "what_to_check": "Palaeoclimate or ecological records at the same resolution as the event.",
+    "records_with": 9
+   },
+   "score": 0.8236620724201202,
+   "precedents": [
+    {
+     "record": "liangzhu",
+     "alternative": "Collapse by flood",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Palaeoenvironmental cores should show a flood layer at the end of the city",
+     "similarity": 0.9248565435409546
+    },
+    {
+     "record": "mapungubwe",
+     "alternative": "Declined because of climate change",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Palaeoclimate data should show the drying trend at the right time",
+     "similarity": 0.4898633658885956
+    },
+    {
+     "record": "ain-mallaha",
+     "alternative": "Sedentism driven by climate stress",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Stable-isotope and seasonality indicators will agree on sedentism",
+     "similarity": 0.399972528219223
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "basel-1566",
+   "archetype": {
+    "id": "non_human_craft",
+    "label": "A non-human craft or intelligence",
+    "what_to_check": "Physical evidence or multi-sensor data that survives mundane explanations.",
+    "records_with": 9
+   },
+   "score": 0.8184393048286438,
+   "precedents": [
+    {
+     "record": "nuremberg-1561",
+     "alternative": "Technological craft",
+     "alternative_status": "E7",
+     "authors_said_would_test": "",
+     "similarity": 0.8510589003562927
+    },
+    {
+     "record": "foo-fighters",
+     "alternative": "Non-human craft",
+     "alternative_status": "E7",
+     "authors_said_would_test": "",
+     "similarity": 0.47892019152641296
+    },
+    {
+     "record": "obsequens-prodigies",
+     "alternative": "Craft or technology",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Late epitome of a lost original",
+     "similarity": 0.3732196092605591
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "blombos",
+   "archetype": {
+    "id": "symbolic_or_nonliteral",
+    "label": "A symbolic, literary or non-literal reading",
+    "what_to_check": "The genre and the language of the earliest source before any literal reading.",
+    "records_with": 9
+   },
+   "score": 0.7965729832649231,
+   "precedents": [
+    {
+     "record": "pinnacle-point",
+     "alternative": "Symbolic use of pigment",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Other coastal sites of similar age should record shellfish exploitation",
+     "similarity": 0.7833666801452637
+    },
+    {
+     "record": "diepkloof",
+     "alternative": "Decorative practice with no symbolic meaning",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.7379854321479797
+    },
+    {
+     "record": "naledi",
+     "alternative": "Deliberate burial and symbolic engraving",
+     "alternative_status": "E5",
+     "authors_said_would_test": "Independent re-examination of the chamber taphonomy should converge on a burial or a non-burial explanation",
+     "similarity": 0.5656411647796631
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "giza",
+   "archetype": {
+    "id": "different_chronology",
+    "label": "A different (older or younger) date",
+    "what_to_check": "Direct dating of the object, a sealed stratigraphic position, and the method's known failure modes.",
+    "records_with": 14
+   },
+   "score": 0.7883492410182953,
+   "precedents": [
+    {
+     "record": "wadi-al-jarf",
+     "alternative": "Alternative construction chronology",
+     "alternative_status": "E8",
+     "authors_said_would_test": "More papyri may extend the record of the work season",
+     "similarity": 0.6636360883712769
+    },
+    {
+     "record": "abu-hureyra-settlement",
+     "alternative": "Late Glacial cereal cultivation (rye)",
+     "alternative_status": "E5",
+     "authors_said_would_test": "Re-analysis of curated seeds should clarify wild versus cultivated forms",
+     "similarity": 0.4049900472164154
+    },
+    {
+     "record": "baalbek",
+     "alternative": "Pre-Roman megalithic platform",
+     "alternative_status": "E5",
+     "authors_said_would_test": "Stratigraphic and dating work beneath the podium will either find or not find a pre-Roman monumental platform",
+     "similarity": 0.3578466475009918
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "dholavira",
+   "archetype": {
+    "id": "diffusion_or_contact",
+    "label": "Contact, diffusion or outside influence",
+    "what_to_check": "Multiple independent lines (material, genetic, linguistic) for the contact, not a visual resemblance.",
+    "records_with": 13
+   },
+   "score": 0.7744273543357849,
+   "precedents": [
+    {
+     "record": "harappa",
+     "alternative": "Urbanism introduced from Mesopotamia",
+     "alternative_status": "E8",
+     "authors_said_would_test": "More radiocarbon from the earliest levels will tighten the sequence",
+     "similarity": 0.9768540263175964
+    },
+    {
+     "record": "mohenjo-daro",
+     "alternative": "Destroyed by Indo-Aryan invasion",
+     "alternative_status": "E8",
+     "authors_said_would_test": "Excavation of other Indus cities should show a regionally varied decline",
+     "similarity": 0.8154833316802979
+    },
+    {
+     "record": "sanxingdui",
+     "alternative": "Foreign (e.g. Near Eastern) origin of the style",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Further pits and settlement evidence should show local metallurgical development",
+     "similarity": 0.4593963623046875
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "dmanisi",
+   "archetype": {
+    "id": "alternative_population_lineage",
+    "label": "A different population, lineage or species",
+    "what_to_check": "Ancient DNA or morphology that separates the proposed lineage from the standard model.",
+    "records_with": 13
+   },
+   "score": 0.7286402881145477,
+   "precedents": [
+    {
+     "record": "skhul-qafzeh",
+     "alternative": "A population ancestral to present-day non-Africans",
+     "alternative_status": "E7",
+     "authors_said_would_test": "No later continuity in the Levant until ~55 ka",
+     "similarity": 0.8836864829063416
+    },
+    {
+     "record": "misliya",
+     "alternative": "Archaic Levantine population with some modern traits",
+     "alternative_status": "E5",
+     "authors_said_would_test": "One fragmentary specimen",
+     "similarity": 0.6739407181739807
+    },
+    {
+     "record": "hadar-lucy",
+     "alternative": "A single lineage vs multiple species at Hadar",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.6389369368553162
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "omo-kibish",
+   "archetype": {
+    "id": "alternative_population_lineage",
+    "label": "A different population, lineage or species",
+    "what_to_check": "Ancient DNA or morphology that separates the proposed lineage from the standard model.",
+    "records_with": 13
+   },
+   "score": 0.6789276897907257,
+   "precedents": [
+    {
+     "record": "hadar-lucy",
+     "alternative": "A single lineage vs multiple species at Hadar",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.7996898293495178
+    },
+    {
+     "record": "skhul-qafzeh",
+     "alternative": "A population ancestral to present-day non-Africans",
+     "alternative_status": "E7",
+     "authors_said_would_test": "No later continuity in the Levant until ~55 ka",
+     "similarity": 0.7471359372138977
+    },
+    {
+     "record": "misliya",
+     "alternative": "Archaic Levantine population with some modern traits",
+     "alternative_status": "E5",
+     "authors_said_would_test": "One fragmentary specimen",
+     "similarity": 0.5891061425209045
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "genesis-adam-and-eve",
+   "archetype": {
+    "id": "memory_of_real_event",
+    "label": "A memory of a real event",
+    "what_to_check": "An independently dated physical event of the right size and place, and a plausible transmission path.",
+    "records_with": 10
+   },
+   "score": 0.6730000376701355,
+   "precedents": [
+    {
+     "record": "nephilim-watchers-tradition",
+     "alternative": "Memory of extraterrestrial visitors",
+     "alternative_status": "E7",
+     "authors_said_would_test": "No archaeological counterpart for giants or hybrid beings",
+     "similarity": 0.7997487187385559
+    },
+    {
+     "record": "genesis-flood",
+     "alternative": "Memory of regional flooding",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.6005930304527283
+    },
+    {
+     "record": "enuma-elish",
+     "alternative": "Source of the Genesis creation story",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Earlier fragments would move composition back",
+     "similarity": 0.5556556582450867
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "karahan-tepe",
+   "archetype": {
+    "id": "lost_advanced_civilization",
+    "label": "A lost advanced civilization or unknown technology",
+    "what_to_check": "Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+    "records_with": 15
+   },
+   "score": 0.6441121250391006,
+   "precedents": [
+    {
+     "record": "sayburc",
+     "alternative": "Evidence of an advanced lost civilization",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Radiocarbon series from sealed floors should place the settlement within the 10th\u20139th millennia BCE",
+     "similarity": 0.5365284085273743
+    },
+    {
+     "record": "baalbek",
+     "alternative": "Lost lifting technology",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Stratigraphic and dating work beneath the podium will either find or not find a pre-Roman monumental platform",
+     "similarity": 0.3551149368286133
+    },
+    {
+     "record": "nevali-cori",
+     "alternative": "Lost-technology reading of the carved pillars",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Contemporary settlements in the region will show the same pillar and sculpture traditions",
+     "similarity": 0.35123440623283386
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "bent-pyramid",
+   "archetype": {
+    "id": "lost_advanced_civilization",
+    "label": "A lost advanced civilization or unknown technology",
+    "what_to_check": "Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+    "records_with": 15
+   },
+   "score": 0.6357499361038208,
+   "precedents": [
+    {
+     "record": "red-pyramid",
+     "alternative": "Anomalous technology",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Further dated graffiti should agree with the radiocarbon chronology",
+     "similarity": 0.7892482876777649
+    },
+    {
+     "record": "djoser-step",
+     "alternative": "Lost advanced precursor",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Dated organic material in the core should fall within the reign of Djoser",
+     "similarity": 0.5624170303344727
+    },
+    {
+     "record": "giza",
+     "alternative": "Lost advanced construction technology",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Further papyri and harbour structures should detail logistics",
+     "similarity": 0.4164135456085205
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "kilwa",
+   "archetype": {
+    "id": "alternative_cause",
+    "label": "A different cause (climate, ecology or politics)",
+    "what_to_check": "Palaeoclimate or ecological records at the same resolution as the event.",
+    "records_with": 9
+   },
+   "score": 0.6166903972625732,
+   "precedents": [
+    {
+     "record": "mapungubwe",
+     "alternative": "Declined because of climate change",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Palaeoclimate data should show the drying trend at the right time",
+     "similarity": 0.856773853302002
+    },
+    {
+     "record": "ain-mallaha",
+     "alternative": "Sedentism driven by climate stress",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Stable-isotope and seasonality indicators will agree on sedentism",
+     "similarity": 0.4188210368156433
+    },
+    {
+     "record": "liangzhu",
+     "alternative": "Collapse by flood",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Palaeoenvironmental cores should show a flood layer at the end of the city",
+     "similarity": 0.4014093279838562
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "daisen-kofun",
+   "archetype": {
+    "id": "diffusion_or_contact",
+    "label": "Contact, diffusion or outside influence",
+    "what_to_check": "Multiple independent lines (material, genetic, linguistic) for the contact, not a visual resemblance.",
+    "records_with": 13
+   },
+   "score": 0.5876202881336212,
+   "precedents": [
+    {
+     "record": "korean-dolmens",
+     "alternative": "Link to European megaliths",
+     "alternative_status": "E7",
+     "authors_said_would_test": "New dating of sealed burials should refine the span",
+     "similarity": 0.8240312933921814
+    },
+    {
+     "record": "sanxingdui",
+     "alternative": "Foreign (e.g. Near Eastern) origin of the style",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Further pits and settlement evidence should show local metallurgical development",
+     "similarity": 0.38158756494522095
+    },
+    {
+     "record": "utsuro-bune",
+     "alternative": "Folk tale or garbled account of a foreign vessel",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Surviving accounts were written years after the reported event and differ in details",
+     "similarity": 0.31069883704185486
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "sima-huesos",
+   "archetype": {
+    "id": "alternative_population_lineage",
+    "label": "A different population, lineage or species",
+    "what_to_check": "Ancient DNA or morphology that separates the proposed lineage from the standard model.",
+    "records_with": 13
+   },
+   "score": 0.5813562870025635,
+   "precedents": [
+    {
+     "record": "gran-dolina",
+     "alternative": "A regional variant of Homo erectus/heidelbergensis",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Ancient proteins or DNA from TD6 could place the taxon relative to later hominins",
+     "similarity": 0.6179728507995605
+    },
+    {
+     "record": "archaic-introgression",
+     "alternative": "Admixture from yet-unsampled \u201cghost\u201d archaic populations",
+     "alternative_status": "E3",
+     "authors_said_would_test": "More archaic genomes should account for \u201cghost\u201d segments",
+     "similarity": 0.6027586460113525
+    },
+    {
+     "record": "xiahe-denisovan",
+     "alternative": "Other archaic Homo",
+     "alternative_status": "E5",
+     "authors_said_would_test": "DNA or additional proteins from the cave sediments should corroborate the assignment",
+     "similarity": 0.5597617030143738
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "korean-dolmens",
+   "archetype": {
+    "id": "alternative_function",
+    "label": "A different function or purpose",
+    "what_to_check": "Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "records_with": 16
+   },
+   "score": 0.5569245964288712,
+   "precedents": [
+    {
+     "record": "daisen-kofun",
+     "alternative": "Not the tomb of the named emperor",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Permitted survey could test chambers by non-invasive methods",
+     "similarity": 0.8240312933921814
+    },
+    {
+     "record": "menga-dolmen",
+     "alternative": "Astronomical observatory",
+     "alternative_status": "E6",
+     "authors_said_would_test": "New radiocarbon work on sealed deposits should narrow the construction date",
+     "similarity": 0.47454482316970825
+    },
+    {
+     "record": "sayburc",
+     "alternative": "A domestic house with decorated furniture",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Radiocarbon series from sealed floors should place the settlement within the 10th\u20139th millennia BCE",
+     "similarity": 0.4710882902145386
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "erlitou",
+   "archetype": {
+    "id": "diffusion_or_contact",
+    "label": "Contact, diffusion or outside influence",
+    "what_to_check": "Multiple independent lines (material, genetic, linguistic) for the contact, not a visual resemblance.",
+    "records_with": 13
+   },
+   "score": 0.5373539552092552,
+   "precedents": [
+    {
+     "record": "sanxingdui",
+     "alternative": "Foreign (e.g. Near Eastern) origin of the style",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Further pits and settlement evidence should show local metallurgical development",
+     "similarity": 0.8725342154502869
+    },
+    {
+     "record": "yinxu",
+     "alternative": "Writing was introduced from elsewhere",
+     "alternative_status": "E8",
+     "authors_said_would_test": "Earlier inscribed material would document development before Yinxu",
+     "similarity": 0.5343185663223267
+    },
+    {
+     "record": "mohenjo-daro",
+     "alternative": "Destroyed by Indo-Aryan invasion",
+     "alternative_status": "E8",
+     "authors_said_would_test": "Excavation of other Indus cities should show a regionally varied decline",
+     "similarity": 0.38152337074279785
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "heit-el-ghurab",
+   "archetype": {
+    "id": "lost_advanced_civilization",
+    "label": "A lost advanced civilization or unknown technology",
+    "what_to_check": "Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+    "records_with": 15
+   },
+   "score": 0.5355644896626472,
+   "precedents": [
+    {
+     "record": "djoser-step",
+     "alternative": "Lost advanced precursor",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Dated organic material in the core should fall within the reign of Djoser",
+     "similarity": 0.8000779151916504
+    },
+    {
+     "record": "giza",
+     "alternative": "Lost advanced construction technology",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Further papyri and harbour structures should detail logistics",
+     "similarity": 0.7256198525428772
+    },
+    {
+     "record": "antikythera",
+     "alternative": "Evidence of an unknown advanced technological civilization",
+     "alternative_status": "E7",
+     "authors_said_would_test": "",
+     "similarity": 0.5785510540008545
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "bluefish-caves",
+   "archetype": {
+    "id": "contamination_or_dating_error",
+    "label": "Contamination, intrusion or a dating artefact",
+    "what_to_check": "Independent dating of the same context, and stratigraphic integrity.",
+    "records_with": 5
+   },
+   "score": 0.519906610250473,
+   "precedents": [
+    {
+     "record": "meadowcroft",
+     "alternative": "Contamination by old carbon",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Re-dating with modern pretreatment on short-lived samples should converge on one chronology",
+     "similarity": 0.9180293083190918
+    },
+    {
+     "record": "madjedbebe",
+     "alternative": "Younger occupation with downward movement of artefacts",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Post-depositional movement is argued in print",
+     "similarity": 0.5572310090065002
+    },
+    {
+     "record": "paisley-caves",
+     "alternative": "Coprolite DNA is contaminated",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Independent DNA and lipid analyses should agree on a human source",
+     "similarity": 0.5477643609046936
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "ardipithecus",
+   "archetype": {
+    "id": "alternative_population_lineage",
+    "label": "A different population, lineage or species",
+    "what_to_check": "Ancient DNA or morphology that separates the proposed lineage from the standard model.",
+    "records_with": 13
+   },
+   "score": 0.5116933267563581,
+   "precedents": [
+    {
+     "record": "laetoli-footprints",
+     "alternative": "Different gait from modern humans",
+     "alternative_status": "E3",
+     "authors_said_would_test": "New prints at the nearby Site S or beyond should show consistent morphology",
+     "similarity": 0.9497254490852356
+    },
+    {
+     "record": "hadar-lucy",
+     "alternative": "A single lineage vs multiple species at Hadar",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.6023113131523132
+    },
+    {
+     "record": "skhul-qafzeh",
+     "alternative": "A population ancestral to present-day non-Africans",
+     "alternative_status": "E7",
+     "authors_said_would_test": "No later continuity in the Levant until ~55 ka",
+     "similarity": 0.5136417150497437
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "rigveda",
+   "archetype": {
+    "id": "memory_of_real_event",
+    "label": "A memory of a real event",
+    "what_to_check": "An independently dated physical event of the right size and place, and a plausible transmission path.",
+    "records_with": 10
+   },
+   "score": 0.5031323581933975,
+   "precedents": [
+    {
+     "record": "manu-flood",
+     "alternative": "Record of a real flood",
+     "alternative_status": "E6",
+     "authors_said_would_test": "Earlier versions would show the direction of influence",
+     "similarity": 0.8003674149513245
+    },
+    {
+     "record": "ramayana",
+     "alternative": "Historical kernel in a much-expanded narrative",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Early manuscripts or inscriptions would date layers of the text",
+     "similarity": 0.7205901741981506
+    },
+    {
+     "record": "mahabharata-chronology",
+     "alternative": "A distant memory of a smaller Iron Age conflict",
+     "alternative_status": "E5",
+     "authors_said_would_test": "A stratified analysis of the text should converge on a layered composition date",
+     "similarity": 0.7076118588447571
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "meidum",
+   "archetype": {
+    "id": "lost_advanced_civilization",
+    "label": "A lost advanced civilization or unknown technology",
+    "what_to_check": "Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+    "records_with": 15
+   },
+   "score": 0.4980919617082691,
+   "precedents": [
+    {
+     "record": "red-pyramid",
+     "alternative": "Anomalous technology",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Further dated graffiti should agree with the radiocarbon chronology",
+     "similarity": 0.7912889719009399
+    },
+    {
+     "record": "djoser-step",
+     "alternative": "Lost advanced precursor",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Dated organic material in the core should fall within the reign of Djoser",
+     "similarity": 0.5841047763824463
+    },
+    {
+     "record": "giza",
+     "alternative": "Lost advanced construction technology",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Further papyri and harbour structures should detail logistics",
+     "similarity": 0.4585275650024414
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "ariosophy",
+   "archetype": {
+    "id": "forgery_or_later_invention",
+    "label": "A forgery, hoax or later invention",
+    "what_to_check": "Provenance and the earliest independent record of the object or claim.",
+    "records_with": 6
+   },
+   "score": 0.49502231180667877,
+   "precedents": [
+    {
+     "record": "ahnenerbe",
+     "alternative": "Pseudoscientific ideological research organisation",
+     "alternative_status": "E1",
+     "authors_said_would_test": "Its racial anthropology and \u201cAryan\u201d prehistory are rejected by genetics, archaeology and history",
+     "similarity": 0.9287612438201904
+    },
+    {
+     "record": "thule-society",
+     "alternative": "A real v\u00f6lkisch group exaggerated by later occult mythology",
+     "alternative_status": "E2",
+     "authors_said_would_test": "The society\u2019s documented activity was political and v\u00f6lkisch; no evidence supports claims of occult powers, hidden technologies or a Hyperborean contact",
+     "similarity": 0.7925913333892822
+    },
+    {
+     "record": "phaistos-disc",
+     "alternative": "A modern forgery",
+     "alternative_status": "E7",
+     "authors_said_would_test": "",
+     "similarity": 0.06015247851610184
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "harappa",
+   "archetype": {
+    "id": "alternative_function",
+    "label": "A different function or purpose",
+    "what_to_check": "Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "records_with": 16
+   },
+   "score": 0.49319951236248016,
+   "precedents": [
+    {
+     "record": "dholavira",
+     "alternative": "Maritime trade hub",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Palaeo-shoreline work would show whether the site had sea access",
+     "similarity": 0.9768540263175964
+    },
+    {
+     "record": "nevali-cori",
+     "alternative": "Source of the einkorn domestication hearth",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Contemporary settlements in the region will show the same pillar and sculpture traditions",
+     "similarity": 0.3361908793449402
+    },
+    {
+     "record": "jerf-el-ahmar",
+     "alternative": "Early domestication of local cereals",
+     "alternative_status": "E3",
+     "authors_said_would_test": "More PPNA communal buildings should appear on the Euphrates",
+     "similarity": 0.2217787206172943
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "nazi-leadership-occult-claims",
+   "archetype": {
+    "id": "forgery_or_later_invention",
+    "label": "A forgery, hoax or later invention",
+    "what_to_check": "Provenance and the earliest independent record of the object or claim.",
+    "records_with": 6
+   },
+   "score": 0.48802465200424194,
+   "precedents": [
+    {
+     "record": "ahnenerbe",
+     "alternative": "Pseudoscientific ideological research organisation",
+     "alternative_status": "E1",
+     "authors_said_would_test": "Its racial anthropology and \u201cAryan\u201d prehistory are rejected by genetics, archaeology and history",
+     "similarity": 0.8851433992385864
+    },
+    {
+     "record": "thule-society",
+     "alternative": "A real v\u00f6lkisch group exaggerated by later occult mythology",
+     "alternative_status": "E2",
+     "authors_said_would_test": "The society\u2019s documented activity was political and v\u00f6lkisch; no evidence supports claims of occult powers, hidden technologies or a Hyperborean contact",
+     "similarity": 0.655170202255249
+    },
+    {
+     "record": "dogon-sirius-tradition",
+     "alternative": "Recent contact with Western astronomy",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Independent pre-1930 documentation would greatly strengthen the ancient-knowledge claim",
+     "similarity": 0.17678645253181458
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "meidum",
+   "archetype": {
+    "id": "overreading_pattern",
+    "label": "Over-reading a pattern or selective matching",
+    "what_to_check": "A pre-registered test of the pattern against randomised alternatives.",
+    "records_with": 11
+   },
+   "score": 0.4796192341364076,
+   "precedents": [
+    {
+     "record": "bent-pyramid",
+     "alternative": "Angle change for a royal reason, not a structural problem",
+     "alternative_status": "E5",
+     "authors_said_would_test": "Structural analysis should show the original angle was unstable on this foundation",
+     "similarity": 0.981799304485321
+    },
+    {
+     "record": "menga-dolmen",
+     "alternative": "Astronomical observatory",
+     "alternative_status": "E6",
+     "authors_said_would_test": "New radiocarbon work on sealed deposits should narrow the construction date",
+     "similarity": 0.4641913175582886
+    },
+    {
+     "record": "su-nuraxi",
+     "alternative": "Astronomical or ritual use",
+     "alternative_status": "E5",
+     "authors_said_would_test": "Function of nuraghi varies",
+     "similarity": 0.33985650539398193
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "mohenjo-daro",
+   "archetype": {
+    "id": "alternative_function",
+    "label": "A different function or purpose",
+    "what_to_check": "Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "records_with": 16
+   },
+   "score": 0.46093330485746264,
+   "precedents": [
+    {
+     "record": "dholavira",
+     "alternative": "Maritime trade hub",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Palaeo-shoreline work would show whether the site had sea access",
+     "similarity": 0.8154833316802979
+    },
+    {
+     "record": "nevali-cori",
+     "alternative": "Source of the einkorn domestication hearth",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Contemporary settlements in the region will show the same pillar and sculpture traditions",
+     "similarity": 0.5430559515953064
+    },
+    {
+     "record": "gobekli-tepe",
+     "alternative": "Feasting and prestige-competition hub",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Settlement and food-production evidence should be found in the surrounding landscape",
+     "similarity": 0.37481826543807983
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "mahabharata-chronology",
+   "archetype": {
+    "id": "lost_advanced_civilization",
+    "label": "A lost advanced civilization or unknown technology",
+    "what_to_check": "Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+    "records_with": 15
+   },
+   "score": 0.4568544700741768,
+   "precedents": [
+    {
+     "record": "ramayana",
+     "alternative": "Record of an ancient advanced civilization",
+     "alternative_status": "E8",
+     "authors_said_would_test": "Early manuscripts or inscriptions would date layers of the text",
+     "similarity": 0.5612024068832397
+    },
+    {
+     "record": "hancock-underworld",
+     "alternative": "Drowned prehistoric cities",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Dated, in-situ anthropogenic material from a claimed site would change the assessment",
+     "similarity": 0.37902799248695374
+    },
+    {
+     "record": "hancock-claims",
+     "alternative": "A lost advanced Ice Age civilization",
+     "alternative_status": "E7",
+     "authors_said_would_test": "A positive find of out-of-sequence technology at a dated site would change the status",
+     "similarity": 0.31058332324028015
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "abu-hureyra-settlement",
+   "archetype": {
+    "id": "alternative_function",
+    "label": "A different function or purpose",
+    "what_to_check": "Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "records_with": 16
+   },
+   "score": 0.4489413797855377,
+   "precedents": [
+    {
+     "record": "ain-ghazal",
+     "alternative": "Representations of ancestors",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Comparable plaster sculpture in neighbouring PPNB sites",
+     "similarity": 0.8536850214004517
+    },
+    {
+     "record": "nevali-cori",
+     "alternative": "Source of the einkorn domestication hearth",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Contemporary settlements in the region will show the same pillar and sculpture traditions",
+     "similarity": 0.7401503920555115
+    },
+    {
+     "record": "jerf-el-ahmar",
+     "alternative": "Early domestication of local cereals",
+     "alternative_status": "E3",
+     "authors_said_would_test": "More PPNA communal buildings should appear on the Euphrates",
+     "similarity": 0.7280650734901428
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "dogon-sirius-tradition",
+   "archetype": {
+    "id": "different_chronology",
+    "label": "A different (older or younger) date",
+    "what_to_check": "Direct dating of the object, a sealed stratigraphic position, and the method's known failure modes.",
+    "records_with": 14
+   },
+   "score": 0.43390993773937225,
+   "precedents": [
+    {
+     "record": "hancock-message-sphinx",
+     "alternative": "Sphinx older than Khafre but still Dynastic",
+     "alternative_status": "E5",
+     "authors_said_would_test": "A pre-Dynastic date would need dated quarry debris or occupation at Giza",
+     "similarity": 0.6283148527145386
+    },
+    {
+     "record": "sphinx",
+     "alternative": "Early Dynastic, before Khafre",
+     "alternative_status": "E5",
+     "authors_said_would_test": "A pre-Khafre date would need dated quarrying debris or tool traces of the proposed earlier period",
+     "similarity": 0.46003252267837524
+    },
+    {
+     "record": "hancock-claims",
+     "alternative": "Great Sphinx redated to \u2265 10,500 BCE",
+     "alternative_status": "E8",
+     "authors_said_would_test": "A positive find of out-of-sequence technology at a dated site would change the status",
+     "similarity": 0.4403725862503052
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "haamonga-a-maui",
+   "archetype": {
+    "id": "diffusion_or_contact",
+    "label": "Contact, diffusion or outside influence",
+    "what_to_check": "Multiple independent lines (material, genetic, linguistic) for the contact, not a visual resemblance.",
+    "records_with": 13
+   },
+   "score": 0.41447890478411864,
+   "precedents": [
+    {
+     "record": "polynesian-navigation",
+     "alternative": "Accidental drift colonization",
+     "alternative_status": "E8",
+     "authors_said_would_test": "Experiments show that it is possible, not what happened",
+     "similarity": 0.6960824728012085
+    },
+    {
+     "record": "korean-dolmens",
+     "alternative": "Link to European megaliths",
+     "alternative_status": "E7",
+     "authors_said_would_test": "New dating of sealed burials should refine the span",
+     "similarity": 0.2319115549325943
+    },
+    {
+     "record": "los-millares",
+     "alternative": "External colonisation from the eastern Mediterranean",
+     "alternative_status": "E8",
+     "authors_said_would_test": "Few modern excavations",
+     "similarity": 0.15818673372268677
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "enuma-elish",
+   "archetype": {
+    "id": "different_chronology",
+    "label": "A different (older or younger) date",
+    "what_to_check": "Direct dating of the object, a sealed stratigraphic position, and the method's known failure modes.",
+    "records_with": 14
+   },
+   "score": 0.39604631066322327,
+   "precedents": [
+    {
+     "record": "sumerian-king-list",
+     "alternative": "Literal chronology",
+     "alternative_status": "E8",
+     "authors_said_would_test": "",
+     "similarity": 0.7883856296539307
+    },
+    {
+     "record": "pyramid-texts",
+     "alternative": "Records of a pre-dynastic civilization",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Archaic versions on other media would show older formulae",
+     "similarity": 0.7027661204338074
+    },
+    {
+     "record": "rigveda",
+     "alternative": "Composed much earlier, within the Indus civilization",
+     "alternative_status": "E5",
+     "authors_said_would_test": "Archaeological finds with early Indo-Aryan language would support the later date",
+     "similarity": 0.6434004902839661
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "pinnacle-point",
+   "archetype": {
+    "id": "alternative_function",
+    "label": "A different function or purpose",
+    "what_to_check": "Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "records_with": 16
+   },
+   "score": 0.3957674577832222,
+   "precedents": [
+    {
+     "record": "diepkloof",
+     "alternative": "Decorative practice with no symbolic meaning",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.888568639755249
+    },
+    {
+     "record": "blombos",
+     "alternative": "Practical uses of ochre only",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.7833666801452637
+    },
+    {
+     "record": "nevali-cori",
+     "alternative": "Source of the einkorn domestication hearth",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Contemporary settlements in the region will show the same pillar and sculpture traditions",
+     "similarity": 0.07138068974018097
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "indo-aryan-migration",
+   "archetype": {
+    "id": "different_chronology",
+    "label": "A different (older or younger) date",
+    "what_to_check": "Direct dating of the object, a sealed stratigraphic position, and the method's known failure modes.",
+    "records_with": 14
+   },
+   "score": 0.35700713098049164,
+   "precedents": [
+    {
+     "record": "rigveda",
+     "alternative": "Composed much earlier, within the Indus civilization",
+     "alternative_status": "E5",
+     "authors_said_would_test": "Archaeological finds with early Indo-Aryan language would support the later date",
+     "similarity": 0.41856783628463745
+    },
+    {
+     "record": "carrowmore",
+     "alternative": "Earliest megaliths in Europe (c. 5400 BCE)",
+     "alternative_status": "E5",
+     "authors_said_would_test": "A new Bayesian model with short-lived samples should favour one chronology",
+     "similarity": 0.23398464918136597
+    },
+    {
+     "record": "bamboo-annals",
+     "alternative": "Current Text is a reliable chronology",
+     "alternative_status": "E5",
+     "authors_said_would_test": "New bamboo-strip finds of the same chronicle would test the reconstruction",
+     "similarity": 0.2306879758834839
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "wewelsburg",
+   "archetype": {
+    "id": "forgery_or_later_invention",
+    "label": "A forgery, hoax or later invention",
+    "what_to_check": "Provenance and the earliest independent record of the object or claim.",
+    "records_with": 6
+   },
+   "score": 0.352163702249527,
+   "precedents": [
+    {
+     "record": "thule-society",
+     "alternative": "A real v\u00f6lkisch group exaggerated by later occult mythology",
+     "alternative_status": "E2",
+     "authors_said_would_test": "The society\u2019s documented activity was political and v\u00f6lkisch; no evidence supports claims of occult powers, hidden technologies or a Hyperborean contact",
+     "similarity": 0.7592729330062866
+    },
+    {
+     "record": "ahnenerbe",
+     "alternative": "Pseudoscientific ideological research organisation",
+     "alternative_status": "E1",
+     "authors_said_would_test": "Its racial anthropology and \u201cAryan\u201d prehistory are rejected by genetics, archaeology and history",
+     "similarity": 0.7294352054595947
+    },
+    {
+     "record": "phaistos-disc",
+     "alternative": "A modern forgery",
+     "alternative_status": "E7",
+     "authors_said_would_test": "",
+     "similarity": 0.13537542521953583
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "abydos-king-list",
+   "archetype": {
+    "id": "different_chronology",
+    "label": "A different (older or younger) date",
+    "what_to_check": "Direct dating of the object, a sealed stratigraphic position, and the method's known failure modes.",
+    "records_with": 14
+   },
+   "score": 0.3428908511996269,
+   "precedents": [
+    {
+     "record": "pyramid-texts",
+     "alternative": "Records of a pre-dynastic civilization",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Archaic versions on other media would show older formulae",
+     "similarity": 0.937278687953949
+    },
+    {
+     "record": "sumerian-king-list",
+     "alternative": "Literal chronology",
+     "alternative_status": "E8",
+     "authors_said_would_test": "",
+     "similarity": 0.5742441415786743
+    },
+    {
+     "record": "rigveda",
+     "alternative": "Composed much earlier, within the Indus civilization",
+     "alternative_status": "E5",
+     "authors_said_would_test": "Archaeological finds with early Indo-Aryan language would support the later date",
+     "similarity": 0.5586164593696594
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "genesis-flood",
+   "archetype": {
+    "id": "symbolic_or_nonliteral",
+    "label": "A symbolic, literary or non-literal reading",
+    "what_to_check": "The genre and the language of the earliest source before any literal reading.",
+    "records_with": 9
+   },
+   "score": 0.32669588923454285,
+   "precedents": [
+    {
+     "record": "sumerian-king-list",
+     "alternative": "Reigns as symbolic numbers (sexagesimal)",
+     "alternative_status": "E3",
+     "authors_said_would_test": "",
+     "similarity": 0.8979741334915161
+    },
+    {
+     "record": "genesis-adam-and-eve",
+     "alternative": "Symbolic account of shared human origins",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Further Mesopotamian parallels would clarify the borrowing of motifs",
+     "similarity": 0.6005930304527283
+    },
+    {
+     "record": "cain-and-abel",
+     "alternative": "Etiology of the Kenite clan",
+     "alternative_status": "E3",
+     "authors_said_would_test": "No external evidence for the events",
+     "similarity": 0.5860751271247864
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "wootz-damascus",
+   "archetype": {
+    "id": "lost_advanced_civilization",
+    "label": "A lost advanced civilization or unknown technology",
+    "what_to_check": "Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+    "records_with": 15
+   },
+   "score": 0.31047433242201805,
+   "precedents": [
+    {
+     "record": "delhi-iron-pillar",
+     "alternative": "An unexplainable lost technology",
+     "alternative_status": "E8",
+     "authors_said_would_test": "",
+     "similarity": 0.7677735090255737
+    },
+    {
+     "record": "lycurgus-cup",
+     "alternative": "A deliberate nanotechnology",
+     "alternative_status": "E5",
+     "authors_said_would_test": "",
+     "similarity": 0.5206901431083679
+    },
+    {
+     "record": "antikythera",
+     "alternative": "Evidence of an unknown advanced technological civilization",
+     "alternative_status": "E7",
+     "authors_said_would_test": "",
+     "similarity": 0.3911953568458557
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "lalibela",
+   "archetype": {
+    "id": "alternative_function",
+    "label": "A different function or purpose",
+    "what_to_check": "Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "records_with": 16
+   },
+   "score": 0.291912529617548,
+   "precedents": [
+    {
+     "record": "daisen-kofun",
+     "alternative": "Not the tomb of the named emperor",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Permitted survey could test chambers by non-invasive methods",
+     "similarity": 0.38982680439949036
+    },
+    {
+     "record": "menga-dolmen",
+     "alternative": "Astronomical observatory",
+     "alternative_status": "E6",
+     "authors_said_would_test": "New radiocarbon work on sealed deposits should narrow the construction date",
+     "similarity": 0.3534528911113739
+    },
+    {
+     "record": "gobekli-tepe",
+     "alternative": "Feasting and prestige-competition hub",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Settlement and food-production evidence should be found in the surrounding landscape",
+     "similarity": 0.29864388704299927
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "baalbek",
+   "archetype": {
+    "id": "alternative_function",
+    "label": "A different function or purpose",
+    "what_to_check": "Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "records_with": 16
+   },
+   "score": 0.2914462611079216,
+   "precedents": [
+    {
+     "record": "nevali-cori",
+     "alternative": "Source of the einkorn domestication hearth",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Contemporary settlements in the region will show the same pillar and sculpture traditions",
+     "similarity": 0.4851940870285034
+    },
+    {
+     "record": "gobekli-tepe",
+     "alternative": "Feasting and prestige-competition hub",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Settlement and food-production evidence should be found in the surrounding landscape",
+     "similarity": 0.4845185875892639
+    },
+    {
+     "record": "jerf-el-ahmar",
+     "alternative": "Early domestication of local cereals",
+     "alternative_status": "E3",
+     "authors_said_would_test": "More PPNA communal buildings should appear on the Euphrates",
+     "similarity": 0.445349782705307
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "wadi-al-jarf",
+   "archetype": {
+    "id": "lost_advanced_civilization",
+    "label": "A lost advanced civilization or unknown technology",
+    "what_to_check": "Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+    "records_with": 15
+   },
+   "score": 0.2825692296028137,
+   "precedents": [
+    {
+     "record": "giza",
+     "alternative": "Lost advanced construction technology",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Further papyri and harbour structures should detail logistics",
+     "similarity": 0.6636360883712769
+    },
+    {
+     "record": "djoser-step",
+     "alternative": "Lost advanced precursor",
+     "alternative_status": "E7",
+     "authors_said_would_test": "Dated organic material in the core should fall within the reign of Djoser",
+     "similarity": 0.5644890069961548
+    },
+    {
+     "record": "antikythera",
+     "alternative": "Evidence of an unknown advanced technological civilization",
+     "alternative_status": "E7",
+     "authors_said_would_test": "",
+     "similarity": 0.44208163022994995
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "alternative",
+   "record": "popol-vuh",
+   "archetype": {
+    "id": "memory_of_real_event",
+    "label": "A memory of a real event",
+    "what_to_check": "An independently dated physical event of the right size and place, and a plausible transmission path.",
+    "records_with": 10
+   },
+   "score": 0.250395692884922,
+   "precedents": [
+    {
+     "record": "manu-flood",
+     "alternative": "Record of a real flood",
+     "alternative_status": "E6",
+     "authors_said_would_test": "Earlier versions would show the direction of influence",
+     "similarity": 0.5988170504570007
+    },
+    {
+     "record": "edfu-building-texts",
+     "alternative": "Memory of a prehistoric civilization",
+     "alternative_status": "E6",
+     "authors_said_would_test": "Independent Old Kingdom parallels would date some motifs earlier",
+     "similarity": 0.5613274574279785
+    },
+    {
+     "record": "enuma-elish",
+     "alternative": "Source of the Genesis creation story",
+     "alternative_status": "E3",
+     "authors_said_would_test": "Earlier fragments would move composition back",
+     "similarity": 0.5219238996505737
+    }
+   ],
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  }
+ ],
+ "status_second_looks": [
+  {
+   "kind": "status",
+   "record": "younger-dryas-abu-hureyra",
+   "field": "ev",
+   "declared": "E5",
+   "model_expectation": 2.5,
+   "model_band": "E2",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.41,
+   "similar_records_declared_differently": [
+    {
+     "record": "richat",
+     "declared": "E1"
+    },
+    {
+     "record": "adams-bridge",
+     "declared": "E1"
+    },
+    {
+     "record": "budj-bim",
+     "declared": "E2"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "roswell-1947",
+   "field": "ev",
+   "declared": "E1",
+   "model_expectation": 3.47,
+   "model_band": "E3",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.2,
+   "similar_records_declared_differently": [
+    {
+     "record": "rendlesham-1980",
+     "declared": "E2"
+    },
+    {
+     "record": "uap-military-installation-reports",
+     "declared": "E5"
+    },
+    {
+     "record": "grusch-2023",
+     "declared": "E5"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "grusch-2023",
+   "field": "ev",
+   "declared": "E5",
+   "model_expectation": 2.55,
+   "model_band": "E3",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.14,
+   "similar_records_declared_differently": [
+    {
+     "record": "nasa-uap-study-2023",
+     "declared": "E1"
+    },
+    {
+     "record": "uap-task-force",
+     "declared": "E1"
+    },
+    {
+     "record": "aaro-2024",
+     "declared": "E1"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "aatip",
+   "field": "ev",
+   "declared": "E2",
+   "model_expectation": 4.31,
+   "model_band": "E4",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.26,
+   "similar_records_declared_differently": [
+    {
+     "record": "nasa-uap-study-2023",
+     "declared": "E1"
+    },
+    {
+     "record": "uap-task-force",
+     "declared": "E1"
+    },
+    {
+     "record": "grusch-2023",
+     "declared": "E5"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "dod-2020-video-release",
+   "field": "ev",
+   "declared": "E1",
+   "model_expectation": 3.03,
+   "model_band": "E3",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.6,
+   "similar_records_declared_differently": [
+    {
+     "record": "gimbal-2015",
+     "declared": "E4"
+    },
+    {
+     "record": "fravor-testimony",
+     "declared": "E3"
+    },
+    {
+     "record": "elizondo-testimony",
+     "declared": "E5"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "persian-gulf",
+   "field": "ev",
+   "declared": "E3",
+   "model_expectation": 1.04,
+   "model_band": "E1",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.03,
+   "similar_records_declared_differently": [
+    {
+     "record": "atlit-yam",
+     "declared": "E1"
+    },
+    {
+     "record": "pavlopetri",
+     "declared": "E1"
+    },
+    {
+     "record": "bouldnor-cliff",
+     "declared": "E1"
+    }
+   ],
+   "audit_triangulation_band": "E5",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "adams-bridge",
+   "field": "ev",
+   "declared": "E1",
+   "model_expectation": 2.82,
+   "model_band": "E3",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.12,
+   "similar_records_declared_differently": [
+    {
+     "record": "budj-bim",
+     "declared": "E2"
+    },
+    {
+     "record": "poompuhar",
+     "declared": "E3"
+    },
+    {
+     "record": "khambhat",
+     "declared": "E5"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "nebra",
+   "field": "ev",
+   "declared": "E3",
+   "model_expectation": 1.18,
+   "model_band": "E1",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.22,
+   "similar_records_declared_differently": [
+    {
+     "record": "nabta-playa",
+     "declared": "E2"
+    },
+    {
+     "record": "dresden-codex",
+     "declared": "E1"
+    },
+    {
+     "record": "hipparchus-precession",
+     "declared": "E1"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "malmstrom-1967",
+   "field": "ev",
+   "declared": "E5",
+   "model_expectation": 3.31,
+   "model_band": "E3",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.46,
+   "similar_records_declared_differently": [
+    {
+     "record": "roswell-1947",
+     "declared": "E1"
+    },
+    {
+     "record": "rendlesham-1980",
+     "declared": "E2"
+    },
+    {
+     "record": "aatip",
+     "declared": "E2"
+    }
+   ],
+   "audit_triangulation_band": "E5",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "nimitz-2004",
+   "field": "ev",
+   "declared": "E4",
+   "model_expectation": 2.36,
+   "model_band": "E2",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.15,
+   "similar_records_declared_differently": [
+    {
+     "record": "aaro-2024",
+     "declared": "E1"
+    },
+    {
+     "record": "graves-testimony",
+     "declared": "E3"
+    },
+    {
+     "record": "grusch-2023",
+     "declared": "E5"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "hancock-underworld",
+   "field": "ev",
+   "declared": "E5",
+   "model_expectation": 3.45,
+   "model_band": "E3",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.43,
+   "similar_records_declared_differently": [
+    {
+     "record": "vaimanika-shastra",
+     "declared": "E1"
+    },
+    {
+     "record": "atlantis-plato",
+     "declared": "E1"
+    },
+    {
+     "record": "mahabharata-chronology",
+     "declared": "E1"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "utsuro-bune",
+   "field": "ev",
+   "declared": "E5",
+   "model_expectation": 3.48,
+   "model_band": "E3",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.52,
+   "similar_records_declared_differently": [
+    {
+     "record": "tehran-1976",
+     "declared": "E3"
+    },
+    {
+     "record": "daisen-kofun",
+     "declared": "E1"
+    },
+    {
+     "record": "arnold-1947",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E5",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "clovis-blackwater-draw",
+   "field": "interp",
+   "declared": "E8",
+   "model_expectation": 1.25,
+   "model_band": "E1",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.1,
+   "similar_records_declared_differently": [
+    {
+     "record": "hoyo-negro",
+     "declared": "E2"
+    },
+    {
+     "record": "lanse-aux-meadows",
+     "declared": "E1"
+    },
+    {
+     "record": "san-bartolo",
+     "declared": "E2"
+    }
+   ],
+   "audit_triangulation_band": "E1",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "hyperborea",
+   "field": "interp",
+   "declared": "E7",
+   "model_expectation": 2.06,
+   "model_band": "E2",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.2,
+   "similar_records_declared_differently": [
+    {
+     "record": "wewelsburg",
+     "declared": "E3"
+    },
+    {
+     "record": "ahnenerbe",
+     "declared": "E8"
+    },
+    {
+     "record": "vril-myth",
+     "declared": "E8"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "wewelsburg",
+   "field": "interp",
+   "declared": "E3",
+   "model_expectation": 7.64,
+   "model_band": "E8",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.36,
+   "similar_records_declared_differently": [
+    {
+     "record": "thule-society",
+     "declared": "E7"
+    },
+    {
+     "record": "ahnenerbe",
+     "declared": "E8"
+    },
+    {
+     "record": "ariosophy",
+     "declared": "E8"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "antarctic-bedrock-and-ice-history",
+   "field": "interp",
+   "declared": "E1",
+   "model_expectation": 5.22,
+   "model_band": "E5",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.29,
+   "similar_records_declared_differently": [
+    {
+     "record": "budj-bim",
+     "declared": "E3"
+    },
+    {
+     "record": "richat",
+     "declared": "E7"
+    },
+    {
+     "record": "hominin-brain-evolution",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E1",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "foo-fighters",
+   "field": "interp",
+   "declared": "E7",
+   "model_expectation": 3.32,
+   "model_band": "E3",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.4,
+   "similar_records_declared_differently": [
+    {
+     "record": "dc-1952",
+     "declared": "E5"
+    },
+    {
+     "record": "graves-testimony",
+     "declared": "E5"
+    },
+    {
+     "record": "arnold-1947",
+     "declared": "E5"
+    }
+   ],
+   "audit_triangulation_band": "E4",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "ezekiel-vision",
+   "field": "interp",
+   "declared": "E7",
+   "model_expectation": 3.44,
+   "model_band": "E3",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.33,
+   "similar_records_declared_differently": [
+    {
+     "record": "ninti-rib-wordplay",
+     "declared": "E3"
+    },
+    {
+     "record": "cain-and-abel",
+     "declared": "E3"
+    },
+    {
+     "record": "atrahasis",
+     "declared": "E2"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "roswell-1947",
+   "field": "interp",
+   "declared": "E8",
+   "model_expectation": 4.77,
+   "model_band": "E5",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.48,
+   "similar_records_declared_differently": [
+    {
+     "record": "rendlesham-1980",
+     "declared": "E5"
+    },
+    {
+     "record": "uap-military-installation-reports",
+     "declared": "E5"
+    },
+    {
+     "record": "uap-task-force",
+     "declared": "E2"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "bimini",
+   "field": "interp",
+   "declared": "E8",
+   "model_expectation": 4.82,
+   "model_band": "E5",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.11,
+   "similar_records_declared_differently": [
+    {
+     "record": "khambhat",
+     "declared": "E7"
+    },
+    {
+     "record": "yonaguni",
+     "declared": "E5"
+    },
+    {
+     "record": "cactus-hill",
+     "declared": "E5"
+    }
+   ],
+   "audit_triangulation_band": "E5",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "waldseemuller-1507",
+   "field": "interp",
+   "declared": "E1",
+   "model_expectation": 4.13,
+   "model_band": "E4",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.18,
+   "similar_records_declared_differently": [
+    {
+     "record": "fra-mauro",
+     "declared": "E2"
+    },
+    {
+     "record": "imago-mundi-babylon",
+     "declared": "E2"
+    },
+    {
+     "record": "oronce-fine",
+     "declared": "E7"
+    }
+   ],
+   "audit_triangulation_band": "E4",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "skara-brae",
+   "field": "interp",
+   "declared": "E1",
+   "model_expectation": 3.97,
+   "model_band": "E4",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.08,
+   "similar_records_declared_differently": [
+    {
+     "record": "durrington-walls",
+     "declared": "E2"
+    },
+    {
+     "record": "akrotiri",
+     "declared": "E3"
+    },
+    {
+     "record": "star-carr",
+     "declared": "E2"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "indo-aryan-migration",
+   "field": "interp",
+   "declared": "E2",
+   "model_expectation": 4.62,
+   "model_band": "E5",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.37,
+   "similar_records_declared_differently": [
+    {
+     "record": "foxp2-neanderthal",
+     "declared": "E8"
+    },
+    {
+     "record": "african-population-structure",
+     "declared": "E3"
+    },
+    {
+     "record": "wootz-damascus",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E1",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "ramayana",
+   "field": "interp",
+   "declared": "E2",
+   "model_expectation": 4.61,
+   "model_band": "E5",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.08,
+   "similar_records_declared_differently": [
+    {
+     "record": "nephilim-watchers-tradition",
+     "declared": "E3"
+    },
+    {
+     "record": "manu-flood",
+     "declared": "E3"
+    },
+    {
+     "record": "mahabharata-chronology",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E1",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "piltdown",
+   "field": "interp",
+   "declared": "E8",
+   "model_expectation": 5.48,
+   "model_band": "E5",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.54,
+   "similar_records_declared_differently": [
+    {
+     "record": "hallstatt",
+     "declared": "E1"
+    },
+    {
+     "record": "skara-brae",
+     "declared": "E1"
+    },
+    {
+     "record": "basel-1566",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "dogon-sirius-tradition",
+   "field": "interp",
+   "declared": "E7",
+   "model_expectation": 4.59,
+   "model_band": "E5",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.19,
+   "similar_records_declared_differently": [
+    {
+     "record": "edfu-building-texts",
+     "declared": "E3"
+    },
+    {
+     "record": "genesis-adam-and-eve",
+     "declared": "E3"
+    },
+    {
+     "record": "sphinx",
+     "declared": "E5"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "aaro-2024",
+   "field": "interp",
+   "declared": "E5",
+   "model_expectation": 2.69,
+   "model_band": "E3",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.08,
+   "similar_records_declared_differently": [
+    {
+     "record": "uap-task-force",
+     "declared": "E2"
+    },
+    {
+     "record": "grusch-2023",
+     "declared": "E6"
+    },
+    {
+     "record": "nasa-uap-study-2023",
+     "declared": "E2"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "adams-bridge",
+   "field": "interp",
+   "declared": "E7",
+   "model_expectation": 4.82,
+   "model_band": "E5",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.51,
+   "similar_records_declared_differently": [
+    {
+     "record": "budj-bim",
+     "declared": "E3"
+    },
+    {
+     "record": "poompuhar",
+     "declared": "E5"
+    },
+    {
+     "record": "antarctic-bedrock-and-ice-history",
+     "declared": "E1"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "piri-reis",
+   "field": "interp",
+   "declared": "E8",
+   "model_expectation": 5.83,
+   "model_band": "E6",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.53,
+   "similar_records_declared_differently": [
+    {
+     "record": "buache-1737",
+     "declared": "E7"
+    },
+    {
+     "record": "oronce-fine",
+     "declared": "E7"
+    },
+    {
+     "record": "waldseemuller-1507",
+     "declared": "E1"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "aatip",
+   "field": "interp",
+   "declared": "E6",
+   "model_expectation": 3.96,
+   "model_band": "E4",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.44,
+   "similar_records_declared_differently": [
+    {
+     "record": "nasa-uap-study-2023",
+     "declared": "E2"
+    },
+    {
+     "record": "uap-task-force",
+     "declared": "E2"
+    },
+    {
+     "record": "project-blue-book-archives",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "phaistos-disc",
+   "field": "interp",
+   "declared": "E3",
+   "model_expectation": 5.02,
+   "model_band": "E5",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.13,
+   "similar_records_declared_differently": [
+    {
+     "record": "saqqara-bird",
+     "declared": "E5"
+    },
+    {
+     "record": "dendera-relief",
+     "declared": "E8"
+    },
+    {
+     "record": "nimrud-lens",
+     "declared": "E5"
+    }
+   ],
+   "audit_triangulation_band": "E5",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "rendlesham-1980",
+   "field": "interp",
+   "declared": "E5",
+   "model_expectation": 6.98,
+   "model_band": "E7",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.5,
+   "similar_records_declared_differently": [
+    {
+     "record": "roswell-1947",
+     "declared": "E8"
+    },
+    {
+     "record": "uap-task-force",
+     "declared": "E2"
+    },
+    {
+     "record": "grusch-2023",
+     "declared": "E6"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "baiae-submerged",
+   "field": "interp",
+   "declared": "E2",
+   "model_expectation": 3.96,
+   "model_band": "E4",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.38,
+   "similar_records_declared_differently": [
+    {
+     "record": "poompuhar",
+     "declared": "E5"
+    },
+    {
+     "record": "plain-of-jars",
+     "declared": "E3"
+    },
+    {
+     "record": "elizondo-testimony",
+     "declared": "E6"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "shang-oracle-bone-astronomy",
+   "field": "interp",
+   "declared": "E3",
+   "model_expectation": 1.11,
+   "model_band": "E1",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.08,
+   "similar_records_declared_differently": [
+    {
+     "record": "mawangdui-comet-atlas",
+     "declared": "E1"
+    },
+    {
+     "record": "hipparchus-precession",
+     "declared": "E1"
+    },
+    {
+     "record": "dresden-codex",
+     "declared": "E1"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "hancock-underworld",
+   "field": "interp",
+   "declared": "E7",
+   "model_expectation": 5.24,
+   "model_band": "E5",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.23,
+   "similar_records_declared_differently": [
+    {
+     "record": "vaimanika-shastra",
+     "declared": "E8"
+    },
+    {
+     "record": "atlantis-plato",
+     "declared": "E6"
+    },
+    {
+     "record": "hancock-visionary-themes",
+     "declared": "E6"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "cerutti",
+   "field": "interp",
+   "declared": "E7",
+   "model_expectation": 5.25,
+   "model_band": "E5",
+   "direction": "model expects a STRONGER status than declared",
+   "stability_std": 0.35,
+   "similar_records_declared_differently": [
+    {
+     "record": "meadowcroft",
+     "declared": "E3"
+    },
+    {
+     "record": "bluefish-caves",
+     "declared": "E3"
+    },
+    {
+     "record": "cactus-hill",
+     "declared": "E5"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "fra-mauro",
+   "field": "interp",
+   "declared": "E2",
+   "model_expectation": 3.69,
+   "model_band": "E4",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.33,
+   "similar_records_declared_differently": [
+    {
+     "record": "oronce-fine",
+     "declared": "E7"
+    },
+    {
+     "record": "buache-1737",
+     "declared": "E7"
+    },
+    {
+     "record": "waldseemuller-1507",
+     "declared": "E1"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "xiahe-denisovan",
+   "field": "interp",
+   "declared": "E2",
+   "model_expectation": 3.67,
+   "model_band": "E4",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.48,
+   "similar_records_declared_differently": [
+    {
+     "record": "sima-huesos",
+     "declared": "E3"
+    },
+    {
+     "record": "shangchen",
+     "declared": "E3"
+    },
+    {
+     "record": "zhoukoudian",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E1",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "gobekli-tepe",
+   "field": "interp",
+   "declared": "E3",
+   "model_expectation": 4.64,
+   "model_band": "E5",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.36,
+   "similar_records_declared_differently": [
+    {
+     "record": "giza",
+     "declared": "E1"
+    },
+    {
+     "record": "ain-mallaha",
+     "declared": "E2"
+    },
+    {
+     "record": "djoser-step",
+     "declared": "E1"
+    }
+   ],
+   "audit_triangulation_band": "E1",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "cactus-hill",
+   "field": "interp",
+   "declared": "E5",
+   "model_expectation": 6.61,
+   "model_band": "E7",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.47,
+   "similar_records_declared_differently": [
+    {
+     "record": "meadowcroft",
+     "declared": "E3"
+    },
+    {
+     "record": "cerutti",
+     "declared": "E7"
+    },
+    {
+     "record": "bluefish-caves",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E3",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "west-kennet-long-barrow",
+   "field": "interp",
+   "declared": "E2",
+   "model_expectation": 3.57,
+   "model_band": "E4",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.16,
+   "similar_records_declared_differently": [
+    {
+     "record": "silbury-hill",
+     "declared": "E3"
+    },
+    {
+     "record": "ness-of-brodgar",
+     "declared": "E3"
+    },
+    {
+     "record": "su-nuraxi",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E1",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "lalibela",
+   "field": "interp",
+   "declared": "E2",
+   "model_expectation": 3.55,
+   "model_band": "E4",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.6,
+   "similar_records_declared_differently": [
+    {
+     "record": "su-nuraxi",
+     "declared": "E3"
+    },
+    {
+     "record": "red-pyramid",
+     "declared": "E1"
+    },
+    {
+     "record": "karahan-tepe",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E1",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "wari",
+   "field": "interp",
+   "declared": "E2",
+   "model_expectation": 3.53,
+   "model_band": "E4",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.29,
+   "similar_records_declared_differently": [
+    {
+     "record": "marajoara",
+     "declared": "E3"
+    },
+    {
+     "record": "caral",
+     "declared": "E1"
+    },
+    {
+     "record": "terra-preta",
+     "declared": "E3"
+    }
+   ],
+   "audit_triangulation_band": "E2",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  },
+  {
+   "kind": "status",
+   "record": "edfu-building-texts",
+   "field": "interp",
+   "declared": "E3",
+   "model_expectation": 4.5,
+   "model_band": "E5",
+   "direction": "model expects a WEAKER status than declared",
+   "stability_std": 0.43,
+   "similar_records_declared_differently": [
+    {
+     "record": "abydos-king-list",
+     "declared": "E2"
+    },
+    {
+     "record": "pyramid-texts",
+     "declared": "E2"
+    },
+    {
+     "record": "nag-hammadi",
+     "declared": "E2"
+    }
+   ],
+   "audit_triangulation_band": "E4",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   }
+  }
+ ]
+}

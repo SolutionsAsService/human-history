@@ -1,0 +1,273 @@
+{
+ "_note": "Human-editable taxonomy of the KINDS of alternative explanation that records weigh against their mainstream reading. Each archetype matches an alternative if any pattern hits its NAME (strong) or two patterns hit its text. Extend it when the report lists unassigned alternatives. Patterns are case-insensitive regular expressions.",
+ "archetypes": [
+  {
+   "id": "lost_advanced_civilization",
+   "label": "A lost advanced civilization or unknown technology",
+   "what_to_check": "Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+   "patterns": [
+    "advanced (lost|technolog|civili)",
+    "anomalous technolog",
+    "survivor legacy|post-cataclysm",
+    "drowned prehistoric cit",
+    "nanotechnolog",
+    "unknown (advanced )?technolog",
+    "ice age civili[sz]ation",
+    "technologically advanced",
+    "lost[- ](advanced |construction |lifting )*(technolog|precursor|civili)",
+    "advanced precursor"
+   ]
+  },
+  {
+   "id": "non_human_craft",
+   "label": "A non-human craft or intelligence",
+   "what_to_check": "Physical evidence or multi-sensor data that survives mundane explanations.",
+   "patterns": [
+    "non-?human",
+    "unknown craft",
+    "extraterrestrial",
+    "craft or technology",
+    "visitors? from",
+    "technological craft"
+   ]
+  },
+  {
+   "id": "misidentification_mundane",
+   "label": "Misidentification or a mundane cause",
+   "what_to_check": "Whether the reported effect is reproduced by an ordinary cause (sensor geometry, atmosphere, known aircraft).",
+   "patterns": [
+    "misidentif",
+    "sensor artefact|artefacts? or",
+    "ducting",
+    "atmospheric|parhelion|halo display|optical",
+    "planets? and stars",
+    "mundane",
+    "balloon|aircraft|drone",
+    "natural phenomenon"
+   ]
+  },
+  {
+   "id": "natural_not_human",
+   "label": "A natural formation rather than a human construction",
+   "what_to_check": "Tool marks, worked debris, or an occupation layer; otherwise geology explains the geometry.",
+   "patterns": [
+    "natural (formation|fracture|carnivore|weathering|volcanic|marks?)",
+    "not a human construction",
+    "beachrock",
+    "weathering",
+    "geolog",
+    "later disturbance",
+    "joint|bedding"
+   ]
+  },
+  {
+   "id": "contamination_or_dating_error",
+   "label": "Contamination, intrusion or a dating artefact",
+   "what_to_check": "Independent dating of the same context, and stratigraphic integrity.",
+   "patterns": [
+    "contaminat",
+    "burrowing|rodents?|intrusi",
+    "reservoir effect",
+    "moved down|downward movement",
+    "younger (occupation|than)",
+    "too old",
+    "dating (error|artefact)",
+    "open-system"
+   ]
+  },
+  {
+   "id": "forgery_or_later_invention",
+   "label": "A forgery, hoax or later invention",
+   "what_to_check": "Provenance and the earliest independent record of the object or claim.",
+   "patterns": [
+    "forger",
+    "hoax",
+    "fabricat",
+    "modern (forgery|invention|fabrication)",
+    "later (occult )?(mythology|invention)",
+    "invented",
+    "folk ?tale|garbled",
+    "recent contact",
+    "reconstruction by later",
+    "ethnographic construction",
+    "ethnographer",
+    "pseudoscien"
+   ]
+  },
+  {
+   "id": "symbolic_or_nonliteral",
+   "label": "A symbolic, literary or non-literal reading",
+   "what_to_check": "The genre and the language of the earliest source before any literal reading.",
+   "patterns": [
+    "symbolic",
+    "metaphor|allegor",
+    "mythic|myth\\b",
+    "literary",
+    "etiolog",
+    "sexagesimal|symbolic numbers",
+    "theophany",
+    "religious sanctuary",
+    "ritual (account|reading)"
+   ]
+  },
+  {
+   "id": "memory_of_real_event",
+   "label": "A memory of a real event",
+   "what_to_check": "An independently dated physical event of the right size and place, and a plausible transmission path.",
+   "patterns": [
+    "memory of",
+    "record of a real",
+    "historical kernel",
+    "real flood",
+    "tradition reflects",
+    "preserv(es|ed) (a )?memor",
+    "oral tradition|oral histor",
+    "source of the .{0,40}(story|tradition)",
+    "kernel"
+   ]
+  },
+  {
+   "id": "diffusion_or_contact",
+   "label": "Contact, diffusion or outside influence",
+   "what_to_check": "Multiple independent lines (material, genetic, linguistic) for the contact, not a visual resemblance.",
+   "patterns": [
+    "contact",
+    "coloni[sz]",
+    "introduced from elsewhere",
+    "link to european",
+    "diffusion",
+    "foreign",
+    "transmission",
+    "external",
+    "voyages",
+    "trade (network|contact)",
+    "teotihuacan-linked|founder",
+    "introduced from",
+    "colony|colonisation|colonization",
+    "invasion",
+    "migration from",
+    "from (mesopotamia|egypt|the east)"
+   ]
+  },
+  {
+   "id": "independent_development",
+   "label": "Independent or local development",
+   "what_to_check": "Continuity of local material culture and absence of any outside marker.",
+   "patterns": [
+    "independent",
+    "indigenous",
+    "local (origin|development)",
+    "from within",
+    "own development",
+    "autochthon",
+    "rapid spread of an existing"
+   ]
+  },
+  {
+   "id": "alternative_function",
+   "label": "A different function or purpose",
+   "what_to_check": "Domestic or practical debris in sealed floors, and parallel structures of known use.",
+   "patterns": [
+    "domestic",
+    "house",
+    "harbou?r",
+    "barrier",
+    "tomb",
+    "not (a )?temple|not temples",
+    "practical uses?",
+    "ornament|inlay|decorative",
+    "storage vessel|scroll",
+    "observatory|calendar",
+    "representations? of",
+    "feasting|prestige",
+    "trade hub",
+    "megasite|crews"
+   ]
+  },
+  {
+   "id": "different_chronology",
+   "label": "A different (older or younger) date",
+   "what_to_check": "Direct dating of the object, a sealed stratigraphic position, and the method's known failure modes.",
+   "patterns": [
+    "older than",
+    "earlier than|composed much earlier|much earlier",
+    "redat",
+    "later date|later than",
+    "c\\. ?\\d{3,4} ?bce",
+    "earliest",
+    "late glacial",
+    "pre-?dynastic|pre-?roman",
+    "reliable chronology",
+    "before (khafre|the)",
+    "chronolog",
+    "years old",
+    "single reign",
+    "first (city|farmers)"
+   ]
+  },
+  {
+   "id": "alternative_population_lineage",
+   "label": "A different population, lineage or species",
+   "what_to_check": "Ancient DNA or morphology that separates the proposed lineage from the standard model.",
+   "patterns": [
+    "archaic",
+    "ghost",
+    "introgression|admixture",
+    "ancestral to",
+    "lineage",
+    "homo\\b|species",
+    "founding population",
+    "caucasoid|ainu",
+    "pathological",
+    "gait",
+    "population (replacement|structure)"
+   ]
+  },
+  {
+   "id": "overreading_pattern",
+   "label": "Over-reading a pattern or selective matching",
+   "what_to_check": "A pre-registered test of the pattern against randomised alternatives.",
+   "patterns": [
+    "orion",
+    "decipherment",
+    "signs are early writing",
+    "selective",
+    "coincid",
+    "pareidolia",
+    "mirror",
+    "correlation",
+    "royal reason",
+    "stellar|astronom|constellation"
+   ]
+  },
+  {
+   "id": "alternative_cause",
+   "label": "A different cause (climate, ecology or politics)",
+   "what_to_check": "Palaeoclimate or ecological records at the same resolution as the event.",
+   "patterns": [
+    "decline|collapse",
+    "monsoon|drought|climate",
+    "deforestation",
+    "overkill|hunters caused",
+    "eruption",
+    "settlement network|looser|less hierarchical",
+    "population (smaller|decline)"
+   ]
+  },
+  {
+   "id": "authenticity_or_authorship",
+   "label": "Doubt about authenticity, authorship or textual transmission",
+   "what_to_check": "Manuscript tradition, earliest attestation and linguistic dating.",
+   "patterns": [
+    "authentic",
+    "authorship",
+    "source copy|literal source",
+    "scribal",
+    "interpolat",
+    "textual (history|transmission)",
+    "genuine|original text",
+    "current text"
+   ]
+  }
+ ]
+}

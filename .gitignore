@@ -1,3 +1,12 @@
 node_modules
 dist
 .DS_Store
+
+# ml pipeline
+ml/.venv/
+ml/data/dataset.json
+ml/out/*.pt
+ml/out/cache/
+__pycache__/
+.pytest_cache/
+*.pyc
