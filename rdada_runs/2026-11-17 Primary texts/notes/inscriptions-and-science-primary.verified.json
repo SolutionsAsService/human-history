@@ -1,0 +1,818 @@
+[
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Ahiram sarcophagus: Byblos inscription (KAI 1), maker's dedication",
+    "authors": "Anonymous (Wikipedia contributors); translation after Krahmalkov 2000",
+    "year": null,
+    "venue": "Wikipedia (English), page text as rendered 2026-11-17",
+    "url": "https://en.wikipedia.org/wiki/Ahiram_sarcophagus",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Epigraphy / Phoenician",
+    "stance": "supports",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Ahiram sarcophagus)",
+    "quote": "This coffin [Pil]sibaʿal (or: [I]ttobaʿal) has made, the son of Aḥirom (Aḥiram), King of Byblos,",
+    "summary": "The 38-word Phoenician text on the rim and lid names the maker (a son of Ahiram, king of Byblos) and the dead king; the page calls it the oldest Phoenician-alphabet witness of considerable length. It is a text of the Phoenician script itself, not a record of any transfer.",
+    "limits": "Wikipedia reproduces Krahmalkov's English; the reading of the son's name is uncertain ([Pil]sibaal or [I]ttobaal). Date disputed: 'around 1000 BCE' (Cook 1994, as cited on the page) versus c. 850 BCE or the 9th-8th century (Porada 1973, Wallenfels 1983, per the page). I opened only the Wikipedia compilation, not Lehmann 2005 or Cook 1994.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Ahiram sarcophagus inscription (KAI 1)",
+      "locator": "rim of coffin and lid, 38 words",
+      "language": "Old Phoenician (Byblian dialect), quoted in English (Krahmalkov translation as given on Wikipedia)",
+      "edition": "Wikipedia 'Ahiram sarcophagus', Phoenician transliteration and Krahmalkov 2000 translation",
+      "composition": {
+        "start": -1000,
+        "end": -850,
+        "basis": "Wikipedia cites E. M. Cook, JNES 53.1 (1994): 'most scholars' say c. 1000 BCE; Porada/Wallenfels argue mid-9th to 8th c. BCE. Range spans the dispute; not independently dated here."
+      },
+      "witness": "The sarcophagus itself, found 1923 by P. Montet in tomb V, royal necropolis of Byblos; now National Museum of Beirut (per the page)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Dipylon inscription (Dipylon oinochoe, Athens)",
+    "authors": "Anonymous (Wikipedia contributors)",
+    "year": null,
+    "venue": "Wikipedia (English), page text as rendered 2026-11-17",
+    "url": "https://en.wikipedia.org/wiki/Dipylon_inscription",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Epigraphy / Greek",
+    "stance": "supports",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Dipylon oinochoe)",
+    "quote": "Whoever of all these dancers now plays most delicately,",
+    "summary": "A hexameter line scratched on an Attic Late Geometric jug, offered as the oldest or one of the oldest samples of Greek alphabetic writing, with letter shapes still close to Phoenician. The passage is about dancing, not about the alphabet.",
+    "limits": "Wikipedia's literal translation; the text after the first 35 letters is fragmentary and its reading is uncertain. The page does not itself give the dating argument (the jug is placed in the Late Geometric style). Further reading it cites (Powell 1988; Binek 2017, a text-or-decoration debate) was not opened.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Dipylon oinochoe graffito",
+      "locator": "46 letters round the shoulder, right to left; first 35 read as a hexameter",
+      "language": "Ancient Greek (early Attic alphabet), quoted in English literal translation",
+      "edition": "Wikipedia 'Dipylon inscription', literal translation",
+      "composition": {
+        "start": -750,
+        "end": -700,
+        "basis": "Wikipedia: jug attributed to the Late Geometric Period 750-700 BC, inscription 'circa 740 BC'. Style-based; no scholarly dating article opened."
+      },
+      "witness": "The vessel itself, found 1871 near the Dipylon Gate, Kerameikos; National Archaeological Museum, Athens (NAMA 192)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Nestor's Cup (Pithekoussai): three-line inscription",
+    "authors": "Anonymous (Wikipedia contributors); translation attributed on page to Jeffery 1963 and Faraone 1996",
+    "year": null,
+    "venue": "Wikipedia (English), page text as rendered 2026-11-17",
+    "url": "https://en.wikipedia.org/wiki/Nestor%27s_Cup_(Pithekoussai)",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Epigraphy / Greek",
+    "stance": "supports",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Nestor's Cup)",
+    "quote": "I am the cup of Nestor good for drinking. Whoever drinks from this cup, desire for beautifully crowned Aphrodite will seize him instantly.",
+    "summary": "A scratched verse on a Rhodian or Ionian cup, found in a late-8th-century cremation grave on Ischia, in the Euboean alphabet; the oldest or among the oldest Greek verse inscriptions and a witness for Greek writing in the West.",
+    "limits": "The first line has a lacuna and at least fifteen proposed restorations (page); the English given is one reading. The page dates the cup 735-720 BC from the pot and grave, not from the inscription by independent means. Cited Gaunt 2017, Arrington 2021 not opened.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Nestor's Cup inscription",
+      "locator": "three lines, right to left, scratched after firing",
+      "language": "Ancient Greek (Euboean alphabet), quoted in English (translation attributed to Jeffery 1963 / Faraone 1996 on the page)",
+      "edition": "Wikipedia 'Nestor's Cup (Pithekoussai)', English verse translation",
+      "composition": {
+        "start": -735,
+        "end": -720,
+        "basis": "Wikipedia infobox 'circa 735-720 BC'; found in a cremation grave dated to the end of the 8th c. BC."
+      },
+      "witness": "The cup itself, found 1954 by G. Buchner in Tomb 168, San Montano cemetery, Ischia; Museo Archeologico di Pithecusae."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Tablet from Marsiliana d'Albegna (Mnamon, Scuola Normale Superiore)",
+    "authors": "Mnamon project, Scuola Normale Superiore di Pisa",
+    "year": null,
+    "venue": "Mnamon: Ancient writing systems in the Mediterranean (mnamon.sns.it)",
+    "url": "https://mnamon.sns.it/index.php?page=Esempi&id=10&lang=en",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Epigraphy / Etruscan",
+    "stance": "supports",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Marsiliana abecedarium)",
+    "quote": "It is thus at the same time both the oldest Etruscan and the oldest Greek alphabetary.",
+    "summary": "Mnamon's catalogue entry says the ivory writing tablet carries the complete alphabetic series of Greek writing as received in Etruria in the 8th century BC, so it is at once the oldest Etruscan and a very old Greek abecedarium. It lists the letters (alpha, beta, gamma ... chi) right to left.",
+    "limits": "The date given is 8th century BC; Wikipedia's Etruscan alphabet page says about 700 BC, and the Oxford Research Encyclopedia entry was blocked by Cloudflare so a 675-650 BCE figure seen only in a search snippet is not used. Single institutional page, no excavation report opened. Verifier: the page does not say 'Euboean' or name a route; strand 'from' lowered from 'Euboean Greeks (Greek alphabet)' to 'Greeks (Greek alphabet)'.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Marsiliana d'Albegna ivory writing tablet (abecedarium)",
+      "locator": "alphabet series on the frame",
+      "language": "Etruscan (model alphabet of Greek type); letters listed in transliteration on the page",
+      "edition": "Mnamon online catalogue entry 'Tablet from Marsiliana d'Albegna'",
+      "composition": {
+        "start": -800,
+        "end": -700,
+        "basis": "Mnamon: 'already in 8th century BC'; Wikipedia 'about 700 BC'. Range spans both; no dating article opened."
+      },
+      "witness": "The tablet itself, from Marsiliana d'Albegna near Grosseto, Tuscany."
+    },
+    "strand": {
+      "from": "Greeks (Greek alphabet)",
+      "to": "Etruscans",
+      "carried": "writing",
+      "what": "a full model Greek alphabet in Etruria",
+      "medium": "unknown",
+      "start": -800,
+      "end": -700,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Etruscan alphabet (Marsiliana tablet and Euboean origin)",
+    "authors": "Anonymous (Wikipedia contributors)",
+    "year": null,
+    "venue": "Wikipedia (English), page text as rendered 2026-11-17",
+    "url": "https://en.wikipedia.org/wiki/Etruscan_alphabet",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Epigraphy / Etruscan",
+    "stance": "context",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission",
+    "quote": "It dates from about 700 BC, and lists 26 letters corresponding to contemporary forms of the Greek alphabet",
+    "summary": "States that the earliest Etruscan abecedarium (Marsiliana tablet, ivory, 26 letters incl. digamma, san, qoppa, no omega) dates from about 700 BC and that the Etruscan alphabet is an adaptation of the Euboean alphabet of the Greek colonies at Pithekoussai and Cumae.",
+    "limits": "Encyclopedia summary; the route (Pithekoussai/Cumae) is stated, not shown by a dated chain of finds in the quoted passage. Gives about 700 BC where Mnamon gives the 8th century.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Euboean Greeks (Pithekoussai, Cumae)",
+      "to": "Etruscans",
+      "carried": "writing",
+      "what": "the Euboean ('red', western) alphabet adapted as the Etruscan alphabet",
+      "medium": "trade",
+      "start": -775,
+      "end": -700,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Herodotus, Histories 5.58 (Phoenician letters brought to Greece with Cadmus)",
+    "authors": "Herodotus; trans. A. D. Godley",
+    "year": 1920,
+    "venue": "Perseus Digital Library (Harvard University Press, Loeb-era translation)",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D5%3Achapter%3D58",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "supports",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Greek alphabet from Phoenicia)",
+    "quote": "brought with them to Hellas, among many other kinds of learning, the alphabet, which had been unknown before this, I think, to the Greeks.",
+    "summary": "Herodotus says the Phoenicians who came with Cadmus brought the alphabet to Hellas, that the Ionians learned it from them and altered the letter forms, and that the letters were called 'Phoenician'. The narrative is a Greek tradition written some three centuries after the early inscriptions, so it states the route but does not prove it.",
+    "limits": "Godley's English only; the Greek was not quoted. Herodotus says 'I think', and the Cadmus link is mythic. The date range is bounded only by the author's lifespan as given on Wikipedia (c. 484 - c. 425 BC); I opened no scholarly dating of the Histories.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Herodotus, Histories",
+      "locator": "5.58 sections 1-3",
+      "language": "Ancient Greek, quoted in English (A. D. Godley, Loeb, 1920)",
+      "edition": "Perseus text 1999.01.0126 (Godley), book 5 chapter 58",
+      "composition": {
+        "start": -450,
+        "end": -425,
+        "basis": "Bounded by Herodotus' lifespan (c. 484 - c. 425 BC) per Wikipedia 'Histories (Herodotus)'; not a scholarly dating of the work."
+      },
+      "witness": "Earliest manuscript witness not established in this run."
+    },
+    "strand": {
+      "from": "Phoenicia",
+      "to": "Greece",
+      "carried": "writing",
+      "what": "the alphabet ('Phoenician letters')",
+      "medium": "migration",
+      "start": -1000,
+      "end": -700,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "History of the Greek alphabet: early-date proposals",
+    "authors": "Anonymous (Wikipedia contributors)",
+    "year": null,
+    "venue": "Wikipedia (English), page text as rendered 2026-11-17",
+    "url": "https://en.wikipedia.org/wiki/History_of_the_Greek_alphabet",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Epigraphy / Greek",
+    "stance": "contradicts",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission",
+    "quote": "Some scholars argue for earlier dates: Naveh (1973) for the 11th century BC, Stieglitz (1981) for the 14th century,",
+    "summary": "Names scholars who put the Greek adoption of the Phoenician alphabet much earlier than the usual early-8th-century date (Naveh 11th c. BC, Stieglitz 14th c., Bernal earlier still) and says none is widely accepted. It is the debate over WHEN, not over whether, the alphabet passed from Phoenicia to Greece.",
+    "limits": "Encyclopedia summary of the dispute; the cited works (Naveh, Stieglitz, Bernal) were not opened, and the page's own Johnston 2003 summary of the consensus was not opened.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Phoenicia",
+      "to": "Greece",
+      "carried": "writing",
+      "what": "adoption of the Phoenician alphabet, date disputed",
+      "medium": "unknown",
+      "start": -1100,
+      "end": -750,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Al-Fihrist, 'Remarks about the Greek Script' (Cadmus and the Greek letters)",
+    "authors": "Ibn al-Nadim; trans. Bayard Dodge",
+    "year": 1970,
+    "venue": "Columbia University Press (scan on archive.org)",
+    "url": "https://archive.org/download/fihrist-of-al-nadim.-a-tenth-century-survey-of-muslim-culture.-ed.-and-transl.-b/Fihrist%20of%20al-Nadim.%20A%20Tenth-Century%20Survey%20of%20Muslim%20Culture.%20Ed.%20and%20transl.%20by%20B.%20Dodge.%20Vol.%201-2.%201970_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Arabic bibliography",
+    "stance": "context",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Fihrist; alphabet tradition)",
+    "quote": "bringing sixteen letters with which the Greeks wrote.",
+    "summary": "Ibn al-Nadim reports 'in some of the old histories' that the Greeks learned to write from two men who came from Egypt with sixteen letters, later extended to twenty-four. A tenth-century Arabic echo of the Cadmus tradition; it does not mention the Phoenicians in the passage read.",
+    "limits": "A secondhand tradition reported in 987 CE, not evidence of the 8th-century transfer; the Egypt source differs from Herodotus (Phoenicia). OCR of Dodge's English is rough ('Aghanun' printed with stray marks); quote taken from the clean words only. copy: unauthorised-looking upload; cite the publication, not this URL",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Kitab al-Fihrist (Ibn al-Nadim)",
+      "locator": "Chapter 1 (section one), 'Remarks about the Greek Script'",
+      "language": "Arabic, quoted in English (Bayard Dodge, 1970)",
+      "edition": "Dodge, The Fihrist of al-Nadim, Columbia UP 1970; archive.org OCR 'Fihrist of al-Nadim ... Vol. 1-2'",
+      "composition": {
+        "start": 987,
+        "end": 988,
+        "basis": "Dodge's introduction (opened): Ibn al-Nadim wrote the work in 987-988 CE (A.H. 377)."
+      },
+      "witness": "Dodge used the Flügel text and manuscripts including Beatty, Tonk and MS 1934; the earliest witness and its date were not established in this run."
+    },
+    "strand": {
+      "from": "Egypt (as the Fihrist's source reports)",
+      "to": "Greece",
+      "carried": "writing",
+      "what": "sixteen letters later extended to twenty-four",
+      "medium": "unknown",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Al-Fihrist, ch. 7: the Aristotle dream and the books from Byzantium",
+    "authors": "Ibn al-Nadim; trans. Bayard Dodge",
+    "year": 1970,
+    "venue": "Columbia University Press (scan on archive.org)",
+    "url": "https://archive.org/download/fihrist-of-al-nadim.-a-tenth-century-survey-of-muslim-culture.-ed.-and-transl.-b/Fihrist%20of%20al-Nadim.%20A%20Tenth-Century%20Survey%20of%20Muslim%20Culture.%20Ed.%20and%20transl.%20by%20B.%20Dodge.%20Vol.%201-2.%201970_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Arabic bibliography",
+    "stance": "context",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Fihrist on the translation movement)",
+    "quote": "This dream was one of the most definite reasons for the output of books.",
+    "summary": "Ibn al-Nadim narrates al-Ma'mun's dream of Aristotle and calls it 'one of the most definite reasons' for the plentiful output of books; he then says al-Ma'mun asked the Byzantine emperor for old scientific manuscripts and sent men to fetch and translate them.",
+    "limits": "The dream is a story, and Gutas (see his own candidate) reads it as ideology, not the cause of the translation movement. This is the Fihrist's account, written about 987, over a century and a half after the events. copy: unauthorised-looking upload; cite the publication, not this URL Verifier: the quoted sentence does not mention Byzantium or books being sent or translated, and it is a story reported c. 987; strand directness lowered documented -> debated and stance supports -> context.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Kitab al-Fihrist (Ibn al-Nadim)",
+      "locator": "Chapter 7 (Dodge p. 583-584), 'Mention of the Reason Why Books on Philosophy and Other Ancient Sciences Became Plentiful in This Country'",
+      "language": "Arabic, quoted in English (Bayard Dodge, 1970)",
+      "edition": "Dodge, The Fihrist of al-Nadim, Columbia UP 1970; archive.org OCR",
+      "composition": {
+        "start": 987,
+        "end": 988,
+        "basis": "Dodge's introduction (opened): written 987-988 CE (A.H. 377)."
+      },
+      "witness": "Not established in this run (Dodge's manuscripts: Beatty, Tonk, MS 1934)."
+    },
+    "strand": {
+      "from": "Byzantine and Greek scholarship",
+      "to": "Abbasid Baghdad",
+      "carried": "idea",
+      "what": "philosophy and ancient sciences, via books requested from Byzantium and translated",
+      "medium": "translation",
+      "start": 813,
+      "end": 833,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Al-Fihrist, 'Account of the Book Almagest' (Arabic translators)",
+    "authors": "Ibn al-Nadim; trans. Bayard Dodge",
+    "year": 1970,
+    "venue": "Columbia University Press (scan on archive.org)",
+    "url": "https://archive.org/download/fihrist-of-al-nadim.-a-tenth-century-survey-of-muslim-culture.-ed.-and-transl.-b/Fihrist%20of%20al-Nadim.%20A%20Tenth-Century%20Survey%20of%20Muslim%20Culture.%20Ed.%20and%20transl.%20by%20B.%20Dodge.%20Vol.%201-2.%201970_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Arabic bibliography",
+    "stance": "supports",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Fihrist; Almagest)",
+    "quote": "The first person to become interested in translating it and issuing it in Arabic was",
+    "summary": "Says the Almagest has thirteen sections and that Yahya ibn Khalid ibn Barmak was first to want it translated into Arabic; names later translators (al-Hajjaj ibn Matar, al-Nayrizi, Ishaq ibn Hunayn, Thabit ibn Qurra correcting). It dates the Arabic Almagest to the Abbasid translation movement.",
+    "limits": "The name 'Barak' is OCR for Barmak; no dates for the translations in the passage. The Fihrist is a late list, and its Hipparchus note ('said to have been his teacher') is a tradition. copy: unauthorised-looking upload; cite the publication, not this URL Verifier: the Fihrist is a c. 987 list and the quoted passage gives no date for the translation (start/end 780-900 are the researcher's); directness lowered documented -> inferred.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Kitab al-Fihrist (Ibn al-Nadim)",
+      "locator": "Chapter 7, 'Ptolemy, Author of the Book Almagest' and 'Account of the Book Almagest'",
+      "language": "Arabic, quoted in English (Bayard Dodge, 1970)",
+      "edition": "Dodge, The Fihrist of al-Nadim, Columbia UP 1970; archive.org OCR",
+      "composition": {
+        "start": 987,
+        "end": 988,
+        "basis": "Dodge's introduction (opened): written 987-988 CE."
+      },
+      "witness": "Not established in this run."
+    },
+    "strand": {
+      "from": "Hellenistic Greek astronomy (Ptolemy)",
+      "to": "Abbasid Baghdad",
+      "carried": "idea",
+      "what": "the Almagest, translated into Arabic",
+      "medium": "translation",
+      "start": 780,
+      "end": 900,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Greek Thought, Arabic Culture, ch. 3: 'Domestic policy and the translation movement: the Aristotelian dream and the ideology of rationalism'",
+    "authors": "Gutas, D.",
+    "year": 1998,
+    "venue": "Routledge (scan on archive.org)",
+    "url": "https://archive.org/download/DimitriGutasGreekThoughtArabicCultureTheGraecoArabicTranslationMovementInBaghdad/Dimitri%20Gutas-Greek%20Thought%2C%20Arabic%20Culture_%20The%20Graeco-Arabic%20Translation%20Movement%20in%20Baghdad%20and%20Early%20%27Abbasaid%20Society%20%282nd-4th%205th-10th%20c.%29%20%28Arabic%20Thought%20%26%20Culture%29%20%20-Routledge%20%281998%29_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "History of science / Arabic studies",
+    "stance": "context",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (scholarly caution on the Fihrist)",
+    "quote": "Their emotive content makes them preferred means for the communication and diffusion of attitudes, ideas, positions",
+    "summary": "Gutas argues that dreams were used for propaganda and that the Fihrist's Aristotle dream must be read critically against al-Ma'mun's rationalist (Mu'tazilite) policy; it is the main scholarly caution on taking the dream as the cause of the translation movement.",
+    "limits": "OCR of the archive.org scan is poor; the quote was verified word for word on the page. I read only the opening of the section, not the whole argument or his dating of the dream's sources. copy: unauthorised-looking upload; cite the publication, not this URL Verifier: the quoted sentence is a general remark on dreams and does not itself fail to support or contradict the Fihrist's account; stance fails_to_support -> context.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Ptolemy's Almagest IV.2 'On the periods of the moon' (Hipparchus and the Chaldaean observations)",
+    "authors": "Ptolemy; trans. G. J. Toomer",
+    "year": 1984,
+    "venue": "Duckworth (scan of the Toomer translation, classicalliberalarts.com)",
+    "url": "https://classicalliberalarts.com/resources/PTOLEMY_ALMAGEST_ENGLISH.pdf",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Astronomy / Greek science",
+    "stance": "supports",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Almagest IV.2)",
+    "quote": "Hipparchus already proved, by calculations from observations made by the Chaldaeans",
+    "summary": "Ptolemy says Hipparchus proved by calculation from Chaldaean observations and his own that the older 6585-day 'Periodic' was inexact, and gives Hipparchus's 126007 days plus 1 hour containing 4267 months. It is Ptolemy's own statement that Babylonian records fed Greek lunar theory.",
+    "limits": "Toomer's footnote on the page says Ptolemy's account is 'not historically accurate' (see the next candidate). The scan's OCR is poor ('liis' for 'his'); the quote is the clean part, matched after removing spaces. A 26 MB PDF could not be fetched within check_quote's timeout, so the quote was confirmed on the downloaded copy of this URL instead. copy: unauthorised-looking upload; cite the publication, not this URL",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Ptolemy, Almagest (Mathematike Syntaxis)",
+      "locator": "IV.2 (Heiberg pp. 269-271)",
+      "language": "Ancient Greek, quoted in English (G. J. Toomer, 1984)",
+      "edition": "Toomer, Ptolemy's Almagest, Duckworth 1984 (scan)",
+      "composition": {
+        "start": 147,
+        "end": null,
+        "basis": "Wikipedia 'Almagest': written possibly around 150, after the Canopic Inscription of 147/148; upper bound left open."
+      },
+      "witness": "Earliest Greek manuscripts: Parisinus gr. 2389 and Vaticanus gr. 1594, both 9th c. (Toomer's list of mss on the scan)."
+    },
+    "strand": {
+      "from": "Babylonian (Chaldaean) astronomy",
+      "to": "Greek astronomy (Hipparchus, then Ptolemy)",
+      "carried": "idea",
+      "what": "lunar period relations and eclipse records",
+      "medium": "text",
+      "start": -150,
+      "end": -125,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Ptolemy's Almagest V.14 (Babylonian lunar eclipse of -620, fifth year of Nabopolassar)",
+    "authors": "Ptolemy; trans. G. J. Toomer",
+    "year": 1984,
+    "venue": "Duckworth (scan of the Toomer translation, classicalliberalarts.com)",
+    "url": "https://classicalliberalarts.com/resources/PTOLEMY_ALMAGEST_ENGLISH.pdf",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Astronomy / Greek science",
+    "stance": "supports",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Almagest V.14)",
+    "quote": "at the end of the eleventh hour in Babylon, the moon began to be eclipsed",
+    "summary": "Ptolemy uses dated eclipse observations from Babylon, including one in the fifth year of Nabopolassar (-620 Apr. 21/22) timed 'in Babylon', to fix the moon's apparent diameter. Shows Babylonian dated records inside the Almagest.",
+    "limits": "Ptolemy gives the observation in Egyptian-calendar terms; whether he drew it from a cuneiform record or via Hipparchus is not stated in the passage. Newton (candidate below) calls this eclipse fabricated. OCR spacing is poor, quote confirmed space-insensitively on the downloaded copy. copy: unauthorised-looking upload; cite the publication, not this URL",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Ptolemy, Almagest",
+      "locator": "V.14 (Heiberg p. 418ff.)",
+      "language": "Ancient Greek, quoted in English (G. J. Toomer, 1984)",
+      "edition": "Toomer, Ptolemy's Almagest, Duckworth 1984 (scan)",
+      "composition": {
+        "start": 147,
+        "end": null,
+        "basis": "Wikipedia 'Almagest': written possibly around 150, after the Canopic Inscription of 147/148."
+      },
+      "witness": "Earliest Greek manuscripts: Parisinus gr. 2389 and Vaticanus gr. 1594, both 9th c."
+    },
+    "strand": {
+      "from": "Babylonian astronomy",
+      "to": "Greek astronomy",
+      "carried": "idea",
+      "what": "dated lunar eclipse observations (e.g. 620 BCE)",
+      "medium": "text",
+      "start": -620,
+      "end": -150,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Toomer's footnote to Almagest IV.2: Ptolemy's account 'not historically accurate'",
+    "authors": "Toomer, G. J.",
+    "year": 1984,
+    "venue": "Duckworth (scan of the Toomer translation, classicalliberalarts.com)",
+    "url": "https://classicalliberalarts.com/resources/PTOLEMY_ALMAGEST_ENGLISH.pdf",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "History of astronomy",
+    "stance": "contradicts",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Almagest IV.2 caution)",
+    "quote": "Ptolemy's account here is not historically accurate. In fact Hipparchus took from Babylonian sources the parameters",
+    "summary": "Toomer corrects Ptolemy: Hipparchus took his parameters for the synodic month and period relations from Babylonian sources and then confirmed them with eclipses 345 years apart, rather than deriving them as Ptolemy says. It supports the transfer but corrects the route.",
+    "limits": "A translator's note, as read on an OCR scan; the pages of Toomer's introduction on method were not opened. Quote confirmed space-insensitively on the downloaded copy. copy: unauthorised-looking upload; cite the publication, not this URL",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Babylonian astronomy",
+      "to": "Greek astronomy (Hipparchus)",
+      "carried": "idea",
+      "what": "lunar parameters (29;31,50,8,20 days; 251 and 5458 month relations)",
+      "medium": "text",
+      "start": -150,
+      "end": -125,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "The Adaptation of Babylonian Methods in Greek Numerical Astronomy",
+    "authors": "Jones, A.",
+    "year": 1991,
+    "venue": "Isis 82: 441-453",
+    "url": "https://archive.nyu.edu/bitstream/2451/49537/2/Jones%201991%20Adaptation%20of%20Babylonian%20Methods%20Isis.pdf",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "History of astronomy",
+    "stance": "supports",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Hipparchus and Babylon)",
+    "quote": "Hipparchus had access to Babylonian data, both observational and theoretical, on a much larger scale",
+    "summary": "Jones says Hipparchus had access to Babylonian observational and theoretical data on a far larger scale than any earlier Greek source; Kugler showed in 1900 that Hipparchus's lunar period relations came from cuneiform System B texts.",
+    "limits": "Review article, not the primary tablets; the page text beyond the opening was not read in full. JSTOR-provided scan via NYU archive.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Babylonian astronomy",
+      "to": "Greek astronomy (Hipparchus)",
+      "carried": "idea",
+      "what": "observational and theoretical data, lunar period relations",
+      "medium": "text",
+      "start": -150,
+      "end": -125,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "The Strange Case of Claudius Ptolemy",
+    "authors": "Newton, R. R.",
+    "year": null,
+    "venue": "Johns Hopkins APL Technical Digest 16(2)",
+    "url": "https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/APL-V16-N02/APL-16-02-Newton.pdf",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "History of astronomy",
+    "stance": "contradicts",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (sceptical pass on the Almagest's Babylonian eclipses)",
+    "quote": "most of those early Babylonian \"observations\" were in fact fabricated by Ptolemy",
+    "summary": "Newton argues that most of the early Babylonian 'observations' reported in the Almagest were fabricated by Ptolemy, and lists the -620 and -522 eclipses (Almagest V.14) as fabricated.",
+    "limits": "A strongly sceptical view; Toomer's edition and Jones (above) treat the Babylonian records as usable evidence; Newton came to the question from navigation work at the Applied Physics Laboratory (his own account on the page) and publishes in the laboratory's technical digest; his recomputation was not reproduced here. The year is not printed on the page text (Vol. 16, No. 2). The PDF is a 9 MB scan; check_quote's layout mode merges the two columns, so the quote was confirmed in plain pdftotext of the same URL.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Babylonian astronomy",
+      "to": "Greek astronomy (Ptolemy)",
+      "carried": "idea",
+      "what": "dated eclipse observations (alleged to be fabricated)",
+      "medium": "text",
+      "start": -720,
+      "end": 150,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "The Algebra of Mohammed ben Musa, Arabic preface (Rosen translation)",
+    "authors": "Muhammad ibn Musa al-Khwarizmi; ed. and trans. F. Rosen",
+    "year": 1831,
+    "venue": "Oriental Translation Fund, London (scan on archive.org)",
+    "url": "https://archive.org/stream/algebraofmohamme00khuwuoft/algebraofmohamme00khuwuoft_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Mathematics / Arabic",
+    "stance": "supports",
+    "ask_addressed": "Give composition or inscription date with basis, the object or manuscript witness, and the edition read.",
+    "quote": "has encouraged me to compose a short work on Calculating by (the rules of) Completion and Reduction, confining it to what is easiest",
+    "summary": "In his preface al-Khwarizmi says the caliph al-Ma'mun's love of science encouraged him to write a short work on calculating by Completion and Reduction, confined to what is easiest and most useful for inheritance, trade and surveying. It is the opening of the earliest surviving Arabic algebra.",
+    "limits": "Rosen's 1831 English; the text was copied in 1342 CE, five centuries after composition. The preface does not mention Indian or Greek sources.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Kitab al-mukhtasar fi hisab al-jabr wa-l-muqabala (The Algebra of Mohammed ben Musa)",
+      "locator": "Preface, English pp. 3-4",
+      "language": "Arabic, quoted in English (F. Rosen, 1831)",
+      "edition": "Rosen, The Algebra of Mohammed ben Musa, 1831; archive.org OCR 'algebraofmohamme00khuwuoft'",
+      "composition": {
+        "start": 813,
+        "end": 833,
+        "basis": "Karpinski 1915 (opened): al-Mamun reigned 813-833, activity of al-Khwarizmi 'about 825 A.D.'; preface names al-Mamun."
+      },
+      "witness": "Bodleian MS Hunt 214, transcribed A.H. 743 (A.D. 1342), the only copy Rosen could trace (Rosen's introduction)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "The Algebra of Mohammed ben Musa, Rosen's introduction (Hindu or Diophantine source?)",
+    "authors": "Rosen, F.",
+    "year": 1831,
+    "venue": "Oriental Translation Fund, London (scan on archive.org)",
+    "url": "https://archive.org/stream/algebraofmohamme00khuwuoft/algebraofmohamme00khuwuoft_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Mathematics / Arabic",
+    "stance": "context",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (al-Khwarizmi's Algebra: source question)",
+    "quote": "far more probable that the Arabs received their first knowledge of Algebra from the Hindus",
+    "summary": "Rosen argues that al-Khwarizmi's rules resemble Diophantus and the Hindu mathematicians, that the Arabs had no Diophantus until after the 4th century of the Hijra, and so it is far more probable they got algebra from the Hindus; he also says al-Khwarizmi's method of exposition is independent of the Hindus.",
+    "limits": "A 19th-century editor's inference from comparison, not a documented route; modern work (not opened here) debates Babylonian, Greek and Indian strands. OCR lines run together across page footers; quote confirmed on the page text.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "India (Hindu mathematics)",
+      "to": "Arabic mathematics (al-Khwarizmi)",
+      "carried": "idea",
+      "what": "algebraic rules and the decimal notation",
+      "medium": "text",
+      "start": 600,
+      "end": 825,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Robert of Chester's Latin translation of the Algebra of al-Khowarizmi, opening (Karpinski's English version)",
+    "authors": "Robert of Chester (trans., Segovia 1145); L. C. Karpinski (ed. and trans.)",
+    "year": 1915,
+    "venue": "Macmillan, New York (scan on archive.org)",
+    "url": "https://archive.org/stream/robertofchesters00khuw/robertofchesters00khuw_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Mathematics / Latin",
+    "stance": "supports",
+    "ask_addressed": "Give composition or inscription date with basis, the object or manuscript witness, and the edition read. Robert of Chester's Latin Algebra",
+    "quote": "Praise God the creator who has bestowed upon man the power to discover the significance of numbers.",
+    "summary": "Karpinski's English of Robert's Latin opens the Liber algebrae et almucabola with praise of God and a reflection on number, differing from the Arabic preface Rosen translated; Karpinski says the Arabic introduction is not in the extant Latin versions, so Robert's text carries no al-Ma'mun dedication.",
+    "limits": "The English is Karpinski's, not Robert's own words; the Latin has the incipit 'Incipit liber restauracionis'. Robert's Liber de compositione alchemiae preface was not opened. The Latin and English quote are the opening of the arithmetical part.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Liber algebrae et almucabola (Robert of Chester, Latin Algebra)",
+      "locator": "opening of the text",
+      "language": "Medieval Latin, quoted in English (L. C. Karpinski, 1915)",
+      "edition": "Karpinski, Robert of Chester's Latin Translation of the Algebra of al-Khowarizmi, Macmillan 1915; archive.org OCR 'robertofchesters00khuw'",
+      "composition": {
+        "start": 1145,
+        "end": 1145,
+        "basis": "Colophon in the manuscripts, as printed by Karpinski, dates the translation to the Spanish Era year 1183, i.e. A.D. 1145 (Karpinski's note)."
+      },
+      "witness": "Vienna Codex 4770 (Rec. 3246), 14th c., is the earliest listed in the part of Karpinski's manuscript list that I read; Dresden C. 80 is 15th c."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "inscriptions-and-science-primary",
+    "records": [],
+    "title": "Robert of Chester's colophon: translated at Segovia in the Spanish Era year 1183",
+    "authors": "Robert of Chester (trans.); L. C. Karpinski (ed.)",
+    "year": 1915,
+    "venue": "Macmillan, New York (scan on archive.org)",
+    "url": "https://archive.org/stream/robertofchesters00khuw/robertofchesters00khuw_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Mathematics / Latin",
+    "stance": "supports",
+    "ask_addressed": "Quote the primary inscriptions and texts for writing and science transmission (Robert of Chester)",
+    "quote": "Robert of Chester in the city of Segovia translated into Latin from the Arabic",
+    "summary": "The closing note says Robert of Chester, in the city of Segovia, translated the Book of Restoration and Opposition of number into Latin from the Arabic in the year 1183 of the Spanish Era (A.D. 1145 by Karpinski's note). It is a dated statement of the Arabic-to-Latin transfer of algebra.",
+    "limits": "Colophon as printed in Karpinski's edition from the manuscripts; the OCR prints 'in the year 11 83'. The relation of Robert's Latin to the Arabic text is Karpinski's analysis and was not read in full here; Karpinski's own title says it was 'Written some time ago in Arabic by an unknown author'.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Liber algebrae et almucabola (explicit)",
+      "locator": "closing lines",
+      "language": "Medieval Latin, quoted in English (L. C. Karpinski, 1915)",
+      "edition": "Karpinski, 1915 edition; archive.org OCR",
+      "composition": {
+        "start": 1145,
+        "end": 1145,
+        "basis": "Date in the colophon (Spanish Era 1183 = A.D. 1145), as printed by Karpinski."
+      },
+      "witness": "Vienna 4770 (14th c.) and Dresden C. 80 (15th c.) per Karpinski; not a complete survey."
+    },
+    "strand": {
+      "from": "Arabic (Abbasid) mathematics",
+      "to": "Latin Europe",
+      "carried": "idea",
+      "what": "algebra of al-Khwarizmi's tradition, translated at Segovia",
+      "medium": "translation",
+      "start": 1145,
+      "end": 1145,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  }
+]
