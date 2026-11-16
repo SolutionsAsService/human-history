@@ -77,10 +77,10 @@ if (idle.length) warn(`cultures with no strands: ${idle.join(', ')}`);
 const linked = new Set<string>(); LINKS.forEach(l => { linked.add(l.a); linked.add(l.b); });
 const orphans = ENTRIES.filter(e => !linked.has(e.id)).map(e => e.id);
 if (orphans.length) warn(`${orphans.length} entries have no graph links yet: ${orphans.join(', ')}`);
-const unused = SOURCES.filter(s => !ENTRIES.some(e => e.sources.includes(s.id)) && !EVENTS.some(e => e.sources.includes(s.id)) && !MIGRATIONS.some(e => e.sources.includes(s.id)) && !STRANDS.some(x => x.src.includes(s.id)) && !QUESTIONS.some(q => q.options.some(o => o.sources.includes(s.id))) && !LINKS.some(l => l.src.includes(s.id)));
+const unused = SOURCES.filter(s => !ENTRIES.some(e => e.sources.includes(s.id)) && !EVENTS.some(e => e.sources.includes(s.id)) && !MIGRATIONS.some(e => e.sources.includes(s.id)) && !STRANDS.some(x => x.src.includes(s.id)) && !PASSAGES.some(x => x.src === s.id) && !QUESTIONS.some(q => q.options.some(o => o.sources.includes(s.id))) && !LINKS.some(l => l.src.includes(s.id)));
 if (unused.length) warn(`unused sources: ${unused.map(s => s.id).join(', ')}`);
 
-console.log(`cultures ${CULTURES.length} · threads ${THREADS.length} · strands ${STRANDS.length}`);
+console.log(`cultures ${CULTURES.length} · threads ${THREADS.length} · strands ${STRANDS.length} · passages ${PASSAGES.length} (${new Set(STRANDS.flatMap(s => s.passages ?? [])).size} attached)`);
 console.log(`entries ${ENTRIES.length} · events ${EVENTS.length} · migrations ${MIGRATIONS.length} · links ${LINKS.length} · questions ${QUESTIONS.length} · sources ${SOURCES.length}`);
 for (const w of warns) console.log('WARN ', w);
 for (const e of errors) console.log('ERROR', e);

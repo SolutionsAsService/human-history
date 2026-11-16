@@ -37,7 +37,8 @@ export const CULTURES: Culture[] = [
   C('steppe-east', 'Eastern steppe (Mongolia)', 'Steppe', -2000, -500),
   C('steppe-neighbours', 'Uralic, Turkic and early Chinese speakers', 'Steppe', -3000, 0),
   C('mesopotamia', 'Mesopotamia', 'Near East', -3500, -539),
-  C('anatolia', 'Anatolia', 'Near East', -2000, -1000),
+  C('anatolia', 'Anatolia and the Hittite world', 'Near East', -2000, -1000),
+  C('mitanni', 'Mitanni (Hurrian kingdom)', 'Near East', -1500, -1300),
   C('near-east-iron', 'Wider Near East (Iron Age)', 'Near East', -1200, -500),
   C('colchis', 'South Caucasus (Colchis)', 'Near East', -1300, -500),
   C('proto-sinaitic', 'Sinai (Proto-Sinaitic inscriptions)', 'Near East', -1900, -1000),
@@ -47,6 +48,7 @@ export const CULTURES: Culture[] = [
   C('egypt-roman', 'Ptolemaic and Roman Egypt', 'Egypt', -332, 641, ['graeco-egyptian-alchemy', 'chemia-egypt-name']),
   C('achaemenid', 'Achaemenid Persia', 'Iran', -550, -330),
   C('parthian-sasanian', 'Parthian and Sasanian Iran', 'Iran', -247, 651),
+  C('bactria', 'Bactria, Ferghana and Central Asia', 'Central Asia', -300, 300),
   C('india', 'India', 'South and East Asia', -1500, 1200),
   C('china', 'China', 'South and East Asia', -1600, 1700),
   C('greece-archaic', 'Archaic and Classical Greece', 'Mediterranean', -800, -323),
@@ -69,6 +71,8 @@ export const THREADS: Thread[] = [
   { id: 'th-persia', name: 'Persian ideas and institutions', carried: 'idea', blurb: 'Greek writers record Persian words and ideas; whether Persian models shaped Judaism, Hellenistic states or the Abbasid court is where specialists disagree. Most strands here rest on one source and are graded accordingly.' },
   { id: 'th-science', name: 'Numerals, science and paper', carried: 'idea', blurb: 'The best-documented thread: Indian numerals and Greek science reached Latin Europe through Arabic translation. The earlier and the technological links (Babylon to Hipparchus, paper, printing) are thinner.' },
   { id: 'th-alchemy', name: 'Khemet, alchemy and chemistry', carried: 'technology', blurb: 'Egyptian craft chemistry, the Greek recipe books of Roman Egypt, and the Arabic and Latin road to early modern chymistry. See also the ledger records and hypothesis lab on the same subject.' },
+  { id: 'th-bible', name: 'The Bible and its neighbours', carried: 'idea', blurb: 'Passages of the Hebrew Bible set beside the Mesopotamian, Egyptian and Persian texts they are compared with, each quoted at its locus. Resemblance is not proof of borrowing: every strand here records what the passages share, where they differ, and the scholar who doubts the link.' },
+  { id: 'th-silk', name: 'Silk Road contacts', carried: 'people', blurb: 'Chinese court histories and Indian edicts that record contact between distant states: goods, envoys, Buddhist practice, paper. Composition dates are the histories’, written after the events.' },
   { id: 'th-myth', name: 'Very old shared myths', carried: 'idea', blurb: 'Witzel and d’Huy argue for myths older than the peopling of the Americas. All sources opened here are the proponents’ own; the independent criticism could not be opened, so these strands are graded cautiously.' },
 ];
 
@@ -207,3 +211,120 @@ export const STRANDS: Strand[] = [
     for: ['d’Huy’s tree of 19 versions: consistency index 0.59, retention index 0.71, “low horizontal transmissions”'], against: ['d’Huy admits runs with modified data “could be less reliable”', 'He attributes some clusters, such as the Tuareg story, to borrowing', 'The motif is found “nowhere” missing on the planet, a distribution statement rather than a transfer'], src: ['g_dhuy2013'] }),
 ];
 void n;
+
+// ================================================================ Primary-text strands (RDADA run 2026-11-17)
+// Passages are quoted from editions the RDADA researcher opened; a separate verifier re-found every quote and re-checked its
+// locator and date basis. Directness and status are the editor's reading of those passages, and every parallel records its
+// strongest doubt. `X` adds to a strand written above; `T` adds a new one.
+
+const X = (id: string, add: { passages?: string[]; src?: string[]; for?: string[]; against?: string[]; note?: string }) => {
+  const s = STRANDS.find(x => x.id === id);
+  if (!s) throw new Error('unknown strand ' + id);
+  s.passages = [...(s.passages ?? []), ...(add.passages ?? [])];
+  s.src = [...new Set([...s.src, ...(add.src ?? [])])];
+  s.for.push(...(add.for ?? [])); s.against.push(...(add.against ?? []));
+  if (add.note) s.note += ' ' + add.note;
+};
+
+// ---- extend strands already drawn
+X('s-flood-hebrew', { passages: ['p_genesis_614', 'p_genesis_811', 'p_atrahasisoldba_c2i2224', 'p_epicofgilgames_xilines3439r', 'p_epicofgilgames_xiline4646a'], src: ['g_wasserman2020', 'g_rogers1926', 'g_battenfield1971', 'w_genesisfloodnarrative'],
+  for: ['Genesis 6:14 (build the ark) and Atrahasis (build the boat) both give construction orders; Genesis 8:21 and Gilgamesh XI both have the deity smell the offering after the flood', 'Gilgamesh XI has a bird-release sequence (dove, swallow, raven) beside Genesis 8'],
+  against: ['The Old Babylonian Atrahasis text quoted has no bird episode (it is in Gilgamesh XI)', 'Battenfield argues all three accounts go back to one historical flood, which would make the likeness a common source rather than borrowing'] });
+X('s-persia-judaism', { passages: ['p_isaiah_4557', 'p_daniel_1213', 'p_yasnaahunavait_3036', 'p_yasnaahunavait_30710'], src: ['g_cyruscylinder2020', 'g_zoroastrianismnd', 'g_ehrman2017', 'g_antia2012', 'g_silverman2011', 'g_mills1898'],
+  against: ['The ISBE entry holds that nothing in Judaism’s formal theology is “borrowed”', 'Bremmer (2002, via Ehrman) argues against deriving resurrection from Persia, and Mark S. Smith (2001, via a partisan compilation) that Zoroastrian dualism “does not truly resemble biblical monotheism”: both second-hand', 'Silverman, who argues for the influence, concedes the field has “severe problems in method”'],
+  for: ['Isaiah 45:5–7 (“I form light and create darkness”) and Daniel 12:1–3 (resurrection and judgement) are the passages most often set beside the Gathic dualism of Yasna 30, which is quoted alongside them'] });
+X('s-buddhism-india-china', { passages: ['p_houhanshu_88tianzhuclo'], src: ['g_fan445b', 'g_pelliot1919'],
+  against: ['Fan Ye (Hou Hanshu 88) introduces the Ming dream as “世傳”, a tradition', 'Pelliot (1919) calls the dream and the embassy legendary'] });
+X('s-babylon-hipparchus', { passages: ['p_ptolemyalmages_iv2heibergpp', 'p_ptolemyalmages_v14heibergp4'], src: ['g_ptolemy1984', 'g_jones1991', 'g_newtonnd'],
+  for: ['Ptolemy (Almagest IV.2) says Hipparchus used the Chaldaean observations, and V.14 dates an eclipse “in Babylon” to a Babylonian king’s year', 'Jones (1991) shows Hipparchus’s parameters agree with Babylonian ones'],
+  against: ['Toomer’s footnote says Ptolemy’s account is “not historically accurate”', 'Newton argues Ptolemy fabricated many of the early observations'],
+  note: 'Upgraded from a pointer: the primary text and a specialist article were opened. Ptolemy wrote about 300 years after Hipparchus.' });
+X('s-writing-phoenician-greek', { passages: ['p_dipylonoinocho_46lettersrou', 'p_nestorscupinsc_threelinesri', 'p_herodotushisto_558sections1', 'p_ahiramsarcopha_rimofcoffina'], src: ['w_dipyloninscription', 'w_nestor27scuppithekoussai', 'g_herodotus1920c', 'w_ahiramsarcophagus', 'w_historyofthegreekalphabet'],
+  for: ['The Dipylon oinochoe and Nestor’s Cup carry some of the earliest Greek alphabetic writing (c. 740–720 BCE per the pointer pages)'],
+  against: ['The Ahiram sarcophagus inscription, the usual Phoenician comparison, is dated either c. 1000 or c. 850 BCE', 'Proposals for a much earlier Greek alphabet (Naveh, Stieglitz, Bernal) are reported as contradicting the usual date'] });
+X('s-writing-greek-latin', { passages: ['p_marsilianadalb_alphabetseri'], src: ['g_mnamonnd', 'w_etruscanalphabet'], for: ['The Marsiliana tablet is an Etruscan alphabet series: the Etruscans wrote a Greek alphabet'] });
+X('s-numerals-latin', { passages: ['p_liberalgebraee_openingofthe', 'p_liberalgebraee_closinglines'], src: ['g_robert1915', 'g_muhammad1831'],
+  for: ['Robert of Chester’s Latin Algebra closes with a colophon at Segovia dated Spanish Era 1183, that is 1145 CE'], against: ['The editors who read the Arabic and Latin texts (Rosen 1831, Karpinski 1915) are nineteenth- and early-twentieth-century; modern work on al-Khwarizmi’s sources was not opened'] });
+X('s-greek-arabic-translation', { passages: ['p_kitabalfihrist_chapter7dodg', 'p_kitabalfihrist_chapter7ptol'], src: ['g_ibn1970', 'g_gutas1998b'],
+  for: ['The Fihrist (c. 987) lists the Arabic translators of the Almagest'],
+  against: ['The Fihrist’s story of al-Ma’mun’s Aristotle dream is late (c. 987) and Gutas reads it as propaganda for the movement, not a record of its start'] });
+X('s-paper-islam', { src: ['g_fan445c', 'w_cailun'], for: ['Hou Hanshu 78 credits Cai Lun with presenting paper in 105 CE'], against: ['Fangmatan paper (179–141 BCE) predates Cai Lun, so the 105 CE story is not the invention of paper (pointer sources)'] });
+X('s-persia-abbasid', { src: [], note: '' });
+
+const T2 = (id: string, s: SInit) => STRANDS.push(T(id, s));
+
+// ---- the Bible and its neighbours
+T2('s-creation-enuma', { thread: 'th-bible', from: 'mesopotamia', to: 'israel-judah', carried: 'idea', what: 'The divided waters of creation (Enuma Elish) beside Genesis 1:6', medium: 'text', start: -1000, end: -500, directness: 'debated', status: 'E4',
+  note: 'Enuma Elish has the god split the sea-goddess; Genesis 1:6 has a firmament separating the waters. The wording is not close, and the composition date of Enuma Elish itself is disputed.',
+  for: ['Both accounts make an ordered cosmos by dividing primeval waters'], against: ['Dating of Enuma Elish is disputed: a Second Dynasty of Isin origin is the usual view, a later Kassite one is argued, and no date is asserted here', 'The sources opened are old translations and encyclopedia summaries; no modern comparative study was opened'],
+  passages: ['p_genesis_16', 'p_enumaelishbaby_tabletilines', 'p_enumaelishbaby_tabletivline', 'p_enumaelishbaby_tabletilines2'], src: ['g_rogers1926', 'g_king1902', 'w_enumaelish', 'w_genesiscreationnarrative'] });
+T2('s-sargon-moses', { thread: 'th-bible', from: 'mesopotamia', to: 'israel-judah', carried: 'idea', what: 'An abandoned infant set afloat in a basket (the Sargon legend and Exodus 2)', medium: 'text', start: -750, end: -600, directness: 'debated', status: 'E5',
+  note: 'Both stories have a child laid in a pitch-sealed basket on a river. The only source opened arguing direct adaptation is a non-peer-reviewed preprint; the usual view is a shared motif.',
+  for: ['Exodus 2:3 and the Sargon legend both have a pitch-sealed basket on the river'], against: ['The one source arguing direct adaptation is a preprint (Maranz 2025) and is a minority position', 'The motif of the exposed hero child is widespread and need not be borrowed'],
+  passages: ['p_exodus_23', 'p_legendofsargon_columniiilin'], src: ['g_maranz2025', 'g_rogers1926'] });
+T2('s-amenemope-proverbs', { thread: 'th-bible', from: 'egypt-pharaonic', to: 'israel-judah', carried: 'idea', what: 'Maxims on moving boundary stones: Amenemope ch. 6 and Proverbs 22:28', medium: 'text', start: -1300, end: -600, directness: 'debated', status: 'E3',
+  note: 'The best-known textual parallel between the Hebrew Bible and an Egyptian text. Lichtheim gives the consensus that Amenemope is Ramesside; Ruffle doubts that a direct connection can be shown.',
+  for: ['Amenemope ch. 6 and Proverbs 22:28 both forbid moving the ancient boundary marker', 'Both works are set out in numbered sayings (Amenemope “thirty chapters”; Proverbs 22:20 “thirty”) according to the sources opened'], against: ['Ruffle: “some doubt about the existence of a direct connection”', 'Lichtheim’s introduction records the reverse-direction and lost-common-source alternatives', 'The date of Proverbs 22:17–24:22 is not established in any source opened'],
+  passages: ['p_instructionofa_chapter6', 'p_instructionofa_chapter6vii1', 'p_proverbs_222829', 'p_proverbs_2228', 'p_instructionofa_chapter30xxv'], src: ['g_van2016', 'g_lichtheim2006', 'g_ruffle1975', 'g_proverbs2228291985'] });
+T2('s-aten-psalm104', { thread: 'th-bible', from: 'egypt-pharaonic', to: 'israel-judah', carried: 'idea', what: 'Night and the beasts of the forest: the Great Hymn to the Aten and Psalm 104', medium: 'text', start: -1350, end: -600, directness: 'debated', status: 'E4',
+  note: 'Both hymns praise a creator who gives the beasts their night and the day its work. Lichtheim judged a specific literary dependence “not probable”.',
+  for: ['The Aten hymn’s night strophe and Psalm 104:20–24 both describe beasts moving at night and man at work by day'], against: ['Lichtheim: “A specific literary interdependence is not probable”', 'Mark S. Smith (via Wikipedia) says enthusiasm for even indirect influence has cooled', 'The Psalm’s date is not established in any source opened'],
+  passages: ['p_greathymntothe_nightstrophe', 'p_greathymntothe_westwall13co', 'p_psalms_1042024', 'p_psalms_10421'], src: ['g_breasted1912', 'g_lichtheim2006', 'g_psalm10420241985', 'w_psalm104', 'w_greathymntotheaten'] });
+T2('s-hammurabi-covenant', { thread: 'th-bible', from: 'mesopotamia', to: 'israel-judah', carried: 'institution', what: 'The goring ox and “eye for eye”: Hammurabi 196, 251 and Exodus 21', medium: 'text', start: -740, end: -640, directness: 'debated', status: 'E4',
+  note: 'Cases in Exodus 21 resemble laws in Hammurabi’s Code. Wright argues direct dependence; most scholars, as his publisher’s synopsis says, favour a shared legal tradition.',
+  for: ['Exodus 21:29 (the ox known to gore) and Hammurabi 251 treat the same case; Exodus 21:24 and Hammurabi 196 both state an eye for an eye'], against: ['A shared legal tradition, transmitted orally, is the majority view (publisher synopsis of Wright)', 'Landsberger and others object that Hammurabi’s text is not a legal code in the modern sense (via a pointer page)', 'The date of the Covenant Code is not established in any source opened'],
+  passages: ['p_exodus_2129', 'p_codeofhammurab_laws251', 'p_exodus_2124', 'p_codeofhammurab_laws196197'], src: ['g_harper1904', 'g_wright2009', 'w_codeofhammurabi'] });
+T2('s-persia-restoration', { thread: 'th-bible', from: 'achaemenid', to: 'israel-judah', carried: 'institution', what: 'Cyrus’s edict and the Judaean return (Ezra 1, 6; 2 Chronicles 36) against the Cyrus Cylinder', medium: 'court_or_empire', start: -539, end: -515, directness: 'debated', status: 'E3',
+  note: 'The Hebrew Bible says Cyrus authorised the rebuilding of the Temple. The Cyrus Cylinder shows Cyrus restoring sanctuaries and returning displaced gods and peoples in Babylonia, but never mentions Jews, Jerusalem or Judea.',
+  for: ['Ezra 1:1–4, 6:3–5 and 2 Chronicles 36:22–23 give Cyrus’s decree', 'Cyrus Cylinder lines 30–33 record him returning gods and settling displaced peoples'], against: ['Livius’s introduction: no evidence of a new tolerance policy, and the Judaean return is not in the text', 'Ezra–Nehemiah and Chronicles are dated about 400–200 BCE from encyclopedia pages, long after the events'],
+  passages: ['p_ezra_114', 'p_ezra_635', 'p_2chronicles_362223', 'p_isaiah_4428451', 'p_cyruscylinderb_lines3033'], src: ['g_cyruscylinder2020', 'g_cyruscylindernd', 'w_isaiahscroll'] });
+// ---- the Mesopotamian road
+T2('s-gilgamesh-hatti', { thread: 'th-bible', from: 'mesopotamia', to: 'anatolia', carried: 'writing', what: 'Gilgamesh and Atrahasis copied and translated in the Hittite capital', medium: 'text', start: -1500, end: -1200, directness: 'documented', status: 'E2',
+  note: 'The register of texts found at Hattusa lists Akkadian and Hittite Gilgamesh and Atrahasis manuscripts with their find-spots. Beckman reads them as scribal instruction.',
+  for: ['Beckman’s register places Gilgamesh and Atrahasis manuscripts in several buildings at Hattusa, with find-spots by tablet'], against: ['Beckman’s caution: the texts served scribal instruction, which is not the same as the stories being believed or retold', 'Only a free preview of the book was read: no dates for the individual tablets'],
+  passages: ['p_gilgameshhattu_registerofte', 'p_atrahasishattu_appendixap1a'], src: ['g_beckman2019'] });
+T2('s-gilgamesh-megiddo', { thread: 'th-bible', from: 'mesopotamia', to: 'levant-phoenicia', carried: 'writing', what: 'A Gilgamesh tablet from Megiddo, written locally', medium: 'text', start: -1400, end: -1100, directness: 'documented', status: 'E2',
+  note: 'A fragment of the epic was found at Megiddo. Petrographic study (Goren 2009) finds the clay local, so the text was copied by a scribe in the southern Levant rather than imported.',
+  for: ['The CDLI record lists the tablet as a Gilgamesh fragment, provenience “mod. Megiddo”'], against: ['Goren et al. 2009: the tablet “was written in southern Israel”: it was not imported', 'The surface find at Megiddo is attested by the Goren abstract, not by CDLI'],
+  passages: ['p_epicofgilgames_cdlip273198i'], src: ['g_cuneiform2023', 'g_goren2009'] });
+T2('s-amarna-akkadian', { thread: 'th-bible', from: 'mesopotamia', to: 'egypt-pharaonic', carried: 'writing', what: 'Akkadian cuneiform as the language of diplomacy, and Mesopotamian myths in an Egyptian archive', medium: 'court_or_empire', start: -1360, end: -1332, directness: 'documented', status: 'E1',
+  note: 'The Amarna archive holds Akkadian letters between Egypt, Mitanni, Hatti, Babylon and Levantine rulers, and a few Mesopotamian literary and mythological texts.',
+  for: ['The Amarna letters are in Akkadian cuneiform on clay (pointer source and a nineteenth-century translation)', 'A British Museum tablet from Amarna carries a Nergal and Ereshkigal text (catalogue description)'], against: ['The translations opened are obsolete (Conder 1893–94, Bezold 1892); no modern edition (Moran, Rainey) was opened', 'The quote from Bezold is a catalogue description, not the tablet’s words'],
+  passages: ['p_amarnalettersr_conderroyall', 'p_mythologicalte_bmcataloguen'], src: ['w_amarnaletters', 'g_conder1894', 'g_bezold1892'] });
+// ---- Hebrew Bible into Greek and Latin
+T2('s-hebrew-greek', { thread: 'th-bible', from: 'israel-judah', to: 'egypt-roman', carried: 'writing', what: 'The Hebrew Law and Prophets translated into Greek in Ptolemaic Egypt', medium: 'translation', start: -280, end: -130, directness: 'documented', status: 'E2',
+  note: 'The prologue to Sirach, translated by the author’s grandson in Egypt, says the Law, the Prophets and the other books existed in Greek; the Letter of Aristeas tells a legendary story of how the Law was translated.',
+  for: ['Sirach prologue: the translator came to Egypt in the thirty-eighth year of Euergetes and notes that the Greek differs from the Hebrew', 'The Letter of Aristeas names Demetrius, the library and a seventy-two-day translation', 'Philo (Life of Moses II.37) tells the story of the translators’ inspiration'], against: ['The Letter of Aristeas is judged unreliable history: its dating (c. 200 BCE or Maccabean, before 63 BCE) is argued', 'Jerome (Genesis preface) calls the story of the seventy cells an untruth', 'Which Euergetes the Sirach prologue means is not settled in the sources opened'],
+  passages: ['p_wisdomofjesust_prologue', 'p_wisdomofjesust_prologue2', 'p_letterofariste_911', 'p_letterofariste_307', 'p_onthelifeofmos_ii37yongenum'], src: ['g_wisdomofnd', 'g_theletternd', 'g_philond', 'g_aristeasletternd', 'g_jerome2006'] });
+T2('s-hebrew-latin-jerome', { thread: 'th-bible', from: 'israel-judah', to: 'rome', carried: 'writing', what: 'Jerome’s Latin Old Testament made from the Hebrew (Prologus Galeatus, c. 391)', medium: 'translation', start: 391, end: 405, directness: 'documented', status: 'E2',
+  note: 'Jerome says he translated from the Hebrew rather than from the Greek, and that books outside the Hebrew canon are not in it. His prologues are the primary witness.',
+  for: ['Prologus Galeatus: books outside the Hebrew canon are set apart, and readers are told to compare the Greek and Latin manuscripts'], against: ['The end year is schematic: the Genesis preface was not securely dated in the sources opened', 'Only English translations of the prologues were read'],
+  passages: ['p_prologusgaleat_closingparag', 'p_prologusgaleat_closingparag2', 'p_prefacetothepe_prefacecells'], src: ['g_jeromend', 'g_jerome2006'] });
+// ---- Indo-Iranian and Persian texts
+T2('s-mitanni-indoaryan', { thread: 'th-ie', from: 'andronovo', to: 'mitanni', carried: 'language', what: 'Indo-Aryan names for gods and horse-training terms in a Hurrian kingdom', medium: 'unknown', start: -1400, end: -1346, directness: 'inferred', status: 'E3',
+  note: 'The Hittite–Mitanni treaty (c. 1380 BCE) swears by Mitra, Varuna, Indra and the Nasatyas, and the Kikkuli horse text uses Indo-Aryan-looking terms. How an Indo-Aryan elite came to be in northern Mesopotamia is not documented, and the origin is placed on the steppe only by inference.',
+  for: ['Cornil’s French translation of the treaty lists Indra and the Nasatyas among the oath gods', 'Burrow (1973) reports the then-prevailing Indo-Aryan view of the Mitanni names'], against: ['Gentile (2019): “some scepticism” (Kammenhuber 1968, Diakonov 1972), and it is debated whether the forms are Proto-Indo-Iranian or Proto-Indo-Aryan', 'The Rigveda and Gathas are dated from each other and from these names: the dating is circular, not independent'],
+  passages: ['p_treatyofsuppil_lines5556ofc', 'p_treatyofsuppil_akkadianvers', 'p_kikkulihorsetr_openinglines', 'p_rigveda_101251', 'p_rigveda_212stanza3'], src: ['g_cornilnd', 'g_suppiluliumahind', 'w_kikkuli', 'g_burrow1973', 'g_gentile2019', 'g_griffith1889', 'g_lenderingnd', 'w_rigveda'] });
+T2('s-ashoka-kandahar', { thread: 'th-silk', from: 'india', to: 'hellenistic-world', carried: 'religion', what: 'Ashoka’s dharma proclaimed in Greek and Aramaic at Kandahar', medium: 'court_or_empire', start: -258, end: -258, directness: 'documented', status: 'E1',
+  note: 'Rock edicts at Kandahar carry the king’s dharma in Greek and in Aramaic. They are inscriptions in place, so the proclamation is documented; what the Greek readers made of it is not.',
+  for: ['Sircar prints the Greek version of the Kandahar edict; a pointer page reproduces the bilingual rock inscription with its Greek and Aramaic halves'], against: ['The inscription’s date is c. 258 BCE per Sircar; one pointer page gives the “8th year”, another Sircar’s “ten years after coronation”'],
+  passages: ['p_kandahargreeke_sircarfragme', 'p_kandaharbiling_greekhalfeng', 'p_kandahargreeke_oldkandaharp'], src: ['g_sircar1979', 'w_kandaharbilingualrockinscrip', 'w_kandahargreekedictsofashoka'] });
+T2('s-ashoka-kings', { thread: 'th-silk', from: 'india', to: 'hellenistic-world', carried: 'idea', what: 'Dharma envoys to named Hellenistic kings (Major Rock Edict XIII)', medium: 'court_or_empire', start: -252, end: -250, directness: 'debated', status: 'E4',
+  note: 'Rock Edict XIII names Hellenistic kings among those to whom Ashoka’s messengers went. No Greek source opened confirms any embassy or any effect.',
+  for: ['Major Rock Edict XIII (Kalsi version) names the kings; Hultzsch’s footnote identifies them'], against: ['The claim is Ashoka’s own; no Greek or Hellenistic source records the embassies in the sources opened', 'Hultzsch’s identification of the four kings and the edict’s date (252–250 BCE) depends on his own reading'],
+  passages: ['p_majorrockedict_kalsiversion2', 'p_majorrockedict_kalsiversion'], src: ['g_hultzschnd'] });
+// ---- China
+T2('s-silk-shu-bactria', { thread: 'th-silk', from: 'china', to: 'bactria', carried: 'technology', what: 'Sichuan cloth and bamboo canes found in Bactria (Zhang Qian)', medium: 'trade', start: -128, end: -126, directness: 'inferred', status: 'E3',
+  note: 'Sima Qian reports that Zhang Qian saw Shu goods in Daxia (Bactria) and reasoned they came by way of India (Shendu). The route rests on a merchant’s report plus Zhang Qian’s own reckoning.',
+  for: ['Shiji 123 quotes Zhang Qian on Shu cloth and bamboo in Daxia'], against: ['The route is Zhang Qian’s inference (“以騫度之”), not a witnessed shipment', 'Shiji 123 was completed about 91 BCE and later interpolated; strand dates are those of the mission, not stated on the page'],
+  passages: ['p_shiji_123zhangqian', 'p_shiji_123daxiasect', 'p_shiji_123dayuansec'], src: ['g_sima-91', 'w_shiji'] });
+T2('s-alfalfa-grapes', { thread: 'th-silk', from: 'bactria', to: 'china', carried: 'crop_or_animal', what: 'Alfalfa and grapes brought from Dayuan (Ferghana)', medium: 'court_or_empire', start: -126, end: -91, directness: 'documented', status: 'E2',
+  for: ['Shiji 123’s closing section says Han envoys brought back alfalfa and grape seeds from Dayuan and planted them near the palaces'], against: ['The record is a Han court historian’s account, not an archaeobotanical finding'], note: 'The same source says Han deserters taught the Dayuan to cast metal, a claim whose quote was rejected on verification for not containing it.',
+  passages: ['p_shiji_123closingse'], src: ['g_sima-91'] });
+T2('s-buddhism-chuying', { thread: 'th-silk', from: 'india', to: 'china', carried: 'religion', what: 'Buddhist observance at the Han court: Prince Ying of Chu and the 65 CE edict', medium: 'court_or_empire', start: 65, end: 65, directness: 'documented', status: 'E2',
+  note: 'The Hou Hanshu (compiled in the fifth century from earlier histories) records Prince Ying of Chu studying the Buddha and an edict of 65 CE naming fu-tu (Buddha), upasaka and sramana.',
+  for: ['Hou Hanshu 42 quotes the 65 CE edict with the three Buddhist terms'], against: ['The Hou Hanshu was compiled about three centuries after the event; the page marks inline commentary, which is not Fan Ye’s text', 'The Ming-ti dream, which the same history reports, is a tradition and judged legendary (Pelliot 1919)'],
+  passages: ['p_houhanshu_42chuwangyin', 'p_houhanshu_42chuwangyin2', 'p_houhanshu_88tianzhu'], src: ['g_fan445', 'g_fan445b', 'g_pelliot1919'] });
+T2('s-ganying-rome', { thread: 'th-silk', from: 'china', to: 'parthian-sasanian', carried: 'people', what: 'Gan Ying’s mission to the west (97 CE)', medium: 'court_or_empire', start: 97, end: 97, directness: 'documented', status: 'E2',
+  for: ['Hou Hanshu 88 (Anxi and Daqin sections) records Gan Ying’s embassy, quoted in Chinese and in Hirth’s English'], against: ['Written in the fifth century CE from earlier sources', 'Hirth’s English adds nothing independent: it translates the same passage'], note: 'The Chinese record shows contact with Parthian territory; what it says of Daqin (Rome) is hearsay gathered on the mission.',
+  passages: ['p_houhanshu_88daqinanxi', 'p_houhanshu_88daqinganyi'], src: ['g_fan445b', 'g_hirth1885'] });
