@@ -1,0 +1,96 @@
+[
+  {
+    "candidate": {
+      "brief": "china-primary-texts",
+      "records": [],
+      "accessed": "2026-11-17",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "discipline": "Chinese historiography",
+      "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+      "title": "史記 卷一百二十三 (Shiji ch. 123, Dayuan-to-Anxi languages, and metal-working taught by Han deserters)",
+      "authors": "Sima Qian",
+      "year": -91,
+      "venue": "Chinese Wikisource",
+      "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7123",
+      "kind": "primary",
+      "stance": "supports",
+      "quote": "其地皆無絲漆，不知鑄錢器",
+      "summary": "West of Dayuan these lands 'have no silk or lacquer and do not know how to cast coins and vessels'; the passage goes on that Han deserters taught them to cast weapons, and that they preferred Han gold and silver as vessels. The same passage says peoples from Dayuan to Anxi differ in speech but share customs.",
+      "limits": "Sima Qian's own Han-centric report; the claim about deserters teaching casting is unsupported by any second source here.",
+      "text": {
+        "work": "Shiji",
+        "locator": "123, closing section",
+        "language": "Classical Chinese (original)",
+        "edition": "Chinese Wikisource 史記/卷一百二十三 大宛列傳 (Chinese original, unstated base edition; ctext.org refused scripted access, see notes). No English translation of ch. 123 was opened.",
+        "composition": {
+          "start": -109,
+          "end": -91,
+          "basis": "Sima Tan's drafts, then Sima Qian; the text was 'more or less complete by ca. 91 BC' per the Letter to Ren An (Wikipedia 'Shiji', opened; start year is my reading of the page's account that Sima Qian took over after his father's death in 110 BC). Later additions are attested (e.g. Chu Shaosun), so ch. 123's exact wording is not proven to be Sima Qian's own."
+        },
+        "witness": "Earliest extant manuscripts: two pre-Tang fragments at Ishiyama-dera, Japan; earliest extant copy handwritten 420-589 CE; earliest printed edition Northern Song (Wikipedia 'Shiji'). Edition quoted: Chinese Wikisource, base edition not stated on the page (fetched 2026-11-17)."
+      },
+      "strand": {
+        "from": "Han China",
+        "to": "Dayuan and lands to Anxi",
+        "carried": "technology",
+        "what": "casting of weapons (taught by Han deserters), per Sima Qian",
+        "medium": "people",
+        "start": -104,
+        "end": -91,
+        "directness": "debated"
+      }
+    },
+    "reason": "strand_unsupported: the quoted words (no silk or lacquer, cannot cast coins and vessels) do not say that Han deserters taught casting; that clause is the next sentence on the page and is not in the quote. Resubmit with the quote extended to include 及漢使亡卒降，教鑄作他兵器."
+  },
+  {
+    "candidate": {
+      "brief": "china-primary-texts",
+      "records": [],
+      "accessed": "2026-11-17",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "discipline": "Chinese historiography",
+      "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+      "title": "A Record of Buddhistic Kingdoms (Faxian, Khotan)",
+      "authors": "Faxian; tr. Legge, J.",
+      "year": 1886,
+      "venue": "Oxford: Clarendon Press (archive.org)",
+      "url": "https://archive.org/stream/recordofbuddhist00jame/recordofbuddhist00jame_djvu.txt",
+      "kind": "primary",
+      "stance": "supports",
+      "quote": "YU-TEEN is a pleasant and prosperous kingdom, with a numerous and flourishing population",
+      "summary": "Faxian c. 400 CE: Khotan's people all profess the Law and monks number several myriads, mostly Mahayana students. A Buddhist kingdom on the southern Tarim route already by 400 CE.",
+      "limits": "Legge's English; his footnote identifies Yu-teen with Khoten. Faxian's own date for the visit is c. 400 CE, composition c. 414.",
+      "text": {
+        "work": "Foguoji (Faxian's Record of Buddhist Kingdoms)",
+        "locator": "Ch. III, Khotan",
+        "language": "English translation of Classical Chinese",
+        "edition": "Legge (1886) English translation, archive.org recordofbuddhist00jame OCR; no Chinese original opened.",
+        "composition": {
+          "start": 399,
+          "end": 414,
+          "basis": "Journey 399-412, book written 'around the year 414' (Wikipedia 'Faxian', opened); Legge's title gives A.D. 399-414."
+        },
+        "witness": "12th-century woodblock print of the Foguoji first page is mentioned on the Wikipedia Faxian page; earliest manuscript not established. Translation quoted: James Legge, A Record of Buddhistic Kingdoms (Oxford: Clarendon, 1886), archive.org OCR."
+      },
+      "strand": {
+        "from": "India (Mahayana Buddhism)",
+        "to": "Khotan (Tarim Basin)",
+        "carried": "religion",
+        "what": "Mahayana monastic Buddhism established at Khotan by c. 400 CE",
+        "medium": "teaching",
+        "start": 300,
+        "end": 400,
+        "directness": "inferred"
+      }
+    },
+    "reason": "strand_unsupported: the quoted sentence (Khotan pleasant, prosperous, populous) says nothing of Buddhism or its introduction from India; the strand (Mahayana monasticism from India, 300-400) is not in the quoted passage, and its dates are not on the page."
+  }
+]

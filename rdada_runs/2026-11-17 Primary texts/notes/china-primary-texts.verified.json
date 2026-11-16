@@ -1,0 +1,670 @@
+[
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "史記 卷一百二十三 大宛列傳 (Shiji ch. 123, Zhang Qian's report: Daxia and Shendu)",
+    "authors": "Sima Qian",
+    "year": -91,
+    "venue": "Chinese Wikisource",
+    "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7123",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "臣在大夏時，見邛竹杖、蜀布",
+    "summary": "Zhang Qian reports that in Daxia (Bactria) he saw bamboo canes of Qiong and cloth of Shu (Sichuan); Daxia people said their merchants bought them in Shendu (India), several thousand li south-east. On this inference he argues for a route to Daxia via Shu.",
+    "limits": "Zhang Qian's inference from goods seen, reported by Sima Qian; it shows a south-western trade chain as the Han court heard it, not a surveyed route. Composition basis in text object. [Verifier] Strand lowered documented -> inferred: Daxia people's account of Shendu merchants plus Zhang Qian's own inference ('以騫度之'), not a surveyed route. Strand dates (-128/-126) are not on the page and were set to null.",
+    "text": {
+      "work": "Shiji",
+      "locator": "123 (大宛列傳), Zhang Qian's speech",
+      "language": "Classical Chinese (original; my English gloss)",
+      "edition": "Chinese Wikisource 史記/卷一百二十三 大宛列傳 (Chinese original, unstated base edition; ctext.org refused scripted access, see notes). No English translation of ch. 123 was opened.",
+      "composition": {
+        "start": -110,
+        "end": -91,
+        "basis": "Wikipedia 'Shiji' (opened): begun by Sima Tan (drafts undated); after Sima Tan's death in 110 BC continued and completed by Sima Qian; text 'more or less complete by ca. 91 BC' (Letter to Ren An), certainly complete before 86 BC; later interpolations attested (e.g. Chu Shaosun, 1st c. BC), so ch. 123's exact wording is not proven to be Sima Qian's own. Verifier set start to the page's 110 BC (candidate had -109, the researcher's own narrowing)."
+      },
+      "witness": "Earliest extant manuscripts: two pre-Tang fragments at Ishiyama-dera, Japan; earliest extant copy handwritten 420-589 CE; earliest printed edition Northern Song (Wikipedia 'Shiji'). Edition quoted: Chinese Wikisource, base edition not stated on the page (fetched 2026-11-17)."
+    },
+    "strand": {
+      "from": "Shu (Sichuan, Han China)",
+      "to": "Daxia (Bactria) via Shendu (India)",
+      "carried": "technology",
+      "what": "Sichuan bamboo staffs and cloth reaching Bactria through Indian merchants",
+      "medium": "trade",
+      "start": null,
+      "end": null,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "史記 卷一百二十三 (Shiji ch. 123, Dayuan)",
+    "authors": "Sima Qian",
+    "year": -91,
+    "venue": "Chinese Wikisource",
+    "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7123",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "其俗土著，耕田，田稻麥。有蒲陶酒。多善馬，馬汗血，其先天馬子也",
+    "summary": "Dayuan (Ferghana): settled, grows rice and wheat, has grape wine, many fine horses that 'sweat blood', said to descend from heavenly horses. Dayuan lies south-west of the Xiongnu, due west of Han, about 10,000 li.",
+    "limits": "Describes as heard/reported; distances are the text's own. Does not by itself date any transfer.",
+    "text": {
+      "work": "Shiji",
+      "locator": "123, Dayuan section",
+      "language": "Classical Chinese (original)",
+      "edition": "Chinese Wikisource 史記/卷一百二十三 大宛列傳 (Chinese original, unstated base edition; ctext.org refused scripted access, see notes). No English translation of ch. 123 was opened.",
+      "composition": {
+        "start": -110,
+        "end": -91,
+        "basis": "Wikipedia 'Shiji' (opened): begun by Sima Tan (drafts undated); after Sima Tan's death in 110 BC continued and completed by Sima Qian; text 'more or less complete by ca. 91 BC' (Letter to Ren An), certainly complete before 86 BC; later interpolations attested (e.g. Chu Shaosun, 1st c. BC), so ch. 123's exact wording is not proven to be Sima Qian's own. Verifier set start to the page's 110 BC (candidate had -109, the researcher's own narrowing)."
+      },
+      "witness": "Earliest extant manuscripts: two pre-Tang fragments at Ishiyama-dera, Japan; earliest extant copy handwritten 420-589 CE; earliest printed edition Northern Song (Wikipedia 'Shiji'). Edition quoted: Chinese Wikisource, base edition not stated on the page (fetched 2026-11-17)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "史記 卷一百二十三 (Shiji ch. 123, Daxia)",
+    "authors": "Sima Qian",
+    "year": -91,
+    "venue": "Chinese Wikisource",
+    "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7123",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "大夏在大宛西南二千餘里媯水南。其俗土著，有城屋，與大宛同俗",
+    "summary": "Daxia is over 2,000 li south-west of Dayuan, south of the Gui (Oxus) river; settled, with walled towns, customs like Dayuan; its people are skilled traders and were subject to the Yuezhi.",
+    "limits": "Sima Qian's account is derived from Zhang Qian's report (c. 126 BCE), not eyewitness by the author.",
+    "text": {
+      "work": "Shiji",
+      "locator": "123, Daxia section",
+      "language": "Classical Chinese (original)",
+      "edition": "Chinese Wikisource 史記/卷一百二十三 大宛列傳 (Chinese original, unstated base edition; ctext.org refused scripted access, see notes). No English translation of ch. 123 was opened.",
+      "composition": {
+        "start": -110,
+        "end": -91,
+        "basis": "Wikipedia 'Shiji' (opened): begun by Sima Tan (drafts undated); after Sima Tan's death in 110 BC continued and completed by Sima Qian; text 'more or less complete by ca. 91 BC' (Letter to Ren An), certainly complete before 86 BC; later interpolations attested (e.g. Chu Shaosun, 1st c. BC), so ch. 123's exact wording is not proven to be Sima Qian's own. Verifier set start to the page's 110 BC (candidate had -109, the researcher's own narrowing)."
+      },
+      "witness": "Earliest extant manuscripts: two pre-Tang fragments at Ishiyama-dera, Japan; earliest extant copy handwritten 420-589 CE; earliest printed edition Northern Song (Wikipedia 'Shiji'). Edition quoted: Chinese Wikisource, base edition not stated on the page (fetched 2026-11-17)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "史記 卷一百二十三 (Shiji ch. 123, alfalfa and grapes brought to Han)",
+    "authors": "Sima Qian",
+    "year": -91,
+    "venue": "Chinese Wikisource",
+    "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7123",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "漢使取其實來，於是天子始種苜蓿、蒲陶肥饒地",
+    "summary": "Han envoys brought back the seeds (alfalfa for horses, grapes for wine); the emperor 'began to plant' alfalfa and grapes on fertile land, and later in the palace parks.",
+    "limits": "A Han-side statement of introduction; says nothing of the Dayuan side. No date for the planting other than the sequence of the chapter (after Zhang Qian's missions). [Verifier] Strand start (-126) not on the page; set to null; end -91 is the Shiji's composition terminus.",
+    "text": {
+      "work": "Shiji",
+      "locator": "123, closing section on Dayuan customs",
+      "language": "Classical Chinese (original)",
+      "edition": "Chinese Wikisource 史記/卷一百二十三 大宛列傳 (Chinese original, unstated base edition; ctext.org refused scripted access, see notes). No English translation of ch. 123 was opened.",
+      "composition": {
+        "start": -110,
+        "end": -91,
+        "basis": "Wikipedia 'Shiji' (opened): begun by Sima Tan (drafts undated); after Sima Tan's death in 110 BC continued and completed by Sima Qian; text 'more or less complete by ca. 91 BC' (Letter to Ren An), certainly complete before 86 BC; later interpolations attested (e.g. Chu Shaosun, 1st c. BC), so ch. 123's exact wording is not proven to be Sima Qian's own. Verifier set start to the page's 110 BC (candidate had -109, the researcher's own narrowing)."
+      },
+      "witness": "Earliest extant manuscripts: two pre-Tang fragments at Ishiyama-dera, Japan; earliest extant copy handwritten 420-589 CE; earliest printed edition Northern Song (Wikipedia 'Shiji'). Edition quoted: Chinese Wikisource, base edition not stated on the page (fetched 2026-11-17)."
+    },
+    "strand": {
+      "from": "Dayuan (Ferghana)",
+      "to": "Han China",
+      "carried": "crop_or_animal",
+      "what": "alfalfa and grape cuttings/seed, with the 'heavenly horse'",
+      "medium": "court_or_empire",
+      "start": null,
+      "end": -91,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "後漢書 卷四十二 光武十王列傳 (Hou Hanshu 42, Liu Ying, Prince of Chu)",
+    "authors": "Fan Ye et al.",
+    "year": 445,
+    "venue": "Chinese Wikisource",
+    "url": "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8/%E5%8D%B742",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "晚節更喜黃老，學為浮屠齋戒祭祀",
+    "summary": "Late in life Ying 'turned to Huang-Lao and studied fu-tu (Buddha) fasting and sacrifices'. This is the court-prince's practice of Buddhist observance, with no dating by the line itself.",
+    "limits": "The inline note giving Yuan Hong's Hanji gloss (the Ming dream, sramana definitions) is commentary on the page, not Fan Ye's text. Pelliot/Maspero caution on the dream below. [Verifier] Strand start (-1) is not on the page and was nulled; end 65 is the Yongping 8 edict on the same page (see next candidate).",
+    "text": {
+      "work": "Hou Hanshu",
+      "locator": "42 (光武十王列傳), Chu Wang Ying",
+      "language": "Classical Chinese (original)",
+      "edition": "Chinese Wikisource 後漢書/卷四十二 (inline Tang commentary present)",
+      "composition": {
+        "start": 401,
+        "end": 500,
+        "basis": "Wikipedia 'Book of the Later Han' (opened): compiled by Fan Ye and others 'in the 5th century during the Liu Song dynasty'; the page gives no narrower dates (not dated more closely here). Main source the Dongguan Hanji, written in the Han itself; the Western Regions treatise (ch. 88) rests on Ban Yong's report presented c. 125. Verifier replaced the researcher's 420-445 with the page's 5th century."
+      },
+      "witness": "Earliest manuscript witness not established from the pages opened. Edition quoted: Chinese Wikisource 後漢書 (base edition unstated)."
+    },
+    "strand": {
+      "from": "India / Buddhist lands (via the Western Regions)",
+      "to": "Han court (Chu principality)",
+      "carried": "religion",
+      "what": "Buddhist observance by a Han imperial prince",
+      "medium": "unknown",
+      "start": null,
+      "end": 65,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "後漢書 卷四十二 (Hou Hanshu 42, the 65 CE edict to Chu Ying)",
+    "authors": "Fan Ye et al.",
+    "year": 445,
+    "venue": "Chinese Wikisource",
+    "url": "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8/%E5%8D%B742",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "詔報曰：「楚王誦黃老之微言，尚浮屠之仁祠，絜齋三月，與神為誓",
+    "summary": "Emperor's reply (Yongping 8 = 65 CE, from the page's year-date): 'The Prince of Chu recites the subtle words of Huang-Lao and honours the humane shrines of the Buddha; he purified himself three months and swore to the spirit.' The reply adds that his silk ransom should be returned to feed the 'yipusai' (upasaka) and 'sangmen' (sramana).",
+    "limits": "The 65 CE date is for the edict as reported 380 years later by Fan Ye; whether the edict is verbatim is not independently shown. Ying was later accused of sorcery (year 70) and died. [Verifier] Removed the researcher's 'earliest datable imperial reference' claim, which the page does not make. The edict is main text, not commentary.",
+    "text": {
+      "work": "Hou Hanshu",
+      "locator": "42, Chu Wang Ying (Yongping 8 edict)",
+      "language": "Classical Chinese (original)",
+      "edition": "Chinese Wikisource 後漢書/卷四十二",
+      "composition": {
+        "start": 401,
+        "end": 500,
+        "basis": "Wikipedia 'Book of the Later Han' (opened): compiled by Fan Ye and others 'in the 5th century during the Liu Song dynasty'; the page gives no narrower dates (not dated more closely here). Main source the Dongguan Hanji, written in the Han itself; the Western Regions treatise (ch. 88) rests on Ban Yong's report presented c. 125. Verifier replaced the researcher's 420-445 with the page's 5th century."
+      },
+      "witness": "Earliest manuscript witness not established from the pages opened. Edition quoted: Chinese Wikisource 後漢書 (base edition unstated)."
+    },
+    "strand": {
+      "from": "India / Buddhist lands",
+      "to": "Han court",
+      "carried": "religion",
+      "what": "first imperial notice of the Buddha's cult; sramana and upasaka as terms",
+      "medium": "unknown",
+      "start": 65,
+      "end": 65,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "後漢書 卷八十八 西域傳 (Hou Hanshu 88, Tianzhu and the Buddha)",
+    "authors": "Fan Ye et al.",
+    "year": 445,
+    "venue": "Chinese Wikisource",
+    "url": "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8/%E5%8D%B788",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "天竺國，一名身毒，在月氏之東南數千里",
+    "summary": "Tianzhu, 'also called Shendu', lies several thousand li south-east of the Yuezhi; the section goes on that its people practise the way of fu-tu (a gloss says: the Buddha), do not kill, and this has become custom.",
+    "limits": "Western Regions chapter rests on Ban Yong's report (per Wikipedia 'Book of the Later Han', opened); the 'Buddha' gloss is an inline note. [Verifier] The quoted words give only location; the fu-tu/Buddha content is in the next clause, whose '浮圖即佛也' gloss is inline commentary, not Fan Ye.",
+    "text": {
+      "work": "Hou Hanshu",
+      "locator": "88 (西域傳), Tianzhu",
+      "language": "Classical Chinese (original)",
+      "edition": "Chinese Wikisource 後漢書/卷八十八",
+      "composition": {
+        "start": 401,
+        "end": 500,
+        "basis": "Wikipedia 'Book of the Later Han' (opened): compiled by Fan Ye and others 'in the 5th century during the Liu Song dynasty'; the page gives no narrower dates (not dated more closely here). Main source the Dongguan Hanji, written in the Han itself; the Western Regions treatise (ch. 88) rests on Ban Yong's report presented c. 125. Verifier replaced the researcher's 420-445 with the page's 5th century."
+      },
+      "witness": "Earliest manuscript witness not established from the pages opened. Edition quoted: Chinese Wikisource 後漢書 (base edition unstated)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "後漢書 卷八十八 (Hou Hanshu 88, the Emperor Ming dream)",
+    "authors": "Fan Ye et al.",
+    "year": 445,
+    "venue": "Chinese Wikisource",
+    "url": "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8/%E5%8D%B788",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "世傳明帝夢見金人，長大，頂有光明",
+    "summary": "'It is handed down that Emperor Ming dreamt of a golden man, tall, with light on his crown'; he sent envoys to Tianzhu about the Buddha's way, and 'Ying, Prince of Chu, first believed the art.' Fan Ye introduces it as tradition ('shi chuan').",
+    "limits": "Legendary tradition by the compiler's own wording. The Hou Hanshu is a 5th-century work; see Pelliot/Maspero caution below. The same sentence also places Chu Ying as first believer. [Verifier] Strand dates (58-75) are not on the page and were set to null; directness stays debated (legend, introduced by 世傳).",
+    "text": {
+      "work": "Hou Hanshu",
+      "locator": "88, Tianzhu, closing paragraph",
+      "language": "Classical Chinese (original)",
+      "edition": "Chinese Wikisource 後漢書/卷八十八",
+      "composition": {
+        "start": 401,
+        "end": 500,
+        "basis": "Wikipedia 'Book of the Later Han' (opened): compiled by Fan Ye and others 'in the 5th century during the Liu Song dynasty'; the page gives no narrower dates (not dated more closely here). Main source the Dongguan Hanji, written in the Han itself; the Western Regions treatise (ch. 88) rests on Ban Yong's report presented c. 125. Verifier replaced the researcher's 420-445 with the page's 5th century."
+      },
+      "witness": "Earliest manuscript witness not established from the pages opened. Edition quoted: Chinese Wikisource 後漢書 (base edition unstated)."
+    },
+    "strand": {
+      "from": "Tianzhu (India)",
+      "to": "Han China",
+      "carried": "religion",
+      "what": "Buddhism, by an imperial mission after the Ming dream",
+      "medium": "court_or_empire",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "後漢書 卷八十八 (Hou Hanshu 88, Gan Ying sent to Daqin, 97 CE)",
+    "authors": "Fan Ye et al.",
+    "year": 445,
+    "venue": "Chinese Wikisource",
+    "url": "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8/%E5%8D%B788",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "都護班超遣甘英使大秦，抵條支",
+    "summary": "Yongyuan 9: Protector-General Ban Chao sent Gan Ying to Daqin; he reached Tiaozhi, and sailors at Anxi's western border warned of a three-month to two-year crossing; 'Ying heard this and stopped.'",
+    "limits": "Chapter date 'yongyuan 9' is read from the page; the report of what the sailors said is reported speech. Identification of Daqin and Tiaozhi is disputed (see Hirth).",
+    "text": {
+      "work": "Hou Hanshu",
+      "locator": "88, Daqin / Anxi",
+      "language": "Classical Chinese (original)",
+      "edition": "Chinese Wikisource 後漢書/卷八十八",
+      "composition": {
+        "start": 401,
+        "end": 500,
+        "basis": "Wikipedia 'Book of the Later Han' (opened): compiled by Fan Ye and others 'in the 5th century during the Liu Song dynasty'; the page gives no narrower dates (not dated more closely here). Main source the Dongguan Hanji, written in the Han itself; the Western Regions treatise (ch. 88) rests on Ban Yong's report presented c. 125. Verifier replaced the researcher's 420-445 with the page's 5th century."
+      },
+      "witness": "Earliest manuscript witness not established from the pages opened. Edition quoted: Chinese Wikisource 後漢書 (base edition unstated)."
+    },
+    "strand": {
+      "from": "Han China (Protectorate of the Western Regions)",
+      "to": "Parthia / Persian Gulf coast",
+      "carried": "people",
+      "what": "embassy of Gan Ying toward Daqin, turned back at the sea",
+      "medium": "court_or_empire",
+      "start": 97,
+      "end": 97,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "China and the Roman Orient (Hirth, translation of the Hou Hanshu passage on Gan Ying)",
+    "authors": "Hirth, F.",
+    "year": 1885,
+    "venue": "Leipzig & Munich: Georg Hirth / Shanghai: Kelly & Walsh",
+    "url": "https://archive.org/stream/chinaandromanor01hirtgoog/chinaandromanor01hirtgoog_djvu.txt",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "When Kan-ying heard this, he stopped",
+    "summary": "Hirth's English of the same Hou Hanshu passage (his 'Kan Ying', A.D. 97): the sailors' warning about the sea and three years' provisions, and Kan-ying's stopping.",
+    "limits": "Translation quoted only because the sentence is verbatim on the OCR; the 1885 editor's identifications (Ta-ts'in) are partly superseded. OCR text from archive.org, not a clean edition.",
+    "text": {
+      "work": "Hou Hanshu",
+      "locator": "88, Daqin/Gan Ying (as translated by Hirth)",
+      "language": "English translation of Classical Chinese",
+      "edition": "Hirth, China and the Roman Orient (1885), archive.org Google scan OCR",
+      "composition": {
+        "start": 401,
+        "end": 500,
+        "basis": "Wikipedia 'Book of the Later Han' (opened): compiled by Fan Ye and others 'in the 5th century during the Liu Song dynasty'; the page gives no narrower dates (not dated more closely here). Main source the Dongguan Hanji, written in the Han itself; the Western Regions treatise (ch. 88) rests on Ban Yong's report presented c. 125. Verifier replaced the researcher's 420-445 with the page's 5th century."
+      },
+      "witness": "Earliest manuscript witness of the Hou Hanshu not established. Translation quoted: Friedrich Hirth, China and the Roman Orient (Shanghai/Hongkong: Kelly & Walsh; Leipzig & Munich: G. Hirth, 1885), archive.org OCR; the passage is Hirth's rendering of the Hou Hanshu Anxi section already quoted in Chinese in candidate 9 (no new evidence, a translation witness). Hirth numbers the chapter differently from the modern 88."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "後漢書 卷七十八 宦者列傳 (Hou Hanshu 78, Cai Lun)",
+    "authors": "Fan Ye et al.",
+    "year": 445,
+    "venue": "Chinese Wikisource (simplified characters)",
+    "url": "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8/%E5%8D%B778",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "伦乃造意，用树肤、麻头及敝布、鱼网以为紙",
+    "summary": "'Lun then devised, using tree bark, hemp ends, rags and fishing nets to make paper'; he presented it in Yuanxing 1 (105 CE), the emperor approved it, and the world called it 'Marquis Cai's paper'. The same passage says writings were on bamboo strips and silk was costly.",
+    "limits": "The page is a simplified-character conversion, so character forms differ from the printed originals. The account says 'devised' (造意), not first made; earlier paper is excavated (see caution).",
+    "text": {
+      "work": "Hou Hanshu",
+      "locator": "78 (宦者列傳), Cai Lun",
+      "language": "Classical Chinese (original, simplified-character page)",
+      "edition": "Chinese Wikisource 後漢書/卷七十八",
+      "composition": {
+        "start": 401,
+        "end": 500,
+        "basis": "Wikipedia 'Book of the Later Han' (opened): compiled by Fan Ye and others 'in the 5th century during the Liu Song dynasty'; the page gives no narrower dates (not dated more closely here). Main source the Dongguan Hanji, written in the Han itself; the Western Regions treatise (ch. 88) rests on Ban Yong's report presented c. 125. Verifier replaced the researcher's 420-445 with the page's 5th century."
+      },
+      "witness": "Earliest manuscript witness not established from the pages opened. Edition quoted: Chinese Wikisource 後漢書 (base edition unstated)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "A Record of Buddhistic Kingdoms (Faxian, Java-dvipa and return by sea)",
+    "authors": "Faxian; tr. Legge, J.",
+    "year": 1886,
+    "venue": "Oxford: Clarendon Press (archive.org)",
+    "url": "https://archive.org/stream/recordofbuddhist00jame/recordofbuddhist00jame_djvu.txt",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "Java-dvipa, where various forms of error and Brahmanism are flourishing, while Buddhism in it is not worth speaking of",
+    "summary": "Faxian returned by merchant ship from Ceylon, stopped at Java-dvipa (identification Legge's) around 412, where Buddhism was negligible; evidence for the sea route's use by merchants and pilgrims.",
+    "limits": "Faxian's judgment as a Buddhist partisan; the location is Legge's identification.",
+    "text": {
+      "work": "Foguoji",
+      "locator": "Ch. XL, return voyage",
+      "language": "English translation of Classical Chinese",
+      "edition": "Legge (1886) English translation, archive.org recordofbuddhist00jame OCR; no Chinese original opened.",
+      "composition": {
+        "start": 414,
+        "end": 414,
+        "basis": "Wikipedia 'Faxian' (opened): Faxian returned in 412 and 'wrote a book on his travels around the year 414'. The 399-414 range in the candidate is the journey span in Legge's title, not the date of composition."
+      },
+      "witness": "12th-century woodblock print of the Foguoji first page is mentioned on the Wikipedia Faxian page; earliest manuscript not established. Translation quoted: James Legge, A Record of Buddhistic Kingdoms (Oxford: Clarendon, 1886), archive.org OCR."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "Si-yu-ki: Buddhist Records of the Western World (Xuanzang, Khotan and the silkworm)",
+    "authors": "Xuanzang; tr. Beal, S.",
+    "year": 1884,
+    "venue": "London: Trubner (archive.org)",
+    "url": "https://archive.org/stream/siyukibuddhistre02hsuoft/siyukibuddhistre02hsuoft_djvu.txt",
+    "kind": "primary",
+    "stance": "supports",
+    "quote": "In old time this country knew nothing about mulberry trees or silkworms",
+    "summary": "Xuanzang records the Khotan legend that a Chinese princess smuggled mulberry seeds and silkworm eggs in her head-dress through the frontier guard, founding the Lu-shi monastery on the spot.",
+    "limits": "A legend heard at Khotan in c. 644, recorded centuries after the supposed event, and presented as such by Xuanzang; do not treat it as dated evidence of silk transfer. [Verifier] Strand dates (400-644) are not on the page and were set to null; directness stays debated (a legend heard at Khotan).",
+    "text": {
+      "work": "Great Tang Records on the Western Regions (Da Tang Xiyu ji)",
+      "locator": "Bk XII, Kustana (Khotan), Lu-shi sangharama",
+      "language": "English translation of Classical Chinese",
+      "edition": "Beal (1884) English translation, vol. 2, archive.org OCR; no Chinese original opened",
+      "composition": {
+        "start": 645,
+        "end": 646,
+        "basis": "Wikipedia 'Xuanzang' (opened): returned to China 645; 'in 646, under the Emperor's request, Xuanzang completed his book'. Range 645-646 follows the page; 'dictated' in the candidate is not on the page."
+      },
+      "witness": "Chinese witness not established here. Translation quoted: Samuel Beal, Si-yu-ki: Buddhist Records of the Western World (London: Trubner, 1884), archive.org OCR."
+    },
+    "strand": {
+      "from": "China",
+      "to": "Khotan",
+      "carried": "technology",
+      "what": "sericulture (mulberry seed, silkworm eggs), by a princess",
+      "medium": "people",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "Meou-tseu ou les doutes levés (Pelliot, on the Ming-ti dream)",
+    "authors": "Pelliot, P.",
+    "year": 1919,
+    "venue": "T'oung Pao 19 (1918-19), pp. 255-433; PDF at altaica.ru",
+    "url": "https://altaica.ru/LIBRARY/Pelliot/Pelliot_'Meou-tseu%20ou%20les%20doutes%20leves'%201919.pdf",
+    "kind": "skeptical",
+    "stance": "contradicts",
+    "quote": "Le reve de Ming-tiet l'ambassade qui l'auraitsuivisont legendaires",
+    "summary": "Pelliot, discussing the Mouzi Lihuo lun, says the dream of Ming-ti and the embassy that followed it are 'legendary' ('sont legendaires'); he cites Maspero's 1910 BEFEO study (X, 95-130) in a footnote. The OCR runs words together.",
+    "limits": "The quoted fragment is OCR-damaged ('Ming-tiet l'ambassade' = 'Ming-ti et l'ambassade'); the full sentence is 'Le reve de Ming-ti et l'ambassade qui l'aurait suivi sont legendaires' per my read of the page. I did not open Maspero 1910 itself. Pelliot's text also notes Mouzi gives details not otherwise known, so he does not close the question of earlier traditions. [Verifier] Quote extended to the text layer's own wording so it carries the claim (checked with check_quote on pdftotext output; the layer runs words together, read 'Le rêve de Ming-ti et l'ambassade qui l'aurait suivi sont légendaires'). Page header: T'oung Pao 2nd series vol. 19 no. 5 (Dec. 1918 - Dec. 1919), pp. 255-433; year set to 1919 (candidate had 1920, not shown on the page). JSTOR scan hosted at altaica.ru; a 1919 article, not a modern copyrighted work.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "History of paper (Wikipedia)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia (secondary, tertiary)",
+    "url": "https://en.wikipedia.org/wiki/History_of_paper",
+    "kind": "secondary",
+    "stance": "contradicts",
+    "quote": "Archaeological evidence of papermaking predates the traditional attribution given to Cai Lun",
+    "summary": "The page reports the earliest extant paper fragment from Fangmatan, Gansu (map, dated 179-141 BCE) and cites Tsien (1985) for the point that paper predates Cai Lun; so 105 CE marks an improvement/promotion, not a first invention.",
+    "limits": "A tertiary summary citing Tsien; I did not open Tsien. Fangmatan dating varies between sources. Wikipedia only as context for the caution.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "Cai Lun (Wikipedia)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia (secondary, tertiary)",
+    "url": "https://en.wikipedia.org/wiki/Cai_Lun",
+    "kind": "secondary",
+    "stance": "context",
+    "quote": "The main source of information on Cai Lun is just 300 characters in volume 78",
+    "summary": "The page says Cai Lun's biography rests on about 300 characters in Hou Hanshu 78, written by Fan Ye in the Liu Song (compiled over 300 years after 105 CE).",
+    "limits": "Tertiary; useful as the text-critical caution that the 105 CE account has a single, late literary witness.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "china-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "discipline": "Chinese historiography",
+    "ask_addressed": "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "title": "Shiji (Wikipedia), textual history",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia (secondary, tertiary)",
+    "url": "https://en.wikipedia.org/wiki/Shiji",
+    "kind": "secondary",
+    "stance": "context",
+    "quote": "Only two fragments of pre-Tang dynasty Shiji manuscripts have survived",
+    "summary": "The page records that only two pre-Tang Shiji fragments survive and that the earliest extant copy dates to 420-589; the Shiji also received later additions.",
+    "limits": "Basis for the composition range and witness fields above; tertiary.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  }
+]
