@@ -1,0 +1,1039 @@
+[
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.sefaria.org/api/texts/Genesis_6%3A14?context=0&commentary=0",
+  "title": "Genesis 6:14 (JPS Tanakh, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API (JPS Tanakh: Gender-Sensitive Edition)",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "make it an ark with compartments, and cover it inside and out with pitch.",
+  "summary": "God's instruction to Noah to build a pitch-sealed ark. Shares with Atrahasis III and Gilgamesh XI: a divinely ordered vessel sealed with bitumen/pitch. Differs: one God, the order is given for a moral reason (human wickedness, 6:5-13), and the ark is specified in cubits (300x50x30, 6:15).",
+  "limits": "Quote is verse 6:14 of the Sefaria text (verse numbering of the Hebrew). Genesis 6-9 is a composite of source layers; dating is a working band, not a measurement.",
+  "text": {
+   "work": "Genesis",
+   "locator": "6:14",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985, Gender-Sensitive Edition (English; CC-BY-NC); Hebrew: Miqra according to the Masorah",
+   "composition": {
+    "start": -600,
+    "end": -400,
+    "basis": "Genesis 1-11 is a composite of Priestly (P) and non-Priestly/Yahwist layers; Wikipedia 'Genesis flood narrative' gives c. 5th c. BCE for the book (some say 3rd c. for 1-11) and 'Genesis creation narrative' gives P possibly 6th c. BCE. Encyclopaedia summaries of scholarship, not a primary dating study; range is a working band"
+   },
+   "witness": "Hebrew text as printed in Sefaria's Miqra according to the Masorah (Masoretic tradition). Earliest manuscript witnesses (Dead Sea Scrolls, Aleppo Codex) were not opened in this run, so no date is asserted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.sefaria.org/api/texts/Genesis_8%3A11?context=0&commentary=0",
+  "title": "Genesis 8:11 (JPS Tanakh, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API (JPS Tanakh: Gender-Sensitive Edition)",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "The dove came back to him toward evening, and there in its bill was a plucked-off olive leaf!",
+  "summary": "Noah's dove returns with an olive leaf after the second sending (8:8-12: raven, then dove three times). Shares with Gilgamesh XI the sending of birds to test the waters (dove, swallow, raven there); differs in the sequence and in that Genesis has dove-raven-dove x3, Gilgamesh dove-swallow-raven. Atrahasis III does not preserve a bird episode in the Old Babylonian Sippar text opened here.",
+  "limits": "Verse numbering in Sefaria's JPS text: 8:11. The pair is similarity, not proof of borrowing.",
+  "text": {
+   "work": "Genesis",
+   "locator": "8:11",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985, Gender-Sensitive Edition (English; CC-BY-NC); Hebrew: Miqra according to the Masorah",
+   "composition": {
+    "start": -600,
+    "end": -400,
+    "basis": "Genesis 1-11 is a composite of Priestly (P) and non-Priestly/Yahwist layers; Wikipedia 'Genesis flood narrative' gives c. 5th c. BCE for the book (some say 3rd c. for 1-11) and 'Genesis creation narrative' gives P possibly 6th c. BCE. Encyclopaedia summaries of scholarship, not a primary dating study; range is a working band"
+   },
+   "witness": "Hebrew text as printed in Sefaria's Miqra according to the Masorah (Masoretic tradition). Earliest manuscript witnesses (Dead Sea Scrolls, Aleppo Codex) were not opened in this run, so no date is asserted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.sefaria.org/api/texts/Genesis_8%3A21?context=0&commentary=0",
+  "title": "Genesis 8:21 (JPS Tanakh, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API (JPS Tanakh: Gender-Sensitive Edition)",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "smelled the pleasing odor",
+  "summary": "After Noah's burnt offering the deity smells the odor and resolves never again to destroy all life (8:21). Shares with Atrahasis III and Gilgamesh XI: sacrifice after the flood and the gods' response to the smell. Differs: no divine hunger or gods swarming; the response is a covenantal promise, not a rebuke of the gods' counsel.",
+  "limits": "Verse 8:21 in Sefaria numbering. Quote is the first clause of the verse.",
+  "text": {
+   "work": "Genesis",
+   "locator": "8:21",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985, Gender-Sensitive Edition (English; CC-BY-NC); Hebrew: Miqra according to the Masorah",
+   "composition": {
+    "start": -600,
+    "end": -400,
+    "basis": "Genesis 1-11 is a composite of Priestly (P) and non-Priestly/Yahwist layers; Wikipedia 'Genesis flood narrative' gives c. 5th c. BCE for the book (some say 3rd c. for 1-11) and 'Genesis creation narrative' gives P possibly 6th c. BCE. Encyclopaedia summaries of scholarship, not a primary dating study; range is a working band"
+   },
+   "witness": "Hebrew text as printed in Sefaria's Miqra according to the Masorah (Masoretic tradition). Earliest manuscript witnesses (Dead Sea Scrolls, Aleppo Codex) were not opened in this run, so no date is asserted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://seal.huji.ac.il/node/1517",
+  "title": "Atraḫasis OB III (Sippar)",
+  "authors": "Wasserman, N. (ed.); SEAL project",
+  "year": 2020,
+  "venue": "Sources of Early Akkadian Literature (Hebrew University of Jerusalem)",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "Depart from (your) house, build a boat! Spurn property and save life!",
+  "summary": "Enki's instruction to Atra-hasis (spoken to the reed wall) to build a boat and abandon property to save life; later the boat is roofed and sealed with tough bitumen (C 1 i 29'-33') and its door closed with bitumen (C 1 ii 51''). Shares with Genesis 6:14: warning by a deity, a built vessel, bitumen/pitch. Differs: Enki warns the hero indirectly (via the wall) against Enlil's plan; the stated reason is divine rivalry and human noise, not human violence.",
+  "limits": "Old Babylonian Flood section only; the OB text preserved on these tablets does not contain a bird-sending episode or the ark's landing. Translation is the SEAL/Wasserman rendering; square brackets mark restorations.",
+  "text": {
+   "work": "Atrahasis (Old Babylonian III, Sippar)",
+   "locator": "C 2 i 22'-24'",
+   "language": "Akkadian (quoted in English)",
+   "edition": "SEAL (Sources of Early Akkadian Literature, Hebrew University), no. 1517: Atrahasis OB III (Sippar), tablets C1+C2; transliteration and English translation after Wasserman 2020 (also Lambert/Millard 1969; George/al-Rawi 1996)",
+   "composition": {
+    "start": -1800,
+    "end": -1630,
+    "basis": "Battenfield (Grace Theological Journal 12.2, 1971), summarising Lambert and Millard 1969: original 'must be before 1630 B.C.', archetype 'perhaps as early as ca. 1800 B.C.' (middle chronology). A seminary survey, confessional in outlook; the range is an upper/lower bound, not a fixed composition date"
+   },
+   "witness": "Old Babylonian Sippar tablets (SEAL C1/C2, Flood section only); Ku-Aya's three-tablet edition c. 1630 BCE per Battenfield citing Lambert; later Middle Assyrian and Neo-Assyrian copies (c. 700-650 BCE) per the same source"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://seal.huji.ac.il/node/1517",
+  "title": "Atraḫasis OB III (Sippar)",
+  "authors": "Wasserman, N. (ed.); SEAL project",
+  "year": 2020,
+  "venue": "Sources of Early Akkadian Literature (Hebrew University of Jerusalem)",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "[The gods sniffed] the scent, they grouped [like flies] over the offering.",
+  "summary": "After the flood the starving gods gather around the sacrifice; Nintu then rebukes them (C 1 v 36''-43''). Shares with Genesis 8:21 and Gilgamesh XI: a post-flood sacrifice that the gods smell. Differs: the gods are famished and quarrel; Genesis has one God who resolves never to flood again.",
+  "limits": "Line is partly restored (brackets in the SEAL translation). Old Babylonian Flood section only.",
+  "text": {
+   "work": "Atrahasis (Old Babylonian III, Sippar)",
+   "locator": "C 1 v 34''-35''",
+   "language": "Akkadian (quoted in English)",
+   "edition": "SEAL (Sources of Early Akkadian Literature, Hebrew University), no. 1517: Atrahasis OB III (Sippar), tablets C1+C2; transliteration and English translation after Wasserman 2020 (also Lambert/Millard 1969; George/al-Rawi 1996)",
+   "composition": {
+    "start": -1800,
+    "end": -1630,
+    "basis": "Battenfield (Grace Theological Journal 12.2, 1971), summarising Lambert and Millard 1969: original 'must be before 1630 B.C.', archetype 'perhaps as early as ca. 1800 B.C.' (middle chronology). A seminary survey, confessional in outlook; the range is an upper/lower bound, not a fixed composition date"
+   },
+   "witness": "Old Babylonian Sippar tablets (SEAL C1/C2, Flood section only); Ku-Aya's three-tablet edition c. 1630 BCE per Battenfield citing Lambert; later Middle Assyrian and Neo-Assyrian copies (c. 700-650 BCE) per the same source"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://archive.org/stream/cuneiformparalle00roge/cuneiformparalle00roge_djvu.txt",
+  "title": "Cuneiform Parallels to the Old Testament",
+  "authors": "Rogers, R. W.",
+  "year": 1912,
+  "venue": "Archive.org scan of the 1912 edition (cuneiformparalle00roge)",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "The dove flew away and came back, For there was no resting place and she returned.",
+  "summary": "Utnapishtim sends a dove, then a swallow, then a raven; the dove and swallow return, the raven does not. Shares with Genesis 8:6-12: birds sent to test the waters. Differs: three different birds in a fixed order vs raven and dove; Genesis's dove returns with an olive leaf and then does not return.",
+  "limits": "OCR of a 1912 translation; OCR artefacts in the margin do not affect the quoted lines.",
+  "text": {
+   "work": "Epic of Gilgamesh, Tablet XI (flood episode)",
+   "locator": "XI lines 34-39 (Rogers numbering)",
+   "language": "Akkadian (quoted in English, Rogers 1912)",
+   "edition": "R. W. Rogers, Cuneiform Parallels to the Old Testament (1912), p. 97-98, English translation of Gilgamesh Tablet XI with transliteration; archive.org OCR text. A 1912 rendering; later editions (George 2003) differ in wording and lineation",
+   "composition": {
+    "start": -1300,
+    "end": -1000,
+    "basis": "Wikipedia 'Epic of Gilgamesh': the Standard Babylonian version was compiled by Sin-leqi-unninni, thought to have lived between 1300 and 1000 BCE; the flood story is generally thought to be taken from Atrahasis. Encyclopaedia summary of George (2003) and others; I did not open George directly"
+   },
+   "witness": "Nineveh tablets from the library of Ashurbanipal (7th c. BCE) per Wikipedia 'Epic of Gilgamesh'; earlier Old Babylonian Gilgamesh tablets do not carry the Tablet XI flood"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://archive.org/stream/cuneiformparalle00roge/cuneiformparalle00roge_djvu.txt",
+  "title": "Cuneiform Parallels to the Old Testament",
+  "authors": "Rogers, R. W.",
+  "year": 1912,
+  "venue": "Archive.org scan of the 1912 edition (cuneiformparalle00roge)",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "The gods smelt the sweet savor, The gods gathered like flies over the sacrificer.",
+  "summary": "After landing Utnapishtim offers sacrifice on the mountain and the gods swarm to it. Shares with Genesis 8:20-21 and Atrahasis III: post-flood sacrifice, gods smell it. Differs: polytheistic setting, gods dependent on the offering; Genesis's single God responds with a promise.",
+  "limits": "OCR of a 1912 translation.",
+  "text": {
+   "work": "Epic of Gilgamesh, Tablet XI (flood episode)",
+   "locator": "XI line 46-46a",
+   "language": "Akkadian (quoted in English, Rogers 1912)",
+   "edition": "R. W. Rogers, Cuneiform Parallels to the Old Testament (1912), p. 97-98, English translation of Gilgamesh Tablet XI with transliteration; archive.org OCR text. A 1912 rendering; later editions (George 2003) differ in wording and lineation",
+   "composition": {
+    "start": -1300,
+    "end": -1000,
+    "basis": "Wikipedia 'Epic of Gilgamesh': the Standard Babylonian version was compiled by Sin-leqi-unninni, thought to have lived between 1300 and 1000 BCE; the flood story is generally thought to be taken from Atrahasis. Encyclopaedia summary of George (2003) and others; I did not open George directly"
+   },
+   "witness": "Nineveh tablets from the library of Ashurbanipal (7th c. BCE) per Wikipedia 'Epic of Gilgamesh'; earlier Old Babylonian Gilgamesh tablets do not carry the Tablet XI flood"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.sefaria.org/api/texts/Genesis_1%3A6?context=0&commentary=0",
+  "title": "Genesis 1:6 (JPS Tanakh, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API (JPS Tanakh: Gender-Sensitive Edition)",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "God said, “Let there be an expanse in the midst of the water, that it may separate water from water.”",
+  "summary": "Day two: God separates waters above and below by an expanse (the Sky, 1:8). Shares with Enuma Elish IV: a cosmos formed by dividing primeval waters, with a vault holding back upper waters. Differs: creation by speech alone, no divine combat, no body of a slain goddess, one God.",
+  "limits": "Verse 1:6 in Sefaria numbering. Genesis 1 is usually assigned to the Priestly layer; dating is a working band.",
+  "text": {
+   "work": "Genesis",
+   "locator": "1:6",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985, Gender-Sensitive Edition (English; CC-BY-NC); Hebrew: Miqra according to the Masorah",
+   "composition": {
+    "start": -600,
+    "end": -400,
+    "basis": "Genesis 1-11 is a composite of Priestly (P) and non-Priestly/Yahwist layers; Wikipedia 'Genesis flood narrative' gives c. 5th c. BCE for the book (some say 3rd c. for 1-11) and 'Genesis creation narrative' gives P possibly 6th c. BCE. Encyclopaedia summaries of scholarship, not a primary dating study; range is a working band"
+   },
+   "witness": "Hebrew text as printed in Sefaria's Miqra according to the Masorah (Masoretic tradition). Earliest manuscript witnesses (Dead Sea Scrolls, Aleppo Codex) were not opened in this run, so no date is asserted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://archive.org/stream/cuneiformparalle00roge/cuneiformparalle00roge_djvu.txt",
+  "title": "Cuneiform Parallels to the Old Testament",
+  "authors": "Rogers, R. W.",
+  "year": 1912,
+  "venue": "Archive.org scan of the 1912 edition (cuneiformparalle00roge)",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "When above the heaven was not named, And beneath the earth bore no name",
+  "summary": "Opening of Enuma Elish (title 'When on high'): before heaven and earth had names, Apsu, Mummu and Tiamat mingled their waters. Shares with Genesis 1:1-2: a pre-creation state of unformed waters, with 'deep' (tehom) often linked to Tiamat. Differs: Genesis has no theogony and no primeval divine pair.",
+  "limits": "Rogers 1912 translation; the verbal link tehom/Tiamat is a scholarly proposal, not shown by this quotation.",
+  "text": {
+   "work": "Enuma Elish (Babylonian creation epic)",
+   "locator": "Tablet I lines 1-4",
+   "language": "Akkadian (quoted in English, Rogers 1912)",
+   "edition": "R. W. Rogers, Cuneiform Parallels to the Old Testament (1912), pp. 1ff. and 31-32; archive.org OCR text; King's 1902 Seven Tablets of Creation is the standard older edition",
+   "composition": {
+    "start": -1155,
+    "end": -1000,
+    "basis": "Wikipedia 'Enuma Elish': formerly dated to Hammurabi's reign, most scholars now consider that unlikely and accept the Second Dynasty of Isin (Marduk's rise under Nebuchadnezzar I). The 1155-1000 BCE band is my reading of 'Second Dynasty of Isin' (reign dates not given on the page I quoted); verify before relying on it"
+   },
+   "witness": "Earliest manuscript from Assur, 9th c. BCE (Wikipedia 'Enuma Elish'); Ashurbanipal library copies 7th c. BCE per Rogers' edition notes"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://archive.org/stream/cuneiformparalle00roge/cuneiformparalle00roge_djvu.txt",
+  "title": "Cuneiform Parallels to the Old Testament",
+  "authors": "Rogers, R. W.",
+  "year": 1912,
+  "venue": "Archive.org scan of the 1912 edition (cuneiformparalle00roge)",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "He split her open like a flat (?) fish into two halves;",
+  "summary": "Marduk splits the slain Tiamat in two; one half becomes the covering for heaven, with a bolt and a watchman so her waters cannot come forth (IV 138-140). Shares with Genesis 1:6-8: the cosmos built by dividing primeval waters into upper and lower. Differs: violent theomachy and a corpse as raw material vs creation by word.",
+  "limits": "Rogers 1912 translation, '(?)' marks his uncertain rendering.",
+  "text": {
+   "work": "Enuma Elish (Babylonian creation epic)",
+   "locator": "Tablet IV lines 135-139",
+   "language": "Akkadian (quoted in English, Rogers 1912)",
+   "edition": "R. W. Rogers, Cuneiform Parallels to the Old Testament (1912), pp. 1ff. and 31-32; archive.org OCR text; King's 1902 Seven Tablets of Creation is the standard older edition",
+   "composition": {
+    "start": -1155,
+    "end": -1000,
+    "basis": "Wikipedia 'Enuma Elish': formerly dated to Hammurabi's reign, most scholars now consider that unlikely and accept the Second Dynasty of Isin (Marduk's rise under Nebuchadnezzar I). The 1155-1000 BCE band is my reading of 'Second Dynasty of Isin' (reign dates not given on the page I quoted); verify before relying on it"
+   },
+   "witness": "Earliest manuscript from Assur, 9th c. BCE (Wikipedia 'Enuma Elish'); Ashurbanipal library copies 7th c. BCE per Rogers' edition notes"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.sefaria.org/api/texts/Exodus_2%3A3?context=0&commentary=0",
+  "title": "Exodus 2:3 (JPS Tanakh, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API (JPS Tanakh: Gender-Sensitive Edition)",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "she got a wicker basket for him and caulked it with bitumen and pitch",
+  "summary": "Moses' mother seals a basket of reeds with bitumen and pitch and sets the child by the Nile bank (2:3); Pharaoh's daughter draws him out and he grows up in the palace (2:5-10). Shares with the Sargon legend: a hidden birth, an infant in a bitumen-sealed reed basket on a river, rescue and adoption. Differs: Moses' mother acts to save him and the sister watches (2:4); Sargon's mother is a priestess who sets him afloat in secret; Sargon becomes a gardener and then king.",
+  "limits": "Verse 2:3 in Sefaria numbering. The Hebrew teva (ark/basket) is the same word as Noah's ark; JPS renders it 'basket' here.",
+  "text": {
+   "work": "Exodus",
+   "locator": "2:3",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985, Gender-Sensitive Edition (English; CC-BY-NC); Hebrew: Miqra according to the Masorah",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "No dating source for this work opened in this run; left undated rather than guessed"
+   },
+   "witness": "Hebrew text as printed in Sefaria's Miqra according to the Masorah (Masoretic tradition). Earliest manuscript witnesses (Dead Sea Scrolls, Aleppo Codex) were not opened in this run, so no date is asserted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://archive.org/stream/cuneiformparalle00roge/cuneiformparalle00roge_djvu.txt",
+  "title": "Cuneiform Parallels to the Old Testament",
+  "authors": "Rogers, R. W.",
+  "year": 1912,
+  "venue": "Archive.org scan of the 1912 edition (cuneiformparalle00roge)",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "She set me in a basket of rushes, with bitumen she closed my door; She cast me into the river, which rose not over me.",
+  "summary": "First-person account of Sargon of Agade, born of a vestal mother in secret, set in a bitumen-sealed rush basket on the Euphrates, lifted out by Akki the irrigator and raised as his gardener before Ishtar loved him and he became king. Shares details with Exodus 2:1-10; differs in motive (secret birth to a priestess), narrator (first person), and outcome (kingship).",
+  "limits": "Rogers prints the text from Neo-Assyrian-era copies (published as CT xiii); the composition date of the legend is disputed and not established by this page. 1912 translation.",
+  "text": {
+   "work": "Legend of Sargon, King of Agade (Sargon Birth Legend)",
+   "locator": "Column I-II, lines 1-12 (Rogers numbering, 'The Legend of Sargon, King of Agade')",
+   "language": "Akkadian (quoted in English, Rogers 1912)",
+   "edition": "R. W. Rogers, Cuneiform Parallels to the Old Testament (1912), pp. 135-136; archive.org OCR text",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "Not established by a source I opened. A non-peer-reviewed Cambridge Open Engage preprint argues the Akkadian text was 'most likely composed in the late 8th century BC'; Wikipedia 'Sargon of Akkad' notes only that Sargon's legends are known from much later copies. Treat as undated here"
+   },
+   "witness": "Late (Neo-Assyrian-era) cuneiform copies as printed in Cuneiform Texts xiii; I did not verify the tablet date from a museum record"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.sefaria.org/api/texts/Proverbs_22%3A28?context=0&commentary=0",
+  "title": "Proverbs 22:28 (JPS Tanakh, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API (JPS Tanakh: Gender-Sensitive Edition)",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "Do not remove the ancient boundary stone",
+  "summary": "Prohibition on moving the ancient boundary stone (also 23:10, with the orphans' field and a mighty Redeemer who will take up their cause). Shares with Amenemope ch. 6: a ban on moving boundary markers, with the widow's boundary protected and divine retribution. Differs: Proverbs gives one line in a different sequence; Amenemope develops it over a chapter with the 'Moon' (Thoth) as judge.",
+  "limits": "Verse 22:28 in Sefaria numbering. JPS English; Hebrew not quoted here. Proverbs 22:17-24:22 ('Words of the Wise') is usually dated within the Hebrew wisdom tradition; I did not open a dating source for the section, so composition is left null.",
+  "text": {
+   "work": "Proverbs",
+   "locator": "22:28",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985, Gender-Sensitive Edition (English; CC-BY-NC); Hebrew: Miqra according to the Masorah",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "No dating source for Proverbs 22:17-24:22 opened in this run. Lichtheim (opened) assumes the author of Proverbs borrowed, which fixes only an order (Amenemope earlier), not a date; Ruffle (1975 lecture) opened but concerned with the connection, not a date"
+   },
+   "witness": "Hebrew text as printed in Sefaria's Miqra according to the Masorah (Masoretic tradition). Earliest manuscript witnesses (Dead Sea Scrolls, Aleppo Codex) were not opened in this run, so no date is asserted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://archive.org/stream/Miriam_Lichtheim_Ancient_Egyptian_Literature_Vol_I_II_III_2006/Miriam_Lichtheim_Ancient_Egyptian_Literature_Vol_I_II_III_2006_djvu.txt",
+  "title": "Ancient Egyptian Literature: A Book of Readings, vol. II",
+  "authors": "Lichtheim, M.",
+  "year": 2006,
+  "venue": "University of California Press (reissue; vol. II first published 1976)",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "context",
+  "quote": "Do not move the markers on the borders of fields, Nor shift the position of the measuring-cord.",
+  "summary": "Chapter 6: do not move field markers, do not encroach on the widow's boundaries; the offender will be caught by 'the might of the Moon'. Matches Proverbs 22:28 / 23:10 in subject; differs in length, sequence and the god invoked.",
+  "limits": "Lichtheim's translation; OCR of a reissue scan.",
+  "text": {
+   "work": "Instruction of Amenemope",
+   "locator": "Chapter 6 (VII,10-VIII,19)",
+   "language": "Egyptian (Hieratic; quoted in English, Lichtheim)",
+   "edition": "Miriam Lichtheim, Ancient Egyptian Literature (University of California Press; reissue 2006, vols I-III), vol. II, The New Kingdom: Instruction of Amenemope (AEL II 146-63), BM Papyrus 10474; archive.org OCR text",
+   "composition": {
+    "start": -1300,
+    "end": -1075,
+    "basis": "Lichtheim: 'The composition of the work is now usually assigned to the Ramesside period, although all the manuscript copies that have reached us are of later date'; Wikipedia 'Instruction of Amenemope' gives most likely Ramesside Period c. 1300-1075 BCE"
+   },
+   "witness": "British Museum Papyrus 10474 (complete; per Lichtheim 'of later date' than composition); fragments in Stockholm, Turin, Paris, Moscow tablets and a Cairo ostracon. Papyrus date not stated on the page quoted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://archive.org/stream/Miriam_Lichtheim_Ancient_Egyptian_Literature_Vol_I_II_III_2006/Miriam_Lichtheim_Ancient_Egyptian_Literature_Vol_I_II_III_2006_djvu.txt",
+  "title": "Ancient Egyptian Literature: A Book of Readings, vol. II",
+  "authors": "Lichtheim, M.",
+  "year": 2006,
+  "venue": "University of California Press (reissue; vol. II first published 1976)",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "context",
+  "quote": "Look to these thirty chapters, They inform, they educate; They are the foremost of all books",
+  "summary": "Final chapter of the work, which counts its own thirty chapters. This is the Egyptian side of the 'thirty' argument around Proverbs 22:20, which Lichtheim reads as deriving its meaning from Amenemope; Ruffle disputes the emendation and the link.",
+  "limits": "Lichtheim's translation. Proverbs 22:20 itself is textually uncertain (JPS note: 'threefold lore, meaning of Heb. uncertain').",
+  "text": {
+   "work": "Instruction of Amenemope",
+   "locator": "Chapter 30 (XXVII,7-)",
+   "language": "Egyptian (Hieratic; quoted in English, Lichtheim)",
+   "edition": "Miriam Lichtheim, Ancient Egyptian Literature (University of California Press; reissue 2006, vols I-III), vol. II, The New Kingdom: Instruction of Amenemope (AEL II 146-63), BM Papyrus 10474; archive.org OCR text",
+   "composition": {
+    "start": -1300,
+    "end": -1075,
+    "basis": "Lichtheim: 'The composition of the work is now usually assigned to the Ramesside period, although all the manuscript copies that have reached us are of later date'; Wikipedia 'Instruction of Amenemope' gives most likely Ramesside Period c. 1300-1075 BCE"
+   },
+   "witness": "British Museum Papyrus 10474 (complete; per Lichtheim 'of later date' than composition); fragments in Stockholm, Turin, Paris, Moscow tablets and a Cairo ostracon. Papyrus date not stated on the page quoted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.sefaria.org/api/texts/Psalms_104%3A21?context=0&commentary=0",
+  "title": "Psalms 104:21 (JPS Tanakh, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API (JPS Tanakh: Gender-Sensitive Edition)",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "The lions roar for prey",
+  "summary": "Psalm 104:20-23 sets night (beasts stir, lions roar for prey and seek food from God) against day (people go out to labor). Shares with the Aten hymn: the dark-night/day-work contrast with lions, and 104:25-26 sea creatures and ships. Differs: the lions' food comes from God; sun and moon are creations that mark seasons (104:19), not deities; no exclusive claim for one king.",
+  "limits": "Verse 104:21 in Sefaria numbering. No composition date for Psalm 104 was established from a source opened here.",
+  "text": {
+   "work": "Psalms",
+   "locator": "104:21",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985, Gender-Sensitive Edition (English; CC-BY-NC); Hebrew: Miqra according to the Masorah",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "No dating source for Psalm 104 opened in this run; the debate over Egyptian influence (Mark S. Smith, quoted on Wikipedia) is about influence, not date"
+   },
+   "witness": "Hebrew text as printed in Sefaria's Miqra according to the Masorah (Masoretic tradition). Earliest manuscript witnesses (Dead Sea Scrolls, Aleppo Codex) were not opened in this run, so no date is asserted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://archive.org/stream/Miriam_Lichtheim_Ancient_Egyptian_Literature_Vol_I_II_III_2006/Miriam_Lichtheim_Ancient_Egyptian_Literature_Vol_I_II_III_2006_djvu.txt",
+  "title": "Ancient Egyptian Literature: A Book of Readings, vol. II",
+  "authors": "Lichtheim, M.",
+  "year": 2006,
+  "venue": "University of California Press (reissue; vol. II first published 1976)",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "context",
+  "quote": "Every lion comes from its den, All the serpents bite;",
+  "summary": "Night section of the Great Hymn to the Aten: sleepers are robbed unseen, every lion leaves its den, serpents bite, 'as their maker rests in lightland'; at dawn the Two Lands work and ships fare north and south, fish dart before the god (all in the same hymn). Shares the night/day sequence with Psalm 104:19-26. Differs: the Aten is the single visible sun-disk, night is its absence; the Psalm's God is distinct from the sun.",
+  "limits": "Lichtheim's translation. OCR of a reissue scan.",
+  "text": {
+   "work": "Great Hymn to the Aten (tomb of Ay, Amarna)",
+   "locator": "West Wall, 13 columns; lines on night and dawn",
+   "language": "Egyptian (hieroglyphic; quoted in English, Lichtheim)",
+   "edition": "M. Lichtheim, Ancient Egyptian Literature vol. II (reissue 2006), pp. 96-100; archive.org OCR text",
+   "composition": {
+    "start": -1353,
+    "end": -1336,
+    "basis": "Great Hymn to the Aten: Akhenaten's reign c. 1353-1336 BCE as printed on Wim van den Dungen's maat.sofiatopia.org page and Wikipedia ('14th century BC'); the text is inscribed in the tomb of Ay at Amarna. Lichtheim edition opened for the text itself"
+   },
+   "witness": "Inscription in the tomb of Ay at El-Amarna, copied by Bouriant 1883-84 (a third later destroyed in 1890, per van den Dungen); also Davies, Amarna VI per Lichtheim"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.sefaria.org/api/texts/Exodus_21%3A29?context=0&commentary=0",
+  "title": "Exodus 21:29 (JPS Tanakh, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API (JPS Tanakh: Gender-Sensitive Edition)",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "that ox has been in the habit of goring, and its owner, though warned, has failed to guard it",
+  "summary": "Goring ox: no liability for the owner of an ox with no history, but if it was known to gore and not guarded the owner is put to death (21:29), with ransom possible (21:30). Shares with Hammurabi 250-252 the distinction between a first goring and a known-goring ox and the rule of the owner's liability. Differs: Hammurabi sets a silver fine (half mana for a man's son, one-third for a servant); Exodus has capital liability or ransom and stones the ox.",
+  "limits": "Verse 21:29 in Sefaria numbering. Composition of the Covenant Code is 'continued to be debated' (Wikipedia 'Covenant Code'); no firm range asserted.",
+  "text": {
+   "work": "Exodus",
+   "locator": "21:29",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985, Gender-Sensitive Edition (English; CC-BY-NC); Hebrew: Miqra according to the Masorah",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "Debated. Wright (Inventing God's Law, per the publisher synopsis opened) dates the use of Hammurabi in the Neo-Assyrian period, 740-640 BCE; the majority view cited in the same synopsis is oral tradition across the 2nd-1st millennia. Wikipedia 'Covenant Code': date and how it entered the Bible 'continue to be debated'"
+   },
+   "witness": "Hebrew text as printed in Sefaria's Miqra according to the Masorah (Masoretic tradition). Earliest manuscript witnesses (Dead Sea Scrolls, Aleppo Codex) were not opened in this run, so no date is asserted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation)",
+  "title": "The Code of Hammurabi (Harper translation)",
+  "authors": "Harper, R. F. (translator)",
+  "year": 1904,
+  "venue": "Wikisource (transcription of R. F. Harper, The Code of Hammurabi, University of Chicago Press, 1904)",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "If a man's bull have been wont to gore and they have made known to him his habit of goring",
+  "summary": "Law 251: an owner who was warned of his bull's habit and did not protect its horns pays one-half mana of silver if it kills a man's son (252: one-third mana for a servant). Pairs with Exodus 21:29 as the closest content parallel in the Covenant Code; differs in penalty and in the ox's own fate.",
+  "limits": "1904 translation; later editions (Roth 1995) differ in wording. Wikisource is a volunteer transcription.",
+  "text": {
+   "work": "Code of Hammurabi",
+   "locator": "Laws 251",
+   "language": "Akkadian (Old Babylonian; quoted in English, Harper 1904)",
+   "edition": "R. F. Harper 1904, Wikisource transcription",
+   "composition": {
+    "start": -1754,
+    "end": -1750,
+    "basis": "Wikipedia 'Code of Hammurabi': 'composed c. 1753 BC'; Hammurabi reigned c. 1792-c. 1750 BC (middle chronology)"
+   },
+   "witness": "Louvre basalt stele, found at Susa 1901 (per Wikipedia 'Code of Hammurabi'); the stele is the primary copy, later Mesopotamian scribal copies exist"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.sefaria.org/api/texts/Exodus_21%3A24?context=0&commentary=0",
+  "title": "Exodus 21:24 (JPS Tanakh, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API (JPS Tanakh: Gender-Sensitive Edition)",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "eye for eye, tooth for tooth, hand for hand, foot for foot,",
+  "summary": "Talionic formula within Exodus 21:22-25 (a pregnancy injury case, then 'life for life, eye for eye...'). Shares with Hammurabi 196-197, 200 the principle of equal injury; differs in that Exodus states it as a general list of bodily compensations inside a specific case, while Hammurabi differentiates by class (freeman, commoner, slave pay silver, 198-199).",
+  "limits": "Verse 21:24 in Sefaria numbering. Whether Exodus applies the formula literally or as compensation is a scholarly dispute not settled here.",
+  "text": {
+   "work": "Exodus",
+   "locator": "21:24",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985, Gender-Sensitive Edition (English; CC-BY-NC); Hebrew: Miqra according to the Masorah",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "Debated. Wright (Inventing God's Law, per the publisher synopsis opened) dates the use of Hammurabi in the Neo-Assyrian period, 740-640 BCE; the majority view cited in the same synopsis is oral tradition across the 2nd-1st millennia. Wikipedia 'Covenant Code': date and how it entered the Bible 'continue to be debated'"
+   },
+   "witness": "Hebrew text as printed in Sefaria's Miqra according to the Masorah (Masoretic tradition). Earliest manuscript witnesses (Dead Sea Scrolls, Aleppo Codex) were not opened in this run, so no date is asserted"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation)",
+  "title": "The Code of Hammurabi (Harper translation)",
+  "authors": "Harper, R. F. (translator)",
+  "year": 1904,
+  "venue": "Wikisource (transcription of R. F. Harper, The Code of Hammurabi, University of Chicago Press, 1904)",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "If a man destroy the eye of another man, they shall destroy his eye.",
+  "summary": "Laws 196-197: eye for eye, bone for bone for an equal; 198-199 convert to silver for a commoner's or slave's injury; 200 tooth for tooth. Pairs with Exodus 21:24 in form; differs by class distinctions and silver substitution.",
+  "limits": "1904 translation; later editions (Roth 1995) differ in wording. Wikisource is a volunteer transcription.",
+  "text": {
+   "work": "Code of Hammurabi",
+   "locator": "Laws 196-197",
+   "language": "Akkadian (Old Babylonian; quoted in English, Harper 1904)",
+   "edition": "R. F. Harper 1904, Wikisource transcription",
+   "composition": {
+    "start": -1754,
+    "end": -1750,
+    "basis": "Wikipedia 'Code of Hammurabi': 'composed c. 1753 BC'; Hammurabi reigned c. 1792-c. 1750 BC (middle chronology)"
+   },
+   "witness": "Louvre basalt stele, found at Susa 1901 (per Wikipedia 'Code of Hammurabi'); the stele is the primary copy, later Mesopotamian scribal copies exist"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://archive.org/stream/Miriam_Lichtheim_Ancient_Egyptian_Literature_Vol_I_II_III_2006/Miriam_Lichtheim_Ancient_Egyptian_Literature_Vol_I_II_III_2006_djvu.txt",
+  "title": "Ancient Egyptian Literature: A Book of Readings, vol. II (introduction to the Instruction of Amenemope)",
+  "authors": "Lichtheim, M.",
+  "year": 2006,
+  "venue": "University of California Press (reissue; vol. II first published 1976)",
+  "kind": "secondary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "quote": "It can hardly be doubted that the author of Proverbs was acquainted with the Egyptian work and borrowed from it",
+  "summary": "Lichtheim: composition usually assigned to the Ramesside period; Israelite knowledge of Egypt arose from Ramesside contacts; 'chips' of Amenemope are embedded in Proverbs xxii-xxiii, and since Erman there has been a consensus on a literary relationship, though some argue the reverse or a lost Semitic original.",
+  "limits": "A reader's introduction, not a full argument; her dating of the Hebrew side is not stated. The same author in the Aten hymn note rejects specific interdependence with Psalm 104 (separate candidate).",
+  "strand": {
+   "from": "Egypt (Ramesside Egypt)",
+   "to": "Israelite wisdom literature (Book of Proverbs)",
+   "carried": "idea",
+   "what": "sayings of Amenemope embedded in Proverbs 22:17-24:22",
+   "medium": "text",
+   "start": -1300,
+   "end": -1000,
+   "directness": "debated"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://tyndalebulletin.org/article/30616.pdf",
+  "title": "The Teaching of Amenemope and its Connection with the Book of Proverbs",
+  "authors": "Ruffle, J.",
+  "year": 1975,
+  "venue": "Tyndale Bulletin (Tyndale Biblical Archaeology Lecture, 1975; published in the Bulletin, volume and year not printed on the page text I read)",
+  "doi": "10.53751/001c.30616",
+  "kind": "skeptical",
+  "discipline": "Egyptology / Biblical studies",
+  "stance": "fails_to_support",
+  "quote": "I confess to some doubt about the existence of a direct connection between Proverbs and Amenemope.",
+  "summary": "Ruffle surveys Erman's emendation of Proverbs 22:20 (the 'thirty'), Gressmann's chapter-by-chapter matching, and the proposals of common source or Semitic original, then argues the parallels are fewer and looser than usually claimed and that key Amenemope themes do not appear in Proverbs.",
+  "limits": "Written 1975-77; later work (Emerton, Shupak, per secondary summaries not opened here) argued back for dependence. Year is the lecture year printed on the page (1975); the print volume year was not confirmed. Dated before the later Emerton/Shupak responses.",
+  "strand": {
+   "from": "Egypt (Amenemope)",
+   "to": "Israelite wisdom (Proverbs 22:17-24:22)",
+   "carried": "idea",
+   "what": "claimed literary dependence of Proverbs on Amenemope",
+   "medium": "text",
+   "start": -1300,
+   "end": -500,
+   "directness": "debated"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://archive.org/stream/Miriam_Lichtheim_Ancient_Egyptian_Literature_Vol_I_II_III_2006/Miriam_Lichtheim_Ancient_Egyptian_Literature_Vol_I_II_III_2006_djvu.txt",
+  "title": "Ancient Egyptian Literature: A Book of Readings, vol. II (note 3 to the Great Hymn to the Aten)",
+  "authors": "Lichtheim, M.",
+  "year": 2006,
+  "venue": "University of California Press (reissue; vol. II first published 1976)",
+  "kind": "skeptical",
+  "discipline": "Egyptology",
+  "stance": "fails_to_support",
+  "quote": "A specific literary interdependence is not probable.",
+  "summary": "Lichtheim's note to the lion/serpent lines of the Aten hymn: the resemblances to Psalm 104 are 'more likely to be the result of the generic similarity between Egyptian hymns and biblical psalms.'",
+  "limits": "Footnote-length judgment. Opposite view: Assmann and Redford, per Mark S. Smith as quoted on Wikipedia 'Psalm 104' (not primary).",
+  "strand": {
+   "from": "Egypt (Amarna)",
+   "to": "Israelite psalmody (Psalm 104)",
+   "carried": "idea",
+   "what": "claimed derivation of Psalm 104 from the Great Hymn to the Aten",
+   "medium": "unknown",
+   "start": -1353,
+   "end": -600,
+   "directness": "debated"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://en.wikipedia.org/wiki/Psalm_104",
+  "title": "Psalm 104 (section: Similarity to the Great Hymn to the Aten)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "kind": "secondary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "enthusiasm for even indirect influence has been tempered in recent decades.",
+  "summary": "Quotes Mark S. Smith: support for the Aten comparison persists but enthusiasm for even indirect influence has cooled; Assmann and Redford still argue for Egyptian influence; other quoted scholars read Psalm 104 as polemical commentary on, not a copy of, such hymns.",
+  "limits": "Encyclopaedia page; the Smith and vanGemeren quotes are second-hand and not checked against the originals. Use only to locate the debate.",
+  "strand": {
+   "from": "Egypt (Amarna)",
+   "to": "Israelite psalmody (Psalm 104)",
+   "carried": "idea",
+   "what": "possible influence of the Great Hymn to the Aten on Psalm 104",
+   "medium": "unknown",
+   "start": -1353,
+   "end": -600,
+   "directness": "debated"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.abebooks.com/products/isbn/9780199974955",
+  "title": "Inventing God's Law: How the Covenant Code of the Bible Used and Revised the Laws of Hammurabi (publisher synopsis)",
+  "authors": "Wright, D. P.",
+  "year": 2009,
+  "venue": "Oxford University Press (synopsis reproduced on abebooks.com)",
+  "kind": "secondary",
+  "discipline": "Biblical studies / Assyriology",
+  "stance": "supports",
+  "quote": "it depends directly and primarily upon the Laws of Hammurabi and that the use of this source text occurred during the Neo-Assyrian period",
+  "summary": "Synopsis of Wright's thesis: most scholars attribute Covenant Code-Mesopotamian similarities to oral tradition across the 2nd-1st millennia; Wright argues literary dependence in 740-640 BCE, when Hammurabi's Laws were being copied.",
+  "limits": "Publisher blurb on a bookseller page (not the book). Year 2009 is the first (hardcover) edition shown on the bookseller listing; the page also lists a 2013 paperback. The minority-to-majority split noted here is the publisher's description. Markl (Tuebingen PDF) was unreachable, so no independent critique was opened.",
+  "strand": {
+   "from": "Mesopotamia (Laws of Hammurabi, as copied in the Neo-Assyrian period)",
+   "to": "Israel (Covenant Code, Exodus 20:23-23:19)",
+   "carried": "institution",
+   "what": "literary use of Hammurabi's laws in the Covenant Code",
+   "medium": "text",
+   "start": -740,
+   "end": -640,
+   "directness": "debated"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://www.cambridge.org/engage/coe/article-details/690d26f3113cc7cfffa5cec5",
+  "title": "A Case for Babylonian Moses",
+  "authors": null,
+  "year": null,
+  "venue": "Cambridge Open Engage (preprint, not peer reviewed at time of posting)",
+  "kind": "secondary",
+  "discipline": "Biblical studies / Assyriology",
+  "stance": "supports",
+  "quote": "Although scholars commonly attribute the similarities to the diffusion of the same myths across the Fertile Crescent in antiquity",
+  "summary": "Abstract argues the Moses birth story (Exodus 2:1-10) was adapted directly from the Sargon Birth Legend (composed 'most likely' in the late 8th c. BC) and that this requires reevaluating the traditional Moses timeline; it states the common view as diffusion of shared motifs.",
+  "limits": "Preprint abstract only; author not captured in the page text I read; no peer review. The proposal is a minority position. Alternative-claim source, set beside the common-diffusion view it names.",
+  "strand": {
+   "from": "Mesopotamia (Sargon Birth Legend)",
+   "to": "Israel (Exodus 2:1-10)",
+   "carried": "idea",
+   "what": "birth-exposure story of Moses derived from the Sargon legend",
+   "medium": "text",
+   "start": -750,
+   "end": -600,
+   "directness": "debated"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://biblicalelearning.org/wp-content/uploads/2022/01/Battenfield-Atra-Hasis-GTJ.pdf",
+  "title": "Atra-Hasis: A Survey",
+  "authors": "Battenfield, J. R.",
+  "year": 1971,
+  "venue": "Grace Theological Journal 12.2, pp. 3-22",
+  "kind": "secondary",
+  "discipline": "Biblical studies / Assyriology",
+  "stance": "context",
+  "quote": "Only in the Biblical account is the number of animals to be brought into the ark realistic.",
+  "summary": "A line-by-line comparison of Atra-hasis, Gilgamesh XI and Genesis 6-9: ark, bitumen/pitch, door, bird-sending, post-flood sacrifice and smelling, with Genesis stressing a covenant and Atra-hasis lacking one. Also gives the Old Babylonian witness (Ku-Aya, c. 1630 BCE) and an earlier archetype 'perhaps as early as ca. 1800 B. C.'",
+  "limits": "Author is a teaching fellow at a conservative evangelical seminary and concludes that all accounts go back to an historical world-wide flood and that Scripture alone is without mythology: a confessional position. Useful for the factual comparison and Lambert/Millard dating summary, not for his conclusion.",
+  "strand": {
+   "from": "Mesopotamia (Atrahasis, Gilgamesh XI)",
+   "to": "Israel (Genesis 6-9)",
+   "carried": "idea",
+   "what": "flood narrative; Battenfield argues common historical event rather than borrowing",
+   "medium": "unknown",
+   "start": -1800,
+   "end": -400,
+   "directness": "debated"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://en.wikipedia.org/wiki/Genesis_flood_narrative",
+  "title": "Genesis flood narrative",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "kind": "secondary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "Scholars generally believe it was adapted from older Mesopotamian flood traditions",
+  "summary": "Encyclopaedic summary that Genesis 6-9 draws on P and J sources, composed c. 5th c. BCE (some say Genesis 1-11 as late as the 3rd), and is generally held adapted from older Mesopotamian traditions, especially Gilgamesh, which originated in the early 2nd millennium BCE.",
+  "limits": "Wikipedia; cites scholarship without my having opened it. Statement of dependence (here 'adapted') reads firmer than the specialist debate on route; used for the dating bands and the consensus claim only.",
+  "strand": {
+   "from": "Mesopotamia (Atrahasis / Gilgamesh XI flood traditions)",
+   "to": "Israel (Genesis 6-9)",
+   "carried": "idea",
+   "what": "flood narrative",
+   "medium": "text",
+   "start": -1800,
+   "end": -400,
+   "directness": "inferred"
+  },
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://en.wikipedia.org/wiki/Enuma_Elish",
+  "title": "Enuma Elish (section: Date)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "kind": "secondary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "While it used to be viewed that Enuma Elish was composed in the reign of Hammurabi",
+  "summary": "Records the shift from dating Enuma Elish to Hammurabi's reign to the Second Dynasty of Isin (Marduk's rise), and that the earliest manuscript is from Assur, 9th c. BCE. Bears on any claim that Genesis 1 borrowed from an Old Babylonian composition.",
+  "limits": "Wikipedia; footnoted claims not opened. Reign dates of the Second Dynasty of Isin are not on the quoted page; the composition band in the text objects is my gloss.",
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+  "title": "Epic of Gilgamesh (section on versions)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "kind": "secondary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "quote": "who is thought to have lived sometime between 1300 BCE and 1000 BCE.",
+  "summary": "Dates the compiler Sin-leqi-unninni of the Standard Babylonian version (twelve tablets) to 1300-1000 BCE; the Nineveh copies are from Ashurbanipal's 7th-century library; the Old Babylonian version is a separate, earlier form.",
+  "limits": "Wikipedia, relying on George 2003 and others, not opened here. Atrahasis's priority over Gilgamesh XI is stated by Battenfield and by Wikipedia's flood page, not demonstrated here.",
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "bible-near-east-parallels",
+  "records": [],
+  "url": "https://en.wikipedia.org/wiki/Genesis_creation_narrative",
+  "title": "Genesis creation narrative",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "kind": "secondary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "quote": "there is no trace of the resistance to the reduction of chaos to order",
+  "summary": "Compares Genesis 1 and 2 with Enuma Elish and Atra-Hasis: both begin with a cosmic ocean, a firmament holds back the waters, a man is made to serve; Genesis 1 has no theogony and no theomachy; Genesis 2 shares plot details with Atra-Hasis. Gives P as possibly 6th c. BCE and Stavrakopoulou's 5th c. BCE for the written account.",
+  "limits": "Wikipedia; direction and route are inferred by scholars cited there, not shown by the page. Treat as a map of the debate.",
+  "accessed": "2026-11-17",
+  "ask_addressed": "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ }
+]

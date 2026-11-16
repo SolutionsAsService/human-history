@@ -1,0 +1,844 @@
+[
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Suppiluliuma (Hittite) - Shattiwaza (Mitanni) Treaty Excerpts (Beckman translation, A Rev 35-53)",
+  "authors": null,
+  "year": null,
+  "venue": "Heritage Institute (heritageinstitute.com), excerpts of the Beckman translation",
+  "url": "https://www.heritageinstitute.com/zoroastrianism/ranghaya/suppiluliuma_shattiwaza_treaty.htm",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Hittitology / Near Eastern history",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "the Mitra -gods, the Varuna -gods, Indra , the Nasatya -gods",
+  "summary": "English rendering of the divine-witness list in the Shattiwaza treaty, where gods with Vedic names stand among Hurrian, Hittite and Mesopotamian deities.",
+  "limits": "Excerpts on a popular-religion site that labels them 'Beckman' versions; the page's own spacing is kept in the quote. It does not print the cuneiform or give a tablet number in the passage quoted. The names are attested, but the page does not say who the bearers were or how the names reached Mitanni.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Treaty of Suppiluliuma I and Shattiwaza of Mitanni",
+   "locator": "Akkadian version A, Rev. 35-53 (divine witnesses)",
+   "language": "Akkadian (quoted in English, Beckman translation as excerpted)",
+   "edition": "Heritage Institute web excerpts of G. Beckman, Hittite Diplomatic Texts (as labelled on the page); not checked against the printed book",
+   "composition": {
+    "start": -1380,
+    "end": -1346,
+    "basis": "Treaty between Suppiluliuma I and Shattiwaza; Cornil dates it to the mid-14th century (Suppiluliuma r. 1380-1346) and Gentile 2019 gives ca. 1380 BC; the exact year inside the reign is not fixed by the pages opened."
+   },
+   "witness": "Akkadian tablets from Hattusa (Boghazkoy), published as Keilschrifttexte aus Boghazkoi I (1916) and Keilschrifturkunden aus Boghazkoi III (1922) per Cornil; the date of the surviving copies is not stated on the pages opened (a Hittite-archive copy, not an original from Mitanni)."
+  },
+  "strand": {
+   "from": "Indo-Aryan-speaking elite or ancestors (Proto-Indo-Aryan or Proto-Indo-Iranian, disputed)",
+   "to": "Mitanni (Hurrian kingdom) and the Hittite treaty system",
+   "carried": "religion",
+   "what": "divine names Mitra, Varuna, Indra and the Nasatyas invoked as oath witnesses",
+   "medium": "unknown",
+   "start": -1380,
+   "end": -1346,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Le traite de Suppiluliuma et Shattiwaza",
+  "authors": "Cornil, P.",
+  "year": null,
+  "venue": "RIDA (offprint PDF at sites.unipa.it); French translation of the Akkadian treaty after Weidner",
+  "url": "https://sites.unipa.it/dipstdir/portale/pub/riviste/CORNIL.pdf",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Near Eastern law / Hittitology",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "les divinités Uruwanasse, Indar, les divinités Nasattijanna",
+  "summary": "Line 56 of Cornil's French translation of the oath list, giving the Mitanni forms Uruwanasse, Indar and Nasattijanna beside Mitrassil (line 55); Cornil's introduction glosses them as Varuna, Indra and the Nasatyas.",
+  "limits": "A French rendering, not the cuneiform; the year of the article is not printed on the PDF pages read. The identification with Vedic gods is Cornil's gloss, not the tablet's. Mitrassil is on the previous printed line, separated by a page header.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Treaty of Suppiluliuma I and Shattiwaza of Mitanni",
+   "locator": "lines 55-56 of Cornil's numbering (divine witnesses)",
+   "language": "Akkadian (quoted in French, P. Cornil after E. F. Weidner)",
+   "edition": "P. Cornil, Le traite de Suppiluliuma et Shattiwaza, RIDA 45 (offprint); based on KBo I 1-2 and KUB III 1 and Weidner's transliteration and German translation",
+   "composition": {
+    "start": -1380,
+    "end": -1346,
+    "basis": "Treaty between Suppiluliuma I and Shattiwaza; Cornil dates it to the mid-14th century (Suppiluliuma r. 1380-1346) and Gentile 2019 gives ca. 1380 BC; the exact year inside the reign is not fixed by the pages opened."
+   },
+   "witness": "Akkadian tablets from Hattusa (Boghazkoy), published as Keilschrifttexte aus Boghazkoi I (1916) and Keilschrifturkunden aus Boghazkoi III (1922) per Cornil; the date of the surviving copies is not stated on the pages opened (a Hittite-archive copy, not an original from Mitanni)."
+  },
+  "strand": {
+   "from": "Indo-Aryan-speaking elite or ancestors (Proto-Indo-Aryan or Proto-Indo-Iranian, disputed)",
+   "to": "Mitanni (Hurrian kingdom) and the Hittite treaty system",
+   "carried": "religion",
+   "what": "divine names Mitra, Varuna, Indra and the Nasatyas invoked as oath witnesses",
+   "medium": "unknown",
+   "start": -1380,
+   "end": -1346,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Kikkuli (Wikipedia entry quoting the opening of the horse-training text, CTH 284)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kikkuli",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Hittitology / Indo-Aryan linguistics",
+  "stance": "context",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "Thus speaks Kikkuli, master horse trainer of the land of Mitanni",
+  "summary": "Opening line of the Hittite-language chariot-horse manual by a Mitanni trainer; the same entry says the text carries Indo-Aryan numeral compounds such as aika-, tera-, panza-, satta-, nawa-wartanna.",
+  "limits": "Wikipedia reproduces a translation of lines 1-4 and cites Nyland, whom I did not open; the Indo-Aryan terms are the entry's claim, not shown here. Quote the tablet from an edition before relying on it. The numerals are not quoted because that phrasing was not confirmed on the page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Kikkuli horse-training text (CTH 284)",
+   "locator": "opening lines 1-4",
+   "language": "Hittite with Mitanni technical terms (quoted in English)",
+   "edition": "Wikipedia 'Kikkuli' (translation of the opening, source cited as The Kikkuli Text, Lines 1-4)",
+   "composition": {
+    "start": -1450,
+    "end": -1350,
+    "basis": "Wikipedia gives Kikkuli as fl. c. 1400 BC and the text as Hittite New Kingdom; the range is that page's, not independently checked."
+   },
+   "witness": "Per Wikipedia: CTH 284 is a Late Hittite copy (13th c. BC); CTH 285 and 286 are contemporary Middle Hittite copies."
+  },
+  "strand": {
+   "from": "Indo-Aryan-speaking Mitanni elite",
+   "to": "Hurrian-Hittite horse-training terminology",
+   "carried": "language",
+   "what": "technical horse-training terms (aika-, tera-, panza-, satta-, nawa-)",
+   "medium": "text",
+   "start": -1400,
+   "end": -1300,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "The Proto-Indoaryans",
+  "authors": "Burrow, T.",
+  "year": 1973,
+  "venue": "Journal of the Royal Asiatic Society 105(2), 123-140 (extract only)",
+  "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/protoindoaryans/D33CF44DA7BA7B2D3E5FF36F667D4114",
+  "doi": "10.1017/S0035869X00130837",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Indo-Aryan linguistics",
+  "stance": "supports",
+  "ask_addressed": "Give composition ranges with basis (Rigveda and Avesta dates are scholarly ranges, quote the basis), the earliest witness, and the edition or translation read. Add the strongest scholarly caution on Indo-Iranian dating.",
+  "quote": "the Aryan linguistic vestiges in the Near East are to be connected specifically with Indo-Aryan, and not with Iranian",
+  "summary": "Burrow reports the then-prevailing view (after Mayrhofer 1966) that the Near Eastern Aryan words and the treaty gods belong to Indo-Aryan, and judges Kammenhuber's Proto-Aryan counter-case unsuccessful.",
+  "limits": "Only the abstract extract was open (full text behind access). 1973, so earlier than Gentile 2019, who records continuing scepticism. Linguistic assignment of names, not a documented route into Mitanni.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Indo-Aryan speakers",
+   "to": "Mitanni (northern Mesopotamia and Syria)",
+   "carried": "language",
+   "what": "Indo-Aryan words and divine names (aika, surias, Mitra, Varuna, Indra, Nasatyas)",
+   "medium": "unknown",
+   "start": -1400,
+   "end": -1300,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Indo-Iranian personal names in Mitanni: A source for cultural reconstruction",
+  "authors": "Gentile, S.",
+  "year": 2019,
+  "venue": "Onoma 54, 137-159",
+  "url": "https://www.diacronia.ro/indexing/details/A31188/pdf",
+  "doi": "10.34158/ONOMA.54/2019/8",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Onomastics / Indo-European linguistics",
+  "stance": "fails_to_support",
+  "ask_addressed": "Give composition ranges with basis (Rigveda and Avesta dates are scholarly ranges, quote the basis), the earliest witness, and the edition or translation read. Add the strongest scholarly caution on Indo-Iranian dating.",
+  "quote": "despite some scepticism (Kammenhuber 1968; Diakonov 1972)",
+  "summary": "Gentile records that the Indo-Aryan link of the Mitanni names and glosses, though the mainstream view since Mayrhofer, met scepticism from Kammenhuber and Diakonov.",
+  "limits": "A one-clause report of scepticism, not the sceptics' arguments, which I did not open. Gentile himself accepts a close Aryan connection.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Indo-Aryan or Indo-Iranian speakers",
+   "to": "Mitanni",
+   "carried": "language",
+   "what": "Aryan personal names, glosses and divine names in Mitanni sources",
+   "medium": "unknown",
+   "start": -1500,
+   "end": -1300,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Indo-Iranian personal names in Mitanni: A source for cultural reconstruction (footnote 3: Proto-Indo-Iranian or Proto-Indo-Aryan)",
+  "authors": "Gentile, S.",
+  "year": 2019,
+  "venue": "Onoma 54, 137-159",
+  "url": "https://www.diacronia.ro/indexing/details/A31188/pdf",
+  "doi": "10.34158/ONOMA.54/2019/8",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Onomastics / Indo-European linguistics",
+  "stance": "fails_to_support",
+  "ask_addressed": "Give composition ranges with basis (Rigveda and Avesta dates are scholarly ranges, quote the basis), the earliest witness, and the edition or translation read. Add the strongest scholarly caution on Indo-Iranian dating.",
+  "quote": "since it is debated whether these language forms derive from",
+  "summary": "Gentile, following Thieme 1960, uses 'Aryan' as a neutral label because the Mitanni forms cannot be securely assigned to Indo-Aryan rather than a common Indo-Iranian stage; the treaty is dated here to ca. 1380 BC.",
+  "limits": "Footnote, not an argument. It cuts against reading the treaty as evidence of Indian (as opposed to Indo-Iranian) contact, which is the strongest caution found on the brief's question. Thieme's own article was not opened.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Proto-Indo-Iranian or Proto-Indo-Aryan speakers",
+   "to": "Mitanni",
+   "carried": "language",
+   "what": "Aryan names and glosses; subgroup unresolved",
+   "medium": "unknown",
+   "start": -1500,
+   "end": -1300,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Indo-Iranian personal names in Mitanni (Rigveda 10.125.1 set beside the treaty gods)",
+  "authors": "Gentile, S.",
+  "year": 2019,
+  "venue": "Onoma 54, 137-159",
+  "url": "https://www.diacronia.ro/indexing/details/A31188/pdf",
+  "doi": "10.34158/ONOMA.54/2019/8",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Onomastics / Vedic studies",
+  "stance": "context",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "ahám mitrā́ váruṇobʰā́ bibʰarmy ahám indrāgnī́ ahám aśvínobʰā́",
+  "summary": "Gentile quotes Rigveda 10.125.1 (Jamison and Brereton 2014 translation: 'I bear both Mitra and Varuna, I Indra and Agni, I both the Aśvins') as showing the treaty's sequence of gods, first noticed by Dumezil (1952).",
+  "limits": "The Vedic line is a secondary quotation and 10.125 is a late Rigvedic book, so a match in order shows shared tradition, not borrowing or direction. Sanskrit as printed by Gentile.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Rigveda",
+   "locator": "10.125.1",
+   "language": "Vedic Sanskrit (transliteration as printed by Gentile)",
+   "edition": "Quoted in S. Gentile, Onoma 54 (2019), with the Jamison-Brereton 2014 translation",
+   "composition": {
+    "start": -1500,
+    "end": -1000,
+    "basis": "Philological estimates place the bulk of the Rigveda in the second half of the second millennium BCE; the dating is inferred from style and content (see Wikipedia 'Rigveda' on Jamison and Brereton, and Livius)."
+   },
+   "witness": "Oral transmission; the oldest surviving manuscripts are from Nepal, c. 1040 CE (Wikipedia 'Rigveda' citing Witzel 1997)."
+  },
+  "strand": {
+   "from": "Vedic (Indo-Aryan) tradition",
+   "to": "Mitanni treaty oath list",
+   "carried": "religion",
+   "what": "the god sequence Mitra-Varuna, Indra, Nasatyas/Asvins",
+   "medium": "unknown",
+   "start": -1500,
+   "end": -1346,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "The Hymns of the Rigveda, vol. I, Book II Hymn XII (Indra)",
+  "authors": "Griffith, R. T. H. (translator)",
+  "year": 1889,
+  "venue": "Benares: E. J. Lazarus and Co., 1889 (archive.org scan of Harvard copy, OCR text)",
+  "url": "https://archive.org/stream/hymnsrigveda02grifgoog/hymnsrigveda02grifgoog_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Vedic studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "Who slew the dragon, freed the seven rivers, and drove the kine forth from the cave of Vala",
+  "summary": "Stanza 3 of RV 2.12, the 'He, O men, is Indra' hymn, naming Indra as slayer of the dragon (Vritra) and releaser of the rivers and cattle.",
+  "limits": "Griffith's 1889 verse translation, with OCR noise (the hymn's first words read 'Hb who'); stanza text quoted from the line the OCR kept clean. Whether Vedic Indra is ancestral to the Mitanni Indara is a linguistic inference, not stated in the hymn.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Rigveda",
+   "locator": "2.12 (stanza 3)",
+   "language": "Vedic Sanskrit (quoted in English, R. T. H. Griffith)",
+   "edition": "Griffith, The Hymns of the Rigveda translated with a popular commentary, vol. I, Benares 1889 (archive.org hymnsrigveda02grifgoog)",
+   "composition": {
+    "start": -1500,
+    "end": -1000,
+    "basis": "Scholarly range, inferred from style and content; Jamison and Brereton (2014) say dating 'has been and is likely to remain a matter of contention' (Wikipedia 'Rigveda' quoting them). Book II is a 'family book' of the older core."
+   },
+   "witness": "Oral transmission; oldest surviving manuscripts c. 1040 CE (Nepal), per Wikipedia 'Rigveda' citing Witzel."
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "The Hymns of the Rigveda, vol. II, Book V Hymn LXIII (Mitra-Varuna)",
+  "authors": "Griffith, R. T. H. (translator)",
+  "year": 1890,
+  "venue": "Benares: E. J. Lazarus and Co., 1890 (archive.org scan of Harvard copy, OCR text)",
+  "url": "https://archive.org/stream/hymnsrigveda00grifgoog/hymnsrigveda00grifgoog_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Vedic studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "Guardians of Order, ye whose laws are ever true, in the sublimest heaven your chariot ye ascend",
+  "summary": "Opening stanza of RV 5.63, a hymn to Mitra and Varuna as guardians of cosmic order (rta) who give rain; the same pair named in the Mitanni oath list.",
+  "limits": "Griffith's 1890 translation, OCR text. That the Vedic pair and the treaty's Mitra and Varuna are the same gods is the usual identification, not something this passage states.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Rigveda",
+   "locator": "5.63.1",
+   "language": "Vedic Sanskrit (quoted in English, R. T. H. Griffith)",
+   "edition": "Griffith, vol. II, Benares 1890 (archive.org hymnsrigveda00grifgoog)",
+   "composition": {
+    "start": -1500,
+    "end": -1000,
+    "basis": "Scholarly range, inferred from style and content (Wikipedia 'Rigveda'; Livius gives 1500-1200 BCE)."
+   },
+   "witness": "Oral transmission; oldest surviving manuscripts c. 1040 CE (Nepal), per Wikipedia 'Rigveda' citing Witzel."
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "The Zend-Avesta, Part III (Yasna XXX.3, tr. L. H. Mills)",
+  "authors": "Mills, L. H. (translator)",
+  "year": 1887,
+  "venue": "Sacred Books of the East vol. 31, Clarendon Press",
+  "url": "https://archive.org/stream/zendavesta03darm/zendavesta03darm_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Avestan studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "Thus are the primeval spirits who as a pair",
+  "summary": "Yasna 30.3 in Mills's rendering, with the pair of primeval spirits, 'a better thing, they two, and a worse', between whom the wise are to choose.",
+  "limits": "Mills's 1887 translation, with his bracketed interpolations and footnote marks in the OCR text; later translators differ. The passage is Zoroastrian dualism, not a statement of contact with India.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Avesta, Yasna (Gatha Ahunavaiti)",
+   "locator": "Yasna 30.3",
+   "language": "Old Avestan (quoted in English, L. H. Mills)",
+   "edition": "L. H. Mills, The Zend-Avesta Part III, Sacred Books of the East vol. 31, Oxford 1887, p. 29-31 (archive.org zendavesta03darm)",
+   "composition": {
+    "start": -1500,
+    "end": -900,
+    "basis": "Gathas: Mills (1887) says 'may possibly have been composed as early as about 1500 B.C.' and possibly as late as 900-1200 B.C.; Livius gives 1400-1200 BCE; Wikipedia 'Gathas' collects 1500-900 BCE with c. 1000 most likely. Estimates rest on language comparison with the Rigveda, not on dated external evidence."
+   },
+   "witness": "Long oral transmission, then writing under the Sasanians (Wikipedia 'Gathas'); the earliest surviving manuscripts are medieval and were not opened."
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "The Zend-Avesta, Part III (Yasna XXX.6, tr. L. H. Mills)",
+  "authors": "Mills, L. H. (translator)",
+  "year": 1887,
+  "venue": "Sacred Books of the East vol. 31, Clarendon Press",
+  "url": "https://archive.org/stream/zendavesta03darm/zendavesta03darm_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Avestan studies",
+  "stance": "context",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "the Demon-gods (and they who give them worship) can make no righteous choice",
+  "summary": "Yasna 30.6, where the daevas (rendered 'Demon-gods') cannot choose rightly between the two spirits, the Iranian class of beings that scholars set beside Vedic devas; this passage does not itself make that comparison.",
+  "limits": "The Vedic-Avestan inversion (deva vs daeva; asura vs ahura) is noted by scholars in other sources, not in this passage. Mills's translation is 1887.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Avesta, Yasna (Gatha Ahunavaiti)",
+   "locator": "Yasna 30.6",
+   "language": "Old Avestan (quoted in English, L. H. Mills)",
+   "edition": "L. H. Mills, The Zend-Avesta Part III, Sacred Books of the East vol. 31, Oxford 1887, p. 29-31 (archive.org zendavesta03darm)",
+   "composition": {
+    "start": -1500,
+    "end": -900,
+    "basis": "Gathas: Mills (1887) says 'may possibly have been composed as early as about 1500 B.C.' and possibly as late as 900-1200 B.C.; Livius gives 1400-1200 BCE; Wikipedia 'Gathas' collects 1500-900 BCE with c. 1000 most likely. Estimates rest on language comparison with the Rigveda, not on dated external evidence."
+   },
+   "witness": "Long oral transmission, then writing under the Sasanians (Wikipedia 'Gathas'); the earliest surviving manuscripts are medieval and were not opened."
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "The Zend-Avesta, Part III, Introduction (Gathas dated by comparison with the Rigveda)",
+  "authors": "Mills, L. H.",
+  "year": 1887,
+  "venue": "Sacred Books of the East vol. 31, Clarendon Press",
+  "url": "https://archive.org/stream/zendavesta03darm/zendavesta03darm_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Avestan studies",
+  "stance": "context",
+  "ask_addressed": "Give composition ranges with basis (Rigveda and Avesta dates are scholarly ranges, quote the basis), the earliest witness, and the edition or translation read. Add the strongest scholarly caution on Indo-Iranian dating.",
+  "quote": "the Gathas may possibly have been composed as early as about 1500 B.C.",
+  "summary": "Mills dates the Gathas by their linguistic distance from the Rigveda: 'in view of the established age of the Rig-veda' possibly c. 1500 B.C., or as late as 900-1200 B.C.",
+  "limits": "1887 scholarship that assumes the Rigveda's age as fixed, so the Gathic range is derived from a Vedic range that is itself an estimate; do not treat it as independent evidence.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Avesta (Livius.org)",
+  "authors": "Lendering, J.",
+  "year": null,
+  "venue": "Livius.org, Sources: Avesta",
+  "url": "https://www.livius.org/sources/content/avesta",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Iranian history",
+  "stance": "context",
+  "ask_addressed": "Give composition ranges with basis (Rigveda and Avesta dates are scholarly ranges, quote the basis), the earliest witness, and the edition or translation read. Add the strongest scholarly caution on Indo-Iranian dating.",
+  "quote": "hymns that were probably composed in the Punjab between 1500 and 1200 BCE",
+  "summary": "Livius dates the Rigveda hymns to 1500-1200 BCE, links the Gathas to them by language (Gathic ahura = Vedic asura) and puts Zarathustra's hymns at 1400-1200 BCE.",
+  "limits": "A popular reference site; I saw no sources cited for the dates in the text read. Not a scholarly dating argument.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Avesta (Livius.org): caution on the Vedic-Gathic link",
+  "authors": "Lendering, J.",
+  "year": null,
+  "venue": "Livius.org, Sources: Avesta",
+  "url": "https://www.livius.org/sources/content/avesta",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Iranian history",
+  "stance": "fails_to_support",
+  "ask_addressed": "Give composition ranges with basis (Rigveda and Avesta dates are scholarly ranges, quote the basis), the earliest witness, and the edition or translation read. Add the strongest scholarly caution on Indo-Iranian dating.",
+  "quote": "The Vedic and Gathic languages have a common ancestor, but developed differently",
+  "summary": "Livius warns that Vedic and Gathic share an ancestor and diverged, and that using one to read the other is 'dangerous'; ahura means 'divine lord' while asura means 'demon'.",
+  "limits": "Cautions about interpretation, not about dates; a popular reference site, but the point is the standard one that the Vedic-Avestan match shows common inheritance, not Indian-Iranian borrowing.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Proto-Indo-Iranian",
+   "to": "Vedic and Old Avestan religion",
+   "carried": "religion",
+   "what": "shared divine vocabulary (asura/ahura, deva/daeva) from a common ancestor",
+   "medium": "unknown",
+   "start": -1500,
+   "end": -1000,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Rigveda (Wikipedia): dating caution",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia, quoting Jamison and Brereton 2014",
+  "url": "https://en.wikipedia.org/wiki/Rigveda",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Vedic studies",
+  "stance": "fails_to_support",
+  "ask_addressed": "Give composition ranges with basis (Rigveda and Avesta dates are scholarly ranges, quote the basis), the earliest witness, and the edition or translation read. Add the strongest scholarly caution on Indo-Iranian dating.",
+  "quote": "has been and is likely to remain a matter of contention and reconsideration",
+  "summary": "The entry quotes Jamison and Brereton's 2014 translation on Rigveda dating and states that the dating proposals 'are all inferred from the style and the content within the hymns themselves'; philological estimates put the bulk in the second half of the second millennium BCE.",
+  "limits": "Secondary summary on Wikipedia; I did not open Jamison and Brereton. It says the dating is internal and unanchored; the same entry quotes Witzel (2019) saying the Indo-Aryan loanwords in Mitanni confirm a Rigveda date of c. 1200-1000 BCE, so Mitanni evidence and Rigveda dating are used to support each other and should not be counted as two independent checks.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Inscriptions of Asoka, New Edition, Second Rock-Edict (Kalsi)",
+  "authors": "Hultzsch, E.",
+  "year": null,
+  "venue": "Corpus Inscriptionum Indicarum vol. I, Clarendon Press, Oxford (preface dated Oct. 1922), archive.org",
+  "url": "https://archive.org/download/InscriptionsOfAsoka.NewEditionByE.Hultzsch/HultzschCorpusAsokaSearchable_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Indian epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "the Yona king named Antiyoga, and the other kings who are the neighbours of this Antiyoga",
+  "summary": "Rock Edict II (Kalsi) claims that Ashoka had medical treatment for men and cattle established across the south and as far as the Yona king Antiyoga and his neighbours.",
+  "limits": "Hultzsch's English from the Kalsi Prakrit; OCR text; the volume's publication year is not shown on the pages read (preface dated 1922). A royal claim of reach, not independent proof that the Greek kings received it.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Major Rock Edict II",
+   "locator": "Kalsi version, section A",
+   "language": "Prakrit (Brahmi) (quoted in English, E. Hultzsch)",
+   "edition": "E. Hultzsch, Inscriptions of Asoka (CII vol. I), Oxford, preface Oct. 1922 (archive.org InscriptionsOfAsoka.NewEditionByE.Hultzsch)",
+   "composition": {
+    "start": -261,
+    "end": -250,
+    "basis": "Hultzsch's footnote dates the named kings (Antiochos II 261-246, Ptolemy II 285-247, Antigonus Gonatas 276-239, Magas c. 300-250); the overlap is my own reading of those dates, not Hultzsch's statement. Sircar dates Ashoka c. 272-232 B.C."
+   },
+   "witness": "Engraved rock at Kalsi; the stone is the witness."
+  },
+  "strand": {
+   "from": "Mauryan India",
+   "to": "Hellenistic kingdoms to the west (Antiochos II)",
+   "carried": "idea",
+   "what": "Ashoka's welfare and dhamma measures (medical care) claimed across the Yona king's neighbours",
+   "medium": "court_or_empire",
+   "start": -261,
+   "end": -250,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Inscriptions of Asoka, New Edition, Thirteenth Rock-Edict (Kalsi), section Q",
+  "authors": "Hultzsch, E.",
+  "year": null,
+  "venue": "Corpus Inscriptionum Indicarum vol. I, Clarendon Press, Oxford (preface dated Oct. 1922), archive.org",
+  "url": "https://archive.org/download/InscriptionsOfAsoka.NewEditionByE.Hultzsch/HultzschCorpusAsokaSearchable_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Indian epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "has been won repeatedly by Devanampriya both",
+  "summary": "In Rock Edict XIII the conquest by morality is said to have been won by Ashoka among his borderers as far as 600 yojanas, where the Yona king Antiyoga rules and beyond him four kings (Turamaya, Antekina, Maka, Alikyashudala at Kalsi).",
+  "limits": "The OCR damages parts of the list ('Ydna', 'die'), so the quote is the clean opening of section Q; the king names come from Hultzsch's printed translation page read, and the identification with Ptolemy II, Antigonus Gonatas, Magas and Alexander (of Epirus or Corinth) is his editorial footnote ('either Alexander of Epirus ... or, more probably, Alexander of Corinth'), not the edict's. A claim by Ashoka himself.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Major Rock Edict XIII",
+   "locator": "Kalsi version, sections O-S (pp. 47-48 of Hultzsch)",
+   "language": "Prakrit (Brahmi) (quoted in English, E. Hultzsch)",
+   "edition": "E. Hultzsch, Inscriptions of Asoka (CII vol. I), Oxford, preface Oct. 1922 (archive.org)",
+   "composition": {
+    "start": -261,
+    "end": -250,
+    "basis": "Overlap of the named kings' reigns in Hultzsch's footnote (Antiochos II 261-246, Magas c. 300-250); the edict itself (Kandahar Greek version) places the Kalinga war in the eighth year of the reign."
+   },
+   "witness": "Engraved rock at Kalsi (and Girnar, Shahbazgarhi, Mansehra), plus the Kandahar Greek version found 1963; the stone is the witness."
+  },
+  "strand": {
+   "from": "Mauryan India",
+   "to": "Hellenistic kings (Antiyoga, Turamaya, Antekina, Maka, Alikasudara)",
+   "carried": "idea",
+   "what": "Ashoka's claim of a 'conquest by morality' extending to named Greek kings",
+   "medium": "court_or_empire",
+   "start": -261,
+   "end": -250,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Inscriptions of Asoka, New Edition, Thirteenth Rock-Edict, note identifying the four kings",
+  "authors": "Hultzsch, E.",
+  "year": null,
+  "venue": "Corpus Inscriptionum Indicarum vol. I, Clarendon Press, Oxford (preface dated Oct. 1922), archive.org",
+  "url": "https://archive.org/download/InscriptionsOfAsoka.NewEditionByE.Hultzsch/HultzschCorpusAsokaSearchable_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Indian epigraphy",
+  "stance": "context",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "Antigonus Gonatas of Macedonia (276-239), Magas of Cyrene",
+  "summary": "Hultzsch's footnote identifies the edict's four kings as Ptolemy II, Antigonus Gonatas, Magas of Cyrene, and Alexander of Epirus or, more probably, of Corinth, giving each reign.",
+  "limits": "An editor's identification (1922 scholarship) that later scholars still debate; the edict gives only the names. The OCR reads 'Philadeiphos'.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Asokan Studies, Greek and Aramaic versions of MRE IV at Kandahar (Sircar)",
+  "authors": "Sircar, D. C.",
+  "year": 1979,
+  "venue": "Indian Museum, Calcutta, Asokan Studies (first edition 1979), archive.org",
+  "url": "https://archive.org/stream/in.gov.ignca.67068/67068_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Indian epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "the ancient city of 'Alexandria among the Arachosians', founded by Alexander the Great",
+  "summary": "Sircar describes the 1958 Shar-i-Kuna bilingual as Greek for the Greek (Yavana) subjects and Aramaic, the Achaemenid administrative language, for the Kambojas, whom he calls Iranians.",
+  "limits": "Secondary scholarship with OCR damage; Sircar's identification of the Kambojas as Iranians is his reading. Gives the texts for Greek and Aramaic versions and calls the record Minor Rock Edict IV.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Mauryan India",
+   "to": "Greek and Iranian-speaking (Kamboja) subjects in Arachosia",
+   "carried": "idea",
+   "what": "Ashoka's dharma proclaimed in Greek (as piety) and Aramaic",
+   "medium": "text",
+   "start": -260,
+   "end": -250,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Asokan Studies, Kandahar Greek version of Rock Edict XIII (Sircar's translation)",
+  "authors": "Sircar, D. C.",
+  "year": 1979,
+  "venue": "Indian Museum, Calcutta, Asokan Studies (first edition 1979), archive.org",
+  "url": "https://archive.org/stream/in.gov.ignca.67068/67068_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Indian epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "One hundred and fifty thousand persons were captured there and deported from there, one hundred thousand others were killed and almost as many perished",
+  "summary": "Sircar's English of the Kandahar Greek edict (the 1963 find) gives the Kalinga war figures of RE XIII, showing the same text going out in Greek in Arachosia.",
+  "limits": "Sircar's translation, OCR text ('Kajinga'), preceded by the line 'In the eighth year of his reign, Priyadarsin (i.e. Asoka) conquered ...'; the Greek original was not read. The Greek version is condensed rather than a word-for-word copy of the Prakrit.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Kandahar Greek Edict of Ashoka (RE XII end and XIII beginning)",
+   "locator": "Old Kandahar (Shar-i-Kuna) Greek fragment, 1963 find",
+   "language": "Greek (quoted in English, D. C. Sircar)",
+   "edition": "D. C. Sircar, Asokan Studies, Calcutta 1979 (archive.org in.gov.ignca.67068)",
+   "composition": {
+    "start": -260,
+    "end": -255,
+    "basis": "Wikipedia 'Kandahar Greek Edicts of Ashoka' gives c. 258 BCE; Ashoka c. 272-232 per Sircar; the edict states it is the eighth year of the reign."
+   },
+   "witness": "The Greek limestone plaque found at Old Kandahar in 1963 (Schlumberger 1964); the stone is the witness."
+  },
+  "strand": {
+   "from": "Mauryan India",
+   "to": "Greek-speaking population of Arachosia",
+   "carried": "idea",
+   "what": "Ashoka's remorse after Kalinga and the doctrine of piety, rendered in Greek",
+   "medium": "text",
+   "start": -260,
+   "end": -255,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Kandahar Bilingual Rock Inscription (Greek and Aramaic)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia; Greek rendered by G. P. Carratelli, Aramaic after D. C. Sircar",
+  "url": "https://en.wikipedia.org/wiki/Kandahar_Bilingual_Rock_Inscription",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Indian and Greek epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "Ten years (of reign) having been completed, King Piodasses made known (the doctrine of) Piety",
+  "summary": "English version of the Greek half of Ashoka's 1958 bilingual at Kandahar, which renders dharma as eusebeia ('Piety'); the Aramaic half, in the same entry, says 'our lord, king Pridarsh, became the institutor of Truth'.",
+  "limits": "Wikipedia reproduces translations and the Greek text without a stated edition; the Aramaic half has '(?)' marks for doubtful readings and is not an exact translation of the Greek. The entry's account of Kosambi's claim of two independent renderings was not verified.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Kandahar Bilingual Rock Inscription of Ashoka (Minor Rock Edict IV)",
+   "locator": "Greek half, lines 1-14",
+   "language": "Greek and Aramaic (quoted in English)",
+   "edition": "Wikipedia 'Kandahar Bilingual Rock Inscription': Greek by G. P. Carratelli; Aramaic after Sircar, Asokan Studies p. 115",
+   "composition": {
+    "start": -260,
+    "end": -260,
+    "basis": "Wikipedia says c. 260 BCE, in about the 8th year of the reign; Sircar reads 'ten years having elapsed since his coronation'."
+   },
+   "witness": "Rock inscription at Chil Zena, Kandahar, found 1958 (Scerrato); the stone is the witness."
+  },
+  "strand": {
+   "from": "Mauryan India",
+   "to": "Greek and Aramaic-reading Iranian subjects at Kandahar",
+   "carried": "idea",
+   "what": "dharma translated as eusebeia and as 'Truth' (Aramaic)",
+   "medium": "text",
+   "start": -260,
+   "end": -255,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Kandahar Greek Edicts of Ashoka (Wheeler translation, Schlumberger Greek)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia; translation by R. E. M. Wheeler, Greek text by D. Schlumberger (CRAI 1964)",
+  "url": "https://en.wikipedia.org/wiki/Kandahar_Greek_Edicts_of_Ashoka",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Indian and Greek epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "he conquered Kalinga. A hundred and fifty thousand persons were captured and deported",
+  "summary": "Wheeler's translation of the Old Kandahar plaque: the Greek of the end of RE XII and the start of RE XIII, naming the king 'Piodasses'; the entry takes it as showing Mauryan control of Arachosia.",
+  "limits": "Secondary host; Schlumberger's Greek (cited as CRAI 108, 1964, doi 10.3406/crai.1964.11695) was not opened beyond the abstract page, which does not carry the text. The 'control of Arachosia' inference is Dupree's via the entry.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Kandahar Greek Edict of Ashoka",
+   "locator": "Old Kandahar plaque, 1963",
+   "language": "Greek (quoted in English, R. E. M. Wheeler)",
+   "edition": "Wikipedia 'Kandahar Greek Edicts of Ashoka' reproducing Wheeler's translation (via Dupree, Afghanistan, 2014) and Schlumberger's Greek",
+   "composition": {
+    "start": -260,
+    "end": -255,
+    "basis": "Wikipedia infobox: c. 258 BCE."
+   },
+   "witness": "Limestone plaque found 1963 at Old Kandahar (Alexandria of Arachosia)."
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Behistun, Persian Text: column I, paragraph 6 (the lands of Darius)",
+  "authors": null,
+  "year": null,
+  "venue": "Livius.org (adapted King/Thompson translation of the Old Persian text)",
+  "url": "https://www.livius.org/sources/content/behistun-persian-text/behistun-t-02/",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Achaemenid epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "Drangiana , Aria , Chorasmia , Bactria , Sogdia , Gandara , Scythia , Sattagydia , Arachosia and Maka ; twenty-three lands in all",
+  "summary": "Darius's list of 23 subject lands, with the eastern ones Aria, Bactria, Gandara, Sattagydia and Arachosia, the borderland where Persian, Greek and Mauryan power later met at Kandahar.",
+  "limits": "Livius's adapted older translation; the page's spacing before commas is kept. The passage names Gandara but no Indian ruler; no contact with Mauryan India is stated.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Behistun Inscription (Darius I)",
+   "locator": "DB I, paragraph 6",
+   "language": "Old Persian (quoted in English, King/Thompson adapted by Livius)",
+   "edition": "Livius.org, Behistun Persian text, T 02 (adapted King/Thompson translation, per the page)",
+   "composition": {
+    "start": -520,
+    "end": -486,
+    "basis": "Darius I reigned 522-486 BCE (Livius page header); the inscription belongs to his reign."
+   },
+   "witness": "The rock relief and inscription at Bisotun; the monument is the witness."
+  }
+ },
+ {
+  "brief": "india-iran-primary-texts",
+  "records": [],
+  "title": "Behistun, Persian Text: column IV, paragraph 70 ('Aryan script')",
+  "authors": null,
+  "year": null,
+  "venue": "Livius.org (adapted King/Thompson translation of the Old Persian text)",
+  "url": "https://www.livius.org/sources/content/behistun-persian-text/behistun-t-42/",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Achaemenid epigraphy",
+  "stance": "context",
+  "ask_addressed": "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+  "quote": "Besides, it was in Aryan script , and it was composed on clay tablets and on parchment",
+  "summary": "Darius calls his own writing 'Aryan' and says the text was sent out across the provinces, a self-use of 'Aryan' for the Iranian world relevant to the Indo-Iranian ethnonym.",
+  "limits": "Translation's word 'Aryan' stands for Old Persian ariya; the page does not discuss the term or any Indian use. The page spacing before commas is kept.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Behistun Inscription (Darius I)",
+   "locator": "DB IV, paragraph 70",
+   "language": "Old Persian (quoted in English, King/Thompson adapted by Livius)",
+   "edition": "Livius.org, Behistun Persian text, T 42 (adapted King/Thompson translation, per the page)",
+   "composition": {
+    "start": -520,
+    "end": -486,
+    "basis": "Darius I reigned 522-486 BCE (Livius page header)."
+   },
+   "witness": "The rock relief and inscription at Bisotun; the monument is the witness."
+  }
+ }
+]
