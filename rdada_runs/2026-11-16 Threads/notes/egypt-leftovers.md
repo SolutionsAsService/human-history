@@ -1,0 +1,25 @@
+# egypt-leftovers: Egypt leftovers (metallurgy, pigments, medical papyri, alchemy question)
+
+## Ask
+1. What is documented about pharaonic Egyptian copper, gold and bronze metallurgy, dyes and pigments (Egyptian green/frit), and the medical papyri (Ebers, Edwin Smith) that bear on chemistry?
+2. Is there any Egyptological statement on whether pharaonic Egypt had alchemy or a written chemistry before the Greek-Roman period? Include sceptical views.
+
+## Cited findings
+- Copper: a 2024 Antiquity review of Odler's monograph says bronze was "actually very rare" in the so-called Bronze Age and arsenical copper was far more widespread; ores were processed near Eastern Desert and Sinai mines; the hieroglyph for "copper" was misread for a century as "crucible". — [Antiquity New Book Chronicle](https://www.cambridge.org/core/journals/antiquity/article/new-book-chronicle/1900A752AD2C4DCA4CAFC017FD3C92CF)
+- Gold: Egyptian name asem for electrum, with a gold refining inference from the Amarna letters (dated 1950 survey, treat with care). — [Partington 1950](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7389C0E688DF19BD5F2F7FCD89B9C1D1/S0950563600000282a.pdf/the-history-of-ancient-technology.pdf)
+- Pigments: Egyptian blue is a synthetic calcium copper tetrasilicate; abstract only. — [Skovmoller et al. 2016](https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/abs/egyptian-blue-modern-myths-ancient-realities/8A0AC63ADE841C9A3A0F01AF988EE05F)
+- Glass/copper colourant: analysis of an Amarna ingot shows excess copper colourant (intended opaque red); Amarna furnaces and Qantir refractories noted. — [Jackson and Nicholson 2023 (CC BY)](https://eprints.whiterose.ac.uk/id/eprint/194908/1/1-s2.0-S2352409X22004564-main.pdf)
+- Medical papyri: Ebers prescribes invocations with doses (Humphreys 1953); Edwin Smith is a surgical text (Helgason 1987). Neither is shown here to contain chemical theory. — [Humphreys](https://www.cambridge.org/core/journals/antiquity/article/abs/magic-and-medicine/48E52ABCF9180DD6E4ED95A37FC720FB), [Helgason](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/23D6085E4096BA76E9F10408F05EEC55/S0317167100037367a.pdf/commentary-on-the-significance-for-modern-neurology-of-the-17th-centurybc-surgical-papyrus.pdf)
+- Written chemistry/alchemy: the earliest surviving alchemical recipe books (Leiden, Stockholm) date to third/fourth-century Egypt and are in Greek. — [Martelli 2020](https://www.cambridge.org/core/journals/bjhs-themes/article/ancient-handbooks-and-graecoegyptian-collections-of-alchemical-recipes/3F2A7926F9D784A43E5170E0BA50AFB5), [Bentick 2020](https://www.cambridge.org/core/books/abs/companion-to-medieval-translation/alchemy-and-translation/9526774C45AB9946B0A48F7D53D47B72), [Taylor 1930](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/survey-of-greek-alchemy/AFC9CDEFAE89BEF7385DD637C369B5B6)
+- Wikipedia pointers only: [Egyptian blue](https://en.wikipedia.org/wiki/Egyptian_blue?action=raw) (no Egyptian written account of manufacture), [Ebers](https://en.wikipedia.org/wiki/Ebers_Papyrus?action=raw), [Alchemy](https://en.wikipedia.org/wiki/Alchemy?action=raw).
+
+## Sceptical and alternative pass
+- Alternative claim: Zosimos (3rd-4th c. CE) said alchemy was kept by Egyptian temple priests from the Old Kingdom; [Werrett's Oxford thesis](https://ora.ox.ac.uk/objects/uuid:45fed8a7-0777-4822-b4a2-0fcc788d0b64/files/dtm70mv88b) reports this as Zosimos's belief. It is a late claim, not pharaonic evidence. Taylor 1930 says "perhaps" the Egyptian priesthood, also without a pharaonic text.
+- Sceptical: no pharaonic technical recipe for Egyptian blue survives per the Wikipedia pointer; the earliest written recipes are Greek-language, Roman-era. I found no Egyptologist's explicit statement on "no pharaonic alchemy"; the absence is shown only by dating of the corpus. The question 2 ask is therefore answered by inference from corpus dates, not a direct statement. One-sided in that no source opened argues for pharaonic alchemy with evidence.
+- Not found: Hatton, Shortland and Tite on frit; Egyptian green specifically.
+
+## Gaps
+- Recalled, not fetched: Hatton, Shortland and Tite 2008, J. Archaeol. Sci. 35 (Egyptian blue and green frits); the Zenodo open copy of Kovalev et al. 2023 returned 403.
+- Recalled, not fetched: Lucas, Ancient Egyptian Materials and Industries (archive.org stream gave no text); Breasted 1930 full text (archive.org text download redirected to blocked hosts; only the item page opened); Ogden, Metals; Principe/Newman 1998.
+- Hosts that failed: escholarship.org, halshs.archives-ouvertes.fr, europepmc, ncbi.nlm.nih.gov/PMC, mdpi, nature, royalsocietypublishing, tandfonline, researchgate (proxy refused); link.springer.com returned a 3 KB block page; zenodo.org 403; pubmed.ncbi.nlm.nih.gov showed a cookie wall (not opened, not quoted); dn*.archive.org download hosts refused.
+- Gold refining, Egyptian green frit and the Ebers pharmacology of minerals are thinly covered; no modern open-access source opened for them.
