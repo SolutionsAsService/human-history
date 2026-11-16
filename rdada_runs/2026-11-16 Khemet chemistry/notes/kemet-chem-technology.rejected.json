@@ -1,0 +1,132 @@
+[
+  {
+    "candidate": {
+      "brief": "kemet-chem-technology",
+      "records": [],
+      "accessed": "2026-11-16",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "title": "Making and working Egyptian blue – a review of the archaeological evidence",
+      "authors": "Kovalev, I., Rodler, A.S., Broens, C., Rehren, T.",
+      "year": 2023,
+      "venue": "Journal of Archaeological Science (accepted manuscript, Zenodo)",
+      "url": "https://zenodo.org/records/7866492",
+      "doi": "10.1016/j.jas.2023.105772",
+      "kind": "secondary",
+      "discipline": "Archaeometry",
+      "stance": "supports",
+      "ask_addressed": "Which of these are measured by archaeometry versus only described in texts?",
+      "quote": "we note the absence of direct evidence for the production and processing of Egyptian blue for much of the known period of its use",
+      "summary": "Review of published workshop evidence for Egyptian blue (a Ca-Cu silicate sintered at c. 850-1050 C, first attested c. 3100 BCE per the paper). Product analysis is abundant; direct production evidence is scarce and lacking for whole periods.",
+      "limits": "Review of evidence for Egyptian blue only (Egypt plus wider Mediterranean/Near East), not green frit or other technologies. Opened as the author accepted manuscript via the Zenodo API file link; page 403s on the direct file URL."
+    },
+    "reason": "unreachable: zenodo.org returned 403 Forbidden on record page and API; not opened"
+  },
+  {
+    "candidate": {
+      "brief": "kemet-chem-technology",
+      "records": [],
+      "accessed": "2026-11-16",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "title": "Supplying the Mediterranean World with Egyptian blue: An Archaeometric Perspective",
+      "authors": "Rodler, A.S., Kostomitsopoulou Marketou, A.",
+      "year": 2022,
+      "venue": "Book chapter (Zenodo open-access copy; volume not stated on the file)",
+      "url": "https://zenodo.org/records/5827683",
+      "doi": null,
+      "kind": "secondary",
+      "discipline": "Archaeometry",
+      "stance": "context",
+      "ask_addressed": "Which of these are measured by archaeometry versus only described in texts?",
+      "quote": "there is little information on the manufacture, the source of raw materials or trade of Egyptian blue",
+      "summary": "Describes Egyptian blue as a sintered copper-calcium silicate and quotes Vitruvius (7.11.1) on the Puteoli recipe, set beside archaeometric work. Shows the split between a textual recipe (Roman) and what analysis can confirm.",
+      "limits": "Focus is Graeco-Roman Mediterranean production, not pharaonic Egypt; Vitruvius is a 1st c. BCE textual description, not Kemet evidence."
+    },
+    "reason": "unreachable: zenodo.org returned 403 Forbidden; not opened"
+  },
+  {
+    "candidate": {
+      "brief": "kemet-chem-technology",
+      "records": [],
+      "accessed": "2026-11-16",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "title": "Rethinking the Process of Animal Mummification in Ancient Egypt: Molecular Characterization of Embalming Material and the Use of Brassicaceae Seed Oil in the Mummification of Gazelle Mummies from Kom Mereh, Egypt",
+      "authors": "Marković, M., Mezzatesta, E., Porcier, S., Vieillescazes, C., Mathe, C.",
+      "year": 2022,
+      "venue": "Molecules 27(5): 1532",
+      "url": "https://zenodo.org/records/6276973",
+      "doi": "10.3390/molecules27051532",
+      "kind": "primary",
+      "discipline": "Analytical chemistry",
+      "stance": "supports",
+      "ask_addressed": "Which of these are measured by archaeometry versus only described in texts?",
+      "quote": "complex mixtures of plant oils, animal fats, conifer resin, and beeswax",
+      "summary": "FT-IR and GC-MS of nine balm samples from six Roman-period gazelle mummies; also detects cruciferous seed oil, a use named in Pliny and 5th c. AD papyri but not previously shown in mummification.",
+      "limits": "Roman period, animal mummies only. Identification of conifer resin is to family level."
+    },
+    "reason": "unreachable: zenodo.org returned 403 Forbidden; not opened"
+  },
+  {
+    "candidate": {
+      "brief": "kemet-chem-technology",
+      "records": [],
+      "accessed": "2026-11-16",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "title": "Chemical characterization of embalming materials of four ibis mummies from the Musée des Confluences, Lyon",
+      "authors": "Marković, M., Mezzatesta, E., Porcier, S., Vieillescazes, C., Mathe, C.",
+      "year": 2020,
+      "venue": "Journal of Archaeological Science: Reports 34: 102624",
+      "url": "https://zenodo.org/records/4896312",
+      "doi": "10.1016/j.jasrep.2020.102624",
+      "kind": "primary",
+      "discipline": "Analytical chemistry",
+      "stance": "supports",
+      "ask_addressed": "Which of these are measured by archaeometry versus only described in texts?",
+      "quote": "castor oil, beeswax and wood tar of a diterpenic resin belonging to the Pinaceae family",
+      "summary": "FT-IR and GC-MS on balms from four votive ibis mummies. The introduction notes that Herodotus, Strabo and Pliny give scarce information on the organic substances used, so identification rests on chemistry.",
+      "limits": "Small sample (four mummies); animal mummies; classical authors are late and vague about materials."
+    },
+    "reason": "unreachable: zenodo.org returned 403 Forbidden; not opened"
+  },
+  {
+    "candidate": {
+      "brief": "kemet-chem-technology",
+      "records": [],
+      "accessed": "2026-11-16",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "title": "Lisht as a New Kingdom glassmaking site with its own chemical signature",
+      "authors": "Smirniou, M., Rehren, Th., Gratuze, B.",
+      "year": null,
+      "venue": "Manuscript in UCL Discovery repository (journal not stated on the file)",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/1569273/",
+      "doi": null,
+      "kind": "primary",
+      "discipline": "Archaeometry",
+      "stance": "supports",
+      "ask_addressed": "What chemical technologies is ancient Egypt (Kemet, Khemet) securely documented to have practised, from analysis of objects and texts: pigments (Egyptian blue, Egyptian green, frit), glass and faience, metallurgy (copper, gold, bronze), mummification materials (natron, resins, oils), cosmetics (galena, lead compounds, kohl), dyes, fermentation, medical recipes? Give dates and the kind of evidence (chemical analysis, texts, workshop remains).",
+      "quote": "evidence for the primary production of glass at Lisht, including crucible fragments and semi-finished glass",
+      "summary": "EPMA and LA-ICPMS of 12 glasses from Lisht add to workshop evidence (crucibles, semi-finished glass) at New Kingdom sites alongside Qantir and Amarna.",
+      "limits": "Publication year and venue unknown from the opened file. Small sample. Lisht glass is described as lower quality than Qantir."
+    },
+    "reason": "unreachable: discovery.ucl.ac.uk served a Cloudflare 'Just a moment' challenge; not opened"
+  }
+]
