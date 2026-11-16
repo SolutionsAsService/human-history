@@ -1,0 +1,27 @@
+[
+  {
+    "candidate": {
+      "brief": "khem-name-chemistry-etymology",
+      "records": [],
+      "title": "The Origins of Alchemy in Graeco-Roman Egypt (chyma, 'to pour', section on the name alchemy)",
+      "authors": "Lindsay, J.",
+      "year": 1970,
+      "venue": "Frederick Muller, London (scan on Internet Archive)",
+      "url": "https://archive.org/details/alchemy-jack-lindsay",
+      "accessed": "2026-11-16",
+      "kind": "secondary",
+      "discipline": "History of science / classics",
+      "stance": "context",
+      "ask_addressed": "What is the evidence and scholarly status of the claim that the word 'chemistry'/'alchemy' derives from Kemet/Khem/'black land' (Egyptian kmt)? What are the competing etymologies (Greek chyma/cheo, Arabic kimiya, others) and who argues which? State clearly which is most widely accepted and why.",
+      "quote": "this fact gives it a great claim to underlie the name of Alchemy.",
+      "summary": "Argues chymia/chymeia comes from Greek cheein 'pour' and chyma 'ingot, bar' (attested 3rd-century BC Oropos inscription, 2nd-century Delos), so the name arises from metallurgy. Notes that the earlier form of the word cannot be proved because no early texts exist.",
+      "limits": "Secondary, 1970; the inscriptional evidence is reported, not examined here. Not a consensus statement; Lindsay himself says there is no proof which form was earlier. Stance lowered from supports: the page supports the Greek chyma derivation, not the Kmt claim the ask addresses, and Lindsay hedges that it is not proof.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "duplicate: same work and URL as candidate 1 (Lindsay 1970, archive.org/details/alchemy-jack-lindsay); quote itself verified verbatim in the OCR text, so the chyma passage can be re-submitted as a distinct locator if the pipeline allows"
+  }
+]

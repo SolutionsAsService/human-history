@@ -1,0 +1,127 @@
+[
+  {
+    "candidate": {
+      "brief": "greco-roman-egypt-alchemy",
+      "records": [],
+      "title": "Collection des anciens alchimistes grecs, Première livraison (Pseudo-Démocrite, Physica et mystica)",
+      "authors": "Berthelot, M. (with Ruelle, C.-E.)",
+      "year": 1887,
+      "venue": "Paris: Steinheil (scan on Internet Archive)",
+      "url": "https://archive.org/details/collectiondesanc01bert",
+      "accessed": "2026-11-16",
+      "kind": "primary",
+      "discipline": "History of chemistry / philology",
+      "stance": "supports",
+      "ask_addressed": "What textual and material evidence shows alchemy / early chemistry in Greco-Roman Egypt (Alexandria, Panopolis): Leiden papyrus X, Stockholm papyrus, Pseudo-Democritus Physika kai Mystika, Zosimus of Panopolis, Mary the Jewess (Maria Prophetissa) and her apparatus, Cleopatra the Alchemist? Dates, languages, and what they actually describe (practical dye/metal recipes versus theory).",
+      "quote": "Les recettes mêmes sont comparables de tous points à celles du papyrus de Leide",
+      "summary": "Berthelot prints Greek text and French translation of the Pseudo-Democritus Physica et mystica and says its gold and silver chapters are collections of practical recipes (surface-coloured metals, alloys) matching Leiden X, each ending with a 'nature rejoices in nature' refrain; he says the corpus has no magic in the recipes themselves, which separates the later mystical layer from the practical core.",
+      "limits": "Berthelot's attribution of the school to Bolus of Mendes and a date near the end of the Ptolemies is his reconstruction. Lagercrantz (1913) gives no firm date. Not a modern critical edition.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "duplicate: same work and URL as candidate 1 (Berthelot 1887 vol. 1); quote itself was found verbatim on the page"
+  },
+  {
+    "candidate": {
+      "brief": "greco-roman-egypt-alchemy",
+      "records": [],
+      "title": "Collection des anciens alchimistes grecs, Première livraison (Introduction: lost authors Cleopatra and Marie)",
+      "authors": "Berthelot, M. (with Ruelle, C.-E.)",
+      "year": 1887,
+      "venue": "Paris: Steinheil (scan on Internet Archive)",
+      "url": "https://archive.org/details/collectiondesanc01bert",
+      "accessed": "2026-11-16",
+      "kind": "primary",
+      "discipline": "History of chemistry / philology",
+      "stance": "context",
+      "ask_addressed": "What textual and material evidence shows alchemy / early chemistry in Greco-Roman Egypt (Alexandria, Panopolis): Leiden papyrus X, Stockholm papyrus, Pseudo-Democritus Physika kai Mystika, Zosimus of Panopolis, Mary the Jewess (Maria Prophetissa) and her apparatus, Cleopatra the Alchemist? Dates, languages, and what they actually describe (practical dye/metal recipes versus theory).",
+      "quote": "Cléopâtre, auteur de traités sur la distillation",
+      "summary": "Berthelot says Zosimus' works already had the character of a compilation made about the 3rd century CE from Democritus and lost authors including Cleopatra (distillation treatises, with figures) and Marie la Juive (works on digestion apparatus and furnaces, with figures).",
+      "limits": "The compilation dating (3rd century) is Berthelot's inference from manuscripts; Cleopatra is a pseudonym and the apparatus drawings survive only in medieval Byzantine manuscripts.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "duplicate: same work and URL as candidate 1 (Berthelot 1887 vol. 1); quote itself was found verbatim on the page"
+  },
+  {
+    "candidate": {
+      "brief": "greco-roman-egypt-alchemy",
+      "records": [],
+      "title": "Collection des anciens alchimistes grecs, Première livraison (Introduction: origin of alchemy)",
+      "authors": "Berthelot, M. (with Ruelle, C.-E.)",
+      "year": 1887,
+      "venue": "Paris: Steinheil (scan on Internet Archive)",
+      "url": "https://archive.org/details/collectiondesanc01bert",
+      "accessed": "2026-11-16",
+      "kind": "alternative",
+      "discipline": "History of chemistry",
+      "stance": "context",
+      "ask_addressed": "Is there any evidence for alchemy in pharaonic Egypt before the Ptolemies? State what is absent as well as what is present.",
+      "quote": "toute l'industrie des orfèvres et métallurgistes égyptiens qui a donné naissance à l'Alchimie",
+      "summary": "Berthelot attributes alchemy's birth to the Egyptian goldsmiths' and metalworkers' industry. He bases it on the Greco-Roman papyri, so it is evidence for craft roots, not for a pharaonic-period text called or practising alchemy.",
+      "limits": "Interpretive claim of 1887; he cites no pharaonic-period document in the passage read. It shows what proponents of an Egyptian craft origin rely on, and what is missing for an earlier date.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "duplicate: same work and URL as candidate 1 (Berthelot 1887 vol. 1); quote itself was found verbatim on the page (the only pharaonic-absence passage, so worth merging into candidate 1's record if wanted)"
+  },
+  {
+    "candidate": {
+      "brief": "greco-roman-egypt-alchemy",
+      "records": [],
+      "title": "Collection des anciens alchimistes grecs, Seconde livraison: Les œuvres de Zosime (Marie's sayings)",
+      "authors": "Berthelot, M. (with Ruelle, C.-E.)",
+      "year": 1888,
+      "venue": "Paris: Steinheil (scan on Internet Archive)",
+      "url": "https://archive.org/details/collectiondesanc23bert",
+      "accessed": "2026-11-16",
+      "kind": "primary",
+      "discipline": "History of chemistry / philology",
+      "stance": "supports",
+      "ask_addressed": "What textual and material evidence shows alchemy / early chemistry in Greco-Roman Egypt (Alexandria, Panopolis): Leiden papyrus X, Stockholm papyrus, Pseudo-Democritus Physika kai Mystika, Zosimus of Panopolis, Mary the Jewess (Maria Prophetissa) and her apparatus, Cleopatra the Alchemist? Dates, languages, and what they actually describe (practical dye/metal recipes versus theory).",
+      "quote": "Joignez le mâle et la femelle et vous trouverez ce qui est cherché",
+      "summary": "Zosimus quotes Mary (Marie) repeatedly, on sulphur, copper-to-gold, the 'male and female' union and her apparatus. Her Greek works survive only through such quotations, so she is known at second hand from c. 300 CE onward.",
+      "limits": "Her own date is unknown; Zosimus speaks of her as an earlier authority. A French translation by Berthelot, not the Greek read in context.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "duplicate: same work and URL as candidate 5 (Berthelot 1888 Zosime); quote itself was found verbatim on the page"
+  },
+  {
+    "candidate": {
+      "brief": "greco-roman-egypt-alchemy",
+      "records": [],
+      "title": "The Visions of Zosimos of Panopolis: Text, Translation, and Commentary (Maria's kerotakis)",
+      "authors": "Werrett, J.",
+      "year": 2024,
+      "venue": "DPhil thesis, University of Oxford (Oxford Research Archive)",
+      "url": "https://ora.ox.ac.uk/objects/uuid:45fed8a7-0777-4822-b4a2-0fcc788d0b64/files/dtm70mv88b",
+      "accessed": "2026-11-16",
+      "kind": "skeptical",
+      "discipline": "Classics / history of alchemy",
+      "stance": "fails_to_support",
+      "ask_addressed": "What textual and material evidence shows alchemy / early chemistry in Greco-Roman Egypt (Alexandria, Panopolis): Leiden papyrus X, Stockholm papyrus, Pseudo-Democritus Physika kai Mystika, Zosimus of Panopolis, Mary the Jewess (Maria Prophetissa) and her apparatus, Cleopatra the Alchemist? Dates, languages, and what they actually describe (practical dye/metal recipes versus theory).",
+      "quote": "It is not certain whether Maria invented, improved upon, or simply championed the kerotakis method",
+      "summary": "The thesis shows the tradition credits Maria with the bain-marie and the kerotakis, but states it is uncertain whether she invented them. It also notes that Zosimos writes a 'Jewish' as distinct from an 'Egyptian' style of alchemy.",
+      "limits": "Concerns the attribution of invention, not her existence or date. The passage is part of a commentary on Zosimus' text, not a study of Mary.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "duplicate: same work and URL as candidate 8 (Werrett thesis); quote itself was found verbatim on the page"
+  }
+]

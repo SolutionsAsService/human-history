@@ -1,0 +1,80 @@
+[
+  {
+    "candidate": {
+      "brief": "transmission-to-modern-chemistry",
+      "records": [],
+      "title": "Alchemy Tried in the Fire: Starkey, Boyle and the Fate of Helmontian Chymistry (review)",
+      "authors": "O'Connor, J.",
+      "year": 2003,
+      "venue": "Journal of the Royal Society of Medicine 96(9):470",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC539611",
+      "doi": null,
+      "accessed": "2026-11-16",
+      "kind": "secondary",
+      "discipline": "History of science",
+      "stance": "supports",
+      "ask_addressed": "What does the historiography (Newman and Principe on 'chymistry', Principe's work) say about whether alchemy and chemistry were separate? And what do sceptics say about popular claims that modern chemistry is simply 'Egyptian science', or that Hermes Trismegistus / the Emerald Tablet are pharaonic-era?",
+      "quote": "Newman and Principe challenge the notion that the distinction between the two was so sharp",
+      "summary": "A short journal review of Newman and Principe (Chicago, 2002). It reports their thesis that alchemy and chemistry were not sharply distinct, using Boyle and Starkey, and notes Boyle presented chemistry as separate from its alchemical roots.",
+      "limits": "Review of a book, not the book; reviewer is not a specialist historian of chemistry as far as the page shows. Says nothing about Egypt.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "unreachable: PMC page returned a Google reCAPTCHA challenge page, not the article; quote could not be checked"
+  },
+  {
+    "candidate": {
+      "brief": "transmission-to-modern-chemistry",
+      "records": [],
+      "title": "Chymists and chymistry: studies in the history of alchemy and early modern chemistry (book review)",
+      "authors": "Roos, A. M.",
+      "year": 2008,
+      "venue": "Medical History 52(4):561-563",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2570458",
+      "doi": null,
+      "accessed": "2026-11-16",
+      "kind": "secondary",
+      "discipline": "History of science",
+      "stance": "supports",
+      "ask_addressed": "What does the historiography (Newman and Principe on 'chymistry', Principe's work) say about whether alchemy and chemistry were separate? And what do sceptics say about popular claims that modern chemistry is simply 'Egyptian science', or that Hermes Trismegistus / the Emerald Tablet are pharaonic-era?",
+      "quote": "it is an anachronism to make clear distinctions between alchemy and chemistry in this period.",
+      "summary": "Reviews Principe's edited volume (2007); states the chymistry position and describes chapters on the Emerald Tablet's medieval and early modern reception, Newton's manuscripts and 18th-century chymists.",
+      "limits": "Period covered is medieval to mid-18th century; reviewer is a historian who elsewhere questions some Principe/Newman readings (not stated on this page).",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "unreachable: PMC page returned a Google reCAPTCHA challenge page, not the article; quote could not be checked"
+  },
+  {
+    "candidate": {
+      "brief": "transmission-to-modern-chemistry",
+      "records": [],
+      "title": "Abu Musa Jabir Ibn Hayyan (Jabir)",
+      "authors": "Amr, S. S.; Tbakhi, A.",
+      "year": 2007,
+      "venue": "Annals of Saudi Medicine",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6077026",
+      "doi": null,
+      "accessed": "2026-11-16",
+      "kind": "secondary",
+      "discipline": "History of medicine",
+      "stance": "context",
+      "ask_addressed": "How did Greco-Egyptian alchemy reach modern chemistry: Byzantine collections, Arabic translation and Jabirian / Rhazes work, Latin translations (e.g. Robert of Chester 1144), medieval and early-modern European alchemy, Boyle, Newton, Lavoisier? Which links are documented in texts and manuscripts?",
+      "quote": "but were instead additions by his students or followers and considered products of the Jabir school in alchemy.",
+      "summary": "A short biographical note reporting that the 500-plus-title Jabirian corpus is doubted as the work of one man and that many books were translated into Latin. It cites Kraus (1943) and Haq (1994).",
+      "limits": "Admiring, non-specialist note; its claim that European chemistry traces directly to Jabir is asserted, not argued, so it fails to support that claim. Title shown on page may differ slightly. No DOI read.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "unreachable: PMC page returned a Google reCAPTCHA challenge page, not the article; quote could not be checked"
+  }
+]
