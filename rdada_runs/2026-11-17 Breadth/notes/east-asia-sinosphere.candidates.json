@@ -1,0 +1,799 @@
+[
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, vol. 2 (Kimmei, 13th year)",
+  "authors": "Aston, W.G. (transl.)",
+  "year": 1896,
+  "venue": "Transactions and Proceedings of the Japan Society, London, Supplement I (Internet Archive scan)",
+  "url": "https://archive.org/stream/nihongi2asto/nihongi2asto_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History / Religious studies",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "My law shall spread to the East",
+  "summary": "Kimmei 13th year, winter 10th month (Aston prints the year as A.D. 552): King Syeng-myeng of Pekche sends a gold-and-copper Shaka image, flags, umbrellas and sutras, with a memorial praising the doctrine; Soga no Iname is allowed to try the cult, a pestilence follows, and the image is thrown into the Naniha canal.",
+  "limits": "The passage states a Pekche-to-Yamato transfer of Buddhism, but it is an 8th-century court narrative and its date and wording are disputed (see Yoshida 2003). Quoted from Aston's 1896 English translation through OCR text; the original is Classical Chinese. Aston's own note says Buddhism reached Koguryo in 372 and Pekche in 384.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Baekje (Paekche)",
+   "to": "Yamato Japan",
+   "carried": "religion",
+   "what": "Buddhist image and sutras sent by King Seong, with a memorial",
+   "medium": "court_or_empire",
+   "start": 538,
+   "end": 552,
+   "directness": "debated"
+  },
+  "text": {
+   "work": "Nihon Shoki (Nihongi)",
+   "locator": "Book XIX, Kimmei, 13th year (Aston vol. 2, pp. 65-67)",
+   "language": "Classical Chinese (quoted in English, Aston 1896)",
+   "edition": "Aston, Nihongi, Japan Society London 1896, via Internet Archive nihongi2asto",
+   "composition": {
+    "start": 720,
+    "end": 720,
+    "basis": "Yoshida 2003, JJRS 30/1-2 (opened): 'the Nihon shoki compiled in 720'; the 552 date itself is judged not a historical fact in the same article"
+   },
+   "witness": "Not established from sources opened; earliest manuscripts not checked"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Revisioning Religion in Ancient Japan",
+  "authors": "Yoshida Kazuhiko",
+  "year": 2003,
+  "venue": "Japanese Journal of Religious Studies 30/1-2: 1-26",
+  "url": "https://nirc.nanzan-u.ac.jp/journal/6/article/1101/pdf/download",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History / Religious studies",
+  "stance": "contradicts",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "was not translated into Chinese until 703",
+  "summary": "Argues that the Nihon shoki's Kimmei passage cites a Golden Light Sutra version not translated into Chinese until 703, that 552 was chosen from a mappo calculation, and that 538 (Gangoji engi, Jogu Shotoku hootei setsu) is a later hypothesis; 'we have no basis for pinning down a specific date', only that the Paekche-to-Kinmei story circulated from the late 7th to 8th century.",
+  "limits": "Expert reassessment, not a neutral survey; it rejects both traditional dates rather than choosing one. Text is OCR of a PDF with spacing errors. Concerns the date and the narrative, not whether Buddhism came from Paekche (it accepts transmission around the mid-6th century).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Baekje (Paekche)",
+   "to": "Yamato Japan",
+   "carried": "religion",
+   "what": "Buddhism, with the traditional 552 and 538 dates both rejected as historical facts",
+   "medium": "court_or_empire",
+   "start": 500,
+   "end": 600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "The Credibility of the Gangoji engi",
+  "authors": "Yoshida Kazuhiko",
+  "year": 2015,
+  "venue": "Japanese Journal of Religious Studies 42/1: 89-107",
+  "url": "https://nirc.nanzan-u.ac.jp/journal/6/article/1410/pdf/download",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History / Religious studies",
+  "stance": "contradicts",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "should be considered a forgery from a later period",
+  "summary": "Shows the Gangoji garan engi, the main source for the 538 date of Buddhism's arrival, claims composition in 747 but is probably a late 9th-century and later compilation.",
+  "limits": "Bears on the 538 date only through that text; the article is about one document's credibility.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Baekje (Paekche)",
+   "to": "Yamato Japan",
+   "carried": "religion",
+   "what": "The 538 date for Buddhist transmission rests on a text judged a later forgery",
+   "medium": "court_or_empire",
+   "start": 538,
+   "end": 538,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Nihongi vol. 2 (Suiko, 18th year): the Koguryo priest Tam-chhi",
+  "authors": "Aston, W.G. (transl.)",
+  "year": 1896,
+  "venue": "Transactions and Proceedings of the Japan Society, London, Supplement I (Internet Archive scan)",
+  "url": "https://archive.org/stream/nihongi2asto/nihongi2asto_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History / History of technology",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "skilled in preparing painters' colours, paper, and ink",
+  "summary": "Suiko 18th year (Aston places it in 610): Koguryo sends priests Tam-chhi (Damjing) and Pop-chong; Tam-chhi knew the five Chinese classics, prepared colours, paper and ink, and made mills.",
+  "limits": "Aston's rendering says the priest was skilled in preparing paper; whether this is the first paper in Japan is not stated by the passage and is disputed by later readers. Retrospective 720 compilation reporting a 610 event.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Goguryeo (Koguryo)",
+   "to": "Yamato Japan",
+   "carried": "technology",
+   "what": "Paper, ink, pigment and millstone making, and Confucian classics, brought by a Buddhist priest",
+   "medium": "teaching",
+   "start": 610,
+   "end": 610,
+   "directness": "inferred"
+  },
+  "text": {
+   "work": "Nihon Shoki (Nihongi)",
+   "locator": "Book XXII, Suiko, 18th year (Aston vol. 2)",
+   "language": "Classical Chinese (quoted in English, Aston 1896)",
+   "edition": "Aston, Nihongi, 1896, via Internet Archive nihongi2asto",
+   "composition": {
+    "start": 720,
+    "end": 720,
+    "basis": "Yoshida 2003, JJRS 30/1-2 (opened): 'the Nihon shoki compiled in 720'"
+   },
+   "witness": "Not established from sources opened"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Nihongi vol. 1, Introduction (Writing)",
+  "authors": "Aston, W.G. (transl.)",
+  "year": 1896,
+  "venue": "Transactions and Proceedings of the Japan Society, London, Supplement I (Internet Archive scan)",
+  "url": "https://archive.org/stream/nihongi1asto/nihongi1asto_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History / Philology",
+  "stance": "context",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "The date of its first introduction is not definitely known",
+  "summary": "Aston states that the first positive information on Chinese writing in Japan belongs to A.D. 405, for which the Nihongi gives an erroneous date corresponding to A.D. 285; Wani (Wang-in) of Korea was tutor to an imperial prince, and Korea was the intermediary by which China became known to Japan.",
+  "limits": "A scholar of 1896, now dated; useful as the translator's own chronology caution (a 120-year cycle error), not as modern consensus.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Baekje (Paekche) / Korea",
+   "to": "Yamato Japan",
+   "carried": "writing",
+   "what": "Chinese writing and tutors, with Wani (Wang-in) as first teacher",
+   "medium": "teaching",
+   "start": 285,
+   "end": 405,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Kojiki, Preface (Yasumaro's memorial)",
+  "authors": "Ō no Yasumaro; Chamberlain, B.H. (transl.)",
+  "year": 1882,
+  "venue": "Transactions of the Asiatic Society of Japan, Supplement (English Wikisource transcription)",
+  "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)/Preface",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Philology / History",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "it would be difficult to arrange phrases and compose periods in the characters",
+  "summary": "Yasumaro explains that, ordered in 711 (Wado 4) to record Hieda no Are's oral tradition, he wrote with Chinese characters used sometimes by sound and sometimes by sense because archaic Japanese was hard to fit to them; the memorial is dated the 28th day of the 1st month of Wado 5.",
+  "limits": "The preface's own dating (712 per Chamberlain's note and Wikipedia) is internal evidence; a few scholars have doubted the preface, which was not examined here. Chamberlain's translation is 19th century.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "China",
+   "to": "Yamato Japan",
+   "carried": "writing",
+   "what": "Chinese characters adapted to record Japanese by phonetic and ideographic use",
+   "medium": "text",
+   "start": 600,
+   "end": 712,
+   "directness": "documented"
+  },
+  "text": {
+   "work": "Kojiki",
+   "locator": "Preface, closing paragraphs",
+   "language": "Classical Chinese (quoted in English, Chamberlain 1882)",
+   "edition": "Chamberlain, Kojiki, 1882, English Wikisource",
+   "composition": {
+    "start": 711,
+    "end": 712,
+    "basis": "Preface dated 28th day, 1st month, Wado 5; Chamberlain's footnote equates the 4th year with Nov. 711 and Wado with 708-714; Wikipedia (opened) gives 712"
+   },
+   "witness": "Not established from sources opened"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Kojiki (Chamberlain), Section CX: Emperor Ojin, tribute from Korea",
+  "authors": "Ō no Yasumaro; Chamberlain, B.H. (transl.)",
+  "year": 1882,
+  "venue": "Transactions of the Asiatic Society of Japan, Supplement (English Wikisource transcription)",
+  "url": "https://en.wikisource.org/wiki/Kojiki_(Chamberlain,_1882)/Section_110",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Philology / History",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "likewise by this man he sent as tribute the Confucian Analects",
+  "summary": "King Sho-ko of Kudara (Paekche) sends Wani-kishi with the Analects in ten volumes and the Thousand Character Essay in one volume, plus artisans (a smith and a weaver).",
+  "limits": "Legendary Ojin-reign narrative. Chamberlain's footnote notes the Nihongi 'more prudently mention only various classics' and refers readers to his Introduction on the problem; the Thousand Character Essay is generally thought to be later than the traditional dating (not verified in sources opened). Chamberlain, 1882.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Baekje (Paekche)",
+   "to": "Yamato Japan",
+   "carried": "idea",
+   "what": "Confucian Analects, Thousand Character Essay and craftsmen via the scholar Wani",
+   "medium": "teaching",
+   "start": 285,
+   "end": 405,
+   "directness": "debated"
+  },
+  "text": {
+   "work": "Kojiki",
+   "locator": "Middle volume, Sect. CX (Ojin, part VII)",
+   "language": "Classical Chinese (quoted in English, Chamberlain 1882)",
+   "edition": "Chamberlain, Kojiki, 1882, English Wikisource",
+   "composition": {
+    "start": 711,
+    "end": 712,
+    "basis": "As Preface candidate: dated by the preface to Wado 5 (712)"
+   },
+   "witness": "Not established from sources opened"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Samguk sagi, vol. 18, Goguryeo annals 6: King Sosurim, year 2",
+  "authors": "Kim Busik (compiler)",
+  "year": null,
+  "venue": "Chinese Wikisource transcription of Samguk sagi (juan 18)",
+  "url": "https://zh.wikisource.org/wiki/三國史記/卷18",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History / Religious studies",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "遣使及浮屠順道，送佛像、經文",
+  "summary": "Sosurim year 2, 6th month (372 by standard reckoning): Fu Jian of Former Qin sends envoys and the monk Sundo (Shun Dao) with Buddha images and scriptures; the king founds a Taehak (academy) to teach youth; year 5 founds Seongmun temple for Sundo and Ibullan for Ado, 'the beginning of Buddhism in Haedong'.",
+  "limits": "Samguk sagi is a 12th-century compilation about events up to 800 years earlier; years here are the work's own regnal reckoning. Transcription includes editorial footnote markers.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Former Qin China",
+   "to": "Goguryeo",
+   "carried": "religion",
+   "what": "Buddhist monk, images and scriptures; Confucian academy founded the same year",
+   "medium": "court_or_empire",
+   "start": 372,
+   "end": 372,
+   "directness": "inferred"
+  },
+  "text": {
+   "work": "Samguk sagi",
+   "locator": "Goguryeo bongi 6, Sosurim year 2",
+   "language": "Classical Chinese",
+   "edition": "Chinese Wikisource transcription of the Samguk sagi",
+   "composition": {
+    "start": 1122,
+    "end": 1146,
+    "basis": "Wikipedia (opened): compilation ordered by King Injong of Goryeo (r. 1122-1146); cite it as secondary"
+   },
+   "witness": "Not established from sources opened"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Samguk sagi, vol. 4, Silla annals 4: King Beopheung, year 15",
+  "authors": "Kim Busik (compiler)",
+  "year": null,
+  "venue": "Chinese Wikisource transcription of Samguk sagi (juan 4)",
+  "url": "https://zh.wikisource.org/wiki/三國史記/卷04",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History / Religious studies",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "十五年，肇行佛法",
+  "summary": "Beopheung year 15: Buddhism begins to be practised; the entry recalls the monk Mukhoja coming from Goguryeo to Ilseon commandery in Nulji's reign and the court's ignorance of incense sent by Liang.",
+  "limits": "Late narrative; Silla's acceptance is a Goguryeo-to-Silla transfer within the chronicle, with a Liang (China) gift mentioned. The page text includes footnote markers.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Goguryeo",
+   "to": "Silla",
+   "carried": "religion",
+   "what": "Buddhism via the monk Mukhoja, officially adopted under Beopheung",
+   "medium": "teaching",
+   "start": 450,
+   "end": 528,
+   "directness": "inferred"
+  },
+  "text": {
+   "work": "Samguk sagi",
+   "locator": "Silla bongi 4, Beopheung year 15",
+   "language": "Classical Chinese",
+   "edition": "Chinese Wikisource transcription",
+   "composition": {
+    "start": 1122,
+    "end": 1146,
+    "basis": "Wikipedia (opened): compilation ordered by King Injong (r. 1122-1146)"
+   },
+   "witness": "Not established from sources opened"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Samguk sagi, vol. 24, Baekje annals 2: King Chimnyu, year 1",
+  "authors": "Kim Busik (compiler)",
+  "year": null,
+  "venue": "Chinese Wikisource transcription of Samguk sagi (juan 24)",
+  "url": "https://zh.wikisource.org/wiki/三國史記/卷24",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History / Religious studies",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "胡僧摩羅難陁自晉至，王迎之，致宮內，禮敬焉。佛法始於此",
+  "summary": "Chimnyu year 1, 9th month: a foreign (Hu) monk Maranant'a comes from Jin, is welcomed into the palace and honoured; 'Buddhism began from here'; a Buddhist temple is founded at Hansan the next year.",
+  "limits": "Late narrative. Aston's note in the Nihongi gives 384 for Buddhism reaching Paekche. Stated source is the compiler's, not a contemporary record.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Eastern Jin China",
+   "to": "Baekje (Paekche)",
+   "carried": "religion",
+   "what": "Buddhist monk Maranant'a and the first Buddhist temple",
+   "medium": "court_or_empire",
+   "start": 384,
+   "end": 385,
+   "directness": "inferred"
+  },
+  "text": {
+   "work": "Samguk sagi",
+   "locator": "Baekje bongi 2, Chimnyu year 1",
+   "language": "Classical Chinese",
+   "edition": "Chinese Wikisource transcription",
+   "composition": {
+    "start": 1122,
+    "end": 1146,
+    "basis": "Wikipedia (opened): compilation ordered by King Injong (r. 1122-1146)"
+   },
+   "witness": "Not established from sources opened"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Samguk sagi (encyclopedia article)",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Samguk_sagi",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "Its compilation was ordered by King Injong of Goryeo (r. 1122–1146)",
+  "summary": "Gives the compilation under King Injong (r. 1122-1146) by Kim Busik and notes the work cites no Japanese chronicles but draws heavily on Chinese dynastic histories and other Chinese records.",
+  "limits": "Tertiary source, used here only for the compilation basis of the three Samguk sagi candidates and the Sinocentric source-base caution; Samguk yusa was not opened (see Gaps).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Hunminjeongeum (Haerye edition), preface",
+  "authors": "Sejong (king); Jeong Inji et al. (Haerye)",
+  "year": 1446,
+  "venue": "Korean Wikisource transcription of the Haerye edition",
+  "url": "https://ko.wikisource.org/wiki/훈민정음",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Linguistics / History",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "國之語音。異乎中國。與文字不相流通",
+  "summary": "Sejong's preface says the sounds of Korean differ from China's and do not fit Chinese characters, so the common people cannot express themselves; he made 28 letters. The postface is dated 正統十一年九月上澣, the first ten days of the 9th month of Zhengtong 11 (1446).",
+  "limits": "Documents Korean rejection and adaptation of an imported script rather than its arrival. The wikisource transcription's variant characters and notes were not independently collated.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "China",
+   "to": "Korea (Joseon)",
+   "carried": "writing",
+   "what": "Chinese characters judged unfit for Korean; Hangul created in response",
+   "medium": "text",
+   "start": 1443,
+   "end": 1446,
+   "directness": "documented"
+  },
+  "text": {
+   "work": "Hunminjeongeum (Haerye edition)",
+   "locator": "Preface (Sejong's Yeui, opening lines)",
+   "language": "Classical Chinese",
+   "edition": "Korean Wikisource transcription of the Haerye edition",
+   "composition": {
+    "start": 1446,
+    "end": 1446,
+    "basis": "Postface dated 正統十一年九月上澣 in the same transcription; Wikipedia (opened) gives about October 1446"
+   },
+   "witness": "Haerye edition text as transcribed; the Eonhae and Veritable Records editions are separate (not checked)"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Hunminjeongeum (Haerye edition), Jeong Inji's postface",
+  "authors": "Jeong Inji",
+  "year": 1446,
+  "venue": "Korean Wikisource transcription of the Haerye edition",
+  "url": "https://ko.wikisource.org/wiki/훈민정음",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Linguistics / History",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "假中國文字以通其用",
+  "summary": "Jeong Inji writes that foreign languages have sounds but no script and use Chinese characters, like a round peg in a square hole; he notes Silla's Seol Chong's idu reading of Chinese documents, still used in offices.",
+  "limits": "Gives the Korean literati's own view of 15th-century adaptation of Chinese script. A stated tradition (Seol Chong) is not independently checked here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "China",
+   "to": "Silla and Joseon Korea",
+   "carried": "writing",
+   "what": "Chinese characters borrowed to write Korean (idu, then Hangul)",
+   "medium": "text",
+   "start": 600,
+   "end": 1446,
+   "directness": "documented"
+  },
+  "text": {
+   "work": "Hunminjeongeum Haerye",
+   "locator": "Postface of Jeong Inji, 9th month, Zhengtong 11",
+   "language": "Classical Chinese",
+   "edition": "Korean Wikisource transcription",
+   "composition": {
+    "start": 1446,
+    "end": 1446,
+    "basis": "Postface dated 正統十一年九月上澣"
+   },
+   "witness": "As preface candidate"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Bibliographical Characteristics of the Movable Metal Type and Woodblock-printed Jikji and Quotations from Venerable Baegun",
+  "authors": null,
+  "year": 2026,
+  "venue": "Review of Korean Studies 29(1): 351-",
+  "url": "https://www.accesson.kr/rks/assets/pdf/59324/journal-29-1-351.pdf",
+  "doi": "10.25024/review.2026.29.1.013",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Bibliography / Book history",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "宣光七年丁巳七月日淸州牧外興德寺鑄字印施",
+  "summary": "Quotes the Jikji imprint, dated Xuanguang 7 (1377), reading 'printed with movable metal type at Heungdeoksa Temple outside Cheongju'; states that the only extant movable metal type print is the second volume of Jikji, held at the BnF, and that the woodblock edition (1378) survives complete.",
+  "limits": "Authors' names were not extracted from the PDF. It addresses the extant item and dating, not whether earlier Chinese or Korean metal printing existed; Sangjeong gogeum yemun (1234) is lost.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "China",
+   "to": "Goryeo Korea",
+   "carried": "technology",
+   "what": "Movable type printing, here in cast metal",
+   "medium": "unknown",
+   "start": 1234,
+   "end": 1377,
+   "directness": "debated"
+  },
+  "text": {
+   "work": "Baegun hwasang chorok buljo jikji simche yojeol (Jikji)",
+   "locator": "Imprint (colophon) on the last page of vol. 2",
+   "language": "Classical Chinese",
+   "edition": "Imprint as transcribed in the Review of Korean Studies article",
+   "composition": {
+    "start": 1377,
+    "end": 1377,
+    "basis": "Imprint dated Xuanguang 7 (1377), per the 2026 article; the author Baegun died 1374 and the woodblock edition is 1378"
+   },
+   "witness": "Metal-type vol. 2 at the BnF (Coréen 109); woodblock edition 1378"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Jikji, a treasure of the world of printing",
+  "authors": "Bibliothèque nationale de France",
+  "year": null,
+  "venue": "BnF (official collection page)",
+  "url": "https://www.bnf.fr/en/jikji-treasure-world-printing",
+  "accessed": "2026-11-17",
+  "kind": "official",
+  "discipline": "Book history",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "Jikji is the oldest known book in the world printed with movable metal type",
+  "summary": "BnF states Jikji was printed in 1377 at Heungdeok-sa in Cheongju, is a Zen anthology, was acquired by Collin de Plancy and passed to Vever and the BnF, and has been in UNESCO's Memory of the World Register since 2001.",
+  "limits": "The holder's claim of 'oldest known'; the page as read does not address Chinese precedents or the transmission of the technique.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Hou Hanshu 76 (Xunli liezhuan): Xi Guang and Ren Yan in Jiaozhi and Jiuzhen",
+  "authors": "Fan Ye",
+  "year": null,
+  "venue": "Chinese Wikisource transcription of the Hou Hanshu",
+  "url": "https://zh.wikisource.org/wiki/後漢書/卷76",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "領南華風，始於二守焉",
+  "summary": "Xi Guang, grand administrator of Jiaozhi under Emperor Ping, 'taught the people and barbarians, gradually through rites and righteousness'; Ren Yan in Jiuzhen taught ploughing with iron tools and marriage rites; 'Chinese customs in Lingnan began with these two governors'.",
+  "limits": "Written some centuries after the events (Wikipedia: completed over two hundred years after the fall of the Han). Moralising Han-official narrative; says nothing of Vietnamese response. Wikipedia date not independently checked against Fan Ye's life.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Han China",
+   "to": "Jiaozhi / Jiuzhen (northern Vietnam)",
+   "carried": "institution",
+   "what": "Rites, ploughing with iron tools and marriage customs by Han governors",
+   "medium": "court_or_empire",
+   "start": 1,
+   "end": 40,
+   "directness": "inferred"
+  },
+  "text": {
+   "work": "Hou Hanshu (Book of the Later Han)",
+   "locator": "ch. 76, Xunli liezhuan, Ren Yan biography",
+   "language": "Classical Chinese",
+   "edition": "Chinese Wikisource transcription",
+   "composition": {
+    "start": 420,
+    "end": 500,
+    "basis": "Wikipedia (opened): the book was completed over two hundred years after the fall of the Han (220); range is a lower bound only"
+   },
+   "witness": "Not established from sources opened"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Đại Việt sử ký toàn thư, Ngoại kỷ 3 (Shi Xie / Sĩ Nhiếp)",
+  "authors": "Ngô Sĩ Liên",
+  "year": 1479,
+  "venue": "Chinese Wikisource transcription",
+  "url": "https://zh.wikisource.org/wiki/大越史記全書/外紀卷之三",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "我國通詩書，習禮樂，為文獻之邦，自士王始",
+  "summary": "Ngô Sĩ Liên judges that Vietnam's command of the Odes and Documents and of rites, and its status as a land of learning, 'began with the Shi King' (Shi Xie, governor of Jiaozhi, d. 226 per the entry).",
+  "limits": "The retrospective judgement of a 15th-century court historian, about 1,250 years later; Wikipedia gives 1473 for his appointment and 1479 for the original edition. The claim of Shi Xie as founder is not corroborated by independent Han-era evidence here; I could not open a sceptical Vietnam source (see Gaps).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Han / Wu China",
+   "to": "Jiaozhi (northern Vietnam)",
+   "carried": "idea",
+   "what": "Confucian learning, classics and rites, credited to governor Shi Xie",
+   "medium": "court_or_empire",
+   "start": 187,
+   "end": 226,
+   "directness": "debated"
+  },
+  "text": {
+   "work": "Đại Việt sử ký toàn thư",
+   "locator": "Ngoại kỷ, juan 3, Shi Xie entry, historian's comment",
+   "language": "Classical Chinese",
+   "edition": "Chinese Wikisource transcription",
+   "composition": {
+    "start": 1479,
+    "end": 1479,
+    "basis": "Wikipedia (opened): Ngô Sĩ Liên, original edition 1479; later editions altered"
+   },
+   "witness": "Not established from sources opened"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Hanji used as art materials: historical consideration",
+  "authors": "Lee J.-Y.; Kim C.-H.; et al.",
+  "year": 2009,
+  "venue": "KFS Journal 20(3): 191-197 (as printed on the PDF header)",
+  "url": "https://koreascience.kr/article/JAKO200919463953268.pdf",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of technology",
+  "stance": "context",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "Paper made in China was imported to Korea by trading during the reign of Sosurim",
+  "summary": "States Chinese paper reached Korea by trade in Sosurim's reign, that it is not certain when papermaking itself was introduced, and that tradition places papermaking in Korea well before the 7th century.",
+  "limits": "A conservation and materials paper, not a history article; the traditional claims (Damjing in 610; Lelang-tomb paper) are repeated, not tested.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "China",
+   "to": "Goguryeo / Korea",
+   "carried": "technology",
+   "what": "Paper imported by trade, then papermaking",
+   "medium": "trade",
+   "start": 372,
+   "end": 610,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "Choe Museon (encyclopedia article)",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ch%27oe_Mus%C5%8Fn",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of technology",
+  "stance": "context",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "bribed Li for the gunpowder recipe, in violation of Mongol and Chinese law",
+  "summary": "Choe Museon (1330-1395) learned gunpowder from a Chinese merchant, Li Yuan; a gunpowder office was set up in 1377.",
+  "limits": "Tertiary source; it cites no Goryeosa passage in the part read, and the transmission narrative rests on later Korean sources not opened here. Needham's wider case for gunpowder was not checked at a primary level.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Yuan China",
+   "to": "Goryeo Korea",
+   "carried": "technology",
+   "what": "Gunpowder recipe and manufacture",
+   "medium": "trade",
+   "start": 1370,
+   "end": 1377,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "The Korean snap matchlock: a global microhistory",
+  "authors": "Kang, Hyeok Hweon",
+  "year": 2022,
+  "venue": "American Society of Arms Collectors Bulletin 124: 30-41",
+  "url": "https://americansocietyofarmscollectors.org/wp-content/uploads/2022/06/The-Korean-snap-matchlock-a-global-microhistory-v124-Kang.pdf",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History of technology",
+  "stance": "contradicts",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "But ample evidence shows the contrary",
+  "summary": "Notes that Needham argued the Chinese invented the matchlock in the early 1400s and transmitted it westward, and replies that evidence shows it arose in 15th-century southern Germany; follows its spread to China, Korea and Japan.",
+  "limits": "Rebuts one Needham claim (the matchlock), not his gunpowder thesis, and the quotation is garbled by the two-column PDF layout; the sentence it completes is about Needham's matchlock origin. Outside the Korea-Japan-Vietnam core.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "China",
+   "to": "Europe",
+   "carried": "technology",
+   "what": "Matchlock gun-lock mechanism, as claimed by Needham",
+   "medium": "unknown",
+   "start": 1400,
+   "end": 1500,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "east-asia-sinosphere",
+  "records": [],
+  "title": "History of the compass (encyclopedia article)",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/History_of_the_compass",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of technology",
+  "stance": "context",
+  "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+  "quote": "Some historians suggest that the Arabs introduced the compass from China to Europe",
+  "summary": "Summarises the Chinese record of the compass (Han to Song) and states that diffusion is disputed, with transmission via the Arabs or the Indian Ocean proposed and independent European invention also proposed.",
+  "limits": "Tertiary source; it relies on Needham and others whose books were not opened. Gives nothing on compass transmission to Korea, Japan or Vietnam.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Song China",
+   "to": "Islamic world / Europe",
+   "carried": "technology",
+   "what": "The magnetic compass",
+   "medium": "trade",
+   "start": 1000,
+   "end": 1300,
+   "directness": "debated"
+  }
+ }
+]

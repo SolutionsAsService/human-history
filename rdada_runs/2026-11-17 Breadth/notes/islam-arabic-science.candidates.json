@@ -1,0 +1,625 @@
+[
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "Répertoire d'épigraphie sémitique, vol. 1, no. 483 (Namara inscription, Dussaud's reading)",
+  "authors": "Dussaud, R. (reading); RES editors",
+  "year": null,
+  "venue": "Répertoire d'épigraphie sémitique (Internet Archive scan, vol. 1)",
+  "url": "https://archive.org/stream/repertoiredepigr0001unse/repertoiredepigr0001unse_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Epigraphy",
+  "stance": "context",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "Inscription en caractères nabatéens et en langue arabe, comme l'a établi Clermont-Ganneau",
+  "summary": "RES 483 prints the Namara stone as Nabataean characters but Arabic language, as Clermont-Ganneau established, and gives Dussaud's French translation of the epitaph.",
+  "limits": "The scan is OCR with errors (the Nabataean line is garbled); publication year of the volume was not read from the page. The Arabic identification of the language is the editors' judgement and sits beside Bellamy's later disagreement over readings.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "text": {
+   "work": "Namara inscription (epitaph of Imru' al-Qays son of 'Amr)",
+   "locator": "RES 483, introductory note",
+   "language": "Old Arabic in Nabataean script (quoted in French)",
+   "edition": "Répertoire d'épigraphie sémitique vol. 1, no. 483, Internet Archive OCR",
+   "composition": {
+    "start": 328,
+    "end": 328,
+    "basis": "The inscription dates itself 'l'an 223' of the Bostra era, 7th of Kislul, read by Dussaud (RES 483); the conversion to 7 December AD 328 is stated on the opened Wikipedia page (secondary), not in RES"
+   },
+   "witness": "The basalt lintel itself (Louvre AO 4083), found 4 April 1901 by Dussaud and Macler per the opened Wikipedia page; the RES 483 entry is a later edition of the stone"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "Répertoire d'épigraphie sémitique, vol. 1, no. 483 (Namara: date and boast)",
+  "authors": "Dussaud, R. (reading); RES editors",
+  "year": null,
+  "venue": "Répertoire d'épigraphie sémitique (Internet Archive scan, vol. 1)",
+  "url": "https://archive.org/stream/repertoiredepigr0001unse/repertoiredepigr0001unse_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "est mort l'an 223, le septième jour de kesloûl",
+  "summary": "Dussaud's French rendering of the last line gives the date of death as year 223, 7th of Kislul; the preceding line says no king has equalled his glory.",
+  "limits": "Quote is the date line only; the year-223 era identification (Bostra era) and the AD 328 conversion rest on secondary sources opened separately. OCR text.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "text": {
+   "work": "Namara inscription",
+   "locator": "lines 4-5 of Dussaud's translation in RES 483",
+   "language": "Old Arabic in Nabataean script (quoted in French)",
+   "edition": "Répertoire d'épigraphie sémitique vol. 1, no. 483, Internet Archive OCR",
+   "composition": {
+    "start": 328,
+    "end": 328,
+    "basis": "The inscription dates itself 'l'an 223' of the Bostra era, 7th of Kislul, read by Dussaud (RES 483); the conversion to 7 December AD 328 is stated on the opened Wikipedia page (secondary), not in RES"
+   },
+   "witness": "The basalt lintel itself (Louvre AO 4083), found 4 April 1901 by Dussaud and Macler per the opened Wikipedia page; the RES 483 entry is a later edition of the stone"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "Namara inscription",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Namara_inscription",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Epigraphy",
+  "stance": "context",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "he subdued the Asadis and they were overwhelmed together with their kings",
+  "summary": "Prints Bellamy's 1985 reading (JAOS 105) of the Namara text, which differs from Dussaud's ('king of all the Arabs' becomes 'king of the Arabs, and (?)'), and states the 7 December AD 328 date.",
+  "limits": "Tertiary page; Bellamy's article itself (JAOS 105.1, pp. 31-48) was not opened. Page notes Irfan Shahid's caution that the text contains no Christian formula.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "text": {
+   "work": "Namara inscription",
+   "locator": "line 2 of Bellamy's translation",
+   "language": "Old Arabic in Nabataean script (quoted in English, Bellamy via Wikipedia)",
+   "edition": "Bellamy, 'A New Reading of the Namarah Inscription', JAOS 105 (1985), as printed on Wikipedia",
+   "composition": {
+    "start": 328,
+    "end": 328,
+    "basis": "The inscription dates itself 'l'an 223' of the Bostra era, 7th of Kislul, read by Dussaud (RES 483); the conversion to 7 December AD 328 is stated on the opened Wikipedia page (secondary), not in RES"
+   },
+   "witness": "The basalt lintel itself (Louvre AO 4083), found 4 April 1901 by Dussaud and Macler per the opened Wikipedia page; the RES 483 entry is a later edition of the stone"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "The 'Constitution' of Medina (Dustur al-Madinah), after Guillaume",
+  "authors": "Guillaume, A. (translator)",
+  "year": 1955,
+  "venue": "constitution.org reproduction of Guillaume, The Life of Muhammad (OUP Karachi, 1955)",
+  "url": "https://constitution.org/1-Constitution/cons/medina/con_medina.htm",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Early Islamic history",
+  "stance": "context",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "They are one community (umma) to the exclusion of all men.",
+  "summary": "Clause 2 of the Medina compact as transmitted in Ibn Ishaq: Quraysh emigrants, Yathrib believers and their clients form one umma.",
+  "limits": "Translation reproduced on an advocacy site; Guillaume's date was read from the site's citation. Transmitted only by later literary sources; authenticity discussed in the Lecker and Goldziher entries.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "text": {
+   "work": "Kitab (Constitution of Medina), in Ibn Ishaq's Sira",
+   "locator": "clause 2",
+   "language": "Arabic (quoted in English, Guillaume)",
+   "edition": "Guillaume 1955 via constitution.org",
+   "composition": {
+    "start": 622,
+    "end": 623,
+    "basis": "Lecker (opened) places the Kitab 'shortly after the hijra'; constitution.org heads the text '622 C.E.'. The two-year range is this brief's approximation of 'shortly after', not a published bound"
+   },
+   "witness": "No original preserved (Lecker). Known from Ibn Ishaq's Sira (Ibn Hisham recension) and Abu 'Ubayd's Amwal; Lecker lists manuscripts such as a Dar al-Kutub Ibn Hisham copy of AH 862"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "The 'Constitution of Medina': Muhammad's First Legal Document (Text and Translation, section 28)",
+  "authors": "Lecker, M.",
+  "year": 2004,
+  "venue": "Darwin Press, Princeton (Internet Archive scan)",
+  "url": "https://archive.org/stream/the-constitution-of-medina-muhammads-first-legal-document-by-micheal-lecker-2004/The%20Constitution%20Of%20Medina%20Muhammads%20First%20Legal%20Document%20by%20Micheal%20Lecker%202004_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Early Islamic history",
+  "stance": "context",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "THE JEWS HAVE THEIR RELIGION AND THE MUSLIMUN HAVE THEIRS",
+  "summary": "Lecker's translation of clause 28 of Ibn Ishaq's version, with transliterated Arabic above it, shows the compact treating allied Jewish clans as a separate umma with its own religion.",
+  "limits": "Lecker marks bracketed emendations (umma/amana) in this clause; the quote omits them. Scan is OCR.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "text": {
+   "work": "Kitab (Constitution of Medina), Ibn Ishaq's version",
+   "locator": "section 28",
+   "language": "Arabic (quoted in English, Lecker)",
+   "edition": "Lecker 2004, Text and Translation of Ibn Ishaq's Version",
+   "composition": {
+    "start": 622,
+    "end": 623,
+    "basis": "Lecker (opened) places the Kitab 'shortly after the hijra'; constitution.org heads the text '622 C.E.'. The two-year range is this brief's approximation of 'shortly after', not a published bound"
+   },
+   "witness": "No original preserved (Lecker). Known from Ibn Ishaq's Sira (Ibn Hisham recension) and Abu 'Ubayd's Amwal; Lecker lists manuscripts such as a Dar al-Kutub Ibn Hisham copy of AH 862"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "The 'Constitution of Medina': Muhammad's First Legal Document (Preface)",
+  "authors": "Lecker, M.",
+  "year": 2004,
+  "venue": "Darwin Press, Princeton (Internet Archive scan)",
+  "url": "https://archive.org/stream/the-constitution-of-medina-muhammads-first-legal-document-by-micheal-lecker-2004/The%20Constitution%20Of%20Medina%20Muhammads%20First%20Legal%20Document%20by%20Micheal%20Lecker%202004_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Early Islamic history",
+  "stance": "supports",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "it is widely acknowledged as authentic and as dating back to the time of the Prophet",
+  "summary": "Lecker states the original is not preserved but the Kitab is widely held authentic; he argues it is one unified document.",
+  "limits": "Lecker is an advocate of authenticity and unity; he calls Serjeant's multi-document division 'unconvincing'. Dating rests on his reading of the content.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17"
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "The 'Constitution of Medina' (Introduction, citing Goldziher)",
+  "authors": "Lecker, M. (quoting Goldziher, I.)",
+  "year": 2004,
+  "venue": "Darwin Press, Princeton (Internet Archive scan)",
+  "url": "https://archive.org/stream/the-constitution-of-medina-muhammads-first-legal-document-by-micheal-lecker-2004/The%20Constitution%20Of%20Medina%20Muhammads%20First%20Legal%20Document%20by%20Micheal%20Lecker%202004_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Early Islamic history",
+  "stance": "fails_to_support",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "the production of written documents which were to be taken as the expression of the wishes of the Prophet",
+  "summary": "Lecker quotes Goldziher's view that documents were fabricated alongside hadith to support legal norms, then rejects it as 'too sweeping' for the Kitab.",
+  "limits": "This is a quotation of the sceptical position inside an authenticity advocate's book, not Goldziher's own text; Serjeant's and Gil's positions were not opened.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17"
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "Qur'an 19:92 (Pickthall) in the Birmingham fragment's verse range",
+  "authors": "Pickthall, M. (translator)",
+  "year": null,
+  "venue": "alquran.cloud API, en.pickthall edition",
+  "url": "https://api.alquran.cloud/v1/ayah/19:92/en.pickthall",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Qur'anic studies",
+  "stance": "context",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "When it is not meet for (the Majesty of) the Beneficent that He should choose a son.",
+  "summary": "One verse inside the 19:91-98 portion that University of Birmingham's FAQ says Mingana 1572a contains; the fragment's text almost wholly agrees with the standard text per the secondary literature.",
+  "limits": "Translation date not shown on the page. Only the English was quoted; the Hijazi manuscript reading was not checked against the standard text here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "text": {
+   "work": "Qur'an, Surah 19 (Maryam)",
+   "locator": "19:92",
+   "language": "Arabic (quoted in English, Pickthall)",
+   "edition": "Pickthall via alquran.cloud; locus confirmed on University of Birmingham FAQ",
+   "composition": {
+    "start": 610,
+    "end": 632,
+    "basis": "Traditional period of revelation (610-632) as stated on the opened University of Birmingham news page; scholarly debate over text fixation is in the Sadeghi and Rezvan entries"
+   },
+   "witness": "Mingana Islamic Arabic 1572a, parchment radiocarbon dated 568-645 CE at 95.4% (Oxford, 2014), a date disputed in other entries; joins BnF Arabe 328c per Fedeli and Deroche"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "The Birmingham Qur'an: an ancient manuscript forging modern day connection",
+  "authors": "University of Birmingham",
+  "year": 2025,
+  "venue": "University of Birmingham news",
+  "url": "https://www.birmingham.ac.uk/news/2025/the-birmingham-quran-an-ancient-manuscript-forging-modern-day-connection",
+  "accessed": "2026-11-17",
+  "kind": "official",
+  "discipline": "Radiocarbon dating / manuscript studies",
+  "stance": "supports",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and note disputes (e.g. radiocarbon dating of the Birmingham fragment).",
+  "quote": "with a probability of more than 95%, the parchment was from between 568 and 645",
+  "summary": "Institutional account of the Oxford radiocarbon result and of the 2017 multispectral and 2018 XRF tests, which it says showed the leaves are not a palimpsest.",
+  "limits": "The owner's own account; radiocarbon dates the animal, not the writing. Does not answer the objections raised by Fedeli, Rezvan, Small or Deroche.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17"
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "The Mingana Folios in Their Historical Context (Notes in the Margins of Newspaper Publications)",
+  "authors": "Rezvan, E.",
+  "year": 2015,
+  "venue": "Lecture, Cadbury Research Library, 21 Oct 2015 (kunstkamera.ru PDF)",
+  "url": "https://www.kunstkamera.ru/images/news/2015/efimrezvan-lecture.pdf",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Radiocarbon dating / manuscript studies",
+  "stance": "fails_to_support",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and note disputes (e.g. radiocarbon dating of the Birmingham fragment).",
+  "quote": "The radiocarbon analysis of the parchment gives the date of death of the animal",
+  "summary": "Rezvan argues radiocarbon dates the animal, so a gap of 50-70 years between blank parchment and copying must be explained, e.g. stored parchment looted in the conquests.",
+  "limits": "Lecture notes; the looted-stock hypothesis is untested by his own admission. He also stresses the early dates trouble received traditions.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17"
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "The Birmingham Qur'an: Too Many Options",
+  "authors": "Small, K.",
+  "year": 2015,
+  "venue": "Digital Mushaf, Bodleian Libraries (first published Huffington Post, 9 Sept 2015)",
+  "url": "https://digitalmushaf.bodleian.ox.ac.uk/2015/12/04/the-birmingham-quran-too-many-options/",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Radiocarbon dating / manuscript studies",
+  "stance": "fails_to_support",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and note disputes (e.g. radiocarbon dating of the Birmingham fragment).",
+  "quote": "The dates arrived at are so at odds with those obtained through other established means that many scholars, including me, are withholding final judgment",
+  "summary": "Small shows the wide 568-645 range permits readings from a pre-Muhammad Qur'an-like book to the traditional story, and declines to choose.",
+  "limits": "Opinion piece by a Bodleian honorary fellow, not a laboratory critique.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17"
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "Early Qur'anic Manuscripts, their Text, and the Alphonse Mingana Papers (PhD thesis, section on MS PaB)",
+  "authors": "Fedeli, A.",
+  "year": 2015,
+  "venue": "PhD thesis, University of Birmingham (eTheses)",
+  "url": "https://etheses.bham.ac.uk/id/eprint/5864/1/Fedeli15PhD.pdf",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Radiocarbon dating / palaeography",
+  "stance": "contradicts",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and note disputes (e.g. radiocarbon dating of the Birmingham fragment).",
+  "quote": "disagrees with the results of the carbon 14 analysis, which reveals a high probability of an earlier date, i.e. between 568 and 645 CE",
+  "summary": "The scholar who identified the leaves says the text and script point to the second half of the first Islamic century, conflicting with the 568-645 radiocarbon range, and advises dating a further sample.",
+  "limits": "Thesis completed before the 2015 press release; the later 'further sample' advice is on the same pages. Comparison dates for other manuscripts are quoted from Deroche.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17"
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "San'a' 1 and the Origins of the Qur'an",
+  "authors": "Sadeghi, B.; Goudarzi, M.",
+  "year": 2012,
+  "venue": "Der Islam 87 (Internet Archive scan of the article)",
+  "url": "https://archive.org/stream/110978941Sanaa1AndTheOriginsOfTheQurAn/110978941-Sanaa-1-and-the-Origins-of-the-Qur-An_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Radiocarbon dating / Qur'anic studies",
+  "stance": "context",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and note disputes (e.g. radiocarbon dating of the Birmingham fragment).",
+  "quote": "assigns the parchment, and hence the lower codex, to the period before AD 671 with a probability of 99%",
+  "summary": "Radiocarbon on one San'a' palimpsest folio dates its parchment before AD 671 (99%), before 646 (75%); the authors say textual analysis is more fruitful than radiocarbon.",
+  "limits": "Unofficial scan of a paywalled article (DOI on De Gruyter); one sample from one folio; Fedeli notes other laboratories gave different ranges for other folios.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "doi": "10.1515/islam-2011-0025"
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "San'a' 1 and the Origins of the Qur'an (abstract)",
+  "authors": "Sadeghi, B.; Goudarzi, M.",
+  "year": 2012,
+  "venue": "Der Islam 87 (Internet Archive scan of the article)",
+  "url": "https://archive.org/stream/110978941Sanaa1AndTheOriginsOfTheQurAn/110978941-Sanaa-1-and-the-Origins-of-the-Qur-An_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Qur'anic studies",
+  "stance": "supports",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "the analysis shows that the suras were formed earlier",
+  "summary": "Argues the lower text of San'a' 1 shows suras were already formed before the third caliph's standardisation c. AD 650.",
+  "limits": "Depends on their textual reconstruction and on San'a' 1 being a distinct text type; scan is unofficial.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "doi": "10.1515/islam-2011-0025"
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "PERF No. 558 - One of the Earliest Bilingual Papyri from 22 AH / 643 CE",
+  "authors": "Islamic Awareness",
+  "year": 2014,
+  "venue": "islamic-awareness.org (page last modified 3 May 2014)",
+  "url": "https://www.islamic-awareness.org/history/islam/papyri/perf558",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Papyrology",
+  "stance": "supports",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "I, Emir ʿAbdallāh, to you, Christophoros and Theodorakios, Intendants of Herakleopolis!",
+  "summary": "Prints a translation of a bilingual Arabic-Greek receipt for 65 sheep for troops at Heracleopolis, dated Jumada I, 22 AH (25 April 643).",
+  "limits": "The host is a Muslim apologetics site; the translation and dating are its own and were not checked against the Vienna edition. A better-sourced edition should replace it.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "text": {
+   "work": "Papyrus PERF 558",
+   "locator": "recto",
+   "language": "Arabic and Greek (quoted in English)",
+   "edition": "Translation on islamic-awareness.org",
+   "composition": {
+    "start": 643,
+    "end": 643,
+    "basis": "Date line Jumada I 22 AH given on the opened page as 25 April 643 CE"
+   },
+   "witness": "The papyrus itself, from the Archduke Rainer collection (Vienna) per the opened page"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "The Algebra of Mohammed ben Musa (preface)",
+  "authors": "al-Khwarizmi; Rosen, F. (translator)",
+  "year": 1831,
+  "venue": "Oriental Translation Fund (Internet Archive scan)",
+  "url": "https://archive.org/stream/algebraofmohamme00khuwuoft/algebraofmohamme00khuwuoft_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History of science",
+  "stance": "context",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "That fondness for science, by which God has distinguished the Imam al Mamun, the Commander of the Faithful",
+  "summary": "Al-Khwarizmi's preface credits the caliph's patronage of learned men as the reason he composed his algebra.",
+  "limits": "Evidence of patronage, not of an institution called the House of Wisdom; nothing here shows a translation bureau.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "text": {
+   "work": "Kitab al-jabr wa'l-muqabala",
+   "locator": "preface",
+   "language": "Arabic (quoted in English, Rosen 1831)",
+   "edition": "Rosen 1831, Internet Archive",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "Preface names al-Ma'mun as the reigning caliph; no reign dates read from an opened source, so no range is given"
+   },
+   "witness": "Not established from the opened scan"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "The Abbasid House of Wisdom: Between Myth and Reality (page 8, quoting al-Nadim)",
+  "authors": "Author not stated on the page",
+  "year": null,
+  "venue": "erenow.org web copy of a book",
+  "url": "https://erenow.org/postclassical/abbasid-house-of-wisdom-between-myth-and-reality/8.php",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of science",
+  "stance": "supports",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "sent forth a group of men among whom were al-Hajjaj, Ibn Matar, Ibn al-Batriq, Salm",
+  "summary": "Quotes a translation of al-Nadim's Fihrist: al-Ma'mun sends envoys, including Salm, head of the Bayt al-Hikma, to fetch Greek books from Byzantine territory and orders them translated.",
+  "limits": "Web reproduction with no author or edition shown; Dodge's Fihrist translation on archive.org was a lending stub, so al-Nadim was not read directly. The dream story is in the same page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "strand": {
+   "from": "Byzantine Empire",
+   "to": "Abbasid Caliphate",
+   "carried": "idea",
+   "what": "Greek scientific manuscripts fetched for translation in Baghdad",
+   "medium": "translation",
+   "start": 813,
+   "end": 833,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "The Abbasid House of Wisdom: Between Myth and Reality (page 8, 'What Was the Reality?')",
+  "authors": "Author not stated on the page",
+  "year": null,
+  "venue": "erenow.org web copy of a book",
+  "url": "https://erenow.org/postclassical/abbasid-house-of-wisdom-between-myth-and-reality/8.php",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History of science",
+  "stance": "fails_to_support",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "The myth of the House of Wisdom as previously explained was the outcome of a wild exaggeration and maximalist approach",
+  "summary": "Argues the House of Wisdom was a palace library, not a university or translation academy, and engages Gutas's 'minimalist' reading while keeping some role for it.",
+  "limits": "Author unidentified; Gutas's own book could not be opened (archive.org gave a lending stub), and Brentjes's chapter was not found open. One-sided against the maximalist view.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17"
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "India's Contribution to Arab mathematics",
+  "authors": "Jaouiche, K.",
+  "year": 2010,
+  "venue": "arXiv:1008.0874 (paper from a 1997 colloquium)",
+  "url": "https://arxiv.org/pdf/1008.0874",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of mathematics",
+  "stance": "supports",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "In 772, following the visit of a great Indian astronomer to the court of Bagdad, the caliph al-Mansour (754-775)",
+  "summary": "States that al-Mansur had al-Fazari translate Indian astronomical tables (the Sindhind) after an Indian astronomer's visit in 772, and that al-Khwarizmi's arithmetic borrows explicitly from India.",
+  "limits": "Secondary; the medieval sources it cites (Ibn al-Qifti, al-Fihrist) were not opened. Notes Pingree found Greek astronomy problems in the fragments.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "strand": {
+   "from": "India",
+   "to": "Abbasid Caliphate",
+   "carried": "idea",
+   "what": "Sanskrit astronomical tables (Sindhind) and decimal numerals",
+   "medium": "translation",
+   "start": 772,
+   "end": 850,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "Ancient Accounts of India and China, by two Mohammedan Travellers (Renaudot, 1733)",
+  "authors": "Renaudot, E. (translator)",
+  "year": 1733,
+  "venue": "London (Internet Archive scan)",
+  "url": "https://archive.org/stream/ancientaccountso00sira/ancientaccountso00sira_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Travel literature / trade",
+  "stance": "supports",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "Soliman the Merchant relates, that at Canfa, which is the principal Scale for Merchants",
+  "summary": "The account says Arab merchants at the Chinese port had a Muslim judge appointed by the Chinese emperor.",
+  "limits": "18th-century English from a French translation of the Arabic; long-s OCR. Page year and 'two travellers' framing come from the catalogue; modern scholarship (see NYU entry) treats the first part as by an anonymous mariner.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17",
+  "text": {
+   "work": "Akhbar al-Sin wa'l-Hind (Silsilat al-tawarikh), first account",
+   "locator": "Soliman's account of China (Canfu passage)",
+   "language": "Arabic (quoted in 1733 English)",
+   "edition": "Renaudot 1733, Internet Archive OCR",
+   "composition": {
+    "start": 845,
+    "end": 855,
+    "basis": "Wikipedia (opened) says Sulayman wrote around AD 850; NYU Press says the first section predates al-Sirafi's second by fifty years; the range is this brief's approximation of 'around 850'"
+   },
+   "witness": "Not established from the opened scan"
+  },
+  "strand": {
+   "from": "Abbasid Iraq and the Gulf (Siraf, Basra)",
+   "to": "Tang China (Canfu)",
+   "carried": "institution",
+   "what": "A Muslim merchant community with a judge appointed by the Chinese emperor",
+   "medium": "trade",
+   "start": 850,
+   "end": 850,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "islam-arabic-science",
+  "records": [],
+  "title": "Accounts of China and India (publisher description)",
+  "authors": "Abu Zayd al-Sirafi; Mackintosh-Smith, T. (translator)",
+  "year": 2017,
+  "venue": "NYU Press, Library of Arabic Literature",
+  "url": "https://nyupress.org/9781479830596/accounts-of-china-and-india/",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Travel literature / trade",
+  "stance": "context",
+  "ask_addressed": "Arabic script and language: the Namara inscription, earliest Quranic manuscripts, the Constitution of Medina, conquest administration papyri; House of Wisdom and translation movement; Arab-Indian Ocean trade",
+  "quote": "supplementing an earlier section written by an unknown mariner and merchant fifty years earlier",
+  "summary": "Describes the text as al-Sirafi's second half added to a section by an unknown mariner and merchant fifty years earlier, with the first foreign descriptions of tea and porcelain.",
+  "limits": "Publisher blurb: the introduction (pp. xvii-xxxi) was not opened. It leaves unresolved how much of the first section is Sulayman's own words.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": "check_quote.py 2026-11-17"
+ }
+]

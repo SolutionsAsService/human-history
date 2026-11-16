@@ -1,0 +1,908 @@
+[
+ {
+  "title": "Ugaritic alphabet",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (cites Schniedewind, A Primer on Ugaritic, and others)",
+  "url": "https://en.wikipedia.org/wiki/Ugaritic_alphabet",
+  "kind": "secondary",
+  "discipline": "Epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "written using the same tools as those used to write cuneiform (i.e. pressing a wedge-shaped stylus into a clay tablet",
+  "summary": "Describes the Ugaritic alphabet as a consonantal script written in cuneiform wedges, emerging c. 1400 or 1300 BCE at Ugarit; the article also records the hypotheses that it was inspired by Akkadian cuneiform and/or a Proto-Sinaitic linear alphabet.",
+  "limits": "Encyclopedia summary, not the tablets themselves; I did not open an edition of an abecedary tablet (e.g. KTU). The Proto-Sinaitic link is a hypothesis stated on the page, not a documented route.",
+  "strand": {
+   "from": "Proto-Sinaitic/linear alphabetic tradition and Akkadian cuneiform",
+   "to": "Ugarit (Late Bronze Age Syria)",
+   "carried": "writing",
+   "what": "alphabetic principle rendered with cuneiform wedges on clay",
+   "medium": "unknown",
+   "start": -1400,
+   "end": -1190,
+   "directness": "debated"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Earliest known alphabetic word list discovered",
+  "authors": null,
+  "year": 2015,
+  "venue": "Universiteit Leiden news item on Haring, Journal of Near Eastern Studies",
+  "url": "https://universiteitleiden.nl/en/news/2015/11/earliest-known-alphabetic-word-list-discovered",
+  "kind": "official",
+  "discipline": "Egyptology",
+  "stance": "context",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "turns out to be the world's oldest known abecedary",
+  "summary": "A university press release says a 15th-century BCE Egyptian ostracon preserves an alphabet-ordered (HLHM) word list, older than the Ugaritic abecedaries; it bears on how early the alphabetic order and thus the sources of Ugaritic were.",
+  "limits": "Press summary of a JNES article I did not open; says the ostracon is earlier than Ugaritic tablets but does not itself show a transfer to Ugarit.",
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "The Palace of Minos, vol. I",
+  "authors": "Evans, A.",
+  "year": 1921,
+  "venue": "Macmillan, London (Internet Archive scan, Cornell copy)",
+  "url": "https://archive.org/download/cu31924081667796/cu31924081667796_djvu.txt",
+  "kind": "primary",
+  "discipline": "Aegean epigraphy",
+  "stance": "context",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "it essentially differs from Class B, which was current in the Knossian Palace",
+  "summary": "Evans, who named the classes, states that Linear Class A (Middle Minoan III) differs in half its characters from Class B, the script of the Knossos palace archive at its fall: the first published statement of the A/B relationship.",
+  "limits": "Evans's 1921 chronology (B at Knossos before L.M. II) was later revised; he did not read B as Greek. Page ~613 (OCR text, line-broken). The quote is a classification, not a claim of adaptation by itself.",
+  "text": {
+   "work": "The Palace of Minos at Knossos, vol. I",
+   "locator": "p. 613 (Linear Script A and its sacral usage)",
+   "language": "English",
+   "edition": "Macmillan 1921, Internet Archive full-text OCR (Cornell University Library copy)",
+   "composition": {
+    "start": 1921,
+    "end": 1921,
+    "basis": "Publication year of the volume (author's own 1921 date)"
+   },
+   "witness": "Linear A/B clay tablets from Knossos and Hagia Triada, as described by Evans"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Linear B",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (cites Chadwick, Cambridge Faculty of Classics 2012 and others)",
+  "url": "https://en.wikipedia.org/wiki/Linear_B",
+  "kind": "secondary",
+  "discipline": "Aegean epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "Linear B was deciphered in 1952 by English architect and self-taught linguist Michael Ventris",
+  "summary": "Summarises Linear B as adapted from Linear A and deciphered by Ventris in 1952 as Mycenaean Greek: the Minoan-to-Mycenaean script adaptation. The same page says Linear A is undeciphered.",
+  "limits": "Encyclopedia summary. I could not open Ventris and Chadwick's 1953 JHS paper or Documents in Mycenaean Greek (paywalled / lending). The adaptation rests on sign-form comparison, not on a text that says so.",
+  "strand": {
+   "from": "Minoan Crete (Linear A)",
+   "to": "Mycenaean Greek",
+   "carried": "writing",
+   "what": "syllabic script adapted to write Greek",
+   "medium": "unknown",
+   "start": -1450,
+   "end": -1200,
+   "directness": "inferred"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Cypriot syllabary",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Cypriot_syllabary",
+  "kind": "secondary",
+  "discipline": "Aegean epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "It is thought that the Cypriot syllabary is derived from the Cypro-Minoan syllabary",
+  "summary": "The page gives the chain Linear A, Cypro-Minoan, Cypriot syllabary (used c. 11th-4th c. BCE) and says deciphering relied on the Idalion bilingual.",
+  "limits": "Hedged by the source itself ('is thought'). Cypro-Minoan is undeciphered; the Linear A link is inferred from sign shapes. No Cypriot inscription was opened.",
+  "strand": {
+   "from": "Linear A via Cypro-Minoan",
+   "to": "Iron Age Cyprus",
+   "carried": "writing",
+   "what": "syllabary used for Greek",
+   "medium": "unknown",
+   "start": -1100,
+   "end": -300,
+   "directness": "debated"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Germania",
+  "authors": "Tacitus",
+  "year": null,
+  "venue": "The Latin Library",
+  "url": "https://www.thelatinlibrary.com/tacitus/tac.ger.shtml",
+  "kind": "primary",
+  "discipline": "Classical literature",
+  "stance": "context",
+  "ask_addressed": "Quote primary passages or inscriptions at their loci with date and basis, and the dispute where one exists",
+  "quote": "Virgam frugiferae arbori decisam in surculos amputant eosque notis quibusdam discretos super candidam vestem temere ac fortuito spargunt.",
+  "summary": "Tacitus's description of Germanic lot-casting with twigs 'marked with certain signs' (notae). Often cited in runic debates, but the word is notae, not runes or litterae, and it says nothing of an alphabet.",
+  "limits": "Composition date not confirmed from an opened scholarly source (Wikipedia was rate-limited); left null. Parallels with runes are inference.",
+  "text": {
+   "work": "Germania",
+   "locator": "ch. 10",
+   "language": "Latin",
+   "edition": "The Latin Library (edition not stated on page)",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "not confirmed from an opened source"
+   },
+   "witness": "Medieval manuscripts only (not opened)"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "The Decline and Fall of the Roman Empire, vol. 1, note on Runic characters",
+  "authors": "Gibbon, E.",
+  "year": null,
+  "venue": "Christian Classics Ethereal Library",
+  "url": "https://ccel.org/g/gibbon/decline/volume1/nt9/016.htm",
+  "kind": "primary",
+  "discipline": "Early medieval literature",
+  "stance": "context",
+  "ask_addressed": "Quote primary passages or inscriptions at their loci with date and basis, and the dispute where one exists",
+  "quote": "Barbara fraxineis pingatur RUNA tabellis.",
+  "summary": "Gibbon quotes Venantius Fortunatus (Carm. vii.18) as the earliest writer to mention Runic characters, and dates him to the late sixth century: a Latin witness that barbarians wrote on ash-wood tablets.",
+  "limits": "Second-hand: I quote the line as Gibbon prints it, not from the MGH edition (la.wikisource page listed no text for it). The 6th-century date is Gibbon's.",
+  "text": {
+   "work": "Carmina",
+   "locator": "VII.18 (as cited by Gibbon)",
+   "language": "Latin",
+   "edition": "Quoted in Gibbon's footnote, CCEL transcription",
+   "composition": {
+    "start": 500,
+    "end": 600,
+    "basis": "Gibbon: 'lived towards the end of the sixth century' (1776-88; not modern scholarship)"
+   },
+   "witness": "Not established"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Kylver Stone",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (cites Spurkland, Norwegian Runes and Runic Inscriptions)",
+  "url": "https://en.wikipedia.org/wiki/Kylver_Stone",
+  "kind": "secondary",
+  "discipline": "Runology",
+  "stance": "supports",
+  "ask_addressed": "Quote primary passages or inscriptions at their loci with date and basis, and the dispute where one exists",
+  "quote": "which dates from about 400 AD. It is notable for its listing of each of the runes in the Elder Futhark",
+  "summary": "Gotland stone, c. 400 CE, carrying a complete futhark row: the earliest complete rune row, used as primary evidence for the rune order and letter set.",
+  "limits": "Encyclopedia description; I did not read an inscription edition. Older fragmentary runic finds (Vimose, c. 160 CE) per the Elder Futhark page.",
+  "text": {
+   "work": "Kylver stone inscription",
+   "locator": "Stanga, Gotland (G 88)",
+   "language": "Proto-Norse runes",
+   "edition": "Description in Wikipedia article",
+   "composition": {
+    "start": 400,
+    "end": 400,
+    "basis": "Wikipedia: dates from about 400 AD"
+   },
+   "witness": "The stone itself, found 1903"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Elder Futhark: derivation from Italic alphabets",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (cites Odenstedt 1990, Mees, Gippert 2001)",
+  "url": "https://en.wikipedia.org/wiki/Elder_Futhark",
+  "kind": "skeptical",
+  "discipline": "Runology",
+  "stance": "fails_to_support",
+  "ask_addressed": "Quote primary passages or inscriptions at their loci with date and basis, and the dispute where one exists (runic origin)",
+  "quote": "there is no derivation so straightforward as to convince most scholars",
+  "summary": "States the standard view that runes derive from an Old Italic script (Etruscan, Raetic) or Latin, but that no single derivation convinces most scholars and the classical Latin route is awkward for letter shapes; Greek is ruled out by the Vimose date.",
+  "limits": "Encyclopedia with an unreferenced-section tag; the academia.edu comparison paper and Mees 2024 (hyldyr.com) did not open usable text. Disputed point: which alphabet, not whether runes are alphabetic.",
+  "strand": {
+   "from": "Old Italic alphabets (Etruscan/Raetic) or Latin",
+   "to": "Germanic runes",
+   "carried": "writing",
+   "what": "alphabet adapted into the Elder Futhark",
+   "medium": "unknown",
+   "start": -100,
+   "end": 160,
+   "directness": "debated"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Chernorizets Hrabar, On the Letters",
+  "authors": "Chernorizets Hrabar",
+  "year": null,
+  "venue": "Wikipedia (translation of the OCS text with notes)",
+  "url": "https://en.wikipedia.org/wiki/Chernorizets_Hrabar",
+  "kind": "primary",
+  "discipline": "Slavic philology",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "but read and divined by means of strokes and incisions, being pagans",
+  "summary": "Hrabar says the pagan Slavs had no books and used strokes and incisions, then wrote Slavic with Roman and Greek letters without system, until Constantine/Cyril made letters.",
+  "limits": "English rendering on Wikipedia, with the page's own notes; I did not open a critical edition. Page says the hyparchetypes give 38 letters while Glagolitic had 36, so some read the treatise as about Cyrillic.",
+  "text": {
+   "work": "On the Letters (O pismenehu)",
+   "locator": "opening",
+   "language": "Old Church Slavonic (English translation)",
+   "edition": "Wikipedia article's translation",
+   "composition": {
+    "start": 880,
+    "end": 950,
+    "basis": "Wikipedia: written in the late ninth or early tenth century"
+   },
+   "witness": "79 manuscripts; oldest copy Cyrillic (page says original was Glagolitic)"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Chernorizets Hrabar: dominant reading and dispute",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Chernorizets_Hrabar",
+  "kind": "skeptical",
+  "discipline": "Slavic philology",
+  "stance": "context",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "The dominant view among scholars is that Hrabar was defending Slavonic in response to Greek criticism",
+  "summary": "Records that others read On the Letters as defending Glagolitic against Cyrillic, and that the 'strokes and incisions' pre-alphabet writing remains unattested.",
+  "limits": "Secondary summary of Slavic scholarship; the 'runic script' suggestion on the page is flagged 'by whom?' and has no surviving examples.",
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Re-thinking the Life of Constantine-Cyril the Philosopher",
+  "authors": "Ivanova, M.",
+  "year": 2020,
+  "venue": "Slavonic and East European Review 98(3), White Rose eprint",
+  "url": "https://eprints.whiterose.ac.uk/177959/1/slaveasteurorev2.98.3.0434.pdf",
+  "kind": "secondary",
+  "discipline": "Byzantine and Slavic studies",
+  "stance": "context",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "made letters in your language appear now in our times",
+  "summary": "Quotes the Life of Constantine's letter of Michael to Rastislav, where God makes letters appear; Ivanova argues the Life gives God, not Cyril, the agency and was probably first written in Greek.",
+  "limits": "A reading of the Life, not an edition: I could not open the Life's text itself (Wikisource rate-limited). Chapter and edition not given in my excerpt. Does not itself show Glagolitic derived from Greek.",
+  "text": {
+   "work": "Life of Constantine-Cyril (Vita Constantini)",
+   "locator": "ch. 14 as quoted by Ivanova, note 46",
+   "language": "Old Church Slavonic (English translation in Ivanova)",
+   "edition": "Ivanova's quotation",
+   "composition": {
+    "start": 850,
+    "end": 900,
+    "basis": "Ivanova calls it 'the late ninth-century Life'"
+   },
+   "witness": "Not established here"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Koriwn's Life of Mashtots' (Norehad translation)",
+  "authors": "Koriwn; trans. Norehad, B.",
+  "year": 1964,
+  "venue": "New York (Internet Archive scan)",
+  "url": "https://archive.org/download/LifeOfMashtots/Koriwn_1964_Life_of_Mashtots_djvu.txt",
+  "kind": "primary",
+  "discipline": "Armenian studies",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "a Syrian bishop of noble lineage, who unexpectedly had come into the possession of letters of an Armenian alphabet",
+  "summary": "Koriwn reports that bishop Daniel had an Armenian alphabet that Mashtots first used, then judged insufficient, which led him to travel to Edessa and Amida.",
+  "limits": "Norehad's translation is an old, partly criticised one (a search result says Terian 2022 notes omissions). Hagiography. Daniel's letters: other sources differ.",
+  "text": {
+   "work": "Life of Mashtots",
+   "locator": "ch. 7 (Daniel's letters)",
+   "language": "Classical Armenian (English trans.)",
+   "edition": "Norehad 1964",
+   "composition": {
+    "start": 443,
+    "end": 460,
+    "basis": "Iranica (Terian): last dated event in the Life is 443"
+   },
+   "witness": "Late MS (Matenadaran 2639, 1675) per Iranica"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Koriwn's Life of Mashtots' (Norehad translation)",
+  "authors": "Koriwn; trans. Norehad, B.",
+  "year": 1964,
+  "venue": "New York (Internet Archive scan)",
+  "url": "https://archive.org/download/LifeOfMashtots/Koriwn_1964_Life_of_Mashtots_djvu.txt",
+  "kind": "primary",
+  "discipline": "Armenian studies",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "he became the father of new and wonderful offsprings—letters for the Armenian language",
+  "summary": "Koriwn states that Mashtots designed, named and ordered the Armenian letters and their syllabication, then worked in Samosata with a Greek scribe Ropanos on letter variants.",
+  "limits": "Hagiographic; the Greek-scribe detail suggests Greek influence but the text does not say what the letters were modelled on.",
+  "text": {
+   "work": "Life of Mashtots",
+   "locator": "ch. 7 (creation of the alphabet)",
+   "language": "Classical Armenian (English trans.)",
+   "edition": "Norehad 1964",
+   "composition": {
+    "start": 443,
+    "end": 460,
+    "basis": "Iranica (Terian): last dated event in the Life is 443"
+   },
+   "witness": "Late MS (Matenadaran 2639, 1675) per Iranica"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Koriwn's Life of Mashtots' (Norehad translation)",
+  "authors": "Koriwn; trans. Norehad, B.",
+  "year": 1964,
+  "venue": "New York (Internet Archive scan)",
+  "url": "https://archive.org/download/LifeOfMashtots/Koriwn_1964_Life_of_Mashtots_djvu.txt",
+  "kind": "primary",
+  "discipline": "Armenian studies",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "undertook to create an alphabet for the Georgian language",
+  "summary": "Koriwn says Mashtots created a Georgian alphabet and took it to King Bakur and bishop Moses in Georgia.",
+  "limits": "The claim is disputed (see the Georgian scripts candidate). Koriwn is the sole source here.",
+  "text": {
+   "work": "Life of Mashtots",
+   "locator": "Georgian mission chapter",
+   "language": "Classical Armenian (English trans.)",
+   "edition": "Norehad 1964",
+   "composition": {
+    "start": 443,
+    "end": 460,
+    "basis": "Iranica (Terian): last dated event in the Life is 443"
+   },
+   "witness": "Late MS (Matenadaran 2639, 1675) per Iranica"
+  },
+  "strand": {
+   "from": "Armenian clergy (Mashtots)",
+   "to": "Georgia (Kartli)",
+   "carried": "writing",
+   "what": "alphabet",
+   "medium": "teaching",
+   "start": 400,
+   "end": 450,
+   "directness": "debated"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Georgian scripts",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (cites Rayfield 2013, Hewitt 1995, Gippert)",
+  "url": "https://en.wikipedia.org/wiki/Georgian_scripts",
+  "kind": "skeptical",
+  "discipline": "Caucasian studies",
+  "stance": "fails_to_support",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "Another point of contention among scholars is the role played by Armenian clerics in that process.",
+  "summary": "Says the first attested Georgian script (Asomtavruli, 5th c.) arose with Christianization, probably between 326/337 and the Bir el Qutt inscriptions of 430, and that Mashtots's role per Koriwn is contested.",
+  "limits": "Encyclopedia; the Rayfield and Bowersock quotations are on the page, not opened at source.",
+  "strand": {
+   "from": "Armenian clerics (per Koriwn); Greek and Semitic models debated",
+   "to": "Georgia",
+   "carried": "writing",
+   "what": "Asomtavruli alphabet",
+   "medium": "teaching",
+   "start": 326,
+   "end": 430,
+   "directness": "debated"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Namara inscription (Bellamy translation)",
+  "authors": null,
+  "year": null,
+  "venue": "Islamic Awareness",
+  "url": "https://islamic-awareness.org/history/islam/inscriptions/namarah",
+  "kind": "primary",
+  "discipline": "Epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "This is the funerary monument of Imru'l Qais, son of 'Amr, king of of the Arabs",
+  "summary": "English translation after Bellamy of the Arabic epitaph, written in Nabataean letters; the page says it is one of two Arabic inscriptions in a Nabataean alphabet.",
+  "limits": "Apologetics site; 'king of of the Arabs' is its typo. Other renderings give 'king of all the Arabs' and differ on the tribal names. Not an edition of the Arabic text.",
+  "text": {
+   "work": "Namara inscription (Louvre AO 4083)",
+   "locator": "lines 1-5",
+   "language": "Old Arabic in Nabataean script",
+   "edition": "Translation after Bellamy",
+   "composition": {
+    "start": 328,
+    "end": 328,
+    "basis": "The text is dated 328 CE (page and Hoyland)"
+   },
+   "witness": "The basalt stone itself"
+  },
+  "strand": {
+   "from": "Nabataean Aramaic script",
+   "to": "Arabic",
+   "carried": "writing",
+   "what": "Arabic written in Nabataean letters",
+   "medium": "unknown",
+   "start": 328,
+   "end": 328,
+   "directness": "documented"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "The Birth of Arabic in Stone",
+  "authors": "Hoyland, R.",
+  "year": null,
+  "venue": "Essay (PDF at almuslih.org; publication details not shown)",
+  "url": "https://almuslih.org/wp-content/uploads/Library/Hoyland,%20R%20-%20Birth%20of%20Arabic%20in%20Stone.pdf",
+  "kind": "secondary",
+  "discipline": "Epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "it is an epitaph, dated 328 ce, for Marʾ al-Qays",
+  "summary": "Hoyland says Arabic before Islam was written in whatever script of prestige was local (e.g. Nabataean), and dates the Namara epitaph to 328 CE.",
+  "limits": "PDF host unauthenticated; year and venue not shown on the pages I read. Page text is interleaved with captions.",
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Ezana Stone",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ezana_Stone",
+  "kind": "primary",
+  "discipline": "Epigraphy",
+  "stance": "context",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "By the might of the Lord of Heaven who in the sky and on earth holds power over all beings",
+  "summary": "English version of Ezana's Ge'ez text; the stele is trilingual (Ge'ez, Sabaean, Greek) and probably 4th c. CE.",
+  "limits": "Translation as given on Wikipedia; sources not checked; script of the Ge'ez version not described in the quote.",
+  "text": {
+   "work": "Ezana Stone",
+   "locator": "Ge'ez version",
+   "language": "Ge'ez (English translation)",
+   "edition": "Wikipedia article translation",
+   "composition": {
+    "start": 330,
+    "end": 356,
+    "basis": "Ezana reigned 330-356 per the page"
+   },
+   "witness": "The stele at Aksum"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Ge'ez script",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ge%CA%BDez_script",
+  "kind": "secondary",
+  "discipline": "Epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "Vocalization of Geʻez occurred in the 4th century, and though the first completely vocalized texts known are inscriptions by Ezana",
+  "summary": "Ge'ez derives from Ancient South Arabian, with vocalisation in the 4th century (Ezana; a Wazeba coin has one vocalised letter).",
+  "limits": "Page says the origin 'is debated' (Eritrea, Ethiopia or Yemen); it relies on Hudson and others which I did not open.",
+  "strand": {
+   "from": "Ancient South Arabian script",
+   "to": "Aksum (Ge'ez)",
+   "carried": "writing",
+   "what": "consonantal script then vowel marking",
+   "medium": "unknown",
+   "start": -700,
+   "end": 350,
+   "directness": "inferred"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Hunminjeongeum",
+  "authors": "Sejong",
+  "year": 1446,
+  "venue": "Wikisource (Korean/Chinese with English translation)",
+  "url": "https://en.wikisource.org/wiki/Hunminjeongeum",
+  "kind": "primary",
+  "discipline": "Korean studies",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "國之語音、異乎中國、與文字、不相流通。",
+  "summary": "Sejong's preface: the national speech differs from China's, so the unlearned cannot express themselves; he made 28 new letters for easy use.",
+  "limits": "The Wikisource page header gives 1442-1443; I rely on the 1443 (Gyehae) postfix and the page's 1446 label. The English is Wikisource's and unofficial.",
+  "text": {
+   "work": "Hunminjeongeum",
+   "locator": "preface",
+   "language": "Literary Chinese (English on page)",
+   "edition": "Wikisource transcription",
+   "composition": {
+    "start": 1443,
+    "end": 1446,
+    "basis": "Postface dates creation to the winter of the Water-Pig year (1443); Wikipedia caption: 1446"
+   },
+   "witness": "Haeryebon manuscript (not opened)"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Hunminjeongeum: Jeong Inji postface",
+  "authors": "Jeong Inji",
+  "year": 1446,
+  "venue": "Wikisource",
+  "url": "https://en.wikisource.org/wiki/Hunminjeongeum",
+  "kind": "primary",
+  "discipline": "Korean studies",
+  "stance": "context",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "癸亥冬, 我殿下創制正音二十八字",
+  "summary": "The postface says the king created the 28 letters in winter 1443, after criticising idu (Chinese characters used for Korean) as clumsy.",
+  "limits": "Hangul is an invention with Chinese phonology, not an adaptation of another script; the other claims on the page I did not check.",
+  "text": {
+   "work": "Hunminjeongeum, postface",
+   "locator": "postface",
+   "language": "Literary Chinese",
+   "edition": "Wikisource transcription",
+   "composition": {
+    "start": 1443,
+    "end": 1446,
+    "basis": "Text: Water-Pig winter = 1443"
+   },
+   "witness": "Not established"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Tosa Nikki",
+  "authors": "Ki no Tsurayuki",
+  "year": null,
+  "venue": "Ohio State University, Tosa Nikki reader",
+  "url": "https://cjp.asc.ohio-state.edu/books/tosa-nikki/pages/1",
+  "kind": "primary",
+  "discipline": "Japanese literature",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "男 も す な る 日 記 と い ふ も の を 、 女 も し て み む と て",
+  "summary": "Opening of the 935 Tosa Diary, written in kana in a woman's voice (my gloss: men are said to keep diaries; I will try one as a woman). The reader's About page says the persona claims little Chinese.",
+  "limits": "Spaced characters are the page's own layout. Does not describe kana's derivation. Date 935 is from the same reader's About page.",
+  "text": {
+   "work": "Tosa Nikki",
+   "locator": "opening",
+   "language": "Classical Japanese (kana)",
+   "edition": "OSU reader transcription",
+   "composition": {
+    "start": 935,
+    "end": 935,
+    "basis": "OSU About page: journey made in 935"
+   },
+   "witness": "Not established"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ },
+ {
+  "title": "Hiragana",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (cites Britannica 'Kana')",
+  "url": "https://en.wikipedia.org/wiki/Hiragana",
+  "kind": "secondary",
+  "discipline": "Japanese writing",
+  "stance": "supports",
+  "ask_addressed": "Break the writing thread into documented adaptations",
+  "quote": "Historically, hiragana developed from cursive forms of kanji via man'yōgana",
+  "summary": "States hiragana is simplified cursive kanji by way of man'yogana (kanji used for sound).",
+  "limits": "Encyclopedia summary. I could not open the Kojiki preface (Chamberlain on archive.org is restricted; sacred-texts 403; Wikisource 429).",
+  "strand": {
+   "from": "Chinese characters (kanji, via man'yogana)",
+   "to": "Japan (hiragana)",
+   "carried": "writing",
+   "what": "phonetic use of kanji, then cursive kana",
+   "medium": "text",
+   "start": 800,
+   "end": 900,
+   "directness": "documented"
+  },
+  "brief": "writing-systems-breakdown",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "check_quote.py",
+   "date": "2026-11-17",
+   "found": true
+  }
+ }
+]

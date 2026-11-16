@@ -1,0 +1,714 @@
+[
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Biological Warfare at the 1346 Siege of Caffa (quoting de' Mussi, Istoria de Morbo, catapult passage)",
+  "authors": "Wheelis M.",
+  "year": 2002,
+  "venue": "Emerging Infectious Diseases 8(9):971-975",
+  "url": "https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article",
+  "doi": "10.3201/eid0809.010536",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History of medicine / biological warfare",
+  "stance": "supports",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and the strongest scholarly caution on the Caffa story.",
+  "quote": "lobbed into the city in the hope that the intolerable stench would kill everyone inside",
+  "summary": "Quotes the Horrox translation of de' Mussi: dying besiegers had corpses placed in catapults and thrown into Caffa, after which the air and water were tainted. This is the only source for the catapult story.",
+  "limits": "A single non-eyewitness narrative written 1348-49; translation is Horrox's as printed by Wheelis; Wheelis footnotes that these were technically trebuchets. The passage states the claim, it does not corroborate it.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Golden Horde army besieging Caffa",
+   "to": "Genoese Caffa and, by ship, Italy",
+   "carried": "people",
+   "what": "plague (Yersinia pestis) said to be passed to Caffa by catapulted corpses, then to Italy by fleeing Christians; schema has no 'pathogen' category",
+   "medium": "conquest",
+   "start": 1346,
+   "end": 1347,
+   "directness": "debated"
+  },
+  "text": {
+   "work": "Gabriele de' Mussi, Istoria de Morbo (Historia de morbo)",
+   "locator": "opening narrative on Tana and the siege of Caffa (no chapter numbering given in the source)",
+   "language": "Latin (quoted in English)",
+   "edition": "Horrox, R. (ed.), The Black Death (Manchester UP, 1994), English translation of the Latin, as quoted in Wheelis 2002 (EID 8(9))",
+   "composition": {
+    "start": 1348,
+    "end": 1349,
+    "basis": "Wheelis (2002) states the account 'is presumed to have been written in 1348 or early 1349'; Zanders (2021) says he probably wrote a few years after the plague reached Genoa and Piacenza (1347-48)"
+   },
+   "witness": "Original lost; sole extant copy in a compilation c. 1367 (Wheelis 2002), found in Breslau/Wroclaw library and first published by Henschel 1842 (Zanders 2021)"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Biological Warfare at the 1346 Siege of Caffa (quoting de' Mussi: 'what we ourselves have seen, or known, or consider likely')",
+  "authors": "Wheelis M.",
+  "year": 2002,
+  "venue": "Emerging Infectious Diseases 8(9):971-975",
+  "url": "https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article",
+  "doi": "10.3201/eid0809.010536",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History of medicine",
+  "stance": "context",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and the strongest scholarly caution on the Caffa story.",
+  "quote": "Now it is time that we passed from east to west to discuss all the things which we ourselves have seen",
+  "summary": "De' Mussi himself marks a shift from reported eastern events to what he saw, knew or thought likely in the west; the Caffa section is therefore not presented as his own witness.",
+  "limits": "Archival deeds place de' Mussi in Piacenza through the first half of 1346 (Tononi, via Wheelis). Quote ends before 'or known, or consider likely', which the page continues with.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Gabriele de' Mussi, Istoria de Morbo",
+   "locator": "transition passage after the Caffa siege narrative",
+   "language": "Latin (quoted in English)",
+   "edition": "Horrox, R. (ed.), The Black Death (Manchester UP, 1994), English translation of the Latin, as quoted in Wheelis 2002 (EID 8(9))",
+   "composition": {
+    "start": 1348,
+    "end": 1349,
+    "basis": "Wheelis (2002) states the account 'is presumed to have been written in 1348 or early 1349'; Zanders (2021) says he probably wrote a few years after the plague reached Genoa and Piacenza (1347-48)"
+   },
+   "witness": "Original lost; sole extant copy in a compilation c. 1367 (Wheelis 2002), found in Breslau/Wroclaw library and first published by Henschel 1842 (Zanders 2021)"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Biological Warfare at the 1346 Siege of Caffa (Wheelis's assessment)",
+  "authors": "Wheelis M.",
+  "year": 2002,
+  "venue": "Emerging Infectious Diseases 8(9):971-975",
+  "url": "https://wwwnc.cdc.gov/eid/article/8/9/01-0536_article",
+  "doi": "10.3201/eid0809.010536",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of medicine",
+  "stance": "supports",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and the strongest scholarly caution on the Caffa story.",
+  "quote": "His account of biological attack is plausible, consistent with the technology of the time",
+  "summary": "Concludes, from published translations and secondary literature, that a deliberate plague attack at Caffa is plausible and the best explanation of plague entering the city, while noting de' Mussi wrongly has plague reach Italy directly.",
+  "limits": "Plausibility argument, not corroboration; rests on one non-eyewitness text; no ancient-DNA or independent contemporary source. Author is a microbiologist writing on biological-weapons history.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Golden Horde army",
+   "to": "Genoese Caffa",
+   "carried": "people",
+   "what": "plague said to be introduced deliberately into besieged Caffa",
+   "medium": "conquest",
+   "start": 1346,
+   "end": 1346,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "de Mussi and the Siege of Caffa: Origin of a Biological Warfare Allegation (Historical Notes 1)",
+  "authors": "Zanders J.P.",
+  "year": 2021,
+  "venue": "The Trench, Historical Notes no. 1 (working paper)",
+  "url": "https://www.the-trench.org/wp-content/uploads/2021/12/HN001-de-Mussi-and-the-siege-of-Caffa-Full.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History of chemical and biological warfare",
+  "stance": "contradicts",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and the strongest scholarly caution on the Caffa story.",
+  "quote": "regarding events in Caffa, de Mussi was a secondary source, but absent other write-ups, his remains the only contemporaneous account",
+  "summary": "Traces how the single de' Mussi text became central to the Caffa story, notes no contemporary document corroborates the deliberate catapulting, and says nobody established that the Mongols had trebuchets able to throw a body over the wall.",
+  "limits": "Self-published working paper ('research in progress'), not peer reviewed; author states conclusions may be revised.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Golden Horde army",
+   "to": "Genoese Caffa",
+   "carried": "people",
+   "what": "plague introduced by catapulted corpses",
+   "medium": "conquest",
+   "start": 1346,
+   "end": 1346,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Catapulting Cadavers: A Medieval Practice of Biological Warfare? (Historical Notes 2)",
+  "authors": "Zanders J.P.",
+  "year": 2022,
+  "venue": "The Trench, Historical Notes no. 2 (working paper)",
+  "url": "https://www.the-trench.org/wp-content/uploads/2022/04/HN002-Catapulting-Corpses-Full.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History of chemical and biological warfare",
+  "stance": "fails_to_support",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and the strongest scholarly caution on the Caffa story.",
+  "quote": "establishing the plausibility of certain circumstances that might have enabled a certain event to take place still does not prove that the event happened",
+  "summary": "Surveys other medieval cadaver-catapulting claims and concludes whole-carcass cases rest on single non-eyewitness sources and never recur; Caffa fits that pattern.",
+  "limits": "Working paper, not peer reviewed; year taken from the file path (2022/04), not printed on the page text read.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Golden Horde army",
+   "to": "Genoese Caffa",
+   "carried": "people",
+   "what": "plague introduced by catapulted corpses",
+   "medium": "conquest",
+   "start": 1346,
+   "end": 1346,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Climate-driven changes in Mediterranean grain trade mitigated famine but introduced the Black Death to medieval Europe",
+  "authors": "Bauch M., Büntgen U.",
+  "year": 2025,
+  "venue": "Communications Earth & Environment 6:986",
+  "url": "https://www.nature.com/articles/s43247-025-02964-0",
+  "doi": "10.1038/s43247-025-02964-0",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Medieval history / climate history",
+  "stance": "supports",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "import grain from the Mongols of the Golden Horde around the Sea of Azov in 1347 CE",
+  "summary": "Argues a post-volcanic famine made Venice, Genoa and Pisa import Golden Horde grain in 1347, and that this grain trade brought plague to Mediterranean ports: a trade route in place of the siege story.",
+  "limits": "Historical-climatic argument from documentary sources; presented as the best explanation, not proven; no pathogen DNA tied to the grain ships.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Golden Horde (Azov / Black Sea)",
+   "to": "Italian maritime republics and Mediterranean ports",
+   "carried": "people",
+   "what": "Yersinia pestis in grain cargo and ships, 1347",
+   "medium": "trade",
+   "start": 1347,
+   "end": 1348,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "The source of the Black Death in fourteenth-century central Eurasia",
+  "authors": "Spyrou M.A. et al.",
+  "year": 2022,
+  "venue": "Nature 606:718-724",
+  "url": "https://www.nature.com/articles/s41586-022-04800-3",
+  "doi": "10.1038/s41586-022-04800-3",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient DNA / archaeology",
+  "stance": "supports",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "our data support an early fourteenth-century source of the second plague pandemic in central Eurasia",
+  "summary": "Ancient DNA from seven people in two Issyk-Kul cemeteries (tombstones dated 1338-1339 'pestilence') gives Y. pestis genomes ancestral to the Black Death diversification, pointing to a Tian Shan source.",
+  "limits": "Small sample; shows where an ancestral strain was in 1338-39, not the route to the Black Sea or Europe.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Issyk-Kul / Tian Shan region (Mongol-era Central Asia)",
+   "to": "western Eurasia",
+   "carried": "people",
+   "what": "Y. pestis lineage ancestral to Black Death strains",
+   "medium": "unknown",
+   "start": 1338,
+   "end": 1346,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Phylogeography of the second plague pandemic revealed through analysis of historical Yersinia pestis genomes",
+  "authors": "Spyrou M.A. et al.",
+  "year": 2019,
+  "venue": "Nature Communications 10:4470",
+  "url": "https://www.nature.com/articles/s41467-019-12154-0",
+  "doi": "10.1038/s41467-019-12154-0",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient DNA",
+  "stance": "supports",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "Our data support an initial entry of the bacterium through eastern Europe, the absence of genetic diversity during the Black Death",
+  "summary": "34 ancient genomes from ten European sites support one entry of plague through eastern Europe and no diversity within the Black Death; the paper says the source and route remain hypothetical.",
+  "limits": "Its own introduction states early western-Russian outbreak genomes were lacking; says nothing on Mongol agency.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "eastern Europe / Lower Volga-Black Sea",
+   "to": "western Europe",
+   "carried": "people",
+   "what": "Y. pestis, single Black Death strain",
+   "medium": "unknown",
+   "start": 1346,
+   "end": 1353,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Integrative approach using Yersinia pestis genomes to revisit the historical landscape of plague during the Medieval Period",
+  "authors": "Namouchi A. et al.",
+  "year": 2018,
+  "venue": "PNAS 115(50)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6294933/",
+  "doi": "10.1073/pnas.1812865115",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient DNA / history",
+  "stance": "context",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "possibly by means of fur trade routes, as well as the recirculation of plague within the human population",
+  "summary": "Offers a rival route reading: repeated introductions into western ports, possibly along fur-trade routes, and links the Ibn al-Wardi 'Land of Darkness' phrase to those routes.",
+  "limits": "Interpretive; text itself says the hypothesis is only 'possibly' supported; the page's date for arrival 'through Genoese galleys from Caffa' cites other work.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Golden Horde fur-trade network (Sarai-Tana-Caffa)",
+   "to": "Western European ports",
+   "carried": "people",
+   "what": "plague carried on fur-trade routes",
+   "medium": "trade",
+   "start": 1340,
+   "end": 1350,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Ibn al-Wardi's Risalah al-Naba' 'an al-Waba' (Dols translation), on the origin of the plague",
+  "authors": "Dols M.W. (tr.)",
+  "year": 1974,
+  "venue": "Near Eastern Numismatics... Studies in Honor of George C. Miles (AUB), pp. 443-55",
+  "url": "https://archive.org/download/michaeldolstr.ibnalwardiontheplague1974/Michael%20Dols%20tr.%20Ibn%20al-Wardi%20on%20the%20Plague%201974.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Arabic historiography",
+  "stance": "supports",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "The plague frightened and killed. It began in the land of darkness.",
+  "summary": "Contemporary Syrian eyewitness places the origin in the 'land of darkness' (Dols's note: 'northern Asia') and lists spread through China, India, Sind, Uzbek lands, Transoxiana, Persia, Crimea and Rum.",
+  "limits": "'Land of darkness' is vague; the list is a literary summary, not a dated route. Dols's footnote glosses it, Ibn al-Wardi does not.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "'Land of darkness' (northern Asia)",
+   "to": "Crimea, Rum, Egypt, Syria",
+   "carried": "people",
+   "what": "plague, described as spreading westward over about fifteen years",
+   "medium": "unknown",
+   "start": 1334,
+   "end": 1349,
+   "directness": "inferred"
+  },
+  "text": {
+   "work": "Ibn al-Wardi, Risalat al-naba' 'an al-waba'",
+   "locator": "Dols translation p. 448",
+   "language": "Arabic (quoted in English, Dols)",
+   "edition": "Dols, M.W., 'Ibn al-Wardi's Risalah al-naba' 'an al-waba'', in Kouymjian (ed.), Near Eastern Numismatics... (AUB, 1974), 443-55",
+   "composition": {
+    "start": 1348,
+    "end": 1349,
+    "basis": "Dols: Ibn al-Wardi died at Aleppo 27 Dhu'l-Hijja 749 / 18 March 1349 and the risalah was written shortly before his death"
+   },
+   "witness": "Dols consulted British Museum Or. MS 3053 and Dar al-Kutub MS 102 majami' (copied 1665) among others; the earliest witness is not established from the pages read"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "The Book of Ser Marco Polo, vol. 2 (Yule-Cordier): the Polos' mangonels at Saianfu",
+  "authors": "Polo M.; Yule H. (ed.), Cordier H.",
+  "year": 1903,
+  "venue": "Gutenberg #12410 (via archive.org)",
+  "url": "https://archive.org/download/thetravelsofmarc12410gut/12410-8.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Travel literature",
+  "stance": "context",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "we have with us among our followers men who are able to construct mangonels which shall cast such great stones",
+  "summary": "Polo says two men of his party, a German and a Nestorian Christian, built stone-throwing engines for Kublai at the siege of Saianfu: a claimed transfer of siege-engine knowledge into Mongol China.",
+  "limits": "Yule's edition year (1903) is the Gutenberg edition's standard date, not read on the page. Polo's own narrative is dubious on chronology (see next candidate).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Latin and Nestorian engineers in Polo's party",
+   "to": "Yuan China (Kublai's army)",
+   "carried": "technology",
+   "what": "mangonel/trebuchet building",
+   "medium": "court_or_empire",
+   "start": 1268,
+   "end": 1273,
+   "directness": "debated"
+  },
+  "text": {
+   "work": "Marco Polo, Il Milione (Description of the World), Yule-Cordier ed.",
+   "locator": "Book II, ch. lxx (Saianfu), Yule numbering",
+   "language": "Franco-Italian / Latin recensions (quoted in Yule's English)",
+   "edition": "Yule & Cordier, The Book of Ser Marco Polo, vol. 2 (Gutenberg #12410 text)",
+   "composition": {
+    "start": 1298,
+    "end": 1299,
+    "basis": "Yule vol. 1 quotes a French scholar that Polo met Rustichello in Genoa prison in 1298; a date for the dictation itself was not read, so the range is approximate"
+   },
+   "witness": "Not established from the pages read (Yule discusses many manuscripts)"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "The Book of Ser Marco Polo, vol. 2, Note 5 to ch. lxx: chronological difficulties of the Saianfu story",
+  "authors": "Yule H., Cordier H.",
+  "year": 1903,
+  "venue": "Gutenberg #12410 (via archive.org)",
+  "url": "https://archive.org/download/thetravelsofmarc12410gut/12410-8.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Travel literature / Sinology",
+  "stance": "contradicts",
+  "ask_addressed": "Quote primary passages at their loci with composition date and basis, and the strongest scholarly caution on the Caffa story.",
+  "quote": "This chapter is one of the most perplexing in the whole book, owing to the chronological difficulties involved.",
+  "summary": "Yule notes the siege ran 1268 to March 1273, so the Polos, arriving after 1274, could not have helped end it as Polo claims.",
+  "limits": "Editor's 19th-century note; later scholarship not read. Year approximate.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Latin and Nestorian engineers in Polo's party",
+   "to": "Yuan China (Kublai's army)",
+   "carried": "technology",
+   "what": "mangonel/trebuchet building",
+   "medium": "court_or_empire",
+   "start": 1268,
+   "end": 1273,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "The Journey of William of Rubruck (Rockhill): a Parisian goldsmith at Karakorum",
+  "authors": "Rubruck W.; Rockhill W.W. (tr.)",
+  "year": null,
+  "venue": "Hakluyt Society; archive.org scan",
+  "url": "https://archive.org/stream/journeyofwilliam00will/journeyofwilliam00will_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Travel literature",
+  "stance": "supports",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "she told us that there was in Caracarum a certain master goldsmith, William by name, a native of Paris",
+  "summary": "Rubruck reports a Parisian craftsman, Guillaume Buchier, in the Mongol capital (via Paquette of Metz, a Hungarian captive), a documented trace of Europeans moved across Eurasia by Mongol rule.",
+  "limits": "Report is Rubruck's, relayed from a captive; edition year not read from the page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Latin Christendom (Paris, Metz)",
+   "to": "Mongol court at Karakorum",
+   "carried": "people",
+   "what": "captive craftsmen and clerics",
+   "medium": "court_or_empire",
+   "start": 1242,
+   "end": 1255,
+   "directness": "documented"
+  },
+  "text": {
+   "work": "William of Rubruck, Itinerarium",
+   "locator": "Rockhill pp. 176-177 (Paquette and Buchier, Karakorum)",
+   "language": "Latin (quoted in English, Rockhill)",
+   "edition": "Rockhill, W.W., The Journey of William of Rubruck (Hakluyt Society; archive.org scan)",
+   "composition": {
+    "start": 1255,
+    "end": 1255,
+    "basis": "Rockhill's introduction: the journey ran 1253-55 and Rubruck sent his report to Louis IX from Acre after reaching Cyprus in 1255"
+   },
+   "witness": "Rockhill: all manuscripts derive from a single original; earliest manuscript not identified in the pages read"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "The Journey of William of Rubruck (Rockhill): Nestorians and Saracens mixed among the Iugurs",
+  "authors": "Rubruck W.; Rockhill W.W. (tr.)",
+  "year": null,
+  "venue": "Hakluyt Society; archive.org scan",
+  "url": "https://archive.org/stream/journeyofwilliam00will/journeyofwilliam00will_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Travel literature",
+  "stance": "context",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "in all their towns is found a mixture of Nestorians and Saracens",
+  "summary": "Rubruck describes the Uighur towns as religiously mixed, with Nestorians and Muslims scattered toward Persia and 'all the way to Cathay'.",
+  "limits": "Eyewitness impression, no numbers or dates.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Persia / western Asia",
+   "to": "Uighur lands and Cathay",
+   "carried": "religion",
+   "what": "Nestorian and Muslim communities",
+   "medium": "migration",
+   "start": 1253,
+   "end": 1255,
+   "directness": "documented"
+  },
+  "text": {
+   "work": "William of Rubruck, Itinerarium",
+   "locator": "Rockhill, account of the Iugurs, before Karakorum",
+   "language": "Latin (quoted in English, Rockhill)",
+   "edition": "Rockhill, W.W., The Journey of William of Rubruck (Hakluyt Society; archive.org scan)",
+   "composition": {
+    "start": 1255,
+    "end": 1255,
+    "basis": "Rockhill's introduction: the journey ran 1253-55 and Rubruck sent his report to Louis IX from Acre after reaching Cyprus in 1255"
+   },
+   "witness": "Rockhill: all manuscripts derive from a single original; earliest manuscript not identified in the pages read"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "JAMEʿ AL-TAWARIK (Encyclopaedia Iranica): Rashid al-Din's collaborators",
+  "authors": "Melville C., Blair S.S.",
+  "year": 2021,
+  "venue": "Encyclopaedia Iranica XIV(5):462-468",
+  "url": "https://www.iranicaonline.org/articles/jame%CA%BF-al-tawari%E1%B8%B5/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Persian historiography",
+  "stance": "supports",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "the Kashmiri monk Kamāl-ashri for the life and teachings of Buddha",
+  "summary": "Rashid al-Din's Compendium (composed 1300-10) used a Kashmiri Buddhist monk and Chinese, Uighur and Qipchaq scholars at court as informants.",
+  "limits": "Encyclopedia entry; Rashid's own words not quoted here. Informants' influence on text is described, not measured.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Buddhist Kashmir and Yuan-China scholars",
+   "to": "Ilkhanate Persia (Tabriz)",
+   "carried": "idea",
+   "what": "Buddhist and Chinese historical knowledge",
+   "medium": "teaching",
+   "start": 1300,
+   "end": 1310,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "JAMEʿ AL-TAWARIK (Encyclopaedia Iranica): Mongol tolerance and exchange",
+  "authors": "Melville C., Blair S.S.",
+  "year": 2021,
+  "venue": "Encyclopaedia Iranica XIV(5):462-468",
+  "url": "https://www.iranicaonline.org/articles/jame%CA%BF-al-tawari%E1%B8%B5/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Persian historiography",
+  "stance": "context",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "political circumstances and Mongol religious tolerance were particularly favorable to the exchange of goods and cultural wares",
+  "summary": "Says the Frankish section came from unnamed clerics in Tabriz and that Mongol rule favoured exchange; Rashid also wrote the Tansuq-nama on Chinese medicine.",
+  "limits": "General statement; the page gives the Compendium's composition as 1300-10 but not the Tansuq-nama's date.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Yuan China",
+   "to": "Ilkhanate Persia",
+   "carried": "idea",
+   "what": "Chinese medicine (Tansuq-nama)",
+   "medium": "translation",
+   "start": null,
+   "end": null,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "A History of the World (Saudi Aramco World): Rashid al-Din's translations",
+  "authors": "Lunde P., Mazzawi R.",
+  "year": 1981,
+  "venue": "Saudi Aramco World 32(1)",
+  "url": "https://archive.aramcoworld.com/issue/198101/a.history.of.the.world.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Popular history",
+  "stance": "context",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "He even had some of his shorter works, on medicine and government, translated into Chinese.",
+  "summary": "Popular article saying Rashid had works translated between Arabic, Persian and Chinese; context only.",
+  "limits": "Popular magazine, unreferenced claim; not used as support.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Ilkhanate Persia",
+   "to": "Yuan China",
+   "carried": "idea",
+   "what": "medical and governmental texts",
+   "medium": "translation",
+   "start": 1300,
+   "end": 1317,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Plague and the Mongol conquest of Baghdad (1258)? A reevaluation of the sources",
+  "authors": "Brack J., Biran M., Amitai R.",
+  "year": 2024,
+  "venue": "Medical History 68(4)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11949627/",
+  "doi": "10.1017/mdh.2023.38",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Mongol and Mamluk history",
+  "stance": "contradicts",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "there is no evidence for the appearance of Plague during or immediately after the Mongol conquests in the Middle East",
+  "summary": "Rereads Persian, Syriac and Arabic sources and finds no plague at Baghdad in 1258 and no Mongol transmission of it.",
+  "limits": "Concerns the 13th-century conquests, not Caffa; the Fancy and Green camp disputes it.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Mongol armies",
+   "to": "Iraq, Syria, Egypt",
+   "carried": "people",
+   "what": "plague carried by the Mongol expansion, 1250s",
+   "medium": "conquest",
+   "start": 1258,
+   "end": 1260,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Plague history, Mongol history, and the processes of focalisation leading up to the Black Death: a response to Brack et al.",
+  "authors": "Fancy N., Green M.H.",
+  "year": 2024,
+  "venue": "Medical History",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11949646/",
+  "doi": "10.1017/mdh.2024.29",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of medicine",
+  "stance": "supports",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "reconstruction of the biological processes of ‘focalisation’ is now the most urgent question in plague historiography",
+  "summary": "Defends the view that plague circulated in western Asia in the 13th-14th centuries as an emerging zoonosis before the 1340s, whatever the exact 1258 timing.",
+  "limits": "Authors are the targets of the critique above; a scenario, not a documented route.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Mongol-ruled Eurasian plague foci",
+   "to": "western Asia and eastern Mediterranean",
+   "carried": "people",
+   "what": "emerging plague before the Black Death",
+   "medium": "conquest",
+   "start": 1250,
+   "end": 1346,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "mongol-plague-exchange",
+  "records": [],
+  "title": "Dangers of Noncritical Use of Historical Plague Data",
+  "authors": "Roosen J., Curtis D.R.",
+  "year": 2018,
+  "venue": "Emerging Infectious Diseases 24(1)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5749453/",
+  "doi": "10.3201/eid2401.170477",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History of medicine / methods",
+  "stance": "fails_to_support",
+  "ask_addressed": "Mongol-era exchange and the Black Death: primary accounts, ancient-DNA studies of Yersinia pestis, and what is disputed about the route of the Black Death.",
+  "quote": "noncritical use and reproduction of preexisting data sets can also limit our understanding of how infectious diseases evolved",
+  "summary": "Warns that Biraben's plague database, reused in spread and route studies, lacks source citations, so routes built on it are uncertain.",
+  "limits": "Methodological caution; does not address Caffa or Mongols directly.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ }
+]
