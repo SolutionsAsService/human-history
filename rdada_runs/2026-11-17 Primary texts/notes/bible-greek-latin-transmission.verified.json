@@ -1,0 +1,841 @@
+[
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "The Letter of Aristeas",
+  "authors": null,
+  "year": null,
+  "venue": "CCEL, R.H. Charles translation",
+  "url": "https://www.ccel.org/c/charles/otpseudepig/aristeas.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Second Temple Judaism",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "Demetrius of Phalerum, the president of the king's library, received vast sums of money",
+  "summary": "The Letter's own framing: the Torah is translated because Ptolemy's librarian wants it for the royal library; Demetrius says Hebrew letters and dialect need translation.",
+  "limits": "Narrative is presented by a fictional Greek courtier; the Jewish Encyclopedia (separate candidate) shows Demetrius could not have been in office under Philadelphus. Story, not evidence for the actual process. [Verifier: composition range changed from -200..-100 to -200..-63 to match the Jewish Encyclopedia page (opened).] [Verifier: edition text corrected: the 1913 Clarendon imprint is shown on the CCEL page itself (the 'Bible Blender' snippet claim was dropped).] [Verifier: the quoted passage (library collecting under Demetrius) says nothing about translating; strand rests on the Letter as a whole and the page; directness stays 'debated'.]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Letter of Aristeas to Philocrates",
+   "locator": "§§9-11",
+   "language": "Greek (quoted in English, Charles)",
+   "edition": "Charles, ed., The Letter of Aristeas, Oxford: The Clarendon Press, 1913 (English translation), as hosted by CCEL (edition and year shown on the CCEL page).",
+   "composition": {
+    "start": -200,
+    "end": -63,
+    "basis": "Jewish Encyclopedia 'Aristeas, Letter of' (opened): Schurer c. 200 BCE; the article itself favours the Maccabean age and says it was certainly written before Pompey's invasion (63 BCE). Range widened from the researcher's -200..-100 to what the page supports."
+   },
+   "witness": "Greek manuscripts are medieval (not opened here); no ancient copy of the Letter was opened. Edition (Charles 1913) is separate from witness and composition."
+  },
+  "strand": {
+   "from": "Hebrew-reading Judaism (Jerusalem)",
+   "to": "Greek-reading Alexandria",
+   "carried": "writing",
+   "what": "the Torah, as translated into Greek",
+   "medium": "translation",
+   "start": -280,
+   "end": -247,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "The Letter of Aristeas",
+  "authors": null,
+  "year": null,
+  "venue": "CCEL, R.H. Charles translation",
+  "url": "https://www.ccel.org/c/charles/otpseudepig/aristeas.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Second Temple Judaism",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "the work of translation was completed in seventy-two days, just as if this had been arranged of set purpose",
+  "summary": "Translation completed in 72 days; no miracle of identical text is claimed here, the elders work in agreement.",
+  "limits": "Number 72 repeated as a literary symmetry. Contrast Philo (separate candidate) who adds inspired identical wording. [Verifier: composition range changed from -200..-100 to -200..-63 to match the Jewish Encyclopedia page (opened).] [Verifier: edition text corrected: the 1913 Clarendon imprint is shown on the CCEL page itself (the 'Bible Blender' snippet claim was dropped).]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Letter of Aristeas to Philocrates",
+   "locator": "§307",
+   "language": "Greek (quoted in English, Charles)",
+   "edition": "Charles, ed., The Letter of Aristeas, Oxford: The Clarendon Press, 1913 (English translation), as hosted by CCEL (edition and year shown on the CCEL page).",
+   "composition": {
+    "start": -200,
+    "end": -63,
+    "basis": "Jewish Encyclopedia 'Aristeas, Letter of' (opened): Schurer c. 200 BCE; the article itself favours the Maccabean age and says it was certainly written before Pompey's invasion (63 BCE). Range widened from the researcher's -200..-100 to what the page supports."
+   },
+   "witness": "Greek manuscripts are medieval (not opened here); no ancient copy of the Letter was opened. Edition (Charles 1913) is separate from witness and composition."
+  },
+  "strand": {
+   "from": "Hebrew-reading Judaism (Jerusalem)",
+   "to": "Greek-reading Alexandria",
+   "carried": "writing",
+   "what": "the Torah, as translated into Greek",
+   "medium": "translation",
+   "start": -280,
+   "end": -247,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Wisdom of Sirach (Ecclesiasticus), Prologue",
+  "authors": null,
+  "year": null,
+  "venue": "Wikisource, Bible (King James)/Wisdom of Sirach",
+  "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Wisdom_of_Sirach",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "in the eight and thirtieth year coming into Egypt, when Euergetes was king, and continuing there some time",
+  "summary": "The grandson dates his arrival in Egypt to the 38th year of a King Euergetes and says he translated his grandfather's book there.",
+  "limits": "Which Euergetes is meant is a dating question not resolved from sources opened; a KJV-era English rendering is quoted, not the Greek. [Verifier: composition set to -130 (Jewish Encyclopedia, 'probably'), dropping the -132 taken from the brief; strand dates likewise.] [Verifier: strand directness lowered documented -> inferred: this quote only dates the translator's arrival in Egypt; it does not itself mention translation (candidate 3 does).]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Wisdom of Jesus the Son of Sirach (Ecclesiasticus), Prologue by the translator",
+   "locator": "Prologue",
+   "language": "Greek (quoted in English, KJV Apocrypha 1611)",
+   "edition": "King James Bible Apocrypha (1611), as transcribed on English Wikisource",
+   "composition": {
+    "start": -130,
+    "end": -130,
+    "basis": "Jewish Encyclopedia 'Aristeas, Letter of' (opened) says the translation of Sirach was 'probably' made in the year 130 BCE; which Euergetes is meant was not resolved from a source opened. Researcher's 132 BCE came from the task brief, not a source."
+   },
+   "witness": "Earliest witness for the Greek not established from sources opened. Hebrew Sirach survives at Qumran (2Q18, 11QPs-a), Masada and the Cairo Geniza per Wikipedia Septuagint page (opened)."
+  },
+  "strand": {
+   "from": "Hebrew Bible (Law, Prophets, Writings)",
+   "to": "Greek readers in Egypt",
+   "carried": "writing",
+   "what": "Hebrew scriptures and Ben Sira's book in Greek",
+   "medium": "translation",
+   "start": -130,
+   "end": -130,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Wisdom of Sirach (Ecclesiasticus), Prologue",
+  "authors": null,
+  "year": null,
+  "venue": "Wikisource, Bible (King James)/Wisdom of Sirach",
+  "url": "https://en.wikisource.org/wiki/Bible_(King_James)/Wisdom_of_Sirach",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "the law itself, and the prophets, and the rest of the books, have no small difference, when they are spoken in their own language",
+  "summary": "Within a generation of Aristeas's supposed date the grandson already refers to Greek versions of the Law, Prophets and other books and warns they differ from the Hebrew.",
+  "limits": "'Translated' is implied; the prologue gives no names, dates or translator count. The Jewish Encyclopedia draws date inferences from this sentence (separate candidate). [Verifier: composition set to -130 (Jewish Encyclopedia, 'probably'), dropping the -132 taken from the brief; strand dates likewise.] [Verifier: quote read on the page; it implies Law and Prophets circulating in Greek but the page does not say when each was translated.]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Wisdom of Jesus the Son of Sirach (Ecclesiasticus), Prologue by the translator",
+   "locator": "Prologue",
+   "language": "Greek (quoted in English, KJV Apocrypha 1611)",
+   "edition": "King James Bible Apocrypha (1611), as transcribed on English Wikisource",
+   "composition": {
+    "start": -130,
+    "end": -130,
+    "basis": "Jewish Encyclopedia 'Aristeas, Letter of' (opened) says the translation of Sirach was 'probably' made in the year 130 BCE; which Euergetes is meant was not resolved from a source opened. Researcher's 132 BCE came from the task brief, not a source."
+   },
+   "witness": "Earliest witness for the Greek not established from sources opened. Hebrew Sirach survives at Qumran (2Q18, 11QPs-a), Masada and the Cairo Geniza per Wikipedia Septuagint page (opened)."
+  },
+  "strand": {
+   "from": "Hebrew Bible (Law, Prophets, Writings)",
+   "to": "Greek readers in Egypt",
+   "carried": "writing",
+   "what": "Hebrew scriptures and Ben Sira's book in Greek",
+   "medium": "translation",
+   "start": -130,
+   "end": -130,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "On the Life of Moses, II (Yonge translation)",
+  "authors": "Philo of Alexandria; trans. Yonge, C.D.",
+  "year": null,
+  "venue": "earlychristianwritings.com",
+  "url": "https://www.earlychristianwritings.com/yonge/book25.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Hellenistic Judaism",
+  "stance": "context",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers; Separate composition, earliest witness and edition for each. Include scholarly caution on the Letter of Aristeas's legendary details.",
+  "quote": "every one of them employed the self-same nouns and verbs, as if some unseen prompter had suggested all their language to them",
+  "summary": "Philo adds divine inspiration and identical wording to the translators, going beyond the Letter of Aristeas.",
+  "limits": "The Jewish Encyclopedia (opened) calls this a popular development of the legend. Philo's composition date not established from an opened source; Yonge translation date not shown on the page opened. [Verifier: removed '1854-55' from edition (not on the page; from memory) and the '19th century' remark; locator 'II.37' is the Yonge paragraph (37)/(38) boundary on the page.]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "On the Life of Moses",
+   "locator": "II.37 (Yonge numbering VII)",
+   "language": "Greek (quoted in English, Yonge)",
+   "edition": "C.D. Yonge translation of Philo, as hosted by earlychristianwritings.com (translation year not shown on the page opened).",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "Not established from sources opened; Philo of Alexandria is a 1st c. BCE - 1st c. CE author per general knowledge, not recorded here as sourced."
+   },
+   "witness": "Not established from sources opened."
+  },
+  "strand": {
+   "from": "Hebrew Torah",
+   "to": "Greek-speaking Alexandria",
+   "carried": "writing",
+   "what": "the Torah as an inspired Greek text (Pharos legend)",
+   "medium": "translation",
+   "start": -280,
+   "end": -247,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Jerome, Prologue to Genesis (2006)",
+  "authors": "Jerome; trans. Pearse, R.",
+  "year": 2006,
+  "venue": "tertullian.org",
+  "url": "https://www.tertullian.org/fathers/jerome_preface_genesis.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Patristics",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers; Separate composition, earliest witness and edition for each. Include scholarly caution on the Letter of Aristeas's legendary details.",
+  "quote": "And I don't know who was the first author to construct with his lying the seventy cells in Alexandria",
+  "summary": "Jerome, writing the Vulgate Genesis, ridicules the cells legend; he says Aristeas and Josephus report no such thing.",
+  "limits": "Translation 2006 (Pearse), edition not independently compared with the Latin; Jerome's own authority on the matter is that of a 4th-5th c. reader. [Verifier: translator corrected from 'Roger Pearse' to Kevin P. Edgecomb (the page names him); composition range 391-406 nulled, basis 'not dated here' (fourthcentury.com page and the NPNF intro it cited could not be opened).] [Verifier: strand directness lowered documented -> inferred and dates nulled: the quote is Jerome's denial of the 72-cells legend, not a statement that he corrected the Greek against the Hebrew.]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Preface to the Pentateuch (Praefatio in Genesim) / 'Prologue to Genesis'",
+   "locator": "Preface (cells passage)",
+   "language": "Latin (quoted in English)",
+   "edition": "Kevin P. Edgecomb trans., Prologue to Genesis (2006), tertullian.org (translator and year shown on the page); Latin not compared.",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "not dated here"
+   },
+   "witness": "Not established from sources opened."
+  },
+  "strand": {
+   "from": "Greek Septuagint",
+   "to": "Latin readers",
+   "carried": "writing",
+   "what": "correction of Greek tradition against Hebrew",
+   "medium": "translation",
+   "start": null,
+   "end": null,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Jerome, Prologue to Genesis (2006)",
+  "authors": "Jerome; trans. Pearse, R.",
+  "year": 2006,
+  "venue": "tertullian.org",
+  "url": "https://www.tertullian.org/fathers/jerome_preface_genesis.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Patristics",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "so Ptolemy, the worshipper of one god, might not yet discover a double divinity with the Hebrews",
+  "summary": "Jerome gives a reason why the Greek translators supposedly altered texts: to hide Trinitarian hints from Ptolemy.",
+  "limits": "Jewish tradition as reported by Jerome; no check against the Septuagint text was made here. The Letter of Aristeas itself says nothing of this motive in the passages opened. [Verifier: translator corrected from 'Roger Pearse' to Kevin P. Edgecomb (the page names him); composition range 391-406 nulled, basis 'not dated here' (fourthcentury.com page and the NPNF intro it cited could not be opened).]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Preface to the Pentateuch (Praefatio in Genesim) / 'Prologue to Genesis'",
+   "locator": "Preface (Ptolemy and Plato)",
+   "language": "Latin (quoted in English)",
+   "edition": "Kevin P. Edgecomb trans., Prologue to Genesis (2006), tertullian.org (translator and year shown on the page); Latin not compared.",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "not dated here"
+   },
+   "witness": "Not established from sources opened."
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Jerome on the Canon of Scripture (Prologus Galeatus)",
+  "authors": "Jerome; trans. Fremantle, W.H., modified by M.D.M.",
+  "year": null,
+  "venue": "bible-researcher.com",
+  "url": "https://www.bible-researcher.com/jerome.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Patristics",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "the book of Jesus the Son of Sirach, and Judith, and Tobias, and the Shepherd [of Hermes?] are not in the canon",
+  "summary": "Jerome excludes the books outside the Hebrew canon from the canon; Sirach, the book whose prologue is quoted above, is one of them.",
+  "limits": "A statement about Jerome's own preference; later church practice differed (not examined here). [Verifier: strand end year 404 nulled (source for the Vulgate's completion date not opened); composition 391 stays (bible-researcher.com: 'about the year 391').] [Verifier: strand directness lowered documented -> inferred: the quote is about canon, not about the act of translation.]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Prologus Galeatus (Preface to Samuel and Kings)",
+   "locator": "closing paragraph",
+   "language": "Latin (quoted in English; Latin text given on the page from Weber's Biblia Sacra Vulgata, Stuttgart 1983)",
+   "edition": "Fremantle's NPNF 2nd ser. vol. 6 (Christian Literature Publishing Co., 1893), with a few changes by M.D.M., on bible-researcher.com; Latin from Weber, Biblia Sacra Vulgata (Stuttgart: Deutsche Bibelgesellschaft, 1983), pp. 364-66 (as stated on the page).",
+   "composition": {
+    "start": 391,
+    "end": 391,
+    "basis": "bible-researcher.com: 'written by Jerome about the year 391'; NPNF intro 'a.d. 391'"
+   },
+   "witness": "Not established from sources opened."
+  },
+  "strand": {
+   "from": "Hebrew Bible",
+   "to": "Latin readers",
+   "carried": "writing",
+   "what": "Latin Vulgate from the Hebrew, with Hebrew canon as standard",
+   "medium": "translation",
+   "start": 391,
+   "end": null,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Jerome on the Canon of Scripture (Prologus Galeatus)",
+  "authors": "Jerome; trans. Fremantle, W.H., modified by M.D.M.",
+  "year": null,
+  "venue": "bible-researcher.com",
+  "url": "https://www.bible-researcher.com/jerome.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Patristics",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "read the Greek and Latin manuscripts and compare them with these poor efforts of mine",
+  "summary": "Jerome invites readers to check his Latin rendering against the Greek and Latin copies and against a Hebrew informant.",
+  "limits": "Self-defence by the translator; does not show his Hebrew text was better, only that he claimed it was. [Verifier: strand end year 404 nulled (source for the Vulgate's completion date not opened); composition 391 stays (bible-researcher.com: 'about the year 391').]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Prologus Galeatus (Preface to Samuel and Kings)",
+   "locator": "closing paragraph",
+   "language": "Latin (quoted in English; Latin text given on the page from Weber's Biblia Sacra Vulgata, Stuttgart 1983)",
+   "edition": "Fremantle's NPNF 2nd ser. vol. 6 (Christian Literature Publishing Co., 1893), with a few changes by M.D.M., on bible-researcher.com; Latin from Weber, Biblia Sacra Vulgata (Stuttgart: Deutsche Bibelgesellschaft, 1983), pp. 364-66 (as stated on the page).",
+   "composition": {
+    "start": 391,
+    "end": 391,
+    "basis": "bible-researcher.com: 'written by Jerome about the year 391'; NPNF intro 'a.d. 391'"
+   },
+   "witness": "Not established from sources opened."
+  },
+  "strand": {
+   "from": "Hebrew Bible",
+   "to": "Latin readers",
+   "carried": "writing",
+   "what": "Latin Vulgate from the Hebrew, with Hebrew canon as standard",
+   "medium": "translation",
+   "start": 391,
+   "end": null,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Aristeas, Letter of",
+  "authors": null,
+  "year": null,
+  "venue": "JewishEncyclopedia.com",
+  "url": "https://www.jewishencyclopedia.com/articles/1765-aristeas-letter-of",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Second Temple Judaism",
+  "stance": "contradicts",
+  "ask_addressed": "Separate composition, earliest witness and edition for each. Include scholarly caution on the Letter of Aristeas's legendary details.",
+  "quote": "his historical statements about the time of Philadelphus are unreliable",
+  "summary": "The article judges the author a Jew, not a Greek courtier, and finds the history of Philadelphus' reign unreliable.",
+  "limits": "A century-old encyclopedia article; author not shown on the page opened. Later scholarship may have refined the date. [Verifier: composition range changed from -200..-100 to -200..-63 to match the Jewish Encyclopedia page (opened).]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Letter of Aristeas (as assessed by Jewish Encyclopedia, 1901-06)",
+   "locator": "sceptical assessment",
+   "language": "English (article)",
+   "edition": "Jewish Encyclopedia, 'Aristeas, Letter of'",
+   "composition": {
+    "start": -200,
+    "end": -63,
+    "basis": "Jewish Encyclopedia 'Aristeas, Letter of' (opened): Schurer c. 200 BCE; the article itself favours the Maccabean age and says it was certainly written before Pompey's invasion (63 BCE). Range widened from the researcher's -200..-100 to what the page supports."
+   },
+   "witness": "Greek manuscripts are medieval (a Vatican copy of 11th c. CE is pictured on the Wikipedia Septuagint page, opened); no ancient copy of the Letter was opened. Quoted via R.H. Charles translation (Oxford: Clarendon, 1913) as hosted by CCEL."
+  },
+  "strand": {
+   "from": "Hebrew Torah",
+   "to": "Greek-reading Alexandria",
+   "carried": "writing",
+   "what": "claim that Ptolemy II commissioned the translation",
+   "medium": "translation",
+   "start": -280,
+   "end": -247,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Aristeas, Letter of",
+  "authors": null,
+  "year": null,
+  "venue": "JewishEncyclopedia.com",
+  "url": "https://www.jewishencyclopedia.com/articles/1765-aristeas-letter-of",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Second Temple Judaism",
+  "stance": "contradicts",
+  "ask_addressed": "Separate composition, earliest witness and edition for each. Include scholarly caution on the Letter of Aristeas's legendary details.",
+  "quote": "the Greek translation of the Law, the Prophets, and the other books varies considerably from the original Hebrew",
+  "summary": "The article uses the Sirach prologue to argue against an early date for Aristeas: a translation held in high esteem would not be criticised.",
+  "limits": "A century-old encyclopedia article; author not shown on the page opened. Later scholarship may have refined the date. [Verifier: composition range changed from -200..-100 to -200..-63 to match the Jewish Encyclopedia page (opened).]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Letter of Aristeas (as assessed by Jewish Encyclopedia, 1901-06)",
+   "locator": "sceptical assessment",
+   "language": "English (article)",
+   "edition": "Jewish Encyclopedia, 'Aristeas, Letter of'",
+   "composition": {
+    "start": -200,
+    "end": -63,
+    "basis": "Jewish Encyclopedia 'Aristeas, Letter of' (opened): Schurer c. 200 BCE; the article itself favours the Maccabean age and says it was certainly written before Pompey's invasion (63 BCE). Range widened from the researcher's -200..-100 to what the page supports."
+   },
+   "witness": "Greek manuscripts are medieval (a Vatican copy of 11th c. CE is pictured on the Wikipedia Septuagint page, opened); no ancient copy of the Letter was opened. Quoted via R.H. Charles translation (Oxford: Clarendon, 1913) as hosted by CCEL."
+  },
+  "strand": {
+   "from": "Hebrew Torah",
+   "to": "Greek-reading Alexandria",
+   "carried": "writing",
+   "what": "claim that Ptolemy II commissioned the translation",
+   "medium": "translation",
+   "start": -280,
+   "end": -247,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Aristeas, Letter of",
+  "authors": null,
+  "year": null,
+  "venue": "JewishEncyclopedia.com",
+  "url": "https://www.jewishencyclopedia.com/articles/1765-aristeas-letter-of",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Second Temple Judaism",
+  "stance": "fails_to_support",
+  "ask_addressed": "Separate composition, earliest witness and edition for each. Include scholarly caution on the Letter of Aristeas's legendary details.",
+  "quote": "have for their sole objects the legitimation of the version, and the obtaining for it of equal authority with the original text",
+  "summary": "The article reads the Letter's royal, priestly and sage approvals as legitimation of the version, not history.",
+  "limits": "A century-old encyclopedia article; author not shown on the page opened. Later scholarship may have refined the date. [Verifier: composition range changed from -200..-100 to -200..-63 to match the Jewish Encyclopedia page (opened).]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Letter of Aristeas (as assessed by Jewish Encyclopedia, 1901-06)",
+   "locator": "sceptical assessment",
+   "language": "English (article)",
+   "edition": "Jewish Encyclopedia, 'Aristeas, Letter of'",
+   "composition": {
+    "start": -200,
+    "end": -63,
+    "basis": "Jewish Encyclopedia 'Aristeas, Letter of' (opened): Schurer c. 200 BCE; the article itself favours the Maccabean age and says it was certainly written before Pompey's invasion (63 BCE). Range widened from the researcher's -200..-100 to what the page supports."
+   },
+   "witness": "Greek manuscripts are medieval (a Vatican copy of 11th c. CE is pictured on the Wikipedia Septuagint page, opened); no ancient copy of the Letter was opened. Quoted via R.H. Charles translation (Oxford: Clarendon, 1913) as hosted by CCEL."
+  },
+  "strand": {
+   "from": "Hebrew Torah",
+   "to": "Greek-reading Alexandria",
+   "carried": "writing",
+   "what": "claim that Ptolemy II commissioned the translation",
+   "medium": "translation",
+   "start": -280,
+   "end": -247,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Aristeas, Letter of",
+  "authors": null,
+  "year": null,
+  "venue": "JewishEncyclopedia.com",
+  "url": "https://www.jewishencyclopedia.com/articles/1765-aristeas-letter-of",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Second Temple Judaism",
+  "stance": "context",
+  "ask_addressed": "Separate composition, earliest witness and edition for each. Include scholarly caution on the Letter of Aristeas's legendary details.",
+  "quote": "Schürer (\"Geschichte des Jüdischen Volkes im Zeitalter Jesu Christi,\" ii. 468) assigns it to about 200 B.C.",
+  "summary": "Reports Schürer's date of about 200 BCE and notes opinions on the date vary considerably.",
+  "limits": "A century-old encyclopedia article; author not shown on the page opened. Later scholarship may have refined the date. [Verifier: composition range changed from -200..-100 to -200..-63 to match the Jewish Encyclopedia page (opened).] [Verifier: strand removed: the quoted sentence only dates the Letter and does not support a transmission strand.]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Letter of Aristeas (as assessed by Jewish Encyclopedia, 1901-06)",
+   "locator": "sceptical assessment",
+   "language": "English (article)",
+   "edition": "Jewish Encyclopedia, 'Aristeas, Letter of'",
+   "composition": {
+    "start": -200,
+    "end": -63,
+    "basis": "Jewish Encyclopedia 'Aristeas, Letter of' (opened): Schurer c. 200 BCE; the article itself favours the Maccabean age and says it was certainly written before Pompey's invasion (63 BCE). Range widened from the researcher's -200..-100 to what the page supports."
+   },
+   "witness": "Greek manuscripts are medieval (a Vatican copy of 11th c. CE is pictured on the Wikipedia Septuagint page, opened); no ancient copy of the Letter was opened. Quoted via R.H. Charles translation (Oxford: Clarendon, 1913) as hosted by CCEL."
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Introduction, Leon Levy Dead Sea Scrolls Digital Library",
+  "authors": null,
+  "year": null,
+  "venue": "Israel Antiquities Authority, deadseascrolls.org.il",
+  "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "official",
+  "discipline": "Dead Sea Scrolls",
+  "stance": "context",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "This similarity is quite remarkable, considering that the Qumran Scrolls are over a thousand years older than previously identified biblical manuscripts.",
+  "summary": "Official IAA page says many biblical Qumran manuscripts closely resemble the Masoretic Text, a text known from the later first millennium CE.",
+  "limits": "General statement about the Qumran biblical scrolls, not specific to 1QIsaa. The Israel Museum's own Isaiah page (dss.collections.imj.org.il) did not resolve from this sandbox; the deadseascrolls.org.il manuscript page for 1QIsaa returned its 404 page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Isaiah Scroll",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Dead Sea Scrolls",
+  "stance": "context",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "more than 2600 textual variants when compared with the Masoretic codex",
+  "summary": "The scroll agrees broadly with the Masoretic text but has many variants, so it is not simply 'the same text'.",
+  "limits": "Encyclopedia summary; relies on Israel Museum, DJD and Jull et al. cited at the foot of the page, which I did not open. The Wikipedia page carries a 'citation needed' tag on part of its text. [Verifier: stance fails_to_support -> context (Wikipedia-sourced Dead Sea Scrolls fact stays context/secondary).]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Great Isaiah Scroll (1QIsa-a)",
+   "locator": "whole scroll",
+   "language": "Hebrew (described in English)",
+   "edition": "Wikipedia 'Isaiah Scroll' summary of Israel Museum digital edition (Ulrich, Flint, Abegg, Qumran Cave 1 II, DJD); scroll text itself not opened",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "Composition of the book of Isaiah not dated from a source opened; the scroll is a copy, not the original composition."
+   },
+   "witness": "Scroll copied c. 150-100 BCE (palaeographic) / calibrated 14C 356-103 BCE, per Wikipedia citing Jull et al. 1995 (not opened)."
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Isaiah Scroll",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Dead Sea Scrolls",
+  "stance": "context",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "match and clarify the meaning, while the Masoretic Text is somewhat obscure",
+  "summary": "At Isaiah 53:11 the scroll and the Septuagint agree where the Masoretic reading is obscure, a case of the Greek preserving an older Hebrew reading.",
+  "limits": "Encyclopedia summary; relies on Israel Museum, DJD and Jull et al. cited at the foot of the page, which I did not open. The Wikipedia page carries a 'citation needed' tag on part of its text. [Verifier: stance supports -> context (Wikipedia-sourced Dead Sea Scrolls fact stays context/secondary).]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Great Isaiah Scroll (1QIsa-a)",
+   "locator": "whole scroll",
+   "language": "Hebrew (described in English)",
+   "edition": "Wikipedia 'Isaiah Scroll' summary of Israel Museum digital edition (Ulrich, Flint, Abegg, Qumran Cave 1 II, DJD); scroll text itself not opened",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "Composition of the book of Isaiah not dated from a source opened; the scroll is a copy, not the original composition."
+   },
+   "witness": "Scroll copied c. 150-100 BCE (palaeographic) / calibrated 14C 356-103 BCE, per Wikipedia citing Jull et al. 1995 (not opened)."
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Isaiah 53:11 (Miqra according to the Masorah; JPS Tanakh 1985)",
+  "authors": null,
+  "year": null,
+  "venue": "Sefaria API",
+  "url": "https://www.sefaria.org/api/texts/Isaiah.53.11?context=0",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Hebrew Bible",
+  "stance": "context",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers",
+  "quote": "It is their punishment that he bears",
+  "summary": "Masoretic-tradition text of Isaiah 53:11 in the JPS rendering; the contrast with 1QIsa-a and the Greek is the point of the Wikipedia note above.",
+  "limits": "Does not itself show the scroll's reading or the Greek; read with the Isaiah Scroll candidate.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Isaiah",
+   "locator": "53:11",
+   "language": "Hebrew (quoted in English, JPS 1985)",
+   "edition": "Sefaria API: Miqra according to the Masorah (Hebrew); JPS Tanakh 1985 gender-sensitive (English)",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "Not dated from a source opened."
+   },
+   "witness": "Masoretic Text; the oldest extant complete Hebrew texts date to the first half of the 10th century per the Wikipedia Septuagint page (opened)."
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Septuagint",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Septuagint",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Septuagint studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers; Separate composition, earliest witness and edition for each. Include scholarly caution on the Letter of Aristeas's legendary details.",
+  "quote": "2nd-century BC fragments of Leviticus and Deuteronomy",
+  "summary": "The oldest Septuagint manuscripts are 2nd c. BCE papyrus fragments of Leviticus and Deuteronomy.",
+  "limits": "Encyclopedia summary; the underlying sources (Rahlfs numbers, Würthwein) were not opened. [Verifier: composition range -280..-100 nulled: researcher admitted it was not dated from a source opened.]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Septuagint (earliest manuscripts)",
+   "locator": "manuscripts section",
+   "language": "Greek (described in English)",
+   "edition": "Wikipedia summary, not an edition of the text",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "not dated here"
+   },
+   "witness": "2nd c. BCE fragments (Rahlfs 801, 819, 957), 1st c. BCE fragments incl. Twelve Prophets; Vaticanus 4th c. CE, Alexandrinus 5th c. CE (per the page)."
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-greek-latin-transmission",
+  "records": [],
+  "title": "Septuagint",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Septuagint",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Septuagint studies",
+  "stance": "contradicts",
+  "ask_addressed": "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers; Separate composition, earliest witness and edition for each. Include scholarly caution on the Letter of Aristeas's legendary details.",
+  "quote": "dismisses Aristeas' account as a pious fiction",
+  "summary": "Brenton in 1844 accepts that Alexandrian Jews wrote the Septuagint but rejects Aristeas's story as pious fiction.",
+  "limits": "Encyclopedia summary; the underlying sources (Rahlfs numbers, Würthwein) were not opened. [Verifier: composition range -280..-100 nulled: researcher admitted it was not dated from a source opened.]",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Septuagint (earliest manuscripts)",
+   "locator": "manuscripts section",
+   "language": "Greek (described in English)",
+   "edition": "Wikipedia summary, not an edition of the text",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "not dated here"
+   },
+   "witness": "2nd c. BCE fragments (Rahlfs 801, 819, 957), 1st c. BCE fragments incl. Twelve Prophets; Vaticanus 4th c. CE, Alexandrinus 5th c. CE (per the page)."
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ }
+]
