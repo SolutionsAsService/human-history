@@ -1,0 +1,53 @@
+# Review queue: 2026-11-17 Scholarship
+
+What this run could not settle. Nothing here is hidden.
+
+## Rejected by the verifier (1)
+
+- {"brief": "ie-primary-papers", "title": "Massive migration from the steppe is a source for Indo-European languages in Europe (bioRxiv preprint v1)", "url": "https://www.biorxiv.org/content/10.1101/013433v1.full", "reason": "unreachable: bioRxiv returned HTTP 429 on the check and again on one retry after a pause; page not opened, quote not re-found by the verifier"}
+
+## Second-hand quotations (a scholar quoted through another) (10)
+
+- {"brief": "persia-judaism-scholarship", "title": "Zoroastrianism and Biblical Religion", "url": "https://jbq.jewishbible.org/assets/Uploads/343/343_persian11.pdf"}
+- {"brief": "persia-judaism-scholarship", "title": "Zoroastrianism and Biblical Religion (Isbell quoting Shaul Shaked on chronology)", "url": "https://jbq.jewishbible.org/assets/Uploads/343/343_persian11.pdf"}
+- {"brief": "persia-judaism-scholarship", "title": "Zoroastrianism and Biblical Religion (Isbell reporting Mary Boyce on angelology)", "url": "https://jbq.jewishbible.org/assets/Uploads/343/343_persian11.pdf"}
+- {"brief": "persia-judaism-scholarship", "title": "Was Resurrection a Zoroastrian Idea? (Bremmer quoted by Bart Ehrman)", "url": "https://ehrmanblog.org/was-resurrection-a-zoroastrian-idea/"}
+- {"brief": "persia-judaism-scholarship", "title": "The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts (author's summary)", "url": "https://bibleinterp.arizona.edu/articles/MSmith_BiblicalMonotheism"}
+- {"brief": "persia-judaism-scholarship", "title": "Views of Scholars Refuting Zoroastrian Influence (excerpting M. S. Smith, 2001)", "url": "https://AVESTA.ORG/antia/Views_of_Scholars_Refuting_Zoroastrian_Influence.pdf"}
+- {"brief": "persia-judaism-scholarship", "title": "Views of Scholars Refuting Zoroastrian Influence (excerpting R. C. Zaehner)", "url": "https://AVESTA.ORG/antia/Views_of_Scholars_Refuting_Zoroastrian_Influence.pdf"}
+- {"brief": "persia-judaism-scholarship", "title": "Views of Scholars Refuting Zoroastrian Influence (Zaehner on the limits of the evidence)", "url": "https://AVESTA.ORG/antia/Views_of_Scholars_Refuting_Zoroastrian_Influence.pdf"}
+- {"brief": "persia-judaism-scholarship", "title": "The Zoroastrian Elements in Jewish and Christian Apocalyptic (quoting D. S. Russell)", "url": "https://AVESTA.ORG/antia/The_Zoroastrian_elements_in_Jewish_and_Christian_apocalyptic.pdf"}
+- {"brief": "persia-judaism-scholarship", "title": "Hesiodic reminiscences in Zoroastrian-Hellenistic apocalypses (footnote on Gignoux)", "url": "https://doi.org/10.1017/S0041977X12000043"}
+
+## Abstract-only sources (5)
+
+- {"brief": "brahmi-and-early-writing", "title": "The earliest writing? Sign use in the seventh millennium BC at Jiahu, Henan Province, China", "url": "https://www.cambridge.org/core/product/6DDB3E0583ACB6896B3DBCAC143FA846"}
+- {"brief": "egypt-chemistry-sources", "title": "Making make-up in Ancient Egypt", "url": "https://www.nature.com/articles/17240"}
+- {"brief": "egypt-chemistry-sources", "title": "Complex organic chemical balms of Pharaonic animal mummies", "url": "https://eprints.whiterose.ac.uk/id/eprint/7100/"}
+- {"brief": "egypt-chemistry-sources", "title": "Metals and pigments at Amara West: cross-craft perspectives on practices and provisioning in New Kingdom Nubia", "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3715923/download"}
+- {"brief": "persia-judaism-scholarship", "title": "On Iranian and Jewish apocalyptics, again (abstract)", "url": "https://www.biblioiranica.info/iranian-and-jewish-apocalyptics/"}
+
+## Primary passages with no composition date (0)
+
+
+## Debated strands whose sources only support or give context (15)
+
+- {"brief": "brahmi-and-early-writing", "from": "Achaemenid Aramaic, Phoenician and Greek writing", "to": "Mauryan India (Brahmi)", "n": 1}
+- {"brief": "brahmi-and-early-writing", "from": "Kharosthi (Aramaic-derived), Achaemenid northwest", "to": "Mauryan Brahmi", "n": 1}
+- {"brief": "brahmi-and-early-writing", "from": "Egyptian hieroglyphic and hieratic writing", "to": "Proto-Sinaitic script (Sinai)", "n": 1}
+- {"brief": "brahmi-and-early-writing", "from": "Egypt and Sinai early alphabet", "to": "Levantine Canaanite alphabet", "n": 1}
+- {"brief": "brahmi-and-early-writing", "from": "Olmec Gulf Coast sign system (Middle Formative)", "to": "Later Mesoamerican writing systems", "n": 1}
+- {"brief": "brahmi-and-early-writing", "from": "Olmec Gulf Coast", "to": "Later Mesoamerican writing", "n": 1}
+- {"brief": "brahmi-and-early-writing", "from": "Olmec Gulf Coast sign systems", "to": "Maya and other Mesoamerican writing", "n": 1}
+- {"brief": "ie-primary-papers", "from": "Anatolia", "to": "Europe and the rest of the Indo-European area", "n": 1}
+- {"brief": "ie-primary-papers", "from": "West Asian highlands (Caucasus/Armenia region)", "to": "Anatolia and the steppe (Indo-Anatolian split)", "n": 1}
+- {"brief": "ie-primary-papers", "from": "Pontic-Caspian steppe (Yamnaya)", "to": "Central and northern Europe", "n": 1}
+- {"brief": "myths-scholarship", "from": "Proto-Indo-European (Pontic steppe, Bronze Age)", "to": "Indo-European-speaking populations", "n": 1}
+- {"brief": "myths-scholarship", "from": "Europe", "to": "East Asia (and Africa)", "n": 1}
+- {"brief": "myths-scholarship", "from": "Palaeolithic Eurasia", "to": "North America (Ojibwa) and Europe", "n": 1}
+- {"brief": "myths-scholarship", "from": "Siberia and Central Eurasia", "to": "North America", "n": 1}
+- {"brief": "persia-judaism-scholarship", "from": "Zoroastrian / Iranian apocalyptic", "to": "Jewish apocalyptic", "n": 1}
+
+## Hosts that did not open (1)
+
+- academia.edu ×1

@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "note": "Breadth wave. Leads, not evidence."
+ },
+ "briefs": [
+  {
+   "id": "africa-bantu-sahara",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "Africa: what do linguistics, ancient DNA and archaeology show about the Bantu expansion (dates, routes, Lipson et al. 2020, Patin et al. 2017, Bostoen's work) and what is disputed? Iron working in West Africa (Nok) and its independence or diffusion?",
+    "Primary texts on trans-Saharan trade and Islam in West Africa (al-Bakri 1068, Ibn Battuta on Mali 1352, Ibn Khaldun), the Periplus of the Erythraean Sea on the East African coast and Aksum's adoption of Christianity (Ezana inscriptions; Rufinus). Quote each at its locus with composition date and basis."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "americas-crops-contact",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "Americas: maize domestication and spread (Matsuoka 2002, Kistler 2018, Pipperno), Andean\u2013Mesoamerican metallurgy contact (Hosler), Polynesian\u2013Native American contact (Ioannidis 2020 aDNA and the sweet potato), Norse contact in Newfoundland (L'Anse aux Meadows 1021 CE dendro date, Kuitems 2022), the Columbian Exchange (Crosby; primary texts such as Columbus's letters if open).",
+    "State what is documented, inferred and disputed for each, and quote the main sceptical papers."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "east-asia-sinosphere",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam. Primary: Nihon Shoki entry on the arrival of Buddhism (538/552), Kojiki preface, Samguk sagi/Samguk yusa passages, Hunminjeongeum (Hangul, 1446) preface, Jikji (1377, earliest extant metal-type book). Also paper and printing to Korea and gunpowder and compass spread (Needham; sceptical sources).",
+    "Quote each at its locus with composition date and basis, and the scholarly caution."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "indianization-se-asia",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (C\u0153d\u00e8s, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+    "Include sceptical or alternative scholarship on 'Indianization' (Wolters, Mabbett, Hall) and what is documented versus inferred."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "islam-arabic-science",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Arabic script and language: the Namara inscription (328 CE, earliest Arabic-script text in Nabataean-derived script), earliest Quranic manuscripts (Sana'a palimpsest, Birmingham fragment: radiocarbon and text claims), the Constitution of Medina, and Islamic conquest administration papyri. The House of Wisdom and the translation movement (sources beyond Gutas if open), Arab\u2013Indian Ocean trade (Sulayman the Merchant, Akhbar al-Sin wa'l-Hind).",
+    "Quote primary passages at their loci with composition date and basis, and note disputes (e.g. radiocarbon dating of the Birmingham fragment)."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "law-christianity-mediterranean",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "Quote primary passages at their loci with composition date, earliest witness and basis."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "mongol-plague-exchange",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "Mongol-era exchange and the Black Death: primary accounts (Rubruck's journey, Marco Polo, Rashid al-Din on Mongol-era translation, Gabriele de' Mussi on the plague at Caffa 1346, Ibn al-Wardi on the plague), ancient-DNA studies of Yersinia pestis (Spyrou 2019, 2022), and what is disputed about the route of the Black Death.",
+    "Quote primary passages at their loci with composition date and basis, and the strongest scholarly caution on the Caffa story."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "indo-european-branches",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Break the Indo-European thread into branch evidence: Hittite and Luwian texts (earliest Anatolian IE attestation; the Anitta text), Mycenaean Linear B as the earliest Greek (Ventris and Chadwick 1953; tablets c. 1450-1200 BCE), Tocharian manuscripts of the Tarim Basin (Mair; Winter), Gaulish inscriptions (Coligny calendar, Lezoux), Old Persian (Behistun already read) and Vedic, the earliest Germanic inscriptions (Negau helmet, Vimose comb, runic), Armenian (Koriun's Life of Mashtots on the invention of the alphabet).",
+    "Quote primary passages or inscriptions at their loci with date and basis, and what the earliest attestation shows about spread (and does not)."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "writing-systems-breakdown",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Break the writing thread into documented adaptations: Ugaritic alphabetic cuneiform (c. 1400 BCE), Linear A to Linear B and Cypriot syllabary, runes and their possible Italic origin, Glagolitic and Cyrillic (Life of Constantine/Cyril, Vita Methodii; Chernorizets Hrabar on the alphabet), Armenian and Georgian (Koriun), Ge'ez, Arabic script from Nabataean, Hangul (Hunminjeongeum), Japanese kana from kanji.",
+    "Quote primary passages or inscriptions at their loci with date and basis, and the dispute where one exists (e.g. runic origin)."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  }
+ ]
+}

@@ -14,6 +14,12 @@ for f in files:
     for i, c in enumerate(json.load(open(f))):
         works.setdefault(c['url'].rstrip('/'), []).append((Path(f).parent.parent.name + '/' + Path(f).name.split('.')[0], i, c))
 used, out, idmap, passages, pc = set(), [], {}, [], {}
+rejected = []
+for rf in sorted(glob.glob(str(ROOT / '*' / 'notes' / '*.rejected.json'))):
+    if (Path(rf).parent.parent / 'NO_INGEST').exists(): continue
+    for r in json.load(open(rf)):
+        c = r.get('candidate') or {}
+        rejected.append("  { brief: '%s', title: '%s', reason: '%s' }," % (esc(Path(rf).name.split('.')[0]), esc(c.get('title', '')[:140]), esc(str(r.get('reason', ''))[:160])))
 for url, items in works.items():
     c0 = items[0][2]
     wiki = 'wikipedia.org' in url
@@ -52,6 +58,6 @@ const S = (id: string, cite: string, kind: K, discipline: string, reliability: R
   ({ id, cite, kind, discipline, reliability, methodology, evidence, conflicts, note });
 export const SOURCES_G: Source[] = [
 """
-Path('src/data/extra/g.ts').write_text(hdr + '\n'.join(out) + '\n];\n\nexport const PASSAGES: Passage[] = [\n' + '\n'.join(passages) + '\n];\n')
+Path('src/data/extra/g.ts').write_text(hdr + '\n'.join(out) + '\n];\n\nexport const PASSAGES: Passage[] = [\n' + '\n'.join(passages) + '\n];\n\n/** Candidates the verifiers rejected, with the reason: the review queue on the Threads page. */\nexport const REJECTED: { brief: string; title: string; reason: string }[] = [\n' + '\n'.join(rejected) + '\n];\n')
 json.dump(idmap, open(ROOT / 'idmap.json', 'w'), indent=1)
 print(len(works), 'sources from', sum(len(v) for v in works.values()), 'passages')

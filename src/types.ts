@@ -181,6 +181,7 @@ export interface Culture {
   start: number;
   end: number;
   entries?: string[];  // related ledger records
+  aliases?: string[];  // other names people search for (Persia, Kemet, Rome…)
 }
 
 /** A passage quoted from an ancient text, with the work's three dates kept apart. */
@@ -221,4 +222,6 @@ export interface Strand {
   entries?: string[];
   /** Ids of quoted primary passages (src/data/extra/g.ts, generated from RDADA runs). */
   passages?: string[];
+  /** A finer strand that breaks this one down (shown only in detail view). */
+  parent?: string;
 }

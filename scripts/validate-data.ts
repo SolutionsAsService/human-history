@@ -67,6 +67,7 @@ for (const s of STRANDS) {
   if (s.directness === 'documented' && (s.status === 'E5' || s.status === 'E6' || s.status === 'E7' || s.status === 'E8')) warn(`strand ${s.id}: documented, but graded ${s.status} — check the two agree`);
   if (s.directness === 'inferred' && (s.status === 'E1')) warn(`strand ${s.id}: inferred but graded E1`);
   for (const en of s.entries ?? []) if (!ENTRY_BY_ID[en]) err(`strand ${s.id}: unknown entry "${en}"`);
+  if (s.parent) { const par = STRANDS.find(x => x.id === s.parent); if (!par) err(`strand ${s.id}: unknown parent "${s.parent}"`); else if (par.thread !== s.thread) err(`strand ${s.id}: parent is in another thread`); else if (par.parent) err(`strand ${s.id}: parent has a parent (one level only)`); }
   for (const pid of s.passages ?? []) if (!PASSAGE_BY_ID[pid]) err(`strand ${s.id}: unknown passage "${pid}"`);
 }
 for (const p of PASSAGES) { if (!SOURCE_BY_ID[p.src]) err(`passage ${p.id}: unknown source "${p.src}"`); if (!p.compBasis) err(`passage ${p.id}: composition date has no basis`); }

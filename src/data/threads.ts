@@ -1,5 +1,5 @@
 import type { Culture, Strand, Thread, Carried, Passage } from '../types';
-import { PASSAGES as GEN_PASSAGES } from './extra/g';
+import { PASSAGES as GEN_PASSAGES, REJECTED as GEN_REJECTED } from './extra/g';
 
 // Threads: what one culture passed to another. Every strand below comes from a source that was opened and whose quoted
 // passage was found verbatim by an independent verifier (see rdada_runs/). A resemblance noticed by an editor is not a strand.
@@ -19,9 +19,12 @@ export const CARRIED: Record<Carried, { label: string; color: string }> = {
 
 
 const C = (id: string, name: string, group: string, start: number, end: number, entries?: string[]): Culture => ({ id, name, group, start, end, entries });
+/** C with aliases, so a search for “Persia” or “Kemet” finds the lane. */
+const CA = (id: string, aliases: string[], name: string, group: string, start: number, end: number, entries?: string[]): Culture => ({ ...C(id, name, group, start, end, entries), aliases });
 
 // Lane order is the order of this list; lanes appear grouped by region band.
 export const PASSAGES: Passage[] = GEN_PASSAGES;
+export const REJECTED = GEN_REJECTED;
 export const PASSAGE_BY_ID: Record<string, Passage> = Object.fromEntries(PASSAGES.map(p => [p.id, p]));
 
 export const CULTURES: Culture[] = [
@@ -30,36 +33,36 @@ export const CULTURES: Culture[] = [
   C('neolithic-anatolia', 'Neolithic Anatolia and Aegean', 'Early farmers', -8000, -5500),
   C('neolithic-europe', 'Neolithic Europe', 'Early farmers', -6500, -2800),
   C('corded-ware', 'Corded Ware and Bell Beaker Europe', 'Early farmers', -2900, -2200),
-  C('yamnaya', 'Yamnaya (Pontic–Caspian steppe)', 'Steppe', -3300, -2600),
+  CA('yamnaya', ['steppe', 'Pontic'], 'Yamnaya (Pontic–Caspian steppe)', 'Steppe', -3300, -2600),
   C('steppe-west', 'Western Eurasian steppe', 'Steppe', -3300, -1000),
   C('andronovo', 'Sintashta and Andronovo', 'Steppe', -2100, -900),
   C('eurasian-steppe', 'Wider Eurasian steppe', 'Steppe', -2200, -500),
   C('steppe-east', 'Eastern steppe (Mongolia)', 'Steppe', -2000, -500),
   C('steppe-neighbours', 'Uralic, Turkic and early Chinese speakers', 'Steppe', -3000, 0),
-  C('mesopotamia', 'Mesopotamia', 'Near East', -3500, -539),
-  C('anatolia', 'Anatolia and the Hittite world', 'Near East', -2000, -1000),
+  CA('mesopotamia', ['Babylon', 'Sumer', 'Akkad', 'Assyria', 'Iraq'], 'Mesopotamia', 'Near East', -3500, -539),
+  CA('anatolia', ['Hittites', 'Hatti', 'Turkey'], 'Anatolia and the Hittite world', 'Near East', -2000, -1000),
   C('mitanni', 'Mitanni (Hurrian kingdom)', 'Near East', -1500, -1300),
   C('near-east-iron', 'Wider Near East (Iron Age)', 'Near East', -1200, -500),
   C('colchis', 'South Caucasus (Colchis)', 'Near East', -1300, -500),
   C('proto-sinaitic', 'Sinai (Proto-Sinaitic inscriptions)', 'Near East', -1900, -1000),
-  C('levant-phoenicia', 'Phoenicia and the Levant', 'Near East', -1500, -332),
-  C('israel-judah', 'Israel, Judah and Second Temple Judaism', 'Near East', -1000, 70),
-  C('egypt-pharaonic', 'Pharaonic Egypt (Khemet)', 'Egypt', -3100, -332, ['kemet-chemical-crafts']),
-  C('egypt-roman', 'Ptolemaic and Roman Egypt', 'Egypt', -332, 641, ['graeco-egyptian-alchemy', 'chemia-egypt-name']),
-  C('achaemenid', 'Achaemenid Persia', 'Iran', -550, -330),
-  C('parthian-sasanian', 'Parthian and Sasanian Iran', 'Iran', -247, 651),
+  CA('levant-phoenicia', ['Phoenicians', 'Canaan', 'Lebanon'], 'Phoenicia and the Levant', 'Near East', -1500, -332),
+  CA('israel-judah', ['Hebrew', 'Jewish', 'Judaism', 'Israel', 'Bible'], 'Israel, Judah and Second Temple Judaism', 'Near East', -1000, 70),
+  CA('egypt-pharaonic', ['Egypt', 'Kemet', 'Khemet', 'Nile', 'pharaohs'], 'Pharaonic Egypt (Khemet)', 'Egypt', -3100, -332, ['kemet-chemical-crafts']),
+  CA('egypt-roman', ['Egypt', 'Alexandria', 'Ptolemies', 'Ptolemaic'], 'Ptolemaic and Roman Egypt', 'Egypt', -332, 641, ['graeco-egyptian-alchemy', 'chemia-egypt-name']),
+  CA('achaemenid', ['Persia', 'Persian Empire', 'Iran', 'Cyrus', 'Darius'], 'Achaemenid Persia', 'Iran', -550, -330),
+  CA('parthian-sasanian', ['Persia', 'Iran', 'Sasanians', 'Parthians'], 'Parthian and Sasanian Iran', 'Iran', -247, 651),
   C('bactria', 'Bactria, Ferghana and Central Asia', 'Central Asia', -300, 300),
-  C('india', 'India', 'South and East Asia', -1500, 1200),
-  C('china', 'China', 'South and East Asia', -1600, 1700),
-  C('greece-archaic', 'Archaic and Classical Greece', 'Mediterranean', -800, -323),
-  C('hellenistic-world', 'Hellenistic world', 'Mediterranean', -323, -30),
+  CA('india', ['South Asia', 'Vedic', 'Mauryan', 'Ashoka'], 'India', 'South and East Asia', -1500, 1200),
+  CA('china', ['Han', 'Chinese'], 'China', 'South and East Asia', -1600, 1700),
+  CA('greece-archaic', ['Greece', 'Athens', 'Hellenes'], 'Archaic and Classical Greece', 'Mediterranean', -800, -323),
+  CA('hellenistic-world', ['Alexander', 'Seleucids', 'Greek kingdoms'], 'Hellenistic world', 'Mediterranean', -323, -30),
   C('rome', 'Rome', 'Mediterranean', -509, 476),
   C('byzantium', 'Byzantium and the Greek East', 'Mediterranean', 330, 1453),
-  C('abbasid', 'Abbasid Caliphate (Baghdad)', 'Islamic world and Europe', 750, 1258),
+  CA('abbasid', ['Baghdad', 'Islamic world', 'Arabic', 'caliphate'], 'Abbasid Caliphate (Baghdad)', 'Islamic world and Europe', 750, 1258),
   C('al-andalus', 'Al-Andalus', 'Islamic world and Europe', 711, 1492),
-  C('latin-europe', 'Latin Europe', 'Islamic world and Europe', 800, 1700, ['alchemy-to-chymistry']),
-  C('olmec', 'Olmec Gulf Coast', 'Americas', -1200, -400),
-  C('maya', 'Maya and later Mesoamerica', 'Americas', -400, 900),
+  CA('latin-europe', ['Medieval Europe', 'Christendom'], 'Latin Europe', 'Islamic world and Europe', 800, 1700, ['alchemy-to-chymistry']),
+  CA('olmec', ['Mesoamerica'], 'Olmec Gulf Coast', 'Americas', -1200, -400),
+  CA('maya', ['Mesoamerica'], 'Maya and later Mesoamerica', 'Americas', -400, 900),
   C('austronesian', 'Austronesian (Taiwan and island Southeast Asia)', 'Pacific', -3000, -1000),
   C('near-oceania', 'Near Oceania (Papuan ancestry)', 'Pacific', -3000, -500),
   C('remote-oceania', 'Remote Oceania (Vanuatu)', 'Pacific', -1000, -400),
