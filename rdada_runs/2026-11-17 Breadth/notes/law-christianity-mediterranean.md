@@ -3,7 +3,7 @@
 ## Ask
 Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism). Quote primary passages at their loci with composition date, earliest witness and basis.
 
-22 candidates in `law-christianity-mediterranean.candidates.json`; 16 carry a `text` object, 12 a `strand`. Every quote was confirmed with `check_quote.py` before it was written. The validator reports only the "no verifier marker" error, which is the verifier's step, not the researcher's.
+22 candidates in `law-christianity-mediterranean.candidates.json`; 16 carry a `text` object, 11 a `strand`. Every quote was confirmed with `check_quote.py` before it was written. The validator reports only the "no verifier marker" error, which is the verifier's step, not the researcher's.
 
 ## Cited findings
 - Gaius, Inst. 1.1: peoples use partly their own law and partly the law common to all men — [thelatinlibrary.com/law/gaius1.html](https://thelatinlibrary.com/law/gaius1.html). The page is an English text (not Latin) headed "c. 170 A.D."; no translator is named. Composition c. 161 CE is from [Wikipedia, Institutes (Gaius)](https://en.wikipedia.org/wiki/Institutes_(Gaius)) (citing Miglietta 2013). The two dates disagree and I kept both. The same article gives a Verona palimpsest copied c. 500 and Niebuhr's 1816 find.
