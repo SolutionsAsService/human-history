@@ -6,7 +6,7 @@ of the source type; nothing here is a RDADA judgement."""
 import json, glob, re, sys, hashlib
 from pathlib import Path
 ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else 'rdada_runs')
-files = sorted(glob.glob(str(ROOT / '*' / 'notes' / '*.verified.json')))
+files = sorted(f for f in glob.glob(str(ROOT / '*' / 'notes' / '*.verified.json')) if not (Path(f).parent.parent / 'NO_INGEST').exists())   # a run folder with a NO_INGEST file was hand-ingested earlier
 def slug(s): return re.sub(r'[^a-z0-9]+', '', s.lower())
 def esc(s): return str(s).replace('\\', '\\\\').replace("'", "\\'").replace('\n', ' ')
 works = {}
