@@ -1,0 +1,74 @@
+[
+  {
+    "candidate": {
+      "brief": "egypt-primary-texts",
+      "records": [],
+      "title": "Psalm 104 and Its Parallels in Pharaoh Akhenaten's Hymn",
+      "authors": "Koller, A.",
+      "year": 2022,
+      "venue": "TheTorah.com (Jul 1, 2022)",
+      "url": "https://www.thetorah.com/article/psalm-104-and-its-parallels-in-pharaoh-akhenatens-hymn",
+      "accessed": "2026-11-17",
+      "kind": "secondary",
+      "discipline": "Biblical studies",
+      "stance": "supports",
+      "ask_addressed": "Quote the Egyptian primary texts that threads depend on: ... the Great Hymn to the Aten (Amarna, c. 1350 BCE)",
+      "quote": "This seems self-evident to me, but has been debated endlessly over the past century.",
+      "summary": "Koller argues themes of the Aten hymn recur in Psalm 104 and says the relation 'has been debated endlessly'; he names Dion (1991) and Day (2016) as presentations leaving 'no doubt'.",
+      "limits": "Author's own stance is that the connection is clear; a popular-scholarly platform, not peer-reviewed. Route not documented.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "strand": {
+        "from": "Amarna Egypt",
+        "to": "Israelite psalmody (Psalm 104)",
+        "carried": "idea",
+        "what": "creation-by-the-sun hymn motifs (night animals, human labour by day, sea creatures)",
+        "medium": "unknown",
+        "start": -1350,
+        "end": -600,
+        "directness": "debated"
+      }
+    },
+    "reason": "strand_unsupported: the quoted sentence ('This seems self-evident to me, but has been debated endlessly') is a footnote about whether the Psalmist is monotheistic, not about the Aten hymn-Psalm 104 relationship; the page does carry the parallel argument elsewhere but the quoted passage does not support the strand."
+  },
+  {
+    "candidate": {
+      "brief": "egypt-primary-texts",
+      "records": [],
+      "title": "The Papyrus Ebers (Bryan 1930), magic with the remedy",
+      "authors": "Bryan, C. P.",
+      "year": 1930,
+      "venue": "Archive.org scan (Ares Publishers reprint 1974)",
+      "url": "https://archive.org/download/ANCIENTEGYPTIANMEDICINETHEPAPYRUSEBERS/ANCIENT%20EGYPTIAN%20MEDICINE%20THE%20PAPYRUS%20EBERS_djvu.txt",
+      "accessed": "2026-11-17",
+      "kind": "skeptical",
+      "discipline": "Egyptology / history of medicine",
+      "stance": "fails_to_support",
+      "ask_addressed": "and any Egyptian text describing a chemical or technical process (for example the Ebers papyrus recipes)",
+      "quote": "Finally they resorted to Magic, plus the Brain-of-a-Tortoise mixed with Honey",
+      "summary": "The same chapter mixes spell-recitation with the recipes. A caution that Ebers is not a 'technical process' text in the sense of a chemistry or metallurgy manual.",
+      "limits": "Bryan's 1930 gloss; modern work (not opened) separates the empirical and magical strands differently.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "text": {
+        "work": "Papyrus Ebers (eye chapter)",
+        "locator": "Eye chapter, 'Another to drive out the white growth in the eyes'",
+        "language": "Hieratic, quoted in English",
+        "edition": "C. P. Bryan, The Papyrus Ebers (London, 1930; Ares reprint 1974), partial text only (eye diseases chapter)",
+        "composition": {
+          "start": -1550,
+          "end": -1550,
+          "basis": "c. 1550 BCE per Wikipedia 'Ebers Papyrus', which adds it was copied from earlier texts"
+        },
+        "witness": "Papyrus roll c. 20 m long, Leipzig University Library (via Wikipedia); bought 1872 by Georg Ebers"
+      }
+    },
+    "reason": "quote_not_primary_text: the quoted words ('Finally they resorted to Magic, plus the Brain-of-a-Tortoise...') are Bryan's modern narrative gloss, not the wording of the Ebers papyrus as translated; a primary-text candidate must quote the ancient text."
+  }
+]

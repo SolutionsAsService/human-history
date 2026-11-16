@@ -1,0 +1,899 @@
+[
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Seven Tablets of Creation, Vol. I (Tablet I, lines 1-9, English translation)",
+    "authors": "King, L. W.",
+    "year": 1902,
+    "venue": "Luzac & Co., London; Internet Archive scan",
+    "url": "https://archive.org/download/the-seven-tablets-of-creation.-vol.-1/The%20seven%20tablets%20of%20creation.%20Vol.%201_djvu.txt",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "Quote Enuma Elish tablet I",
+    "quote": "When in the height heaven was not named,",
+    "summary": "King's translation of the opening of Enuma Elish I: heaven and earth unnamed, primeval Apsu and chaos-Tiamat whose waters 'were mingled together', no gods yet named; the gods are then created (ll. 1-9), followed by Lahmu and Lahamu, Anshar and Kishar.",
+    "limits": "1902 translation, superseded in details by Lambert's later edition (not opened). Archive.org OCR; only the first nine lines are intact in the translation quoted, line 10 onward is broken. Composition date is disputed (see the separate dating candidate). Verifier: researcher's range -1300..-900 was not stated by any source opened, so composition set to null ('not dated here').",
+    "text": {
+      "work": "Enuma Elish (Babylonian Epic of Creation)",
+      "locator": "Tablet I, lines 1-9",
+      "language": "Akkadian (quoted in English, King 1902)",
+      "edition": "L. W. King, The Seven Tablets of Creation, vol. 1 (London: Luzac, 1902), translation of the First Tablet, from the Internet Archive full-text scan",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "not dated here: Wikipedia 'Enuma Elish' (Date) says most scholars accept the Second Dynasty of Isin, a late Kassite date is sometimes proposed, earliest manuscript Assur 9th c. BCE; it gives no year range"
+      },
+      "witness": "Earliest manuscript: Assur, 9th c. BCE (per Wikipedia 'Enuma Elish'). King's 1902 edition rests on Kuyunjik (Nineveh) tablets, e.g. K. 5419c, and British Museum Nos. 45,528+46,614 and 93,015, named in his apparatus."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Enuma Elish (Enūma Eliš), Date section",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1",
+    "kind": "skeptical",
+    "discipline": "Assyriology",
+    "stance": "context",
+    "ask_addressed": "composition ranges with basis (Enuma Elish)",
+    "quote": "accept a dating to the Second Dynasty of Isin",
+    "summary": "States that Enuma Elish was once thought composed under Hammurabi, that most scholars now think this unlikely, and that its earliest manuscript (Assur) is 9th c. BCE. Cautions against reading the poem as Old Babylonian.",
+    "limits": "Encyclopedia summary, used only because the underlying scholarship (Lambert, Sommerfeld) was not opened. The Isin II dates and the late-Kassite alternative are cited there, not verified here. Verifier: stance lowered from fails_to_support to context; the quote is Wikipedia's second-hand report of scholarly opinion.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Great Flood: Atrahasis (Enki's warning to Atrahasis, Tablet I col. c)",
+    "authors": "Livius.org (translation adapted from B. R. Foster)",
+    "year": null,
+    "venue": "Livius.org",
+    "url": "https://www.livius.org/articles/misc/great-flood/flood3_t-arahasis/",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "Atrahasis tablet III (flood)",
+    "quote": "forsake possessions, and save life.",
+    "summary": "Enki speaks through a reed wall to Atrahasis: 'Flee the house, build a boat, forsake possessions, and save life.' The boat is to be roofed over 'like the Apsu'; a seven-day deluge is announced. The Old Babylonian Atrahasis is the earliest long flood narrative and is quoted in Gilgamesh XI.",
+    "limits": "Translation adapted by Livius, not a critical edition; the Wall address is in the Old Babylonian tablet I, not III. Gaps are marked in the translation. Date of composition rests on Wikipedia, which cites Atrahasis scholarship not opened here. Verifier: the page does not say which tablet this is, so the researcher's 'Tablet I' (and the remark that it is not III) was dropped from the locator; the ask's 'tablet III' is not shown by this passage.",
+    "text": {
+      "work": "Atrahasis (Atra-hasis)",
+      "locator": "col. i, lines c20-c25 as numbered on the Livius page ([i.c20]-[i.c23]); the page does not name the tablet",
+      "language": "Akkadian (quoted in English, Livius, adapted from B. R. Foster)",
+      "edition": "Livius.org 'The Great Flood: Atrahasis', translation adapted from B. R. Foster; line numbers are Old Babylonian tablet, column.line",
+      "composition": {
+        "start": -1800,
+        "end": -1700,
+        "basis": "Wikipedia 'Atra-Hasis': 'an 18th-century BC Akkadian epic'; the Ammi-saduqa copy (c. 1647-1626 BCE) is a lower bound for the Old Babylonian text."
+      },
+      "witness": "Old Babylonian three-tablet copy written under Ammi-saduqa of Babylon (c. 1647-1626 BCE) per Livius; Assyrian-dialect and Babylonian-dialect Assyrian copies also exist; an Akkadian Atrahasis fragment was found at Hattusa (Beckman 2019 register, KBo 36.26)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Great Flood: Atrahasis (the deluge, Tablet III)",
+    "authors": "Livius.org (translation adapted from B. R. Foster)",
+    "year": null,
+    "venue": "Livius.org",
+    "url": "https://www.livius.org/articles/misc/great-flood/flood3_t-arahasis/",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "Atrahasis tablet III (flood)",
+    "quote": "one person did not see another, they could not recognize each other in the catastrophe",
+    "summary": "The deluge arrives: its power comes on the peoples 'like a battle', darkness is dense and the sun gone. Livius notes that after a lacuna the gods, hungry, find Atrahasis survived, and Enki and Nintu devise childbirth, infant mortality and celibacy to limit human noise.",
+    "limits": "Only a selection of Tablet III; the summaries in square brackets are Livius's, not the tablet's. The Old Babylonian copy's own date and the Ammi-saduqa colophon are the sources for the earliest-witness claim. Verifier: 'Tablet III' is not stated on the page; locator uses the page's own numbering.",
+    "text": {
+      "work": "Atrahasis (Atra-hasis)",
+      "locator": "col. iii, lines 5-15 as numbered on the Livius page ([iii.5]-[iii.15]); the page does not name the tablet",
+      "language": "Akkadian (quoted in English, Livius, adapted from B. R. Foster)",
+      "edition": "Livius.org 'The Great Flood: Atrahasis', translation adapted from B. R. Foster; line numbers are Old Babylonian tablet, column.line",
+      "composition": {
+        "start": -1800,
+        "end": -1700,
+        "basis": "Wikipedia 'Atra-Hasis': 'an 18th-century BC Akkadian epic'; the Ammi-saduqa copy (c. 1647-1626 BCE) is a lower bound for the Old Babylonian text."
+      },
+      "witness": "Old Babylonian three-tablet copy written under Ammi-saduqa of Babylon (c. 1647-1626 BCE) per Livius; Assyrian-dialect and Babylonian-dialect Assyrian copies also exist; an Akkadian Atrahasis fragment was found at Hattusa (Beckman 2019 register, KBo 36.26)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Atrahasis Appendix: Akkadian Atra-hasis at Hattusa (Register of Texts)",
+    "authors": "Beckman, G.",
+    "year": 2019,
+    "venue": "Lockwood Press (JCS Supplemental Series 6), publisher's front-matter sample",
+    "url": "https://lockwoodpressonline.com/index.php/ebooks/catalog/download/10/17/3171?inline=1",
+    "kind": "primary",
+    "discipline": "Hittitology",
+    "stance": "supports",
+    "ask_addressed": "Mesopotamian literature travelled (Hattusa)",
+    "quote": "Ap1. Akkadian KBo 36.26 (Temple 1)",
+    "summary": "Beckman's register lists an Akkadian Atrahasis tablet (KBo 36.26, Temple 1) and four Hittite Atrahasis manuscripts at Hattusa (CTH 347), so the flood epic as well as Gilgamesh reached the Hittite capital.",
+    "limits": "Only the front matter of the book is open; no text of the fragments is quoted, and their dates are not stated in this preview. Verifier: strand directness lowered documented -> inferred; the register gives a siglum and find-spot (Temple 1) but no date or text, and the -1500..-1200 strand range is the researcher's Late Bronze bracket, not stated for Atrahasis in the sample.",
+    "text": {
+      "work": "Atrahasis (Hattusa manuscripts, CTH 347)",
+      "locator": "Appendix, Ap1-Ap2",
+      "language": "Akkadian and Hittite",
+      "edition": "G. Beckman, The Hittite Gilgamesh (Lockwood Press, 2019), Register of Texts (publisher's free preview PDF)",
+      "composition": {
+        "start": -1800,
+        "end": -1700,
+        "basis": "Old Babylonian composition of Atrahasis (Wikipedia, 18th c. BCE); these are Late Bronze Age copies, not the composition."
+      },
+      "witness": "KBo 36.26 (Temple 1); Hittite: KUB 8.63 + KBo 53.5 (Temple 1), KUB 36.74, KBo 47.147 (Buyukkale M), KBo 36.74 (Haus am Hang)."
+    },
+    "strand": {
+      "from": "Babylonia",
+      "to": "Hittite Anatolia (Hattusa)",
+      "carried": "writing",
+      "what": "Atrahasis flood epic as Akkadian text and Hittite adaptation",
+      "medium": "teaching",
+      "start": -1500,
+      "end": -1200,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Epic of Gilgamish, Eleventh Tablet col. I (Ea warns Uta-Napishtim)",
+    "authors": "Thompson, R. C.",
+    "year": 1928,
+    "venue": "Luzac & Co., London; Internet Archive scan",
+    "url": "https://archive.org/download/thompson-1928-gilgamesh/Thompson_1928_Gilgamesh_djvu.txt",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "Gilgamesh XI (flood)",
+    "quote": "Wall, wall! Hearken, O Reed-hut, consider, O Wall! O thou Mortal,",
+    "summary": "Ea tells the reed-hut and wall to 'pull down' a dwelling, 'fashion a vessel', 'abandon possessions' and 'save life'; Uta-Napishtim of Shurippak, son of Ubara-Tutu, is told to put every creature on board. Verbal parallel with Atrahasis I.c ('Wall, listen to me! ... build a boat ... forsake possessions').",
+    "limits": "Thompson's 1928 English hexameters are a rendering, not a literal text, and predate later editions (George 2003, not opened). The OCR is of a scan.",
+    "text": {
+      "work": "Epic of Gilgamesh (Standard Babylonian)",
+      "locator": "Tablet XI, column I",
+      "language": "Akkadian (quoted in English, Thompson 1928)",
+      "edition": "R. Campbell Thompson, The Epic of Gilgamish (London: Luzac, 1928), verse translation, Internet Archive scan",
+      "composition": {
+        "start": -1300,
+        "end": -1000,
+        "basis": "Standard Babylonian version 'dates to somewhere between the 13th and 10th centuries BCE' (Wikipedia 'Epic of Gilgamesh'); Beckman 2019 says scholarly consensus puts the final version in the Middle Babylonian period. Older Old Babylonian tablets and a Sumerian deluge fragment exist (Thompson's preface)."
+      },
+      "witness": "Standard Babylonian twelve-tablet edition: Ashurbanipal's Nineveh library, 7th c. BCE (Thompson 1928 preface: 'made in the seventh century B.C., for the Royal Library at Nineveh'); Late Bronze Age Akkadian fragments from Hattusa, Ugarit, Emar, Megiddo (Beckman 2019)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Epic of Gilgamish, Eleventh Tablet (the dove, swallow and raven)",
+    "authors": "Thompson, R. C.",
+    "year": 1928,
+    "venue": "Luzac & Co., London; Internet Archive scan",
+    "url": "https://archive.org/download/thompson-1928-gilgamesh/Thompson_1928_Gilgamesh_djvu.txt",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "Gilgamesh XI (flood)",
+    "quote": "(Then), when the seventh day dawn'd, I put forth a dove, and released (her),",
+    "summary": "The ark grounds on Mount Nisir; on the seventh day the narrator sends out a dove, then a swallow, then a raven, which does not return. The raven 'saw' the abating waters, waded and ate, and did not return; he then frees the animals and makes an offering on the mountain.",
+    "limits": "No Genesis text was quoted in this run, so no borrowing claim is made; the passage only gives the Mesopotamian side of any comparison.",
+    "text": {
+      "work": "Epic of Gilgamesh (Standard Babylonian)",
+      "locator": "Tablet XI, bird-sending episode (Nisir passage)",
+      "language": "Akkadian (quoted in English, Thompson 1928)",
+      "edition": "R. Campbell Thompson, The Epic of Gilgamish (London: Luzac, 1928), verse translation, Internet Archive scan",
+      "composition": {
+        "start": -1300,
+        "end": -1000,
+        "basis": "Standard Babylonian version 'dates to somewhere between the 13th and 10th centuries BCE' (Wikipedia 'Epic of Gilgamesh'); Beckman 2019 says scholarly consensus puts the final version in the Middle Babylonian period. Older Old Babylonian tablets and a Sumerian deluge fragment exist (Thompson's preface)."
+      },
+      "witness": "Standard Babylonian twelve-tablet edition: Ashurbanipal's Nineveh library, 7th c. BCE (Thompson 1928 preface: 'made in the seventh century B.C., for the Royal Library at Nineveh'); Late Bronze Age Akkadian fragments from Hattusa, Ugarit, Emar, Megiddo (Beckman 2019)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Thompson's preface: editions from Nineveh and Boghaz Keui",
+    "authors": "Thompson, R. C.",
+    "year": 1928,
+    "venue": "Luzac & Co., London; Internet Archive scan",
+    "url": "https://archive.org/download/thompson-1928-gilgamesh/Thompson_1928_Gilgamesh_djvu.txt",
+    "kind": "secondary",
+    "discipline": "Assyriology",
+    "stance": "context",
+    "ask_addressed": "earliest tablet witness (Gilgamesh)",
+    "quote": "which were made in the seventh century B.C., for the Royal Library at Nineveh",
+    "summary": "Thompson's 1928 preface lists the witnesses: three Old Babylonian Akkadian tablets, Boghaz Keui editions in Akkadian, Hittite and another dialect, an Ashur tablet, the Nineveh editions of the seventh century with Sin-liqi-unninni among the editors, and later neo-Babylonian fragments.",
+    "limits": "1928 summary; many witnesses have appeared since (Ugarit, Emar, Megiddo, Sultantepe) and dates have been revised.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Great Flood: Comparison of the flood stories (Eridu Genesis, Atrahasis, Gilgamesh, Bible, Berossus)",
+    "authors": "Livius.org",
+    "year": null,
+    "venue": "Livius.org",
+    "url": "https://www.livius.org/articles/misc/great-flood/flood6-parallels/",
+    "kind": "secondary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "Atrahasis and Gilgamesh XI flood relationship",
+    "quote": "you can find thirty-two parallels for the main flood stories. It shows that they are closely related.",
+    "summary": "A table aligns thirty-two parallel items; for example 'Wall, listen to me!' (Atrahasis i.c20) with Gilgamesh XI line 21, and 'build a boat' in both. It argues the stories are closely related.",
+    "limits": "A reference website, not a peer-reviewed study. It shows resemblance; the page does not by itself document the route or direction of any borrowing.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Great Flood: The Eridu Genesis (Ziusudra)",
+    "authors": "Livius.org (translation adapted from T. Jacobsen)",
+    "year": null,
+    "venue": "Livius.org",
+    "url": "https://www.livius.org/articles/misc/great-flood/flood2-t/",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "context",
+    "ask_addressed": "the flood tradition in Sumerian",
+    "quote": "At that time Ziusudra was king and lustration priest.",
+    "summary": "The Sumerian Eridu Genesis (about two thirds lost) tells of the flood hero Ziusudra, a king and priest who hears the gods' decision to destroy mankind and is advised by Enki ('Step up to the wall to my left and listen!').",
+    "limits": "Jacobsen translation adapted on a website; the page's own date for the tablet is not given in the passage quoted.",
+    "text": {
+      "work": "Eridu Genesis (Sumerian flood story)",
+      "locator": "lines 86'-94' (Ziusudra's vision)",
+      "language": "Sumerian (quoted in English, Jacobsen, adapted)",
+      "edition": "Livius.org translation adapted from Thorkild Jacobsen",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Not stated on the page opened; the Livius page says only that the tablet is cuneiform and two thirds lost."
+      },
+      "witness": "A Sumerian cuneiform tablet, about two thirds lost (per Livius); find-spot and date not read from the page."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Sumerian king list: translation (lines 1-39, the antediluvian kings)",
+    "authors": "ETCSL (translation by the Electronic Text Corpus of Sumerian Literature)",
+    "year": null,
+    "venue": "Electronic Text Corpus of Sumerian Literature (Oxford)",
+    "url": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "the Sumerian King List",
+    "quote": "Then the flood swept over.",
+    "summary": "Eight kings reign in five cities for 241,200 years: Alulim of Eridug 28,800 years, Alaljar 36,000, then Bad-tibira, Larag, Zimbir, Curuppag, 'Then the flood swept over.' Kingship then descends again to Kic.",
+    "limits": "Composite ETCSL translation of many manuscripts, with variant readings in the page. Regnal years are not historical. Verifier: researcher's range -2100..-1800 not stated by the source, set to null.",
+    "text": {
+      "work": "Sumerian King List",
+      "locator": "lines 1-39 (antediluvian kingship)",
+      "language": "Sumerian (quoted in English, ETCSL)",
+      "edition": "ETCSL t.2.1.1, translation page tr211",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "not dated here: Wikipedia 'Sumerian King List' says the composition was probably first created in the Sargonic period, oldest known copy Ur III (c. 2112-2004 BCE), later Old Babylonian versions; it gives no composition range"
+      },
+      "witness": "Ur III Sumerian King List (USKL), copied in the reign of Shulgi (2084-2037 BCE), possibly from Adab (Wikipedia). ETCSL composite and Old Babylonian copies; numerical data from ms. WB (Weld-Blundell prism)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Sumerian king list: translation (lines 95-133, the First Dynasty of Uruk)",
+    "authors": "ETCSL (translation by the Electronic Text Corpus of Sumerian Literature)",
+    "year": null,
+    "venue": "Electronic Text Corpus of Sumerian Literature (Oxford)",
+    "url": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "context",
+    "ask_addressed": "the Sumerian King List; Gilgamesh as a listed king",
+    "quote": "whose father was a phantom (?), the lord of Kulaba",
+    "summary": "Gilgamec (Gilgamesh), 'lord of Kulaba', is listed as 126 years king of Unug (Uruk), after Enmerkar and Lugalbanda and Dumuzid the fisherman, with son Ur-Nungal. A listed king, not evidence for the epic's composition.",
+    "limits": "King-list entry only; not an account of the epic. Dating of the historical Gilgamesh is not settled by this text. Verifier: researcher's range -2100..-1800 not stated by the source, set to null.",
+    "text": {
+      "work": "Sumerian King List",
+      "locator": "lines 95-133 (E-ana / Unug dynasty)",
+      "language": "Sumerian (quoted in English, ETCSL)",
+      "edition": "ETCSL t.2.1.1, translation page tr211",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "not dated here: Wikipedia 'Sumerian King List' says the composition was probably first created in the Sargonic period, oldest known copy Ur III (c. 2112-2004 BCE), later Old Babylonian versions; it gives no composition range"
+      },
+      "witness": "Ur III Sumerian King List (USKL), copied in the reign of Shulgi (2084-2037 BCE), possibly from Adab (Wikipedia). ETCSL composite and Old Babylonian copies; numerical data from ms. WB (Weld-Blundell prism)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Code of Hammurabi (Harper translation): Prologue",
+    "authors": "Harper, R. F.",
+    "year": 1904,
+    "venue": "Wikisource (University of Chicago Press, 1904)",
+    "url": "https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation)",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "the Code of Hammurabi prologue",
+    "quote": "to cause justice to prevail in the land, to destroy the wicked and the evil, to prevent the strong from oppressing the weak",
+    "summary": "Anu and Bel, having given Marduk rule over mankind and made Babylon great, call Hammurabi 'to cause justice to prevail in the land' and to enlighten the land like the Sun over the Black Head Race; the king presents himself as the gods' appointee.",
+    "limits": "Harper's 1904 title dates Hammurabi 'about 2250 B.C.', long obsolete; Harper's translation is superseded by Roth 1995 (not opened). Wikisource is a volunteer transcription.",
+    "text": {
+      "work": "Code of Hammurabi",
+      "locator": "Prologue, cols. i-ii",
+      "language": "Akkadian, Old Babylonian (quoted in English, Harper 1904)",
+      "edition": "R. F. Harper, The Code of Hammurabi, King of Babylon (Chicago: Univ. of Chicago Press, 1904), English translation, as transcribed on Wikisource",
+      "composition": {
+        "start": -1760,
+        "end": -1750,
+        "basis": "Hammurabi 'ruled from around 1792 to around 1750 BC (middle chronology)' and the stele is dated c. 1753 BC (Wikipedia 'Code of Hammurabi'); the prologue and laws were revised during the reign, so composition is a range inside it."
+      },
+      "witness": "Basalt stele (Louvre), rediscovered 1901 at Susa where it was taken as plunder; fragments of a second stele and over 50 manuscripts (Babylon, Nineveh, Assur, Nippur, Sippar, etc.) (Wikipedia 'Code of Hammurabi')."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Code of Hammurabi (Harper translation): Laws 1 and 2",
+    "authors": "Harper, R. F.",
+    "year": 1904,
+    "venue": "Wikisource (University of Chicago Press, 1904)",
+    "url": "https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation)",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "context",
+    "ask_addressed": "some laws of the Code of Hammurabi",
+    "quote": "but cannot prove it, he, the accuser, shall be put to death.",
+    "summary": "Law 1: a man who charges another with a capital crime and cannot prove it is himself put to death. Law 2: one accused of sorcery goes to the river; if the river overcomes him the accuser takes his house, and if he is shown innocent the accuser is put to death and the accused takes the accuser's house.",
+    "limits": "Harper's 1904 title dates Hammurabi 'about 2250 B.C.', long obsolete; Harper's translation is superseded by Roth 1995 (not opened). Wikisource is a volunteer transcription.",
+    "text": {
+      "work": "Code of Hammurabi",
+      "locator": "Laws 1-2",
+      "language": "Akkadian, Old Babylonian (quoted in English, Harper 1904)",
+      "edition": "R. F. Harper, The Code of Hammurabi, King of Babylon (Chicago: Univ. of Chicago Press, 1904), English translation, as transcribed on Wikisource",
+      "composition": {
+        "start": -1760,
+        "end": -1750,
+        "basis": "Hammurabi 'ruled from around 1792 to around 1750 BC (middle chronology)' and the stele is dated c. 1753 BC (Wikipedia 'Code of Hammurabi'); the prologue and laws were revised during the reign, so composition is a range inside it."
+      },
+      "witness": "Basalt stele (Louvre), rediscovered 1901 at Susa where it was taken as plunder; fragments of a second stele and over 50 manuscripts (Babylon, Nineveh, Assur, Nippur, Sippar, etc.) (Wikipedia 'Code of Hammurabi')."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Code of Hammurabi (Harper translation): Laws 196-199",
+    "authors": "Harper, R. F.",
+    "year": 1904,
+    "venue": "Wikisource (University of Chicago Press, 1904)",
+    "url": "https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation)",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "context",
+    "ask_addressed": "some laws of the Code of Hammurabi",
+    "quote": "If a man destroy the eye of another man, they shall destroy his eye.",
+    "summary": "Law 196 (eye for an eye) and 197 (bone for bone) apply to equals; for a freeman's eye or bone (198) a mana of silver is paid, and 199 deals with a man's slave. The laws distinguish ranks (equals, freeman, slave).",
+    "limits": "Harper's 1904 title dates Hammurabi 'about 2250 B.C.', long obsolete; Harper's translation is superseded by Roth 1995 (not opened). Wikisource is a volunteer transcription. 'Eye for eye' is lex talionis; this passage does not date the Mosaic parallel or show direction of influence.",
+    "text": {
+      "work": "Code of Hammurabi",
+      "locator": "Laws 196-199",
+      "language": "Akkadian, Old Babylonian (quoted in English, Harper 1904)",
+      "edition": "R. F. Harper, The Code of Hammurabi, King of Babylon (Chicago: Univ. of Chicago Press, 1904), English translation, as transcribed on Wikisource",
+      "composition": {
+        "start": -1760,
+        "end": -1750,
+        "basis": "Hammurabi 'ruled from around 1792 to around 1750 BC (middle chronology)' and the stele is dated c. 1753 BC (Wikipedia 'Code of Hammurabi'); the prologue and laws were revised during the reign, so composition is a range inside it."
+      },
+      "witness": "Basalt stele (Louvre), rediscovered 1901 at Susa where it was taken as plunder; fragments of a second stele and over 50 manuscripts (Babylon, Nineveh, Assur, Nippur, Sippar, etc.) (Wikipedia 'Code of Hammurabi')."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Code of Hammurabi: the 'Code' as legislation (scholarly debate)",
+    "authors": "Wikipedia (summarising Landsberger, Yaron, Van De Mieroop)",
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+    "kind": "skeptical",
+    "discipline": "Assyriology",
+    "stance": "context",
+    "ask_addressed": "the Code of Hammurabi: what kind of text it is",
+    "quote": "The strongest argument against the legislation theory, however, is that most judges appear to have paid the Code no attention.",
+    "summary": "Records the objection (from Landsberger 1950) that Mesopotamian courts did not cite the Code, plus Yaron's view that 'Code' is a 'persistent misnomer'; the laws may be scholarly or royal-ideological compilations, not statutes applied in court.",
+    "limits": "Encyclopedia summary; the original arguments were not opened. Wikipedia itself notes the debate is not settled. Verifier: stance lowered fails_to_support -> context; second-hand report of a scholarly argument (Wikipedia summarising Benno Landsberger and others), original not opened.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Hittite Gilgamesh, Introduction (back-cover summary): Gilgamesh fragments at Bogazkoy, Ugarit, Emar, Megiddo",
+    "authors": "Beckman, G.",
+    "year": 2019,
+    "venue": "Lockwood Press (JCS Supplemental Series 6), publisher's front-matter sample",
+    "url": "https://lockwoodpressonline.com/index.php/ebooks/catalog/download/10/17/3171?inline=1",
+    "kind": "secondary",
+    "discipline": "Hittitology",
+    "stance": "supports",
+    "ask_addressed": "Gilgamesh fragments found at Hattusa and Megiddo",
+    "quote": "fragments of versions of his tale at Boğazköy, Ugarit, Emar, and Megiddo",
+    "summary": "Beckman states that Akkadian fragments of Gilgamesh at Bogazkoy, Ugarit, Emar and Megiddo show the tale had reached the periphery of the cuneiform world in the Late Bronze Age, and that Hattusa has yielded more Gilgamesh sources than all other Late Bronze Age sites combined.",
+    "limits": "Publisher's promotional front matter, not the book's argument; the dates of individual tablets and Beckman's reasoning are not in this sample. Beckman's own edition is the standard (not fully opened).",
+    "strand": {
+      "from": "Mesopotamia (Babylonia)",
+      "to": "Hatti, Syria and Canaan (Hattusa, Ugarit, Emar, Megiddo)",
+      "carried": "writing",
+      "what": "the Gilgamesh epic as an Akkadian literary text",
+      "medium": "teaching",
+      "start": -1500,
+      "end": -1200,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Hittite Gilgamesh, Register of Texts (find-spots at Hattusa)",
+    "authors": "Beckman, G.",
+    "year": 2019,
+    "venue": "Lockwood Press (JCS Supplemental Series 6), publisher's front-matter sample",
+    "url": "https://lockwoodpressonline.com/index.php/ebooks/catalog/download/10/17/3171?inline=1",
+    "kind": "primary",
+    "discipline": "Hittitology",
+    "stance": "supports",
+    "ask_addressed": "find-spot evidence for Gilgamesh at Hattusa",
+    "quote": "KUB 37.128. George 2003: pls. 26–27 (Büyükkale H)",
+    "summary": "The register of CTH 341 gives find-spots: Akkadian Gilgamesh (KBo 32.128-133) from Temple 16, KUB 37.128 from Buyukkale H; Hurrian from Temple 1 and Buyukkaya; Hittite tablets 1-3 mostly from Temple 1, the Unterstadt, Buyukkale K and the Haus am Hang; many are 'unknown'.",
+    "limits": "Register only: no dates, no texts; the sample does not state the Hittite scribal context or which Akkadian copy is from Hattusa's own tradition. Find-spots 'unknown' for about half the manuscripts.",
+    "text": {
+      "work": "Gilgamesh (Hattusa manuscripts, CTH 341)",
+      "locator": "Register of Texts, CTH 341.I-III",
+      "language": "Akkadian, Hurrian, Hittite (cuneiform tablets; register in English)",
+      "edition": "G. Beckman, The Hittite Gilgamesh (Lockwood Press, 2019), Register of Texts (publisher's free preview PDF)",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Not given in the sample. Beckman says scholarly consensus puts the canonical epic in the Middle Babylonian period; Hattusa copies are Late Bronze Age imports."
+      },
+      "witness": "KBo 32.128 (+) 131 (+) 130, KBo 32.132, 129, 133 (Temple 16); KUB 37.128 (Buyukkale H); Hurrian KBo 51.228 etc. (Temple 1) and KUB 8.61 + KBo 8.144 (Buyukkaya); Hittite KUB 8.57 etc. (Unterstadt), KBo 10.47 (Temple 1 and Buyukkale K)."
+    },
+    "strand": {
+      "from": "Mesopotamia (Babylonia)",
+      "to": "Hittite Anatolia (Hattusa)",
+      "carried": "writing",
+      "what": "Gilgamesh tablets in Akkadian, with Hurrian and Hittite renderings",
+      "medium": "teaching",
+      "start": -1500,
+      "end": -1200,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Hittite Gilgamesh: scribal instruction at Hattusa",
+    "authors": "Beckman, G.",
+    "year": 2019,
+    "venue": "Lockwood Press (JCS Supplemental Series 6), publisher's front-matter sample",
+    "url": "https://lockwoodpressonline.com/index.php/ebooks/catalog/download/10/17/3171?inline=1",
+    "kind": "secondary",
+    "discipline": "Hittitology",
+    "stance": "supports",
+    "ask_addressed": "evidence that Mesopotamian literature travelled",
+    "quote": "The Gilgamesh tradition was imported to Hattusa for use in scribal instruction",
+    "summary": "Beckman's caution: at Hattusa the epic served scribal training, so tablets there show a curriculum text arriving; by itself that is not evidence of a readership or of influence on Hittite thought (my reading, not Beckman's words). The same sample notes the importation documents a Middle Babylonian stage for which Mesopotamia itself has few witnesses.",
+    "limits": "One sentence of a promotional summary; Beckman's full argument was not opened. Verifier: stance fails_to_support -> supports (the quote says the tradition was imported to Hattusa) and kind skeptical -> secondary; it is Beckman's own summary, not a sceptical source.",
+    "strand": {
+      "from": "Mesopotamia (Babylonia)",
+      "to": "Hittite Anatolia (Hattusa)",
+      "carried": "writing",
+      "what": "Gilgamesh as a scribal curriculum text",
+      "medium": "teaching",
+      "start": -1500,
+      "end": -1200,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Gilgamesh II 030 (P273198) artifact entry: the Megiddo tablet",
+    "authors": "Cuneiform Digital Library Initiative (CDLI)",
+    "year": 2023,
+    "venue": "CDLI (cdli.earth)",
+    "url": "https://cdli.earth/artifacts/273198",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "find-spot evidence for Gilgamesh at Megiddo",
+    "quote": "Literary tablet excavated in Uncertain (mod. Megiddo), dated to the Middle Babylonian (ca. 1400-1100 BC) period",
+    "summary": "The catalogue record of the fragment (Gilgamesh II, George 2003 edition) gives provenience as uncertain (modern Megiddo), museum number IAA 1955-0002 (Israel Antiquities Authority), Akkadian literary tablet, Middle Babylonian.",
+    "limits": "Catalogue record, not the excavation report; the find-spot is 'uncertain'. The first edition (Goetze and Levy 1959, 'Atiqot 2) was not opened. The record spells the museum 'Antiquties' (typo on the page). Verifier: strand directness lowered documented -> inferred; CDLI states 'Provenience uncertain (mod. Megiddo)'. The surface find at Megiddo in the 1950s is stated by the Goren et al. abstract, not CDLI; Goren et al. also report the clay is local, so the tablet itself was not imported.",
+    "text": {
+      "work": "Epic of Gilgamesh (Megiddo fragment, tablet II)",
+      "locator": "CDLI P273198, IAA 1955-0002",
+      "language": "Akkadian",
+      "edition": "CDLI artifact entry; George 2003 edition cited as primary",
+      "composition": {
+        "start": -1400,
+        "end": -1100,
+        "basis": "CDLI's date for the tablet (Middle Babylonian, ca. 1400-1100 BC) is the tablet's date, not the epic's composition."
+      },
+      "witness": "Tablet IAA 1955-0002; CDLI: provenience uncertain (mod. Megiddo). Goren et al. 2009 abstract: found in the 1950s on the surface at Megiddo."
+    },
+    "strand": {
+      "from": "Mesopotamia (Babylonia)",
+      "to": "Canaan (Megiddo area)",
+      "carried": "writing",
+      "what": "a Gilgamesh II tablet in Late Bronze Canaan",
+      "medium": "teaching",
+      "start": -1400,
+      "end": -1100,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "A provenance study of the Gilgamesh fragment from Megiddo",
+    "authors": "Goren, Y.; Mommsen, H.; Finkelstein, I.; Na'aman, N.",
+    "year": 2009,
+    "venue": "Archaeometry 51(5), 763-773",
+    "url": "https://cris.tau.ac.il/en/publications/a-provenance-study-of-the-gilgamesh-fragment-from-megiddo/",
+    "doi": "10.1111/j.1475-4754.2008.00437.x",
+    "kind": "skeptical",
+    "discipline": "Archaeometry",
+    "stance": "contradicts",
+    "ask_addressed": "find-spot evidence for Gilgamesh at Megiddo",
+    "quote": "The petrographic and NAA results indicate that the tablet was not Mesopotamian, but was written in southern Israel.",
+    "summary": "Abstract (Tel Aviv University record): a Late Bronze Age Gilgamesh fragment found in the 1950s on the surface at Megiddo was analysed by petrography and NAA and found to be local southern Israeli clay, not Mesopotamian. So the tablet was copied in the Levant, probably at a local scribal centre, not carried from Babylonia.",
+    "limits": "Only the abstract on a university repository page was opened; the full paper (Wiley) returned 403, so the clay-source argument (Gezer was reported elsewhere) is not verified here. It says the 'only first-class literary Mesopotamian text' found in Canaan.",
+    "strand": {
+      "from": "Mesopotamia (Babylonia)",
+      "to": "Canaan (southern Israel scribal centre)",
+      "carried": "writing",
+      "what": "Gilgamesh copied locally, not imported",
+      "medium": "teaching",
+      "start": -1400,
+      "end": -1100,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Amarna letters (overview): Akkadian as the language of diplomacy",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Amarna_letters",
+    "kind": "secondary",
+    "discipline": "Egyptology",
+    "stance": "supports",
+    "ask_addressed": "the Amarna letters (Akkadian diplomatic correspondence c. 1360 BCE)",
+    "quote": "the regional language of diplomacy for this period",
+    "summary": "Describes the Amarna archive of cuneiform tablets in Akkadian discovered about 1887 by local diggers at el-Amarna; letters from Kadashman-Enlil anchor Akhenaten's reign to the mid-14th century BCE; the archive also contains Mesopotamian myths (EA 356 Adapa, EA 357 Nergal and Ereshkigal).",
+    "limits": "Encyclopedia overview; used for the date and the archive's scope. Moran's translation (1992) and Rainey's edition (2014) are the standard but were not opened. The 1360 BCE date is approximate and depends on Egyptian chronology.",
+    "strand": {
+      "from": "Mesopotamia (Babylonian cuneiform)",
+      "to": "Egypt and the Levant (Amarna archive)",
+      "carried": "writing",
+      "what": "Akkadian and cuneiform as the language of diplomacy",
+      "medium": "court_or_empire",
+      "start": -1360,
+      "end": -1332,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Tell Amarna Tablets: Dusratta (Tushratta) of Mitanni to Amenophis III",
+    "authors": "Conder, C. R.",
+    "year": 1894,
+    "venue": "Palestine Exploration Fund; Internet Archive scan",
+    "url": "https://archive.org/download/tellamarnatablet00palerich/tellamarnatablet00palerich_djvu.txt",
+    "kind": "primary",
+    "discipline": "Egyptology",
+    "stance": "supports",
+    "ask_addressed": "the Amarna letters (diplomatic correspondence between Egypt, Mitanni, Hatti)",
+    "quote": "Now I have sent thee a chariot with two horses, a young man and a young woman",
+    "summary": "In Conder's translation the Mitannian king writes to the Pharaoh as 'my brother', reports defeating Hittite invaders, and sends gifts (a chariot, a young man and woman). Shows the brotherhood language and gift exchange of the Amarna correspondence.",
+    "limits": "Conder's 1893-94 translation is obsolete and carries his Hittite-Mongol theories; use Moran or Rainey for any claim about wording. Letter numbers (EA) not given in the passage; date in the reign of Amenhotep III is Conder's identification, not read from a modern edition.",
+    "text": {
+      "work": "Amarna letters (royal letters of Tushratta)",
+      "locator": "Conder 'Royal Letters', Dusratta's Letters (letter 9 B.M.)",
+      "language": "Akkadian (cuneiform; quoted in English, Conder 1894)",
+      "edition": "C. R. Conder, The Tell Amarna Tablets (London: Palestine Exploration Fund, 1894; Internet Archive scan)",
+      "composition": {
+        "start": -1360,
+        "end": -1332,
+        "basis": "Wikipedia 'Amarna letters': Kadashman-Enlil letters anchor the archive to the mid-14th century; the city was deserted c. 1332 BCE."
+      },
+      "witness": "Clay tablets from Tell el-Amarna, found about 1887, now in the British Museum etc."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "mesopotamia-primary-texts",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Tell el-Amarna Tablets in the British Museum: the Nergal and Irishkigal text",
+    "authors": "Bezold, C.; Budge, E. A. W.",
+    "year": 1892,
+    "venue": "British Museum, London; Internet Archive scan",
+    "url": "https://archive.org/download/tellelamarnatabl00bezo/tellelamarnatabl00bezo_djvu.txt",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "Mesopotamian literature found at Amarna",
+    "quote": "the account of the gods sending a messenger to their sister Irishkigal, offering to bring her to the place of their abode",
+    "summary": "The 1892 British Museum catalogue of the Amarna tablets describes a mutilated mythological text opening with the gods sending a messenger to their sister Irishkigal (Ereshkigal), and later a quarrel with her husband Nergal; a second fragment relates Adapa's breaking the South wind's wings.",
+    "limits": "A scholarly account from 1892: details of the translation are old and the page is OCR; that the tablets are Amarna myths is clear from the catalogue's collection, but the exact tablet numbers were not recorded here. Verifier: 'EA 357' was not on the page and was removed; the quote is Bezold's catalogue description of the text, not the tablet's words; 'scribal exercise' and the Adapa mention were not shown by the page and were dropped; strand medium teaching -> unknown.",
+    "text": {
+      "work": "Mythological text relating to Irishkigal (Tell el-Amarna tablet, BM catalogue no. 82)",
+      "locator": "BM catalogue no. 82 (Bezold 1892), description",
+      "language": "Akkadian (described in English, Bezold 1892)",
+      "edition": "C. Bezold and E. A. W. Budge, The Tell el-Amarna Tablets in the British Museum (London, 1892)",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "not dated here: the passage gives no composition date"
+      },
+      "witness": "Tell el-Amarna tablet fragment in the British Museum (Bezold's catalogue says the goddess is 'known only from the Tell el-Amarna tablets'); Amarna archive mid-14th c. BCE per Wikipedia 'Amarna letters'."
+    },
+    "strand": {
+      "from": "Mesopotamia (Babylonian scribal tradition)",
+      "to": "Egypt (Akhenaten's court at Amarna)",
+      "carried": "writing",
+      "what": "Mesopotamian myth of Irishkigal and Namtaru found in the Amarna archive",
+      "medium": "unknown",
+      "start": -1360,
+      "end": -1332,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  }
+]
