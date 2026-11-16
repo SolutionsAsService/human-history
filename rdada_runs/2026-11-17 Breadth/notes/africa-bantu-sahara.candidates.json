@@ -1,0 +1,720 @@
+[
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Ancient West African foragers in the context of African population history",
+  "authors": "Lipson M., Ribot I., Mallick S., Rohland N., Olalde I., et al., Reich D.",
+  "year": 2020,
+  "venue": "Nature 577: 665-670",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8386425/",
+  "doi": "10.1038/s41586-020-1929-1",
+  "kind": "primary",
+  "discipline": "Ancient DNA",
+  "stance": "context",
+  "ask_addressed": "Africa: what do linguistics, ancient DNA and archaeology show about the Bantu expansion (dates, routes, Lipson et al. 2020, Patin et al. 2017, Bostoen's work) and what is disputed?",
+  "quote": "implying that these individuals are not representative of the primary source population(s) ancestral to present-day Bantu speakers",
+  "summary": "Genome-wide data from four children buried c. 8000 and 3000 years ago at Shum Laka (Cameroon), in the probable Bantu homeland, show ancestry close to West-Central African hunter-gatherers, unlike most Niger-Congo speakers today. The authors say the results neither support nor contradict a central role for the Grassfields in Bantu origins.",
+  "limits": "Four individuals from one site; it does not date or route the Bantu expansion, and does not show who the Bantu source population was. It frames the Bantu spread as c. 3000-1500 BP on the strength of cited linguistic and archaeological work, not its own data.",
+  "strand": {
+   "from": "Bantu homeland (Cameroon/Nigeria borderlands)",
+   "to": "southern half of Africa",
+   "carried": "language",
+   "what": "Bantu languages and Bantu-associated ancestry",
+   "medium": "migration",
+   "start": -1000,
+   "end": 500,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Dispersals and genetic adaptation of Bantu-speaking populations in Africa and North America",
+  "authors": "Patin E., Lopez M., Grollemund R., Verdu P., Harmant C., et al., Quintana-Murci L.",
+  "year": 2017,
+  "venue": "Science 356: 543-546 (author copy, University of Porto repository)",
+  "url": "https://repositorio-aberto.up.pt/bitstream/10216/109265/1/Patin2017Science.pdf",
+  "doi": "10.1126/science.aal1988",
+  "kind": "primary",
+  "discipline": "Population genetics",
+  "stance": "supports",
+  "ask_addressed": "Africa: what do linguistics, ancient DNA and archaeology show about the Bantu expansion (dates, routes, Lipson et al. 2020, Patin et al. 2017, Bostoen's work) and what is disputed?",
+  "quote": "indicate that BSPs first moved southward through the rainforest before migrating toward eastern and southern Africa",
+  "summary": "Genotyping of 1318 individuals from 35 populations in western central Africa, with present-day data, favours the 'late-split' model: early Bantu speakers moved south through the equatorial rainforest before spreading east and south, admixing with local groups.",
+  "limits": "Inference from present-day genomes and admixture dating, not ancient DNA. The paper itself frames the expansion as c. 4000-5000 years ago and tests early-split vs late-split; it does not settle the route against the linguistic alternatives. Two-column PDF: quote confirmed on the extracted text.",
+  "strand": {
+   "from": "Bantu heartland (Nigeria/Cameroon frontier)",
+   "to": "western central, eastern and southern Africa",
+   "carried": "people",
+   "what": "Bantu-speaking populations and their genes, with local admixture",
+   "medium": "migration",
+   "start": -2500,
+   "end": null,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Bantu expansion shows that habitat alters the route and pace of human dispersals",
+  "authors": "Grollemund R., Branford S., Bostoen K., Meade A., Venditti C., Pagel M.",
+  "year": 2015,
+  "venue": "Proceedings of the National Academy of Sciences 112",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4629331/",
+  "doi": "10.1073/pnas.1503793112",
+  "kind": "primary",
+  "discipline": "Historical linguistics",
+  "stance": "supports",
+  "ask_addressed": "Africa: what do linguistics, ancient DNA and archaeology show about the Bantu expansion (dates, routes, Lipson et al. 2020, Patin et al. 2017, Bostoen's work) and what is disputed?",
+  "quote": "followed emerging savannah corridors, with rainforest habitats repeatedly imposing temporal barriers to movement",
+  "summary": "A dated phylogeny of about 400 Bantu languages is used to argue that the expansion out of West Central Africa, beginning about 5,000 years ago, followed savannah corridors and that entering rainforest delayed occupation by about 300 years.",
+  "limits": "Language phylogeny, not DNA or digs; the route depends on the tree topology, which Koile et al. 2022 contest. Co-author Bostoen is also a source in this brief.",
+  "strand": {
+   "from": "West Central Africa (Bantu homeland)",
+   "to": "Central, eastern and southern Africa",
+   "carried": "language",
+   "what": "Bantu language family",
+   "medium": "migration",
+   "start": -3000,
+   "end": null,
+   "directness": "inferred"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Phylogeographic analysis of the Bantu language expansion supports a rainforest route",
+  "authors": "Koile E., Greenhill S.J., Blasi D.E., Bouckaert R., Gray R.D.",
+  "year": 2022,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9372543/",
+  "doi": "10.1073/pnas.2112853119",
+  "kind": "alternative",
+  "discipline": "Historical linguistics",
+  "stance": "contradicts",
+  "ask_addressed": "Africa: what do linguistics, ancient DNA and archaeology show about the Bantu expansion (dates, routes, Lipson et al. 2020, Patin et al. 2017, Bostoen's work) and what is disputed?",
+  "quote": "supports the hypothesis of an expansion through Central African tropical forests at 4,420 BP (4,040 to 5,000 95% highest posterior density interval)",
+  "summary": "A phylogeographic analysis of the Bantu languages compares four hypotheses and favours an early passage through the rainforest, well before the Sangha River Interval savanna corridor opened (c. 2,500 BP), against the corridor model.",
+  "limits": "Computational reconstruction on a language tree and a chosen set of hypotheses; it is a rival to the savannah-corridor reading, not a settled correction. 'Contradicts' applies to the corridor-led route (Grollemund 2015 in the savannah reading), not to the expansion itself.",
+  "strand": {
+   "from": "Bantu homeland north of the rainforest",
+   "to": "Central African rainforest and beyond",
+   "carried": "language",
+   "what": "Bantu language family, route and timing",
+   "medium": "migration",
+   "start": -2470,
+   "end": null,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Introduction to a New Archaeology of the Bantu Expansion",
+  "authors": "Bostoen K., Coutros P.R.",
+  "year": null,
+  "venue": "Chapter 1 in An Archaeology of the Bantu Expansion (Routledge; CC-BY-NC-ND open chapter, Ghent University repository)",
+  "url": "https://backoffice.biblio.ugent.be/download/01K0HCDZ1Y0VS3PNG4QASJCTQK/01K21Y5TTXTZ70X0SKDSM3ZHXF",
+  "doi": "10.4324/9781032658148-1",
+  "kind": "secondary",
+  "discipline": "Archaeology",
+  "stance": "context",
+  "ask_addressed": "Africa: what do linguistics, ancient DNA and archaeology show about the Bantu expansion (dates, routes, Lipson et al. 2020, Patin et al. 2017, Bostoen's work) and what is disputed?",
+  "quote": "much uncertainty persists on the chronology and geography of the Bantu Expansion",
+  "summary": "A specialist overview says Central African archaeology does not contradict linguistics and genetics on a Bantu migration across the Congo rainforest, with sites suggesting roughly the first millennium BCE, but gaps remain. It lists open questions: farming in the rainforest, deforestation versus climate, and whether an Early/Late Iron Age hiatus marks population collapse.",
+  "limits": "Year not printed on the page I read (the chapter cites 2024 works, so 2024-25). Written by an author whose own project (BantuFirst) is discussed; it surveys rather than tests.",
+  "strand": {
+   "from": "Bantu homeland",
+   "to": "Congo rainforest",
+   "carried": "people",
+   "what": "early Bantu-speaking settlement of the Congo rainforest (archaeological horizon)",
+   "medium": "migration",
+   "start": -1000,
+   "end": 0,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Population collapse in Congo rainforest from 400 CE urges reassessment of the Bantu Expansion",
+  "authors": "Seidensticker D., Hubau W., Verschuren D., Fortes-Lima C., de Maret P., Schlebusch C.M., Bostoen K.",
+  "year": 2021,
+  "venue": "Science Advances 7",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7880602/",
+  "doi": "10.1126/sciadv.abd8352",
+  "kind": "skeptical",
+  "discipline": "Archaeology",
+  "stance": "contradicts",
+  "ask_addressed": "Africa: what do linguistics, ancient DNA and archaeology show about the Bantu expansion (dates, routes, Lipson et al. 2020, Patin et al. 2017, Bostoen's work) and what is disputed?",
+  "quote": "separated by a widespread population collapse between 400 and 600 CE followed by major resettlement centuries later",
+  "summary": "1149 radiocarbon dates tied to 115 pottery styles from 726 sites show two Iron Age phases split by a population collapse, and the authors conclude with genetic and linguistic evidence that the Bantu dispersal was 'spread-over-spread', not one continuous wave.",
+  "limits": "Disputed: Bostoen & Coutros (above) cite Clist and others who read the 14C hiatus as a research gap. The proposed epidemic cause is described as 'possible'.",
+  "strand": {
+   "from": "Early Iron Age Bantu-speaking communities of the Congo rainforest",
+   "to": "Late Iron Age resettlers of the same region",
+   "carried": "people",
+   "what": "re-settlement after a population collapse (spread-over-spread)",
+   "medium": "migration",
+   "start": 400,
+   "end": 600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Linguistic Evidence for the Introduction of Ironworking into Bantu-Speaking Africa",
+  "authors": "Vansina J.",
+  "year": 2006,
+  "venue": "History in Africa 33: 321-361 (Cambridge Core)",
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/41F1892C8476F077008D2C08AAA4085E/S0361541300004101a.pdf/div-class-title-linguistic-evidence-for-the-introduction-of-ironworking-into-bantu-speaking-africa-div.pdf",
+  "doi": null,
+  "kind": "secondary",
+  "discipline": "Historical linguistics",
+  "stance": "context",
+  "ask_addressed": "Iron working in West Africa (Nok) and its independence or diffusion?",
+  "quote": "cannot be dated more closely than between 840 and 420 BCE",
+  "summary": "Vansina says the independent-invention question is 'unresolved and hotly disputed' because the earliest West and West-Central African smelting sites (Taruga and others) cannot be dated more closely than 840-420 BCE on the flat radiocarbon curve; dates before 800 BCE would favour invention, later ones borrowing. He then argues from Bantu vocabulary that ironworking diffused from the north-west.",
+  "limits": "Published 2006, before the later Nok and Central African dating; the linguistic argument is his own. It does not decide independence versus diffusion.",
+  "strand": {
+   "from": "northern West and West-Central Africa (near the Nok area)",
+   "to": "Bantu-speaking Africa",
+   "carried": "technology",
+   "what": "iron smelting",
+   "medium": "unknown",
+   "start": -840,
+   "end": -420,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The Nok of Nigeria",
+  "authors": "Atwood R.",
+  "year": 2011,
+  "venue": "Archaeology (Archaeological Institute of America), vol. 64 no. 4",
+  "url": "https://archive.archaeology.org/1107/features/nok_nigeria_africa_terracotta.html",
+  "doi": null,
+  "kind": "secondary",
+  "discipline": "Archaeology",
+  "stance": "context",
+  "ask_addressed": "Iron working in West Africa (Nok) and its independence or diffusion?",
+  "quote": "Iron technology was probably brought across the Sahara by travelers from North Africa, says Rod McIntosh",
+  "summary": "A magazine feature reports a Nok furnace charcoal date of 519-410 BCE at Intini (Breunig) and sets Yale's McIntosh, who favours transmission across the Sahara, against those who suspect autonomous West African invention, possibly starting with the Nok.",
+  "limits": "Popular outlet: context only, not support for a dating. It reports others' views; the figures come from interviews, not from the excavation reports.",
+  "strand": {
+   "from": "North Africa (across the Sahara)",
+   "to": "Nok culture, central Nigeria",
+   "carried": "technology",
+   "what": "iron smelting",
+   "medium": "trade",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Iron metallurgy in Africa",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (encyclopedia, community-edited)",
+  "url": "https://en.wikipedia.org/wiki/Iron_metallurgy_in_Africa",
+  "doi": null,
+  "kind": "secondary",
+  "discipline": "Archaeometallurgy",
+  "stance": "context",
+  "ask_addressed": "Iron working in West Africa (Nok) and its independence or diffusion?",
+  "quote": "Opinion among African archaeologists is sharply divided.",
+  "summary": "The article summarises the diffusion (Carthage, Meroe) versus independent invention debate, the early Central African Oboui dates (c. 2000 BCE) that Clist calls disturbed while Holl, Craddock and Eggert defend them, and Eggert's 2014 view that independent invention is likely though inconclusive.",
+  "limits": "Community-edited tertiary summary, read only to map who disputes what; its cited authors (Clist 2012, Eggert 2014, Holl 2020) were not opened. Not support for any date.",
+  "strand": {
+   "from": "Mediterranean or Nile Valley (diffusionist view) or none (independent invention)",
+   "to": "sub-Saharan Africa",
+   "carried": "technology",
+   "what": "iron smelting",
+   "medium": "unknown",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Al-Bakri's Description of Ghana (Kitab al-masalik wa'l-mamalik), extract",
+  "authors": "al-Bakri (trans. in Levtzion N. & Hopkins J.F.P.)",
+  "year": 1068,
+  "venue": "Corpus of Early Arabic Sources for West African History (CUP 1981), extract in an AUI course handout",
+  "url": "https://my.aui.ma/ICS/icsfs/Arab_Sources_on_Medieval_West_Africa.pdf?target=b1046592-a60d-4640-b35a-661239617e49",
+  "doi": null,
+  "kind": "primary",
+  "discipline": "Medieval Arabic geography",
+  "stance": "supports",
+  "ask_addressed": "Primary texts on trans-Saharan trade and Islam in West Africa (al-Bakri 1068, Ibn Battuta on Mali 1352, Ibn Khaldun)",
+  "quote": "The king's interpreters, the official in charge of his treasury and the majority of his ministers are Muslims.",
+  "summary": "Describes Ghana as two towns, one Muslim with twelve mosques, one the king's, with a mosque for Muslims at court; the king's officials are Muslims while the king and his people keep their traditional religion.",
+  "limits": "A translated excerpt with ellipses via a handout, not the full text; al-Bakri compiled from reports. Shows Muslim presence at court, not a conversion of the ruler.",
+  "text": {
+   "work": "Kitab al-masalik wa'l-mamalik (Book of Highways and Kingdoms)",
+   "locator": "description of Ghana, two towns, mosques and Muslim officials (Levtzion & Hopkins pp. 79-81)",
+   "language": "Arabic (quoted in English as printed in the Levtzion & Hopkins Corpus extract)",
+   "edition": "Course handout 'Early Arab Accounts of West Africa' (Al Akhawayn University), reproducing the extract from Levtzion & Hopkins, Corpus of Early Arabic Sources for West African History (CUP 1981), pp. 79-81; ellipses are the handout's",
+   "composition": {
+    "start": 1068,
+    "end": 1068,
+    "basis": "Wikipedia 'Al-Bakri' (opened): 'composed in 1068', compiled from literature and reports of merchants and travellers (it cites Levtzion & Hopkins pp. 62-63); the handout dates the Ghana description 'mid-11th Century'"
+   },
+   "witness": "Not established from any page opened (manuscript tradition not checked)"
+  },
+  "strand": {
+   "from": "Muslim merchants and North Africa",
+   "to": "Ghana (royal court and a Muslim town)",
+   "carried": "religion",
+   "what": "Islam among traders and court officials, beside the king's traditional cult",
+   "medium": "trade",
+   "start": 1000,
+   "end": 1068,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Al-Bakri on the salt and gold of Ghana (Kitab al-masalik wa'l-mamalik), extract",
+  "authors": "al-Bakri (trans. in Levtzion N. & Hopkins J.F.P.)",
+  "year": 1068,
+  "venue": "Corpus of Early Arabic Sources for West African History (CUP 1981), extract in an AUI course handout",
+  "url": "https://my.aui.ma/ICS/icsfs/Arab_Sources_on_Medieval_West_Africa.pdf?target=b1046592-a60d-4640-b35a-661239617e49",
+  "doi": null,
+  "kind": "primary",
+  "discipline": "Medieval Arabic geography",
+  "stance": "supports",
+  "ask_addressed": "Primary texts on trans-Saharan trade and Islam in West Africa (al-Bakri 1068, Ibn Battuta on Mali 1352, Ibn Khaldun)",
+  "quote": "On every donkey-load of salt when it is brought into the country their king levies one golden dinar",
+  "summary": "The same handout passage says the king taxes salt coming in and out at one and two dinars per donkey-load, and that the best gold comes from Ghiyaru, 18 days from the king's town, in lands of the Sudan.",
+  "limits": "Describes the Ghana-side levy on trans-Saharan goods; it does not give volumes, dates of the trade's start or the route. Translated excerpt only.",
+  "text": {
+   "work": "Kitab al-masalik wa'l-mamalik (Book of Highways and Kingdoms)",
+   "locator": "salt levy and gold of Ghiyaru (Levtzion & Hopkins pp. 79-81)",
+   "language": "Arabic (quoted in English as printed in the Levtzion & Hopkins Corpus extract)",
+   "edition": "Course handout 'Early Arab Accounts of West Africa' (Al Akhawayn University), reproducing the extract from Levtzion & Hopkins, Corpus of Early Arabic Sources for West African History (CUP 1981), pp. 79-81; ellipses are the handout's",
+   "composition": {
+    "start": 1068,
+    "end": 1068,
+    "basis": "Wikipedia 'Al-Bakri' (opened): 'composed in 1068', compiled from literature and reports of merchants and travellers (it cites Levtzion & Hopkins pp. 62-63); the handout dates the Ghana description 'mid-11th Century'"
+   },
+   "witness": "Not established from any page opened (manuscript tradition not checked)"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Ibn Battuta's Travels in Africa (Rihla, Mali section; Gibb translation, excerpts with notes)",
+  "authors": "Ibn Battuta (trans. Gibb H.A.R.); intro and notes by Terry J.",
+  "year": 1355,
+  "venue": "Humanities LibreTexts, The Westminster Schools course page (2021 notes)",
+  "url": "https://human.libretexts.org/Courses/The_Westminster_Schools/Ibn_Battuta's_Travels_in_Africa",
+  "doi": null,
+  "kind": "primary",
+  "discipline": "Medieval Arabic travel literature",
+  "stance": "supports",
+  "ask_addressed": "Primary texts on trans-Saharan trade and Islam in West Africa (al-Bakri 1068, Ibn Battuta on Mali 1352, Ibn Khaldun)",
+  "quote": "these people are Muslims, punctilious in observing the hours of prayer, studying books of law, and memorizing the Koran.",
+  "summary": "Ibn Battuta, in Mali from June 1352 to February 1353, reports observant Muslims who study law and the Koran, yet notes that women do not veil and that inheritance runs through the sister's son, which he sets against Muslim norms.",
+  "limits": "A traveller's account dictated years later; an excerpted Gibb (1929) translation on a teaching page, not the full Rihla or the Hakluyt edition. Describes practice in Mali towns, not how Islam arrived.",
+  "text": {
+   "work": "Rihla (A Donation to those interested in the Curiosities of the Cities and Marvels of the Ways)",
+   "locator": "Mali section (Gibb 1929, pp. 323-335 per the page), on the people of Mali and their religion",
+   "language": "Arabic (quoted in English, Gibb)",
+   "edition": "H.A.R. Gibb, Ibn Battuta: Travels in Asia and Africa 1325-1354 (London 1929), as excerpted on the LibreTexts page",
+   "composition": {
+    "start": 1355,
+    "end": 1355,
+    "basis": "The page quotes the colophon: dictation finished 3 Dhu'l-hijja 756 [December 9, 1355]; the stay in Mali was 28 June 1352 to 27 February 1353"
+   },
+   "witness": "Not established from the page opened"
+  },
+  "strand": {
+   "from": "Muslim North Africa and trans-Saharan traders",
+   "to": "Mali",
+   "carried": "religion",
+   "what": "Islamic practice and learning, with local customs kept",
+   "medium": "trade",
+   "start": 1352,
+   "end": 1353,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Ibn Battuta at the salt mines of Taghaza (Rihla; Gibb translation, excerpt)",
+  "authors": "Ibn Battuta (trans. Gibb H.A.R.); notes by Terry J.",
+  "year": 1355,
+  "venue": "Humanities LibreTexts, The Westminster Schools course page",
+  "url": "https://human.libretexts.org/Courses/The_Westminster_Schools/Ibn_Battuta's_Travels_in_Africa",
+  "doi": null,
+  "kind": "primary",
+  "discipline": "Medieval Arabic travel literature",
+  "stance": "supports",
+  "ask_addressed": "Primary texts on trans-Saharan trade and Islam in West Africa (al-Bakri 1068, Ibn Battuta on Mali 1352, Ibn Khaldun)",
+  "quote": "we reached Taghaza, an unattractive village, with the curious feature that its houses and mosques are built of blocks of salt",
+  "summary": "Describes the 25-day desert stage from Sijilmasa to the salt-mining oasis of Taghaza on the trans-Saharan caravan road, where salt slabs are carried by camel.",
+  "limits": "One travel stop in 1352, not the origin or scale of the trade; excerpted translation on a teaching page.",
+  "text": {
+   "work": "Rihla",
+   "locator": "Taghaza, on the road from Sijilmasa to Walata",
+   "language": "Arabic (quoted in English, Gibb)",
+   "edition": "Gibb 1929 translation as excerpted on the LibreTexts page",
+   "composition": {
+    "start": 1355,
+    "end": 1355,
+    "basis": "Colophon quoted on the page: dictation finished 9 December 1355"
+   },
+   "witness": "Not established from the page opened"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The Muqaddimah (Kitab al-Ibar, introduction): Ghana, Takrur and the Mali people",
+  "authors": "Ibn Khaldun (trans. Rosenthal F.)",
+  "year": 1377,
+  "venue": "The Muqaddimah (Bollingen 1958); PDF copy hosted on traditionalhikma.com (copyright status unclear)",
+  "url": "https://traditionalhikma.com/wp-content/uploads/2015/08/The-Muqaddimah-by-Ibn-Khaldun-Translated-by-Franz-Rosenthal.pdf",
+  "doi": null,
+  "kind": "primary",
+  "discipline": "Medieval Arabic historiography",
+  "stance": "supports",
+  "ask_addressed": "Primary texts on trans-Saharan trade and Islam in West Africa (al-Bakri 1068, Ibn Battuta on Mali 1352, Ibn Khaldun)",
+  "quote": "At this time the dynasty has disappeared, and Ghanah belongs to the Mali ruler.",
+  "summary": "In his geography of the first zone, Ibn Khaldun says Sila, Takrur and Ghanah along the Sudanese Nile all belong to the Mali people, a Negro nation, to whom Moroccan merchants travel; Ghana's former 'Alid dynasty has disappeared.",
+  "limits": "A late-14th-century compilation written decades after Mali's peak and from North African informants; the geography is schematic. Rosenthal's translation, read from an unofficial PDF copy.",
+  "text": {
+   "work": "Muqaddimah (introduction to the Kitab al-Ibar)",
+   "locator": "geography of the first section of the first zone (Rosenthal transl.; page number not recorded)",
+   "language": "Arabic (quoted in English, Rosenthal)",
+   "edition": "Franz Rosenthal, The Muqaddimah: An Introduction to History (Bollingen 1958), PDF copy",
+   "composition": {
+    "start": 1377,
+    "end": 1377,
+    "basis": "Rosenthal's translation of the author's note: the first part was drafted 'in a period of five months ending in the middle of the year 779 [November, 1377]', then revised"
+   },
+   "witness": "Not established from the PDF opened"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The Muqaddimah (Ibn Khaldun) on the gold of the Sudan",
+  "authors": "Ibn Khaldun (trans. Rosenthal F.)",
+  "year": 1377,
+  "venue": "The Muqaddimah (Bollingen 1958); PDF copy hosted on traditionalhikma.com",
+  "url": "https://traditionalhikma.com/wp-content/uploads/2015/08/The-Muqaddimah-by-Ibn-Khaldun-Translated-by-Franz-Rosenthal.pdf",
+  "doi": null,
+  "kind": "primary",
+  "discipline": "Medieval Arabic historiography",
+  "stance": "supports",
+  "ask_addressed": "Primary texts on trans-Saharan trade and Islam in West Africa (al-Bakri 1068, Ibn Battuta on Mali 1352, Ibn Khaldun)",
+  "quote": "The only gold mine about whose existence in these regions we have information, lies in the Sudan country",
+  "summary": "Arguing that the wealth of Eastern peoples is not due to gold mines, Ibn Khaldun adds that the only gold mine he knows of in these regions is in the Sudan country, nearest to the Maghrib.",
+  "limits": "An incidental remark in an argument about prosperity; not a description of the gold trade, and 'Sudan' is his term for the land of the blacks. Unofficial PDF copy.",
+  "text": {
+   "work": "Muqaddimah",
+   "locator": "discussion of the prosperity of the East (page number not recorded in the PDF text)",
+   "language": "Arabic (quoted in English, Rosenthal)",
+   "edition": "Rosenthal 1958, PDF copy",
+   "composition": {
+    "start": 1377,
+    "end": 1377,
+    "basis": "Rosenthal's translation of the author's note: first part drafted over five months ending mid-779 AH [November 1377]"
+   },
+   "witness": "Not established from the PDF opened"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The Periplus of the Erythraean Sea, sections 15-17 (Rhapta and Azania)",
+  "authors": "Anonymous (trans. Schoff W.H.)",
+  "year": 1912,
+  "venue": "Internet Archive OCR text of Schoff's 1912 translation and commentary",
+  "url": "https://archive.org/stream/periplusoferythr00scho/periplusoferythr00scho_djvu.txt",
+  "doi": null,
+  "kind": "primary",
+  "discipline": "Greek geography",
+  "stance": "supports",
+  "ask_addressed": "the Periplus of the Erythraean Sea on the East African coast",
+  "quote": "using Arab captains and agents, who are familiar with the natives and intermarry with them",
+  "summary": "The text places Rhapta as the last market-town of Azania, exporting ivory and tortoise-shell, held under the chief of Muza in southern Arabia, whose captains and agents intermarry with the local people and know the language.",
+  "limits": "Schoff's 1912 translation, which Wikipedia's article says a later editor (Eggermont, 1960) judged to rest on an untrustworthy edition. Rhapta's location is not fixed by this text. The page shows Arabian traders, not what passed to the coast beyond trade goods.",
+  "text": {
+   "work": "Periplus Maris Erythraei (Periplus of the Erythraean Sea)",
+   "locator": "sections 15-17 (Schoff numbering)",
+   "language": "Greek (quoted in English, Schoff 1912)",
+   "edition": "W.H. Schoff, The Periplus of the Erythraean Sea (1912), OCR from the Internet Archive",
+   "composition": {
+    "start": 50,
+    "end": 70,
+    "basis": "Schoff argues it was written before Titus' campaign of AD 70 and dates it c. AD 60; Wikipedia's article (opened) says dates from the 1st to 3rd centuries were proposed and a mid-first-century date is now most accepted"
+   },
+   "witness": "Wikipedia (opened): the 10th-century Byzantine manuscript on which the text rests; I did not examine it"
+  },
+  "strand": {
+   "from": "southern Arabia (Muza)",
+   "to": "East African coast (Rhapta, Azania)",
+   "carried": "people",
+   "what": "Arab captains and agents trading and intermarrying on the coast",
+   "medium": "trade",
+   "start": 50,
+   "end": 70,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Socrates Scholasticus, Ecclesiastical History 1.19 (Frumentius, Edesius and Rufinus)",
+  "authors": "Socrates Scholasticus (trans. in NPNF series 2, vol. 2)",
+  "year": null,
+  "venue": "New Advent (Church Fathers, NPNF2-02)",
+  "url": "https://www.newadvent.org/fathers/26011.htm",
+  "doi": null,
+  "kind": "primary",
+  "discipline": "Late-antique church history",
+  "stance": "supports",
+  "ask_addressed": "Aksum's adoption of Christianity (Ezana inscriptions; Rufinus)",
+  "quote": "Rufinus assures us that he heard these facts from Edesius, who was afterwards ordained to the priesthood at Tyre",
+  "summary": "Socrates tells how Meropius's youthful kinsmen, Edesius and Frumentius, were seized, served the Indian king, and Frumentius asked Athanasius at Alexandria for a bishop, then returned as bishop. He names Rufinus as having had the story from Edesius.",
+  "limits": "I could not open Rufinus's own Ecclesiastical History (10.9-10), only a later retelling that names it as source. 'Indians' here is the interior India of the text, taken by scholars to be Aksum (Rukuni 2021); Socrates writes a century after the events.",
+  "text": {
+   "work": "Historia Ecclesiastica (Socrates Scholasticus)",
+   "locator": "Book 1, chapter 19",
+   "language": "Greek (quoted in English, NPNF translation)",
+   "edition": "NPNF series 2, as hosted by New Advent",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "Wikipedia 'Socrates of Constantinople' (opened) gives his life as c. 380 to after 439; no composition date was read on an opened page"
+   },
+   "witness": "Not established from the page opened"
+  },
+  "strand": {
+   "from": "Roman Tyre and Alexandria",
+   "to": "Aksum (the 'India' of the text)",
+   "carried": "religion",
+   "what": "Christian worship and a bishop for Aksum through Frumentius",
+   "medium": "teaching",
+   "start": 330,
+   "end": 350,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Negus Ezana: Revisiting the Christianisation of Aksum (quoting Ezana's Greek inscription)",
+  "authors": "Rukuni R.",
+  "year": 2021,
+  "venue": "Verbum et Ecclesia 42(1)",
+  "url": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052021000100001",
+  "doi": "10.4102/ve.v42i1.2083",
+  "kind": "secondary",
+  "discipline": "Church history",
+  "stance": "supports",
+  "ask_addressed": "Aksum's adoption of Christianity (Ezana inscriptions; Rufinus)",
+  "quote": "In the faith of God and the Power of the Father, and the Holy Ghost who have saved my kingdom.",
+  "summary": "Quotes the Christian Greek inscription of Ezana (after Anfray, Caquot and Nautin 1970) as the clearest evidence of his Christianity, with a pseudo-Sabaean and a Ge'ez version. The author dates the pagan phase to c. 325-333 CE (Munro-Hay) and 333 as a terminus post quem for Christian titulature (Petrides).",
+  "limits": "An English rendering quoted by a secondary article; I did not read the Greek or the stone. The Ge'ez version is called vague or 'pagan-neutral', and Rukuni argues for a Judaic reading of 'Lord of Heaven'.",
+  "text": {
+   "work": "Ezana's Greek inscription (Aksum; DAE 11 / Anfray, Caquot & Nautin 1970)",
+   "locator": "Greek text as quoted in the article",
+   "language": "Greek (quoted in English as rendered in Rukuni 2021)",
+   "edition": "Rukuni 2021, citing Anfray, Caquot & Nautin, Journal des savants 1970, p. 266 (the Persee page for that paper was opened but gave no text)",
+   "composition": {
+    "start": 333,
+    "end": 360,
+    "basis": "Rukuni 2021: Petrides gives 333 CE as the date of the royal acceptance of Christianity, a terminus post quem for Christian titulature; Munro-Hay puts the pagan reign c. 325-333; inscription dates of 349, 355 and 360 are mentioned"
+   },
+   "witness": "Monumental stone inscription; not examined"
+  },
+  "strand": {
+   "from": "Roman and Syrian Christian merchants and Frumentius",
+   "to": "Aksumite court under Ezana",
+   "carried": "religion",
+   "what": "Christianity as the king's declared faith",
+   "medium": "court_or_empire",
+   "start": 333,
+   "end": 360,
+   "directness": "documented"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Negus Ezana: Revisiting the Christianisation of Aksum (doubts about the conversion)",
+  "authors": "Rukuni R.",
+  "year": 2021,
+  "venue": "Verbum et Ecclesia 42(1)",
+  "url": "https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052021000100001",
+  "doi": "10.4102/ve.v42i1.2083",
+  "kind": "skeptical",
+  "discipline": "Church history",
+  "stance": "fails_to_support",
+  "ask_addressed": "Aksum's adoption of Christianity (Ezana inscriptions; Rufinus)",
+  "quote": "There appears to be debate regarding the dating and actual eventuality of the conversion of Ezana to Christianity.",
+  "summary": "Sets out sceptical readings: that 'Lord of Heaven' is a pagan or Judaic phrase, that there were two Ezanas with the Christian coins from a later king, and that Constantius's letter shows Ezana was not yet Nicene. The author rebuts some of these.",
+  "limits": "The sceptical arguments are reported through a single author who partly rebuts them; the primary inscriptions and coins were not examined.",
+  "strand": {
+   "from": "Roman and Syrian Christian merchants and Frumentius",
+   "to": "Aksumite court under Ezana",
+   "carried": "religion",
+   "what": "whether and when Ezana adopted Christianity",
+   "medium": "court_or_empire",
+   "start": 325,
+   "end": 360,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "africa-bantu-sahara",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Koumbi Saleh",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (encyclopedia, community-edited)",
+  "url": "https://en.wikipedia.org/wiki/Koumbi_Saleh",
+  "doi": null,
+  "kind": "skeptical",
+  "discipline": "Archaeology",
+  "stance": "fails_to_support",
+  "ask_addressed": "Primary texts on trans-Saharan trade and Islam in West Africa (al-Bakri 1068, Ibn Battuta on Mali 1352, Ibn Khaldun)",
+  "quote": "no inscription to unambiguously identify the site as that of capital of Ghana",
+  "summary": "Says the excavated Muslim town at Koumbi Saleh, with a congregational mosque, matches al-Bakri's description only by inference: no inscription identifies it as Ghana's capital and the king's town has not been found.",
+  "limits": "Community-edited summary; the excavation reports it relies on were not opened. Context only for the limit of matching al-Bakri's text to a site."
+ }
+]
