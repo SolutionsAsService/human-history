@@ -1,0 +1,669 @@
+[
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "The Instruction of Amen-em-apt, son of Kanakht (Chapter 1)",
+  "authors": "Van den Dungen, W.",
+  "year": 2016,
+  "venue": "maat.sofiatopia.org (Ancient Egyptian Readings)",
+  "url": "https://maat.sofiatopia.org/amen_em_apt.htm",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: the Instruction of Amenemope (chapters 1-3, 9-10 compared by scholars with Proverbs)",
+  "quote": "Give your ears, hear the sayings, give your heart to understand them.",
+  "summary": "Opening charge of the Instruction. Compare Proverbs 22:17 'Incline your ear and listen to the words of the sages'. Both open by commanding the hearer to listen and to store the words within.",
+  "limits": "Modern English rendering by one translator, not a scholarly edition with apparatus; verify against Griffith JEA 12 (1926) or Lichtheim.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Instruction of Amenemope (Teaching of Amenemope, son of Kanakht)",
+   "locator": "Chapter 1",
+   "language": "Egyptian (Middle Egyptian, hieratic), quoted in English",
+   "edition": "Wim van den Dungen, translation in 'Ancient Egyptian Readings' (2016), as published free at maat.sofiatopia.org; chapter numbers as in the page",
+   "composition": {
+    "start": -1300,
+    "end": -1075,
+    "basis": "Ramesside (c. 1292-1075 BCE) per the translator's page; Ruffle (Tyndale Bulletin 1975) argues for composition before 1000 BCE and notes an XVIIIth Dynasty date would be acceptable on the Stockholm and Cairo copies. Contested."
+   },
+   "witness": "Papyrus BM 10474 (British Museum, acquired by Budge 1888), hieratic, dated 950-650 BCE by Ruffle; Cairo ostracon (Cerny: late XXIst/early XXIInd Dyn.) and Stockholm papyrus fragments carry parts"
+  },
+  "strand": {
+   "from": "Egypt (Ramesside wisdom literature)",
+   "to": "Israelite wisdom (Proverbs 22:17-24:22)",
+   "carried": "text",
+   "what": "Sayings of the 'thirty chapters' Amenemope reflected in Proverbs 22-24",
+   "medium": "text",
+   "start": -1300,
+   "end": -600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "The Instruction of Amen-em-apt, son of Kanakht (Chapter 2)",
+  "authors": "Van den Dungen, W.",
+  "year": 2016,
+  "venue": "maat.sofiatopia.org (Ancient Egyptian Readings)",
+  "url": "https://maat.sofiatopia.org/amen_em_apt.htm",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: the Instruction of Amenemope (chapters 1-3, 9-10 compared by scholars with Proverbs)",
+  "quote": "Beware of robbing a poor wretch, of attacking a cripple.",
+  "summary": "Chapter 2 forbids robbing the poor. The usual comparison is Proverbs 22:22 'Do not rob the wretched because they are wretched'.",
+  "limits": "The two share the prohibition and the vocabulary of 'wretched/poor' in translation only; Ruffle accepts this pair, Brunet counts it among five of eleven. Not proof of borrowing.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Instruction of Amenemope (Teaching of Amenemope, son of Kanakht)",
+   "locator": "Chapter 2",
+   "language": "Egyptian (Middle Egyptian, hieratic), quoted in English",
+   "edition": "Wim van den Dungen, translation in 'Ancient Egyptian Readings' (2016), as published free at maat.sofiatopia.org; chapter numbers as in the page",
+   "composition": {
+    "start": -1300,
+    "end": -1075,
+    "basis": "Ramesside (c. 1292-1075 BCE) per the translator's page; Ruffle (Tyndale Bulletin 1975) argues for composition before 1000 BCE and notes an XVIIIth Dynasty date would be acceptable on the Stockholm and Cairo copies. Contested."
+   },
+   "witness": "Papyrus BM 10474 (British Museum, acquired by Budge 1888), hieratic, dated 950-650 BCE by Ruffle; Cairo ostracon (Cerny: late XXIst/early XXIInd Dyn.) and Stockholm papyrus fragments carry parts"
+  },
+  "strand": {
+   "from": "Egypt (Ramesside wisdom literature)",
+   "to": "Israelite wisdom (Proverbs 22:17-24:22)",
+   "carried": "text",
+   "what": "Sayings of the 'thirty chapters' Amenemope reflected in Proverbs 22-24",
+   "medium": "text",
+   "start": -1300,
+   "end": -600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "The Instruction of Amen-em-apt, son of Kanakht (Chapter 3 and Chapter 9)",
+  "authors": "Van den Dungen, W.",
+  "year": 2016,
+  "venue": "maat.sofiatopia.org (Ancient Egyptian Readings)",
+  "url": "https://maat.sofiatopia.org/amen_em_apt.htm",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: the Instruction of Amenemope (chapters 1-3, 9-10 compared by scholars with Proverbs)",
+  "quote": "Do not befriend the heated man, nor approach him for conversation.",
+  "summary": "Chapter 9 warns against the 'heated man' (hot-tempered); chapter 3 has 'Do not start a quarrel with a hot-mouthed man'. Compare Proverbs 22:24 'Make no friendship with an angry man'.",
+  "limits": "Ruffle (p. 63-64) notes some parallels only 'work' when Proverbs is set beside an Amenemope passage with a large gap between them.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Instruction of Amenemope (Teaching of Amenemope, son of Kanakht)",
+   "locator": "Chapter 9 (cf. Chapter 3)",
+   "language": "Egyptian (Middle Egyptian, hieratic), quoted in English",
+   "edition": "Wim van den Dungen, translation in 'Ancient Egyptian Readings' (2016), as published free at maat.sofiatopia.org; chapter numbers as in the page",
+   "composition": {
+    "start": -1300,
+    "end": -1075,
+    "basis": "Ramesside (c. 1292-1075 BCE) per the translator's page; Ruffle (Tyndale Bulletin 1975) argues for composition before 1000 BCE and notes an XVIIIth Dynasty date would be acceptable on the Stockholm and Cairo copies. Contested."
+   },
+   "witness": "Papyrus BM 10474 (British Museum, acquired by Budge 1888), hieratic, dated 950-650 BCE by Ruffle; Cairo ostracon (Cerny: late XXIst/early XXIInd Dyn.) and Stockholm papyrus fragments carry parts"
+  },
+  "strand": {
+   "from": "Egypt (Ramesside wisdom literature)",
+   "to": "Israelite wisdom (Proverbs 22:17-24:22)",
+   "carried": "text",
+   "what": "Sayings of the 'thirty chapters' Amenemope reflected in Proverbs 22-24",
+   "medium": "text",
+   "start": -1300,
+   "end": -600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "The Instruction of Amen-em-apt, son of Kanakht (Chapter 6)",
+  "authors": "Van den Dungen, W.",
+  "year": 2016,
+  "venue": "maat.sofiatopia.org (Ancient Egyptian Readings)",
+  "url": "https://maat.sofiatopia.org/amen_em_apt.htm",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: the Instruction of Amenemope (chapters 1-3, 9-10 compared by scholars with Proverbs)",
+  "quote": "Do not move the markers on the borders of fields.",
+  "summary": "Boundary-marker prohibition. Compare Proverbs 22:28 'Do not remove the ancient boundary stone' and 23:10. The boundary-marker law is also widely attested outside both texts.",
+  "limits": "Boundary-stone prohibitions are a stock motif of ancient Near Eastern law; the parallel alone shows no route.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Instruction of Amenemope (Teaching of Amenemope, son of Kanakht)",
+   "locator": "Chapter 6",
+   "language": "Egyptian (Middle Egyptian, hieratic), quoted in English",
+   "edition": "Wim van den Dungen, translation in 'Ancient Egyptian Readings' (2016), as published free at maat.sofiatopia.org; chapter numbers as in the page",
+   "composition": {
+    "start": -1300,
+    "end": -1075,
+    "basis": "Ramesside (c. 1292-1075 BCE) per the translator's page; Ruffle (Tyndale Bulletin 1975) argues for composition before 1000 BCE and notes an XVIIIth Dynasty date would be acceptable on the Stockholm and Cairo copies. Contested."
+   },
+   "witness": "Papyrus BM 10474 (British Museum, acquired by Budge 1888), hieratic, dated 950-650 BCE by Ruffle; Cairo ostracon (Cerny: late XXIst/early XXIInd Dyn.) and Stockholm papyrus fragments carry parts"
+  },
+  "strand": {
+   "from": "Egypt (Ramesside wisdom literature)",
+   "to": "Israelite wisdom (Proverbs 22:17-24:22)",
+   "carried": "text",
+   "what": "Sayings of the 'thirty chapters' Amenemope reflected in Proverbs 22-24",
+   "medium": "text",
+   "start": -1300,
+   "end": -600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "The Instruction of Amen-em-apt, son of Kanakht (Chapter 30, epilogue)",
+  "authors": "Van den Dungen, W.",
+  "year": 2016,
+  "venue": "maat.sofiatopia.org (Ancient Egyptian Readings)",
+  "url": "https://maat.sofiatopia.org/amen_em_apt.htm",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: the Instruction of Amenemope (chapters 1-3, 9-10 compared by scholars with Proverbs)",
+  "quote": "Look to these thirty chapters : they inform, they educate, they are the foremost of all books",
+  "summary": "The epilogue names the thirty chapters; the Hebrew in Proverbs 22:20 (shilshom, 'threefold' in JPS; 'excellent things' in KJV) has been emended to 'thirty' by those arguing dependence.",
+  "limits": "The Hebrew reading of 22:20 is uncertain; the emendation is a scholarly proposal, not the transmitted text. Ruffle discusses it as the crux of the debate.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Instruction of Amenemope (Teaching of Amenemope, son of Kanakht)",
+   "locator": "Chapter 30",
+   "language": "Egyptian (Middle Egyptian, hieratic), quoted in English",
+   "edition": "Wim van den Dungen, translation in 'Ancient Egyptian Readings' (2016), as published free at maat.sofiatopia.org; chapter numbers as in the page",
+   "composition": {
+    "start": -1300,
+    "end": -1075,
+    "basis": "Ramesside (c. 1292-1075 BCE) per the translator's page; Ruffle (Tyndale Bulletin 1975) argues for composition before 1000 BCE and notes an XVIIIth Dynasty date would be acceptable on the Stockholm and Cairo copies. Contested."
+   },
+   "witness": "Papyrus BM 10474 (British Museum, acquired by Budge 1888), hieratic, dated 950-650 BCE by Ruffle; Cairo ostracon (Cerny: late XXIst/early XXIInd Dyn.) and Stockholm papyrus fragments carry parts"
+  },
+  "strand": {
+   "from": "Egypt (Ramesside wisdom literature)",
+   "to": "Israelite wisdom (Proverbs 22:17-24:22)",
+   "carried": "text",
+   "what": "Sayings of the 'thirty chapters' Amenemope reflected in Proverbs 22-24",
+   "medium": "text",
+   "start": -1300,
+   "end": -600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "Proverbs 22:28-29 (JPS 1985, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API: JPS Tanakh gender-sensitive edition",
+  "url": "https://www.sefaria.org/api/texts/Proverbs_22:28-29?context=0&commentary=0",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: the Instruction of Amenemope (chapters 1-3, 9-10 compared by scholars with Proverbs)",
+  "quote": "Do not remove the ancient boundary stone",
+  "summary": "Boundary-stone prohibition at 22:28, followed at 22:29 by the skilled man who 'shall attend upon kings' (cf. the skilled scribe courtier at Amenemope chapter 30).",
+  "limits": "A translation; 22:29 'Meaning of Heb. uncertain' is flagged by the edition.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Proverbs",
+   "locator": "22:28-29",
+   "language": "Hebrew, quoted in English (JPS Tanakh 1985 gender-sensitive (CC-BY-NC), via Sefaria API)",
+   "edition": "JPS Tanakh 1985 gender-sensitive (CC-BY-NC), via Sefaria API",
+   "composition": {
+    "start": -970,
+    "end": -930,
+    "basis": "Solomonic date argued by Ruffle (Tyndale Bulletin 1975, p. 35); contested and other dating not read here"
+   },
+   "witness": "Not examined in this brief; Masoretic text and Dead Sea Scrolls witnesses not opened"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "The Teaching of Amenemope and its Connection with the Book of Proverbs",
+  "authors": "Ruffle, J.",
+  "year": 1975,
+  "venue": "Tyndale Bulletin (Tyndale Biblical Archaeology Lecture, delivered 19 June 1975)",
+  "url": "https://tyndalebulletin.org/article/30616.pdf",
+  "doi": "10.53751/001c.30616",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Egyptology / Biblical studies",
+  "stance": "fails_to_support",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: the Instruction of Amenemope (chapters 1-3, 9-10 compared by scholars with Proverbs)",
+  "quote": "I confess to some doubt about the existence of a direct connection between Proverbs and Amenemope.",
+  "summary": "A reviewing Egyptologist counts roughly 11 of 24 verses as matched in subject and finds this 'not wholly conclusive' evidence of direct borrowing; notes Amenemope's central themes (hothead vs quiet man) are absent from Proverbs.",
+  "limits": "Ruffle (the lecture's own position, an evangelical venue) also defends a Solomonic compiler, so is not neutral on date; he still allows 'a case could be argued for dependence' from cumulative parallels.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Instruction of Amenemope (witnesses discussed)",
+   "locator": "Section B, 'Date and Authorship'",
+   "language": "English scholarly article",
+   "edition": "Tyndale Bulletin, lecture text as PDF (doi 10.53751/001c.30616)",
+   "composition": {
+    "start": -1300,
+    "end": -1000,
+    "basis": "Ruffle: 'a date for the composition before 1,000 B.C.', an XVIIIth Dynasty date 'acceptable' on Cairo/Stockholm copies"
+   },
+   "witness": "BM 10474: 'can be dated between the XXIInd and XXVIth Dynasties, i.e. between 950 and 650 B. C.'; Cairo ostracon late XXIst or early XXIInd Dynasty (Cerny)"
+  },
+  "strand": {
+   "from": "Egypt (Ramesside wisdom literature)",
+   "to": "Israelite wisdom (Proverbs 22:17-24:22)",
+   "carried": "text",
+   "what": "Sayings of the 'thirty chapters' Amenemope reflected in Proverbs 22-24",
+   "medium": "text",
+   "start": -1300,
+   "end": -600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "Religion and Thought in Ancient Egypt: Great Hymn to the Aten (night strophe)",
+  "authors": "Breasted, J. H.",
+  "year": 1912,
+  "venue": "Scribner; archive.org scan of the Morse Lectures",
+  "url": "https://archive.org/stream/developmentofrel00brea/developmentofrel00brea_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: ... the Great Hymn to the Aten (Amarna, c. 1350 BCE)",
+  "quote": "Every lion cometh forth from his den, All serpents, they sting.",
+  "summary": "Night strophe: darkness releases lions and serpents. Compare Psalm 104:20-21 'all the beasts of the forest do creep forth. The young lions roar'.",
+  "limits": "Resemblance in motif; Lichtheim and others deny specific interdependence.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Great Hymn to the Aten",
+   "locator": "Night strophe",
+   "language": "Egyptian (Amarna-period Late Egyptian), quoted in English",
+   "edition": "J. H. Breasted, Development of Religion and Thought in Ancient Egypt (Scribner, 1912), pp. 324-328; text after Davies, Rock Tombs of El Amarna VI",
+   "composition": {
+    "start": -1353,
+    "end": -1336,
+    "basis": "Akhenaten's reign, mid-14th century BCE, per Wikipedia 'Great Hymn to the Aten' ('Composed in the middle of the 14th century BC'); exact reign dates not read from an Egyptological source here"
+   },
+   "witness": "Copied on the wall of the tomb of Ay at Amarna (Southern Tomb 25); shorter versions in other Amarna tombs"
+  },
+  "strand": {
+   "from": "Amarna Egypt",
+   "to": "Israelite psalmody (Psalm 104)",
+   "carried": "idea",
+   "what": "creation-by-the-sun hymn motifs (night animals, human labour by day, sea creatures)",
+   "medium": "unknown",
+   "start": -1350,
+   "end": -600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "Psalm 104:20-24 (JPS 1985, via Sefaria)",
+  "authors": null,
+  "year": 1985,
+  "venue": "Sefaria API: JPS Tanakh gender-sensitive edition",
+  "url": "https://www.sefaria.org/api/texts/Psalms_104:20-24?context=0&commentary=0",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: ... the Great Hymn to the Aten (Amarna, c. 1350 BCE)",
+  "quote": "when all the beasts of the forests stir.",
+  "summary": "The Hebrew passage compared with the Aten hymn's night and day strophes; 'People then go out to their work' mirrors the day strophe.",
+  "limits": "A translation; no composition or witness assessed. Psalm 104 dating not read.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Psalms",
+   "locator": "104:20-24",
+   "language": "Hebrew, quoted in English (JPS 1985)",
+   "edition": "JPS Tanakh 1985 gender-sensitive, CC-BY-NC, via Sefaria API",
+   "composition": {
+    "start": -1000,
+    "end": -400,
+    "basis": "Broad placeholder range; no dating source was opened"
+   },
+   "witness": "Not examined"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "Psalm 104 and Its Parallels in Pharaoh Akhenaten's Hymn",
+  "authors": "Koller, A.",
+  "year": 2022,
+  "venue": "TheTorah.com (Jul 1, 2022)",
+  "url": "https://www.thetorah.com/article/psalm-104-and-its-parallels-in-pharaoh-akhenatens-hymn",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Biblical studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: ... the Great Hymn to the Aten (Amarna, c. 1350 BCE)",
+  "quote": "This seems self-evident to me, but has been debated endlessly over the past century.",
+  "summary": "Koller argues themes of the Aten hymn recur in Psalm 104 and says the relation 'has been debated endlessly'; he names Dion (1991) and Day (2016) as presentations leaving 'no doubt'.",
+  "limits": "Author's own stance is that the connection is clear; a popular-scholarly platform, not peer-reviewed. Route not documented.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Amarna Egypt",
+   "to": "Israelite psalmody (Psalm 104)",
+   "carried": "idea",
+   "what": "creation-by-the-sun hymn motifs (night animals, human labour by day, sea creatures)",
+   "medium": "unknown",
+   "start": -1350,
+   "end": -600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "Great Hymn to the Aten (section 'Comparison to Psalm 104', quoting Lichtheim 2006, p. 100)",
+  "authors": "Lichtheim, M. (as quoted on Wikipedia)",
+  "year": 2006,
+  "venue": "Wikipedia, quoting Ancient Egyptian Literature II (U. California Press)",
+  "url": "https://en.wikipedia.org/wiki/Great_Hymn_to_the_Aten",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Egyptology",
+  "stance": "fails_to_support",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: ... the Great Hymn to the Aten (Amarna, c. 1350 BCE)",
+  "quote": "A specific literary interdependence is not probable.",
+  "summary": "Lichtheim, as quoted, says the resemblances are 'more likely to be the result of the generic similarity between Egyptian hymns and biblical psalms'.",
+  "limits": "Quoted at second hand: Lichtheim's own book was not opened. Wikipedia is context only; treat as a pointer, not a source of record.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Amarna Egypt",
+   "to": "Israelite psalmody (Psalm 104)",
+   "carried": "idea",
+   "what": "creation-by-the-sun hymn motifs (night animals, human labour by day, sea creatures)",
+   "medium": "unknown",
+   "start": -1350,
+   "end": -600,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "The Decrees of Memphis and Canopus, vol. II: The Rosetta Stone (English rendering of the Demotic text)",
+  "authors": "Budge, E. A. W.",
+  "year": 1904,
+  "venue": "Archive.org scan (Books on Egypt and Chaldaea series)",
+  "url": "https://archive.org/download/the-decrees-of-memphis-and-canopus-in-three-volumes.-the-rosetta-stone.-vol-ii-1904/The%20decrees%20of%20Memphis%20and%20Canopus%20in%20three%20volumes.%20The%20Rosetta%20Stone.%20Vol%20II%20%281904%29_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: ... the Rosetta Stone and Canopus Decree (Egyptian hieroglyphic, Demotic and Greek in one text)",
+  "quote": "inscribed upon a stele of hard stone in the writing of the divine words, and in the writing of the books, and in the writing of the Greeks",
+  "summary": "The decree orders its own publication in three scripts: hieroglyphic ('divine words'), Demotic ('the books') and Greek. This is the text's own statement of its trilingual form.",
+  "limits": "Budge's 1904 rendering of the Demotic, with OCR; the Greek version's wording differs slightly. Modern translations (Simpson, Quirke-Andrews) exist.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Rosetta Stone decree (Memphis decree of Ptolemy V Epiphanes)",
+   "locator": "Closing clause of the Demotic text",
+   "language": "Demotic Egyptian, quoted in English (also on the stone in hieroglyphic and Greek)",
+   "edition": "E. A. Wallis Budge, The Decrees of Memphis and Canopus, vol. II: The Rosetta Stone (London, 1904), English rendering of the Demotic text",
+   "composition": {
+    "start": -196,
+    "end": -196,
+    "basis": "Dated in the decree itself to Ptolemy V's 9th year (4 Xandikos = 18 Mechir); 196 BCE per Wikipedia 'Rosetta Stone' (created 196 BC)"
+   },
+   "witness": "Stele of granodiorite, found 1799 near Rashid, now British Museum (inventory 'EA 24' per Wikipedia); Budge's 1904 text predates the 'granodiorite' identification"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "The Decrees of Memphis and Canopus, vol. III: The Stele of Canopus",
+  "authors": "Budge, E. A. W.",
+  "year": 1904,
+  "venue": "Archive.org scan (Books on Egypt and Chaldaea series)",
+  "url": "https://archive.org/stream/decreesofmemphis03budg/decreesofmemphis03budg_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: ... the Rosetta Stone and Canopus Decree (Egyptian hieroglyphic, Demotic and Greek in one text)",
+  "quote": "it shall be cut upon a stele of stone or bronze in the writing of the House of Life, and in the writing of the books, and in the writing of the Greeks",
+  "summary": "Like the Rosetta decree, the Canopus decree orders itself engraved in three scripts, a century earlier (238 BCE vs 196 BCE).",
+  "limits": "Budge's rendering; the several copies differ in how they list the scripts ('hieroglyphic characters, and in Egyptian and Greek characters' in one).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Decree of Canopus (Ptolemy III Euergetes)",
+   "locator": "Closing publication clause",
+   "language": "Egyptian (hieroglyphic and Demotic) and Greek, quoted in English from the Egyptian text",
+   "edition": "E. A. Wallis Budge, The Decrees of Memphis and Canopus, vol. III: The Stele of Canopus (London, 1904)",
+   "composition": {
+    "start": -238,
+    "end": -238,
+    "basis": "238 BCE per Wikipedia 'Decree of Canopus' (created 238 BC); not read from Budge's page"
+   },
+   "witness": "Stele of Canopus (Tanis, found 1866 by Lepsius; limestone, 7 ft 4 in high per Budge), Kom el-Hisn copy found 1881 by Maspero; Cairo Museum (number not opened)"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "Religion and Thought in Ancient Egypt: Pyramid Text sun-hymn (Pyr. §1479)",
+  "authors": "Breasted, J. H.",
+  "year": 1912,
+  "venue": "Scribner; archive.org scan of the Morse Lectures",
+  "url": "https://archive.org/stream/developmentofrel00brea/developmentofrel00brea_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: ... a Pyramid Text spell, and the Memphite Theology",
+  "quote": "Hail to thee, Atum! Hail to thee, Kheprer! Who himself became",
+  "summary": "Breasted calls it 'the earliest Sun-hymn which we possess'; Egypt is the 'Horus-eye' the god adorned.",
+  "limits": "1912 translation; Breasted's rendering of Pyr. §1479, not the modern Allen or Faulkner. Date of the underlying spell not fixed.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Pyramid Texts",
+   "locator": "Pyr. §1479",
+   "language": "Old Egyptian, quoted in English",
+   "edition": "J. H. Breasted, Development of Religion and Thought in Ancient Egypt (1912); Pyr. = Sethe's numbering; Breasted's own rendering",
+   "composition": {
+    "start": -2400,
+    "end": -2150,
+    "basis": "Pyramids of Unas through Pepi II/Neith (late Old Kingdom) per Wikipedia 'Pyramid Texts'; individual spells may be older. Range approximates the inscribed pyramids"
+   },
+   "witness": "Inscribed on pyramid walls at Saqqara (Unas, Teti, Pepi I, Merenre, Pepi II); excavated by Maspero from 1880"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "Religion and Thought in Ancient Egypt: the Memphite theology (heart and tongue)",
+  "authors": "Breasted, J. H.",
+  "year": 1912,
+  "venue": "Scribner; archive.org scan of the Morse Lectures",
+  "url": "https://archive.org/stream/developmentofrel00brea/developmentofrel00brea_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology",
+  "stance": "supports",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: ... a Pyramid Text spell, and the Memphite Theology",
+  "quote": "Every divine word came into existence by the thought of the heart and the commandment of the tongue.",
+  "summary": "Ptah creates through 'heart and tongue': thought conceived in the heart, spoken by the tongue.",
+  "limits": "Breasted's translation of a mutilated text, whose 1912 dating (Old Kingdom) is now widely rejected.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Memphite Theology (Shabaka Stone)",
+   "locator": "Lines on the heart and tongue (Breasted p. 45)",
+   "language": "Egyptian (hieroglyphic), quoted in English",
+   "edition": "J. H. Breasted, Development of Religion and Thought in Ancient Egypt (1912), pp. 44-45",
+   "composition": {
+    "start": -1300,
+    "end": -700,
+    "basis": "Disputed: Breasted, Erman, Sethe, Junker put it in the Old Kingdom; Junge and most later scholars date it to the 25th Dynasty (Wikipedia 'Shabaka Stone'); 'cannot predate the Nineteenth Dynasty' (Van De Mieroop, as quoted). Range spans the later views only"
+   },
+   "witness": "Shabaka Stone, black granite slab, British Museum (BM 498 per Breasted's footnote), carved late 8th c. BCE as a copy of a 'worm-eaten' papyrus; later reused as a millstone"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "Shabaka Stone (Wikipedia, section on dating)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (citing Bodine 2009)",
+  "url": "https://en.wikipedia.org/wiki/Shabaka_Stone",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Egyptology",
+  "stance": "contradicts",
+  "ask_addressed": "Quote the Egyptian primary texts that threads depend on: ... a Pyramid Text spell, and the Memphite Theology",
+  "quote": "Friedrich Junge and most other scholars since then have argued that the monument was produced in the Twenty-fifth Dynasty",
+  "summary": "Records the shift from Old Kingdom dating (Breasted, Erman, Sethe) to the 25th Dynasty (Junge); the stone itself claims to copy an older worm-eaten papyrus.",
+  "limits": "Wikipedia secondary; Bodine 2009 not opened. Not a dating by itself.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "The Papyrus Ebers (Bryan 1930), recipe for the filming-over in the eye",
+  "authors": "Bryan, C. P.",
+  "year": 1930,
+  "venue": "Archive.org scan (Ares Publishers reprint 1974)",
+  "url": "https://archive.org/download/ANCIENTEGYPTIANMEDICINETHEPAPYRUSEBERS/ANCIENT%20EGYPTIAN%20MEDICINE%20THE%20PAPYRUS%20EBERS_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Egyptology / history of medicine",
+  "stance": "supports",
+  "ask_addressed": "and any Egyptian text describing a chemical or technical process (for example the Ebers papyrus recipes)",
+  "quote": "Honey 1 Put in Fresh Milk and then apply to the Eyes.",
+  "summary": "Recipe with parts-measured ingredients and a method of application. Shows preparation of a remedy as an instruction; it is a pharmacy recipe, not chemistry.",
+  "limits": "Archive file holds only a 15 KB extract (eye chapter) of Bryan's translation with his commentary. Not a chemical process text; none found from an opened source.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Papyrus Ebers (eye chapter)",
+   "locator": "Eye chapter, remedy for 'the filming-over which rises in the eye'",
+   "language": "Hieratic, quoted in English",
+   "edition": "C. P. Bryan, The Papyrus Ebers (London, 1930; Ares reprint 1974), partial text only (eye diseases chapter)",
+   "composition": {
+    "start": -1550,
+    "end": -1550,
+    "basis": "c. 1550 BCE per Wikipedia 'Ebers Papyrus', which adds it was copied from earlier texts"
+   },
+   "witness": "Papyrus roll c. 20 m long, Leipzig University Library (via Wikipedia); bought 1872 by Georg Ebers"
+  }
+ },
+ {
+  "brief": "egypt-primary-texts",
+  "records": [],
+  "title": "The Papyrus Ebers (Bryan 1930), magic with the remedy",
+  "authors": "Bryan, C. P.",
+  "year": 1930,
+  "venue": "Archive.org scan (Ares Publishers reprint 1974)",
+  "url": "https://archive.org/download/ANCIENTEGYPTIANMEDICINETHEPAPYRUSEBERS/ANCIENT%20EGYPTIAN%20MEDICINE%20THE%20PAPYRUS%20EBERS_djvu.txt",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Egyptology / history of medicine",
+  "stance": "fails_to_support",
+  "ask_addressed": "and any Egyptian text describing a chemical or technical process (for example the Ebers papyrus recipes)",
+  "quote": "Finally they resorted to Magic, plus the Brain-of-a-Tortoise mixed with Honey",
+  "summary": "The same chapter mixes spell-recitation with the recipes. A caution that Ebers is not a 'technical process' text in the sense of a chemistry or metallurgy manual.",
+  "limits": "Bryan's 1930 gloss; modern work (not opened) separates the empirical and magical strands differently.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Papyrus Ebers (eye chapter)",
+   "locator": "Eye chapter, 'Another to drive out the white growth in the eyes'",
+   "language": "Hieratic, quoted in English",
+   "edition": "C. P. Bryan, The Papyrus Ebers (London, 1930; Ares reprint 1974), partial text only (eye diseases chapter)",
+   "composition": {
+    "start": -1550,
+    "end": -1550,
+    "basis": "c. 1550 BCE per Wikipedia 'Ebers Papyrus', which adds it was copied from earlier texts"
+   },
+   "witness": "Papyrus roll c. 20 m long, Leipzig University Library (via Wikipedia); bought 1872 by Georg Ebers"
+  }
+ }
+]
