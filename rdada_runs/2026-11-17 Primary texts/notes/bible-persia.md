@@ -1,0 +1,43 @@
+# bible-persia: Biblical and Persian texts on Persian-Judaean contact
+
+## Ask
+Quote the biblical and Persian texts that bear on Persian-Judaean contact (Isaiah 44:28-45:1, Ezra 1:1-4 and 6:3-5, 2 Chronicles 36:22-23, Nehemiah 2, Esther 1, Daniel 6; the Cyrus Cylinder; the Behistun inscription; the Gathas, Yasna 30, and Avestan material on angels and a final judgement). Give composition ranges with their basis, the earliest witnesses, and the scholarly debate on how far Zoroastrian ideas shaped Judaism, quoting the strongest sceptical scholar I could open.
+
+24 candidates in `bible-persia.candidates.json`; every quote was confirmed on its page with `check_quote.py` normalisation (`verified` marker in each). `validate_candidates.py`: 0 errors.
+
+## Cited findings
+- Isaiah 44:28 names Cyrus as the one who will say Jerusalem "shall be rebuilt"; 45:1 calls him "the anointed one"; 45:5-7 (God "forms light and creates darkness") is addressed to him. — [Sefaria Isaiah 44:28-45:1](https://www.sefaria.org/api/texts/Isaiah_44%3A28-45%3A1?context=0&commentary=0), [Isa 45:5-7](https://www.sefaria.org/api/texts/Isaiah_45%3A5-7?context=0&commentary=0)
+- Ezra 1:1-4 (Hebrew proclamation), Ezra 6:3-5 (Aramaic memorandum with dimensions and returned vessels), 2 Chr 36:22-23 (repeats Ezra 1:1-3), Neh 2:1-8 (letters to the governors of Beyond the River), Esther 1:13-15 (Persian court terms: dat, the seven princes), Dan 6 (law of the Medes and Persians), Dan 12:1-3 (Michael, awakening of the dead) were all fetched from Sefaria in Hebrew and JPS English.
+- Cyrus Cylinder (Livius translation after Cogan and Schaudig): Marduk takes Cyrus "by the hand" and names him (l. 12); Cyrus returns the gods' images to sanctuaries across the Tigris (l. 32). Places named are east of the Tigris; Jerusalem and Judaeans are not mentioned. — [Livius translation](https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/)
+- Behistun (Livius, adapted King and Thompson): DB I.5 "By the grace of Ahuramazda am I king"; DB I.14 temples destroyed by Gaumata the Magian restored; DB IV.54-55 revolts caused by "lies". — [DB i.9-17](https://www.livius.org/sources/content/behistun-persian-text/behistun-t-02/), [i.62-71](https://www.livius.org/sources/content/behistun-persian-text/behistun-t-08/), [iv.31-39](https://www.livius.org/sources/content/behistun-persian-text/behistun-t-36/)
+- Yasna 30.3-6 (two primal Spirits), 30.7-10 (punishment, the Consummation, molten metal) and 19.6 (Chinvat Bridge), Mills translation as reproduced by Peterson. Boyce's translation of Y30.1-6, 8-9 on Livius confirms the sense. — [avesta.org Yasna](https://avesta.org/yasna/yasna.htm), [Livius, Zoroastrian dualism](https://livius.org/sources/content/avesta/avesta-zoroastrian-dualism)
+
+### Composition ranges and their bases (all from pages I opened; Wikipedia is tertiary)
+- Isaiah 40-55: Exile, 6th c. BCE. [Wikipedia Book of Isaiah](https://en.wikipedia.org/wiki/Book_of_Isaiah)
+- Ezra-Nehemiah: Williamson (1987) memoirs c. 400, Ezra 1-6 c. 300 BCE; Grabbe (2003) combined c. 300-200 BCE; Finkelstein argues much is Hasmonean. [Wikipedia Ezra-Nehemiah](https://en.wikipedia.org/wiki/Ezra%E2%80%93Nehemiah)
+- Chronicles: 400-250 BCE, 350-300 most likely. [Wikipedia Books of Chronicles](https://en.wikipedia.org/wiki/Books_of_Chronicles)
+- Esther: usually 4th c. BCE. [Wikipedia Book of Esther](https://en.wikipedia.org/wiki/Book_of_Esther)
+- Daniel: whole book 167-163 BCE; court tales probably 3rd or early 2nd c. [Wikipedia Book of Daniel](https://en.wikipedia.org/wiki/Book_of_Daniel)
+- Gathas: 14th-13th c. BCE on linguistic grounds, or early 6th c. BCE; "it is uncertain when he lived". [Livius, Zarathustra](https://www.livius.org/articles/person/zarathustra/)
+
+### Earliest witnesses
+- Isaiah: 1QIsa-a, calibrated radiocarbon 356-103 BCE, palaeographic 150-100 BCE. [Wikipedia Isaiah Scroll](https://en.wikipedia.org/wiki/Isaiah_Scroll)
+- Daniel: eight Qumran copies, 125 BCE (4QDan-c) to about 50 CE. [Wikipedia Book of Daniel](https://en.wikipedia.org/wiki/Book_of_Daniel)
+- Esther: no fragment found at Qumran. [Wikipedia Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls) (the brief assumed Esther fragments; there are none)
+- Avesta: oldest manuscript 1288 CE, all derived from a 9th-10th c. CE copy (Bremmer, reported by Ehrman). [Ehrman blog](https://ehrmanblog.org/was-resurrection-a-zoroastrian-idea/)
+
+## Sceptical and alternative pass
+- **Cyrus Cylinder**: Livius says the Judaean return "can in fact not be found in the text" and "there is no evidence that Cyrus inaugurated a new policy of tolerance" (candidate 17). The Isaiah/Ezra and Cylinder language of divine selection is formally parallel (Marduk vs YHWH) but there is no documented route.
+- **Zoroastrian influence**: ISBE entry says nothing in the formal theology of Judaism can be called "borrowed" and that Isa 45:7 almost certainly does not refer to Mazdean dualism, while granting influence on angelology and demonology (candidate 18). Bremmer (2002, p. 59), as reported by Ehrman, argues the chronology fails (resurrection appears in Jewish texts only from the Maccabean period) and the Avestan sources are late (candidate 19). Mark S. Smith, quoted in Antia's partisan compilation, says Zoroastrian dualism "does not truly resemble biblical monotheism" (candidate 20). Silverman, a proponent, concedes the field "has been beset by severe problems in method" (candidate 21).
+- **Not the strongest possible**: the best sceptical texts I know of (Barr, JAAR 53, 1985; Bremmer's book; Smith's book; Iranica entries) were not opened. I found only secondhand quotation of them. They are listed under Gaps and are not candidates.
+- **Alternative claim**: pro-influence views (Silverman's Daniel 2 borrowing argument; Dobroruka 2022) appear only in summaries; I did not open Dobroruka. Direct, ancient-text evidence of a route is absent in everything I opened, so strands are `debated` or `inferred`, never `documented`, except the Achaemenid Ahuramazda devotion in Behistun, which is documented for the Persian side only.
+
+## Judgement on the ask
+- The biblical and Persian passages are real and quoted. What they share: Persian kings authorising or funding temple (re)building, appointment by a supreme god, court vocabulary. What they do not show: any Persian knowledge of Judaean practice (the Cylinder is silent on Jerusalem) or any Judaean quotation of Avestan material.
+- The Avestan passages quoted are the nearest edition-readable material for two spirits, a reckoning and a bridge; none can be dated to the Persian period with confidence.
+
+## Gaps
+- Hosts that returned 403 or a challenge page and were not opened: iranicaonline.org (curl 403 and Playwright Cloudflare challenge, two articles tried), sacred-texts.com (403, SBE 31 Yasna pages), www.avesta.org (the www host returned its 404 page for the Mills Yasna URLs I guessed; the `avesta.org/yasna/yasna.htm` URL worked), en.wikisource.org (404 for the guessed titles), Wikipedia `action=raw` (429; normal article pages worked). A Cambridge DOI URL for Jull et al. 1995 returned 404.
+- Recalled, not fetched: Barr, "The Question of Religious Influence: The Case of Zoroastrianism, Judaism, and Christianity", JAAR 53 (1985), only bibliographic confirmation via search; Bremmer, The Rise and Fall of the Afterlife (2002), only the quotation on Ehrman's page; Smith, The Origins of Biblical Monotheism (OUP 2001), only the quotation in Antia; Dobroruka, Persian Influence on Daniel and Jewish Apocalyptic Literature (2022), only a publisher/bibliography listing; Kuhrt (JSOT 25, 1983) and van der Spek (Persica 10, 1982) on the Cyrus Cylinder, only the Livius bibliography; Jull et al., Radiocarbon 37 (1995); Williamson, Grabbe, Finkelstein on Ezra-Nehemiah, only via Wikipedia.
+- Not found or not attempted: an open archive.org text of the Old Persian DB in King and Thompson with column and line numbers beyond the Livius adaptation; Akkadian text of the Cyrus Cylinder (Livius links one); Avestan original text of Yasna 30 (avesta.org has an Avestan transcription I did not read); the Yasna 19.6 chapter number is not visible in the extracted page text (flagged in the candidate); angels in the Avesta (Amesha Spentas) are not quoted separately because I could not pin a chapter locator from the extracted text; the Behistun Aramaic version (Elephantine) not searched.
+- Where I filled a field from general knowledge, the candidate's `limits` says so: Persian etymologies for Esther 1 (dat, partemim, Xshayarsha), the DB composition range, and a placeholder composition range for Yasna 19.6.

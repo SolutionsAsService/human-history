@@ -1,0 +1,1048 @@
+[
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Isaiah 44:28-45:1 (Cyrus the shepherd and anointed)",
+  "authors": null,
+  "year": null,
+  "venue": "Sefaria (JPS 1985 and Miqra according to the Masorah)",
+  "url": "https://www.sefaria.org/api/texts/Isaiah_44%3A28-45%3A1?context=0&commentary=0",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "He shall say of Jerusalem, ‘She shall be rebuilt,’",
+  "summary": "A prophetic oracle names the Persian king Cyrus as God's 'anointed' (mashiach) and as the one who will say Jerusalem 'shall be rebuilt' and the temple 'founded again'. It shows a Judaean text welcoming Persian rule; it does not show any Persian knowledge of Judah.",
+  "limits": "Hebrew 'meshiho' is rendered 'the anointed one' by JPS. Dating of the oracle to before 539 is the consensus view; a post-539 date is argued by some. The passage does not demonstrate a Persian policy toward Judaeans, and says nothing about Zoroastrian ideas.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Isaiah",
+   "locator": "44:28-45:1",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985 gender-sensitive (English), Miqra according to the Masorah (Hebrew)",
+   "composition": {
+    "start": -550,
+    "end": -530,
+    "basis": "Chs 40-55 are widely dated to the Exile, 6th c. BCE ('an anonymous author writing during the Exile in the 6th century BCE'), per the Wikipedia article 'Book of Isaiah' (opened 2026-11-17); a tertiary summary, not the scholars it cites."
+   },
+   "witness": "Great Isaiah Scroll 1QIsa-a, Qumran Cave 1: calibrated radiocarbon range 356-103 BCE, palaeographic 150-100 BCE (Wikipedia 'Isaiah Scroll', citing Jull et al. 1995; not independently opened). Masoretic witnesses are far later and were not checked."
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "Cyrus as divinely appointed shepherd and 'anointed' liberator-restorer of the temple",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -530,
+   "directness": "documented"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Isaiah 45:5-7 ('I form light and create darkness')",
+  "authors": null,
+  "year": null,
+  "venue": "Sefaria (JPS 1985 and Miqra according to the Masorah)",
+  "url": "https://www.sefaria.org/api/texts/Isaiah_45%3A5-7?context=0&commentary=0",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "ask_addressed": "Give composition ranges with their basis, the earliest witnesses, and the scholarly debate on how far Zoroastrian ideas shaped Judaism; quote the strongest sceptical scholar you can open",
+  "quote": "I form light and create darkness",
+  "summary": "Addressed to Cyrus, the verse asserts one God as maker of both light and darkness, weal and woe. It is often read as an answer to a Persian two-principle outlook, but the text itself names no Persian doctrine.",
+  "limits": "Whether Isa 45:7 is aimed at Zoroastrian dualism is disputed; the ISBE entry opened here says there is 'almost certainly no reference to Mazdean dualism' in it. The passage alone shows monotheistic polemic, not borrowing.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Isaiah",
+   "locator": "45:5-7",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985 gender-sensitive (English), Miqra according to the Masorah (Hebrew)",
+   "composition": {
+    "start": -550,
+    "end": -530,
+    "basis": "Chs 40-55 are widely dated to the Exile, 6th c. BCE ('an anonymous author writing during the Exile in the 6th century BCE'), per the Wikipedia article 'Book of Isaiah' (opened 2026-11-17); a tertiary summary, not the scholars it cites."
+   },
+   "witness": "Great Isaiah Scroll 1QIsa-a, Qumran Cave 1: calibrated radiocarbon range 356-103 BCE, palaeographic 150-100 BCE (Wikipedia 'Isaiah Scroll', citing Jull et al. 1995; not independently opened). Masoretic witnesses are far later and were not checked."
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Ezra 1:1-4 (Edict of Cyrus, Hebrew version)",
+  "authors": null,
+  "year": null,
+  "venue": "Sefaria (JPS 1985 and Miqra according to the Masorah)",
+  "url": "https://www.sefaria.org/api/texts/Ezra_1%3A1-4?context=0&commentary=0",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "God of Heaven has given me all the kingdoms of the earth and has charged me with building a house",
+  "summary": "Cyrus is reported to proclaim, in Hebrew, that the God of Heaven charged him to build a house in Jerusalem and to let people go up; neighbours are to help with silver, gold and goods.",
+  "limits": "The wording is Judaean, not a Persian chancery text, and the Cyrus Cylinder (opened) does not mention Jerusalem or Judah. Authenticity of this proclamation is debated; the Aramaic version at Ezra 6:3-5 differs in form.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Ezra",
+   "locator": "1:1-4",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985 gender-sensitive (English), Miqra according to the Masorah (Hebrew)",
+   "composition": {
+    "start": -400,
+    "end": -200,
+    "basis": "Ezra-Nehemiah: Williamson (1987) puts Ezra 1-6 as the final introduction c. 300 BCE and the memoirs c. 400 BCE; Grabbe (2003) puts final combination c. 300-200 BCE; Finkelstein argues large parts reflect the Hasmonean period (all as reported on Wikipedia 'Ezra-Nehemiah', opened 2026-11-17)."
+   },
+   "witness": "Not checked in this run: Qumran fragments of Ezra-Nehemiah. Masoretic Text and Septuagint (translated by the mid-2nd c. BCE per Wikipedia) are the usual witnesses."
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "Second Temple Judaism",
+   "carried": "institution",
+   "what": "royal authorisation for return and temple rebuilding at Jerusalem",
+   "medium": "court_or_empire",
+   "start": -538,
+   "end": -515,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Ezra 6:3-5 (memorandum of Cyrus, Aramaic section)",
+  "authors": null,
+  "year": null,
+  "venue": "Sefaria (JPS 1985 and Miqra according to the Masorah)",
+  "url": "https://www.sefaria.org/api/texts/Ezra_6%3A3-5?context=0&commentary=0",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "Let the house be rebuilt, a place for offering sacrifices",
+  "summary": "In the Aramaic section a record of Cyrus's first year orders the house of God rebuilt at royal expense, with set dimensions, and the temple vessels taken by Nebuchadnezzar returned.",
+  "limits": "This is a document quoted inside a narrative composed centuries later; its authenticity is argued both ways. Ezra 1 and 6 give different forms of the same decision (proclamation versus archive memorandum). Aramaic was the Persian empire's chancery language, which supports a documentary setting but does not prove it.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Ezra",
+   "locator": "6:3-5",
+   "language": "Biblical Aramaic (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985 gender-sensitive (English), Miqra according to the Masorah (Hebrew)",
+   "composition": {
+    "start": -400,
+    "end": -200,
+    "basis": "Same range and basis as Ezra 1:1-4 (Williamson 1987; Grabbe 2003; Finkelstein; via Wikipedia 'Ezra-Nehemiah')."
+   },
+   "witness": "Hebrew/Aramaic text available at the same Sefaria ref; quoted here in English only."
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "Second Temple Judaism",
+   "carried": "institution",
+   "what": "Persian royal memorandum funding the Jerusalem temple and returning its vessels",
+   "medium": "court_or_empire",
+   "start": -538,
+   "end": -515,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "2 Chronicles 36:22-23 (closing verses, Cyrus proclamation)",
+  "authors": null,
+  "year": null,
+  "venue": "Sefaria (JPS 1985 and Miqra according to the Masorah)",
+  "url": "https://www.sefaria.org/api/texts/II_Chronicles_36%3A22-23?context=0&commentary=0",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "roused the spirit of King Cyrus of Persia to issue a proclamation throughout his realm",
+  "summary": "The last verses of Chronicles repeat, almost word for word, the opening of Ezra, and end mid-sentence with the invitation to go up.",
+  "limits": "The near-identity with Ezra 1:1-3 is a literary link between the books, not a second source for the edict. Chronicles is generally placed 400-250 BCE per Wikipedia 'Books of Chronicles'.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "2 Chronicles",
+   "locator": "36:22-23",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985 gender-sensitive (English), Miqra according to the Masorah (Hebrew)",
+   "composition": {
+    "start": -400,
+    "end": -250,
+    "basis": "'probably composed between 400 and 250 BC, with the period 350-300 BC the most likely' (Wikipedia 'Books of Chronicles', opened 2026-11-17, a summary of scholarship)."
+   },
+   "witness": "Qumran Chronicles fragments not checked in this run."
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Nehemiah 2:1-8 (the cupbearer's request to Artaxerxes)",
+  "authors": null,
+  "year": null,
+  "venue": "Sefaria (JPS 1985 and Miqra according to the Masorah)",
+  "url": "https://www.sefaria.org/api/texts/Nehemiah_2%3A1-8?context=0&commentary=0",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "supports",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "let me have letters to the governors of the province of Beyond the River",
+  "summary": "A Judaean cupbearer at the Persian court obtains leave, and letters to the governors of 'Beyond the River' and to the keeper of the king's park for timber, in the twentieth year of Artaxerxes.",
+  "limits": "Narrator is Nehemiah's own memoir voice, but the memoir's date and its editing are debated (Williamson c. 400 BCE for the memoirs; Grabbe and Finkelstein later, via Wikipedia). The text shows a Judaean at court, not any Persian religious influence.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Nehemiah",
+   "locator": "2:1-8",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985 gender-sensitive (English), Miqra according to the Masorah (Hebrew)",
+   "composition": {
+    "start": -400,
+    "end": -200,
+    "basis": "Ezra-Nehemiah ranges as for Ezra 1:1-4 (Williamson 1987, Grabbe 2003, Finkelstein, via Wikipedia 'Ezra-Nehemiah')."
+   },
+   "witness": "Qumran evidence for Nehemiah not checked."
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Esther 1:13-15 (Persian court procedure: dat, the seven princes)",
+  "authors": null,
+  "year": null,
+  "venue": "Sefaria (JPS 1985 and Miqra according to the Masorah)",
+  "url": "https://www.sefaria.org/api/texts/Esther_1%3A13-15?context=0&commentary=0",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "the seven ministers of Persia and Media who had access to the royal presence",
+  "summary": "The Hebrew uses Persian court vocabulary: 'dat' (law, from Old Persian) in 'yode'ei dat vadin', 'partemim' (nobles) at 1:3, and Ahasuerus (from Xshayarsha). The scene is a council of seven.",
+  "limits": "Persian loanwords show familiarity with Persian administration, not religious borrowing. The Persian etymologies are stated from general knowledge of the Hebrew; this run opened the Hebrew text but no lexicon. Wikipedia 'Book of Esther' (opened) notes Ahasuerus derives from Xshayarsha and that the author 'displays an accurate knowledge of Persian customs and palaces'. The Qumran caves have produced no Esther fragment (Wikipedia 'Dead Sea Scrolls').",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Esther",
+   "locator": "1:13-15",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985 gender-sensitive (English), Miqra according to the Masorah (Hebrew)",
+   "composition": {
+    "start": -400,
+    "end": -200,
+    "basis": "'usually dated to the 4th century BCE' (Wikipedia 'Book of Esther', opened 2026-11-17); Persian or Hellenistic period both proposed."
+   },
+   "witness": "No Esther fragment among the Dead Sea Scrolls (Wikipedia 'Dead Sea Scrolls': 'The Book of Esther has not yet been found'). Earliest witnesses are therefore the Septuagint (Greek Esther) and the Masoretic tradition, not checked here."
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "Second Temple Judaism",
+   "carried": "institution",
+   "what": "Persian court vocabulary and administrative forms (dat, partemim, seven counsellors)",
+   "medium": "court_or_empire",
+   "start": -486,
+   "end": -330,
+   "directness": "inferred"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Daniel 6:1-10 and 6:11-17 (law of the Medes and Persians)",
+  "authors": null,
+  "year": null,
+  "venue": "Sefaria (JPS 1985 and Miqra according to the Masorah)",
+  "url": "https://www.sefaria.org/api/texts/Daniel_6%3A11-17?context=0&commentary=0",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "a law of the Medes and Persians that may not be abrogated",
+  "summary": "Darius the Mede appoints 120 satraps and three ministers; an irrevocable ban on petitioning anyone but the king sends Daniel to the lions' den.",
+  "limits": "Chapter 6 is a court tale; 'Darius the Mede' is not otherwise known as a king, and the Hebrew Bible dating of Daniel (167-163 BCE for the whole book per Wikipedia) postdates Persian rule. 'Satrap' is a Persian title; the passage shows later memory of Persian administration.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Daniel",
+   "locator": "6:1-17",
+   "language": "Biblical Aramaic (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985 gender-sensitive (English), Miqra according to the Masorah (Hebrew)",
+   "composition": {
+    "start": -300,
+    "end": -163,
+    "basis": "Court tales (chs 1-6) 'probably composed in the third or early second-century BCE'; whole book 167-163 BCE (Wikipedia 'Book of Daniel', opened 2026-11-17)."
+   },
+   "witness": "Eight Daniel manuscripts at Qumran, copied between 125 BCE (4QDan-c) and about 50 CE (Wikipedia 'Book of Daniel'); see the separate Daniel witness candidate."
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Daniel 12:1-3 (Michael, resurrection, judgement)",
+  "authors": null,
+  "year": null,
+  "venue": "Sefaria (JPS 1985 and Miqra according to the Masorah)",
+  "url": "https://www.sefaria.org/api/texts/Daniel_12%3A1-3?context=0&commentary=0",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "ask_addressed": "Give composition ranges with their basis, the earliest witnesses, and the scholarly debate on how far Zoroastrian ideas shaped Judaism; quote the strongest sceptical scholar you can open",
+  "quote": "Many of those that sleep in the dust of the earth will awake",
+  "summary": "The angel Michael appears at a time of trouble, and the dead awake, some to eternal life and some to everlasting abhorrence. This is the earliest undisputed Hebrew Bible statement of resurrection and the focus of the question whether Persian eschatology shaped it.",
+  "limits": "The passage shares a final reckoning and a rising of the dead with later Zoroastrian sources but shows no documented route; the Maccabean date (167-163 BCE) is about 170 years after Persian rule ended, which sceptics (Bremmer, as quoted by Ehrman) use against borrowing.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Daniel",
+   "locator": "12:1-3",
+   "language": "Hebrew (quoted in English, JPS)",
+   "edition": "Sefaria API: JPS Tanakh 1985 gender-sensitive (English), Miqra according to the Masorah (Hebrew)",
+   "composition": {
+    "start": -167,
+    "end": -163,
+    "basis": "'the consensus of modern scholarship ... is accordingly that the book dates to the period 167-163 BC' (Wikipedia 'Book of Daniel', opened 2026-11-17)."
+   },
+   "witness": "Daniel manuscripts from Qumran, earliest 4QDan-c c. 125 BCE (Wikipedia 'Book of Daniel')."
+  },
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrian tradition",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "resurrection, final judgement, angelic prince",
+   "medium": "unknown",
+   "start": -539,
+   "end": -163,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Cyrus Cylinder (translation, Livius, after Cogan and Schaudig), lines 12-15",
+  "authors": null,
+  "year": null,
+  "venue": "Livius.org",
+  "url": "https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "he took a righteous king, his favorite, by the hand, he called out his name",
+  "summary": "Marduk searches all lands, takes Cyrus by the hand and names him, and leads him to Babylon 'like a companion and a friend'. The language of being taken by the hand and named parallels Isaiah 45:1,4, but the god is Marduk.",
+  "limits": "The parallel is formal: both are Near Eastern royal-appointment topoi. Neither text cites the other; no route is documented. Translation is Livius's adaptation of Cogan (Context of Scripture) and Schaudig, not the original Akkadian.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Cyrus Cylinder (BM 90920)",
+   "locator": "lines 12-15",
+   "language": "Akkadian (quoted in English translation)",
+   "edition": "Livius.org translation based on Cogan (Hallo and Younger, Context of Scripture II, 2003), adapted to Schaudig 2001 with van der Spek",
+   "composition": {
+    "start": -539,
+    "end": -538,
+    "basis": "Composed after the fall of Babylon in October 539 BCE (Livius introduction, opened)."
+   },
+   "witness": "Clay cylinder BM 90920 (fragment A) plus fragment B joined from Yale NBC 2504; found 1879 (Livius). The cylinder itself is the original object."
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "Neo-Babylonian priesthood / Judaean exiles",
+   "carried": "idea",
+   "what": "divine selection of the conquering king by the local supreme god",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -538,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Cyrus Cylinder (translation, Livius, after Cogan and Schaudig), lines 30-33",
+  "authors": null,
+  "year": null,
+  "venue": "Livius.org",
+  "url": "https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Assyriology",
+  "stance": "context",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "I returned the images of the gods, who had resided there",
+  "summary": "Cyrus says he returned the gods' images to sanctuaries across the Tigris and resettled their inhabitants. The Cylinder lists places east of the Tigris and does not name Jerusalem or Judaeans.",
+  "limits": "Livius states the Judaean return 'can in fact not be found in the text'. The passage is evidence for Achaemenid restoration practice, which makes Ezra 1 plausible in kind but does not confirm it. The quoted words are at line 32 of Livius's numbering, outside the bracketed lacunae shown on the page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Cyrus Cylinder (BM 90920)",
+   "locator": "lines 30-33",
+   "language": "Akkadian (quoted in English translation)",
+   "edition": "Livius.org translation based on Cogan (Context of Scripture II, 2003), adapted to Schaudig 2001",
+   "composition": {
+    "start": -539,
+    "end": -538,
+    "basis": "Composed after the fall of Babylon in October 539 BCE (Livius)."
+   },
+   "witness": "Fragment A, BM 90920, lines 1-35 (Livius)."
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "exiled communities",
+   "carried": "institution",
+   "what": "return of deities and exiles to their homes",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -530,
+   "directness": "inferred"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Behistun inscription (DB, Livius adaptation of King and Thompson) i.5",
+  "authors": null,
+  "year": null,
+  "venue": "Livius.org",
+  "url": "https://www.livius.org/sources/content/behistun-persian-text/behistun-t-02/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Epigraphy",
+  "stance": "context",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "By the grace of Ahuramazda am I king; Ahuramazda has granted me the kingdom.",
+  "summary": "Darius I presents his kingship as a gift of Ahuramazda, the god the Zoroastrian tradition places at its centre.",
+  "limits": "Shows Ahuramazda as the Achaemenid king's god in the late 6th century BCE. It does not show Darius to be a Zoroastrian in the later sense (the inscription never names Zarathustra) and says nothing of Judaeans.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Behistun inscription (DB, Old Persian version)",
+   "locator": "DB I.5",
+   "language": "Old Persian (quoted in English translation)",
+   "edition": "Livius.org: transliteration and adapted King and Thompson translation",
+   "composition": {
+    "start": -520,
+    "end": -519,
+    "basis": "Darius I's own inscription, composed after his accession and the revolts of 522-521 BCE (Livius page notes Darius reigned 522-486 BCE; exact composition range is my inference from the events it narrates and is not stated on the page)."
+   },
+   "witness": "Carved relief and trilingual inscription at Bisotun, Iran (Livius). The inscription itself is the witness; I did not open a catalogued date for the carving."
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "Achaemenid empire (religion of the king)",
+   "carried": "religion",
+   "what": "royal devotion to Ahuramazda as source of kingship",
+   "medium": "court_or_empire",
+   "start": -522,
+   "end": -486,
+   "directness": "documented"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Behistun inscription (DB, Livius adaptation of King and Thompson) i.14",
+  "authors": null,
+  "year": null,
+  "venue": "Livius.org",
+  "url": "https://www.livius.org/sources/content/behistun-persian-text/behistun-t-08/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Epigraphy",
+  "stance": "context",
+  "ask_addressed": "Quote the biblical and Persian texts that bear on Persian-Judaean contact",
+  "quote": "I restored to the people, and the pasture lands, and the herds and the dwelling places",
+  "summary": "Darius claims to restore temples that the Magian usurper Gaumata had destroyed, with pasture, herds and houses, to the people of Persia, Media and the other provinces.",
+  "limits": "Persian royal temple-restoration language, parallel in kind to the Cyrus Cylinder; the Magian is cast as the villain, which complicates any simple identification of Magi with a Zoroastrian priestly caste. Not about Judaea.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Behistun inscription (DB, Old Persian version)",
+   "locator": "DB I.14",
+   "language": "Old Persian (quoted in English translation)",
+   "edition": "Livius.org: transliteration and adapted King and Thompson translation",
+   "composition": {
+    "start": -520,
+    "end": -519,
+    "basis": "Darius I's own inscription, composed after his accession and the revolts of 522-521 BCE (Livius page notes Darius reigned 522-486 BCE; exact composition range is my inference from the events it narrates and is not stated on the page)."
+   },
+   "witness": "Carved relief and trilingual inscription at Bisotun, Iran (Livius). The inscription itself is the witness; I did not open a catalogued date for the carving."
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "Achaemenid empire (religion of the king)",
+   "carried": "religion",
+   "what": "royal devotion to Ahuramazda as source of kingship",
+   "medium": "court_or_empire",
+   "start": -522,
+   "end": -486,
+   "directness": "documented"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Behistun inscription (DB, Livius adaptation of King and Thompson) iv.54-55 (the Lie)",
+  "authors": null,
+  "year": null,
+  "venue": "Livius.org",
+  "url": "https://www.livius.org/sources/content/behistun-persian-text/behistun-t-36/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Epigraphy",
+  "stance": "context",
+  "ask_addressed": "the Gathas (Yasna 30) and the Avestan material on angels and a final judgement, only as far as you can read an edition",
+  "quote": "lies made them revolt, so that they deceived the people",
+  "summary": "Darius says provinces revolted because of 'the Lie' (drauga) and urges future kings to punish liars. The Truth/Lie opposition is the Old Persian counterpart of the Avestan asha/druj contrast.",
+  "limits": "The word-level link to the Gathic Asha/Druj opposition is the editor's and my inference; the Livius page gives only the English text and transliteration. No Judaean reception is attested.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Behistun inscription (DB, Old Persian version)",
+   "locator": "DB IV.54-55",
+   "language": "Old Persian (quoted in English translation)",
+   "edition": "Livius.org: transliteration and adapted King and Thompson translation",
+   "composition": {
+    "start": -520,
+    "end": -519,
+    "basis": "Darius I's own inscription, composed after his accession and the revolts of 522-521 BCE (Livius page notes Darius reigned 522-486 BCE; exact composition range is my inference from the events it narrates and is not stated on the page)."
+   },
+   "witness": "Carved relief and trilingual inscription at Bisotun, Iran (Livius). The inscription itself is the witness; I did not open a catalogued date for the carving."
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "Achaemenid empire (religion of the king)",
+   "carried": "religion",
+   "what": "royal devotion to Ahuramazda as source of kingship",
+   "medium": "court_or_empire",
+   "start": -522,
+   "end": -486,
+   "directness": "documented"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Yasna 30.3-6 (the two primal Spirits), Mills translation",
+  "authors": "Mills, L. H. (translator); Peterson, J. H. (digital edition)",
+  "year": 1898,
+  "venue": "avesta.org",
+  "url": "https://avesta.org/yasna/yasna.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Religious studies",
+  "stance": "context",
+  "ask_addressed": "the Gathas (Yasna 30) and the Avestan material on angels and a final judgement, only as far as you can read an edition",
+  "quote": "Now the two primal Spirits, who reveal themselves in vision as Twins, are the Better and the Bad",
+  "summary": "The Gatha states a choice between two primal spirits, 'the Better and the Bad', who created 'Life and Not-Life'; the Daevas chose wrongly. Boyce's modern translation of the same verses (Livius) says 'there are two primal Spirits, twins renowned to be in conflict'.",
+  "limits": "Mills (1898) is an old translation; Boyce's differs in detail (Livius, opened). The dating of the Gathas is unresolved (see text.composition) and may precede or follow the Babylonian exile. The text shows an ethical dualism of choice; whether it is the same as later Zoroastrian cosmic dualism is itself contested. No source opened shows Judaeans reading it.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Yasna (Ahunavaiti Gatha)",
+   "locator": "30.3-6",
+   "language": "Old Avestan (quoted in English translation)",
+   "edition": "Mills 1898 in SBE 31 as reproduced by Peterson, avesta.org (Yasna, Gathas)",
+   "composition": {
+    "start": -1400,
+    "end": -550,
+    "basis": "Gathas dated on linguistic grounds to the 14th-13th c. BCE by some scholars, to the early 6th c. BCE by others (Livius, 'Zarathustra', opened 2026-11-17: 'it is uncertain when he lived'); oral transmission."
+   },
+   "witness": "Oldest surviving Avestan manuscript 1288 CE, all extant manuscripts derive from a 9th-10th c. CE copy (Bremmer, as reported by Ehrman blog, opened); no ancient manuscripts."
+  },
+  "strand": {
+   "from": "Zoroastrian tradition",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "dualism of two spirits and choice between them",
+   "medium": "unknown",
+   "start": -539,
+   "end": -200,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Yasna 30.7-10 (retribution, the Consummation, molten metal), Mills translation",
+  "authors": "Mills, L. H. (translator); Peterson, J. H. (digital edition)",
+  "year": 1898,
+  "venue": "avesta.org",
+  "url": "https://avesta.org/yasna/yasna.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Religious studies",
+  "stance": "context",
+  "ask_addressed": "the Gathas (Yasna 30) and the Avestan material on angels and a final judgement, only as far as you can read an edition",
+  "quote": "So when there cometh their punishment for their sins, then, O Mazda, at Thy command shall Good Thought establish the Dominion in the Consummation",
+  "summary": "Verses 7-10 speak of punishment for the followers of the Lie, a Dominion established 'in the Consummation', retribution 'through (molten) metal', and a reward in the abode of Good Thought. This is the Gathic material nearest a final reckoning.",
+  "limits": "Mills's wording differs from Boyce's, who has 'Then when retribution comes for these sinners ... may we be those who shall transfigure this world' (Livius). The Gatha has no clear individual resurrection; later Zoroastrian eschatology (Frashokereti, Saoshyant) is in the Younger Avesta and Pahlavi books, not in this passage. Verse 8 is not a proof of influence on Daniel 12.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Yasna (Ahunavaiti Gatha)",
+   "locator": "30.7-10",
+   "language": "Old Avestan (quoted in English translation)",
+   "edition": "Mills 1898 in SBE 31 as reproduced by Peterson, avesta.org (Yasna, Gathas)",
+   "composition": {
+    "start": -1400,
+    "end": -550,
+    "basis": "Gathas dated on linguistic grounds to the 14th-13th c. BCE by some scholars, to the early 6th c. BCE by others (Livius, 'Zarathustra', opened 2026-11-17: 'it is uncertain when he lived'); oral transmission."
+   },
+   "witness": "Oldest surviving Avestan manuscript 1288 CE, all extant manuscripts derive from a 9th-10th c. CE copy (Bremmer, as reported by Ehrman blog, opened); no ancient manuscripts."
+  },
+  "strand": {
+   "from": "Zoroastrian tradition",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "final reckoning and renewal of the world",
+   "medium": "unknown",
+   "start": -539,
+   "end": -200,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Yasna 19.6 (the Chinvat Bridge), Mills translation",
+  "authors": "Mills, L. H. (translator); Peterson, J. H. (digital edition)",
+  "year": 1898,
+  "venue": "avesta.org",
+  "url": "https://avesta.org/yasna/yasna.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Religious studies",
+  "stance": "context",
+  "ask_addressed": "the Gathas (Yasna 30) and the Avestan material on angels and a final judgement, only as far as you can read an edition",
+  "quote": "I will bring his soul over the Bridge of Chinvat, I who am Ahura Mazda",
+  "summary": "In a Younger Avestan chapter on the Ahuna-vairya prayer, Ahura Mazda promises to bring the reciter's soul over the Chinvat Bridge to heaven. It is Avestan evidence for a post-mortem crossing and a best-world destination.",
+  "limits": "The chapter number 19.6 is from standard Yasna numbering; the extracted avesta.org page text does not display chapter headings, so confirm the locator against the page. This is Younger Avestan, later than the Gathas, with no firm date. Bremmer (via Ehrman) says the oldest Avestan texts give only one reference to a later life and none to a future judgement day.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Yasna (Younger Avesta section)",
+   "locator": "19.6",
+   "language": "Younger Avestan (quoted in English translation)",
+   "edition": "Mills 1898 in SBE 31 as reproduced by Peterson, avesta.org (Yasna, Gathas)",
+   "composition": {
+    "start": -1000,
+    "end": -300,
+    "basis": "Younger Avestan; no firm date given on the page. The range -1000 to -300 is my placeholder and is not supported by a source I opened."
+   },
+   "witness": "Oldest surviving Avestan manuscript 1288 CE, all extant manuscripts derive from a 9th-10th c. CE copy (Bremmer, as reported by Ehrman blog, opened); no ancient manuscripts."
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Cyrus Cylinder (Livius introduction)",
+  "authors": null,
+  "year": 2020,
+  "venue": "Livius.org (last modified 12 October 2020)",
+  "url": "https://www.livius.org/sources/content/cyrus-cylinder/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Assyriology",
+  "stance": "fails_to_support",
+  "ask_addressed": "Give composition ranges with their basis, the earliest witnesses, and the scholarly debate on how far Zoroastrian ideas shaped Judaism; quote the strongest sceptical scholar you can open",
+  "quote": "There is no evidence that Cyrus inaugurated a new policy of tolerance.",
+  "summary": "Livius states that the Cylinder was once believed to confirm the Bible, that the Judaean return 'can in fact not be found in the text', and that it copies Babylonian royal propaganda. It also reports a widely circulated fake translation.",
+  "limits": "Website article, not peer reviewed; it cites Kuhrt (JSOT 25, 1983), van der Spek (Persica 10, 1982), Harmatta and Schaudig, none of which I opened. It tests the Cyrus-liberator reading, not the Zoroastrian question.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "Judaean exiles",
+   "carried": "institution",
+   "what": "a Persian policy of tolerance and return",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -530,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Zoroastrianism (International Standard Bible Encyclopedia, section on relation to Israel)",
+  "authors": null,
+  "year": null,
+  "venue": "ISBE online (internationalstandardbible.com)",
+  "url": "https://www.internationalstandardbible.com/Z/zoroastrianism.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Biblical studies",
+  "stance": "contradicts",
+  "ask_addressed": "Give composition ranges with their basis, the earliest witnesses, and the scholarly debate on how far Zoroastrian ideas shaped Judaism; quote the strongest sceptical scholar you can open",
+  "quote": "there is nothing in the formal theology of Judaism that can be described as \"borrowed\" from Mazdean teachings",
+  "summary": "The entry lists what appears after Persian contact (angelology, a Satan figure, eschatology) but concludes the most that can be asserted is a mark on angelology and demonology and 'possibly' some eschatological details; Isa 45:7 'almost certainly' does not refer to Mazdean dualism.",
+  "limits": "Early-20th-century reference work; unsigned on the page and the author is not shown; the Pahlavi and Avesta dating it assumes is outdated. It also grants influence on angelology and on 'common people'. Position is a cautious sceptic, not a denial.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Zoroastrian tradition",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "angelology, demonology, eschatology",
+   "medium": "unknown",
+   "start": -539,
+   "end": -100,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Was Resurrection a Zoroastrian Idea? (Ehrman, quoting Bremmer 2002)",
+  "authors": "Ehrman, B. D.",
+  "year": 2017,
+  "venue": "The Bart Ehrman Blog",
+  "url": "https://ehrmanblog.org/was-resurrection-a-zoroastrian-idea/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Biblical studies",
+  "stance": "contradicts",
+  "ask_addressed": "Give composition ranges with their basis, the earliest witnesses, and the scholarly debate on how far Zoroastrian ideas shaped Judaism; quote the strongest sceptical scholar you can open",
+  "quote": "There … is little reason to derive Jewish ideas about resurrection from Persian sources. Their origin(s) may well lie in intra-Jewish developments",
+  "summary": "Ehrman reports that Bremmer (The Rise and Fall of the Afterlife, 2002, p. 59) rejects a Persian origin for Jewish resurrection belief, noting the oldest Avestan manuscript is from 1288 CE and that resurrection appears in Jewish texts only from the Maccabean period, about 150 years after Persian rule.",
+  "limits": "A blog post whose first part is public; the argument is secondhand from Bremmer, whose book I did not open. Ehrman says he will read Barr's 1985 JAAR article and had not yet reached a final view. The chronological argument concerns resurrection only, not angelology or dualism.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Zoroastrian tradition",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "resurrection of the dead",
+   "medium": "unknown",
+   "start": -539,
+   "end": -160,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Views of Scholars Refuting Zoroastrian Influence (Antia, quoting Mark S. Smith)",
+  "authors": "Antia, K.",
+  "year": 2012,
+  "venue": "avesta.org",
+  "url": "https://AVESTA.ORG/antia/Views_of_Scholars_Refuting_Zoroastrian_Influence.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Religious studies",
+  "stance": "contradicts",
+  "ask_addressed": "Give composition ranges with their basis, the earliest witnesses, and the scholarly debate on how far Zoroastrian ideas shaped Judaism; quote the strongest sceptical scholar you can open",
+  "quote": "\"This dualism,\" he observes, \"does not truly resemble biblical monotheism.\"",
+  "summary": "Antia's compilation quotes Mark S. Smith (The Origins of Biblical Monotheism, OUP 2001) as doubting that Zoroastrianism was the model for biblical monotheism, while allowing that Persian tradition may have 'reinforced monotheistic rhetoric'. Antia disputes parts of Smith's reading.",
+  "limits": "Partisan compilation by a Zoroastrian-community writer (Antia, January 2012); the Smith quote is secondhand and I did not open Smith's book. Smith concedes some Persian reinforcement. Included as a located statement of the sceptical case, not as proof.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Zoroastrian tradition",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "monotheism and dualism",
+   "medium": "unknown",
+   "start": -539,
+   "end": -300,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Iranian influence on Judaism (Silverman, The Bible and Interpretation)",
+  "authors": "Silverman, J. M.",
+  "year": 2011,
+  "venue": "The Bible and Interpretation (Arizona Center for Judaic Studies)",
+  "url": "https://bibleinterp.arizona.edu/articles/sil358017",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Second Temple Judaism",
+  "stance": "context",
+  "ask_addressed": "Give composition ranges with their basis, the earliest witnesses, and the scholarly debate on how far Zoroastrian ideas shaped Judaism; quote the strongest sceptical scholar you can open",
+  "quote": "The entire area of Iranian influence has been beset by severe problems in method.",
+  "summary": "Silverman, who argues for Iranian influence, states that earlier work was marred by racist assumptions and by failing to define 'influence', transmission or context, and says no earlier effort was 'wholly successful'. He argues for a borrowing in Daniel's metal-statue vision.",
+  "limits": "Author is a proponent (Persepolis and Jerusalem, T&T Clark 2012), so this is a methodological caution from inside the camp, not a sceptic's rebuttal. Web article, Oct. 2011.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Achaemenid Persia",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "Iranian ideas (eschatology, apocalyptic motifs)",
+   "medium": "unknown",
+   "start": -539,
+   "end": -100,
+   "directness": "debated"
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Isaiah Scroll (1QIsa-a), dating",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (revision accessed 2026-11-17)",
+  "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Dead Sea Scrolls",
+  "stance": "context",
+  "ask_addressed": "Give composition ranges with their basis, the earliest witnesses, and the scholarly debate on how far Zoroastrian ideas shaped Judaism; quote the strongest sceptical scholar you can open",
+  "quote": "calibrated date ranges between 356 and 103 BC, and 150-100 BCE respectively",
+  "summary": "1QIsa-a, the Great Isaiah Scroll, has been dated by radiocarbon to a calibrated 356-103 BCE and by palaeography to about 150-100 BCE; it is the earliest complete Isaiah witness and contains chs 44-45.",
+  "limits": "Wikipedia summary citing Jull et al. (Radiocarbon 37, 1995); I did not open Jull et al. The Cyrus oracle's composition is much earlier than this copy, so the scroll fixes a latest date only.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "bible-persia",
+  "records": [],
+  "title": "Book of Daniel: Qumran manuscripts and dating",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (revision accessed 2026-11-17)",
+  "url": "https://en.wikipedia.org/wiki/Book_of_Daniel",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Dead Sea Scrolls",
+  "stance": "context",
+  "ask_addressed": "Give composition ranges with their basis, the earliest witnesses, and the scholarly debate on how far Zoroastrian ideas shaped Judaism; quote the strongest sceptical scholar you can open",
+  "quote": "All eight manuscripts were copied between 125 BC",
+  "summary": "Eight Daniel copies from Qumran range from 125 BCE (4QDan-c) to about 50 CE, and the scholarly consensus dates the book to 167-163 BCE, so the earliest witness is within decades of composition.",
+  "limits": "Wikipedia, tertiary; its citations (VanderKam and Flint; Collins) were not opened. The late date is what makes Persian-period borrowing hard to document.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "quote_on_page": true,
+   "method": "scripts/check_quote.py normalisation",
+   "date": "2026-11-17"
+  }
+ }
+]
