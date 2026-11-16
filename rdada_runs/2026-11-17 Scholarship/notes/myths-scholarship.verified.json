@@ -1,0 +1,373 @@
+[
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Review of E.J. Michael Witzel, The Origins of the World's Mythologies",
+  "authors": "Thompson T.",
+  "year": null,
+  "venue": "Journal of Folklore Research Reviews (IU ScholarWorks)",
+  "url": "https://scholarworks.iu.edu/journals/index.php/jfrr/article/download/38998/41327",
+  "kind": "skeptical",
+  "discipline": "Folklore studies",
+  "stance": "contradicts",
+  "ask_addressed": "What do independent specialists say about Witzel's Laurasian mythology and Berezkin's motif maps (reviews, critiques)?",
+  "quote": "completely out of date and highly questionable scholarship",
+  "summary": "A folklorist rejects Witzel's Laurasian/Gondwana scheme as implausible in data, scholarship and logic, and charges that its two-'race' framing is racist; he lists contradictory statements by Witzel on Gondwana cosmogony and flood myths.",
+  "limits": "One hostile review; the 'racist' charge is the reviewer's own definition. Not a quantitative test. Year nulled: the XML metadata gives 2013 (the book's year) and an e-publication date of 2021, so the review's own date is not shown. Strand dates nulled: the review states none; the strand records Witzel's claim under review, not something the quoted passage asserts.",
+  "strand": {
+   "from": "Upper Palaeolithic South-West Asia (Witzel's Laurasian hearth)",
+   "to": "Eurasia, North Africa and the Americas",
+   "carried": "idea",
+   "what": "Laurasian mythology: a single story line from creation to destruction, diverged from 'Pan-Gaean'",
+   "medium": "migration",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Comparing mythologies on a global scale: a review article of E.J. Michael Witzel, The origins of the world's mythologies",
+  "authors": "Allen N.J.",
+  "year": 2014,
+  "venue": "Journal of the Anthropological Society of Oxford (JASO) 6(1): 99-103",
+  "url": "https://test-anthro.web.ox.ac.uk/sites/default/files/anthro/documents/media/jaso6_1_2014_99_103.pdf",
+  "kind": "secondary",
+  "discipline": "Social anthropology",
+  "stance": "supports",
+  "ask_addressed": "What do independent specialists say about Witzel's Laurasian mythology and Berezkin's motif maps (reviews, critiques)?",
+  "quote": "the Thulung data seem to accord with the Laurasia concept sufficiently well to suggest that the concept merits further testing",
+  "summary": "A specialist in Himalayan mythology and Dumezil-style comparison tests Witzel's story-line on his Thulung Rai corpus: partial fit, ambiguous world-destruction. Calls the theory heuristic and says it 'may or may not survive'; notes Berezkin's computer-based distribution maps of mythemes.",
+  "limits": "Sympathetic by his own admission (predisposed to common-origin approaches); one case, 'cursory'. Does not test Berezkin's maps independently. Strand dates (about 40 kya for the Laurasian origin in South-West Asia, ca 20 kya into the Americas) are Allen's own approximations of Witzel's tentative scheme ('about', 'ca'), not fixed dates. Year and volume come from the file name and venue; the text itself shows only the book's 2012 date.",
+  "strand": {
+   "from": "Upper Palaeolithic South-West Asia (Witzel's Laurasian hearth)",
+   "to": "Eurasia, North Africa and the Americas",
+   "carried": "idea",
+   "what": "Laurasian mythology: a single story line from creation to destruction, diverged from 'Pan-Gaean'",
+   "medium": "migration",
+   "start": -38000,
+   "end": -18000,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Comparing myths, comparing mythologies: a Laurasian approach",
+  "authors": "Witzel E.J.M.",
+  "year": null,
+  "venue": "Michael Witzel's Harvard site (Project on Comparative Mythology)",
+  "url": "https://sites.harvard.edu/witzel/?p=385",
+  "kind": "alternative",
+  "discipline": "Comparative mythology",
+  "stance": "supports",
+  "ask_addressed": "What do independent specialists say about Witzel's Laurasian mythology and Berezkin's motif maps (reviews, critiques)?",
+  "quote": "this project assumes a common origin of most of Eurasian and Amerindian, thus of “Laurasian” mythology.",
+  "summary": "Witzel's own statement of the framework: complete mythologies (not single myths) share a story line, reconstructed for Eurasia, North Africa and the Americas.",
+  "limits": "Proponent's own summary; undated page; the assumption is stated, not demonstrated. Use as the source of the claim, not as evidence for it. Strand dates nulled: the page states none.",
+  "strand": {
+   "from": "Upper Palaeolithic South-West Asia (Witzel's Laurasian hearth)",
+   "to": "Eurasia, North Africa and the Americas",
+   "carried": "idea",
+   "what": "Laurasian mythology: a single story line from creation to destruction, diverged from 'Pan-Gaean'",
+   "medium": "migration",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Comparative phylogenetic analyses uncover the ancient roots of Indo-European folktales",
+  "authors": "Graca da Silva S., Tehrani J.J.",
+  "year": 2016,
+  "venue": "Royal Society Open Science 3: 150645 (PMC4736946, via Europe PMC XML)",
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4736946/fullTextXML",
+  "doi": "10.1098/rsos.150645",
+  "kind": "primary",
+  "discipline": "Cultural phylogenetics",
+  "stance": "supports",
+  "ask_addressed": "What do phylogenetic studies of folktales and myths find (da Silva and Tehrani 2016; d'Huy's Polyphemus and Cosmic Hunt papers) and how have critics responded?",
+  "quote": "find evidence that one tale (‘The Smith and the Devil’) can be traced back to the Bronze Age",
+  "summary": "Phylogenetic comparative analysis of tale distributions against Indo-European language trees; most tales show vertical transmission. Only ATU 330 is reconstructed in Proto-Indo-European by Bayesian ancestral-state reconstruction (posterior 87%); the Bayesian runs failed to support three of four tentatively inferred PIE tales.",
+  "limits": "Inference from tale-language correlation; no dated text or artefact. Tale-type coding and language trees are assumptions. publisher page (Royal Society) and PMC page returned CAPTCHA/403; text read via Europe PMC XML. Strand dates nulled: 'Bronze Age' is a period label in the paper, not a dated range; the 3500 BCE to 1500 CE span was the researcher's approximation.",
+  "strand": {
+   "from": "Proto-Indo-European (Pontic steppe, Bronze Age)",
+   "to": "Indo-European-speaking populations",
+   "carried": "idea",
+   "what": "folktale ATU 330 'The Smith and the Devil' and other tale types inherited vertically",
+   "medium": "migration",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The Phylogeny of Little Red Riding Hood",
+  "authors": "Tehrani J.J.",
+  "year": 2013,
+  "venue": "PLoS ONE 8(11): e78871 (PMC3827309, via Europe PMC XML)",
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3827309/fullTextXML",
+  "doi": "10.1371/journal.pone.0078871",
+  "kind": "primary",
+  "discipline": "Cultural phylogenetics",
+  "stance": "supports",
+  "ask_addressed": "What do phylogenetic studies of folktales and myths find (da Silva and Tehrani 2016; d'Huy's Polyphemus and Cosmic Hunt papers) and how have critics responded?",
+  "quote": "it is possible to identify ATU 333 and ATU 123 as distinct international types",
+  "summary": "Cladistic, Bayesian and network analysis of 58 tales; separates ATU 333 and ATU 123 and suggests East Asian tales are blends of both. The method that da Silva and Tehrani 2016 extends.",
+  "limits": "Dates rest on literary first attestations (the paper warns literary evidence is biased toward Europe). 58 tales; coding choices are the author's. Strand dates nulled (the 1 to 1700 span was approximated from literary attestations, not stated as a transfer date). Directness lowered from inferred to debated: the quoted passage only separates two tale types and does not state a Europe-to-East-Asia transfer.",
+  "strand": {
+   "from": "Europe",
+   "to": "East Asia (and Africa)",
+   "carried": "idea",
+   "what": "tale types ATU 333/123 spreading and blending (Tiger Grandmother)",
+   "medium": "unknown",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "How oral traditions develop: a cautionary tale on cultural evolution from the Quechuan-speaking Andes",
+  "authors": "Urban M.",
+  "year": 2025,
+  "venue": "Humanities and Social Sciences Communications 12: 1604",
+  "url": "https://www.nature.com/articles/s41599-025-05335-4",
+  "kind": "skeptical",
+  "discipline": "Linguistic anthropology",
+  "stance": "fails_to_support",
+  "ask_addressed": "What do phylogenetic studies of folktales and myths find (da Silva and Tehrani 2016; d'Huy's Polyphemus and Cosmic Hunt papers) and how have critics responded?",
+  "quote": "they make the astonishing claim that particular tales, like ‘The Smith and the Devil’, likewise, have their origin in the Bronze Age",
+  "summary": "Tests phylogenetic models on 41 Quechua versions of Juan Oso (known maximum age ~500 years). Finds the story is better modelled by recombination ('rhizotic') than by tree-like descent, and calls the Bronze Age tale claim astonishing.",
+  "limits": "Skepticism is by analogy: a different tale and region, not a reanalysis of the Indo-European data. Single author. Strand dates nulled: Bronze Age is a label, not a stated range.",
+  "strand": {
+   "from": "Proto-Indo-European (Bronze Age)",
+   "to": "Indo-European-speaking populations",
+   "carried": "idea",
+   "what": "tale ATU 330 claimed to track language phylogeny",
+   "medium": "migration",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Readers Respond to the December 2016 Issue (letters on d'Huy, 'The Evolution of Myths', with d'Huy's reply)",
+  "authors": "Hale J.R.; Richardson J.; d'Huy J.",
+  "year": 2017,
+  "venue": "Scientific American (letters)",
+  "url": "https://www.scientificamerican.com/article/readers-respond-to-the-december-2016-issue/",
+  "kind": "skeptical",
+  "discipline": "Comparative mythology",
+  "stance": "context",
+  "ask_addressed": "What do phylogenetic studies of folktales and myths find (da Silva and Tehrani 2016; d'Huy's Polyphemus and Cosmic Hunt papers) and how have critics responded?",
+  "quote": "D'Huy assumes that parallels between myths are always the result of transmission rather than of independent invention.",
+  "summary": "Reader letters object that Greek/Amerindian Cosmic Hunt and Polyphemus parallels could come from European missionaries or independent invention; d'Huy replies citing Berezkin's distribution evidence and tree positions.",
+  "limits": "Reader letters (Scientific American, April 2017, p. 6), not peer review; the quoted sentence is reader John Richardson's, and the Hale letter and d'Huy's reply are by others. Context only. The criticism concerns a popular summary of d'Huy's work. The reply's claims are the author's own. Stance lowered from fails_to_support and strand removed: a letter is not a source for a transfer.",
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Polyphemus: A Palaeolithic Tale?",
+  "authors": "d'Huy J.",
+  "year": 2015,
+  "venue": "RMN Newsletter 9 (Winter 2014-2015): 43-64",
+  "url": "https://www.helsinki.fi/assets/drupal/2022-12/rmn_09_2014-2015.pdf",
+  "kind": "primary",
+  "discipline": "Phylogenetic mythology",
+  "stance": "supports",
+  "ask_addressed": "What do phylogenetic studies of folktales and myths find (da Silva and Tehrani 2016; d'Huy's Polyphemus and Cosmic Hunt papers) and how have critics responded?",
+  "quote": "Comparative evidence supports the probability that the Polyphemus tale was current in some form in the Palaeolithic era",
+  "summary": "Phylogenetic analysis of 56 ATU 1137 variants (190 traits); the paper concludes the tale was probably current in some form in the Palaeolithic and discusses a Trois-Freres rock-art reading as a possibility only.",
+  "limits": "Newsletter, not a peer-reviewed journal; trait selection is the author's; the rock-art reading is acknowledged as speculative. Dating is by inference, not by any dated text. Quote replaced by the verifier: the researcher's quoted abstract sentence did not state the Palaeolithic claim; this sentence was found verbatim in the PDF (pdftotext raw order). Strand dates nulled: the paper gives no dated range.",
+  "strand": {
+   "from": "Palaeolithic Eurasia",
+   "to": "North America (Ojibwa) and Europe",
+   "carried": "idea",
+   "what": "Polyphemus tale (ATU 1137)",
+   "medium": "migration",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The Cosmic Hunt: Variants of a Siberian - North-American Myth",
+  "authors": "Berezkin Y.",
+  "year": 2005,
+  "venue": "Folklore: Electronic Journal of Folklore 31: 79-100",
+  "url": "https://www.folklore.ee/folklore/vol31/berezkin.pdf",
+  "doi": "10.7592/FEJF2005.31.berezkin",
+  "kind": "primary",
+  "discipline": "Comparative folklore",
+  "stance": "supports",
+  "ask_addressed": "What do independent specialists say about Witzel's Laurasian mythology and Berezkin's motif maps (reviews, critiques)? What do phylogenetic studies of folktales and myths find (da Silva and Tehrani 2016; d'Huy's Polyphemus and Cosmic Hunt papers) and how have critics responded?",
+  "quote": "could be explained only by particular historical links between corresponding traditions",
+  "summary": "Maps two Eurasian variants of the Cosmic Hunt and finds minor-detail parallels with North American traditions; argues both probably date to the initial settling of the New World.",
+  "limits": "Dating is inferred from distribution (absence in NE Asia and Alaska), not dated texts; independent invention is argued against, not excluded. Strand dates nulled: the paper says only 'probably date to the time of initial settling of the New World'; the researcher's -20000 to -12000 was an admitted approximation. The author's own work, so not an independent assessment of his maps.",
+  "strand": {
+   "from": "Siberia and Central Eurasia",
+   "to": "North America",
+   "carried": "idea",
+   "what": "Cosmic Hunt myth",
+   "medium": "migration",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The travelling girl and her helpful siblings: an Unnoticed Boreal tale and the ATU index",
+  "authors": "Berezkin Y.",
+  "year": 2019,
+  "venue": "Folklore: Electronic Journal of Folklore 75",
+  "url": "https://folklore.ee/folklore/vol75/berezkin.pdf",
+  "doi": "10.7592/FEJF2019.75.berezkin",
+  "kind": "primary",
+  "discipline": "Comparative folklore",
+  "stance": "context",
+  "ask_addressed": "What do independent specialists say about Witzel's Laurasian mythology and Berezkin's motif maps (reviews, critiques)?",
+  "quote": "Each such pattern is most probably related to a particular historical process that took place at a particular time.",
+  "summary": "Berezkin describes the method behind his motif-distribution catalogue (55,000 abstracts, 2,500 motifs, principal-component maps) and argues the ATU index cannot serve statistical work.",
+  "limits": "Author's own account of his method; interpretation of each pattern as a historical process is an assumption, not a test.",
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "myths-scholarship",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Analysis of the worldwide distribution of the 'man or animal in the Moon' motifs",
+  "authors": "Thuillard M.",
+  "year": 2021,
+  "venue": "Folklore: Electronic Journal of Folklore 84",
+  "url": "https://www.folklore.ee/folklore/vol84/thuillard.pdf",
+  "doi": "10.7592/FEJF2021.84.thuillard",
+  "kind": "secondary",
+  "discipline": "Comparative folklore",
+  "stance": "context",
+  "ask_addressed": "What do independent specialists say about Witzel's Laurasian mythology and Berezkin's motif maps (reviews, critiques)?",
+  "quote": "The motifs are best classified into two main groups having an overlapping geographic distribution.",
+  "summary": "A follow-up user of Berezkin's database (2,278 motifs, 934 peoples) reports that motifs cluster into two main groups; cites Thuillard et al. 2018 (not opened).",
+  "limits": "Reuses Berezkin's data, so it is not independent of it; no test of Witzel's Laurasian/Gondwana split is made here.",
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ }
+]

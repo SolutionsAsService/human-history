@@ -58,6 +58,8 @@ export const CULTURES: Culture[] = [
   C('abbasid', 'Abbasid Caliphate (Baghdad)', 'Islamic world and Europe', 750, 1258),
   C('al-andalus', 'Al-Andalus', 'Islamic world and Europe', 711, 1492),
   C('latin-europe', 'Latin Europe', 'Islamic world and Europe', 800, 1700, ['alchemy-to-chymistry']),
+  C('olmec', 'Olmec Gulf Coast', 'Americas', -1200, -400),
+  C('maya', 'Maya and later Mesoamerica', 'Americas', -400, 900),
   C('austronesian', 'Austronesian (Taiwan and island Southeast Asia)', 'Pacific', -3000, -1000),
   C('near-oceania', 'Near Oceania (Papuan ancestry)', 'Pacific', -3000, -500),
   C('remote-oceania', 'Remote Oceania (Vanuatu)', 'Pacific', -1000, -400),
@@ -217,12 +219,13 @@ void n;
 // locator and date basis. Directness and status are the editor's reading of those passages, and every parallel records its
 // strongest doubt. `X` adds to a strand written above; `T` adds a new one.
 
-const X = (id: string, add: { passages?: string[]; src?: string[]; for?: string[]; against?: string[]; note?: string }) => {
+const X = (id: string, add: { passages?: string[]; src?: string[]; for?: string[]; against?: string[]; unresolved?: string[]; note?: string }) => {
   const s = STRANDS.find(x => x.id === id);
   if (!s) throw new Error('unknown strand ' + id);
   s.passages = [...(s.passages ?? []), ...(add.passages ?? [])];
   s.src = [...new Set([...s.src, ...(add.src ?? [])])];
   s.for.push(...(add.for ?? [])); s.against.push(...(add.against ?? []));
+  if (add.unresolved) s.unresolved = [...(s.unresolved ?? []), ...add.unresolved];
   if (add.note) s.note += ' ' + add.note;
 };
 
@@ -328,3 +331,44 @@ T2('s-buddhism-chuying', { thread: 'th-silk', from: 'india', to: 'china', carrie
 T2('s-ganying-rome', { thread: 'th-silk', from: 'china', to: 'parthian-sasanian', carried: 'people', what: 'Gan Ying’s mission to the west (97 CE)', medium: 'court_or_empire', start: 97, end: 97, directness: 'documented', status: 'E2',
   for: ['Hou Hanshu 88 (Anxi and Daqin sections) records Gan Ying’s embassy, quoted in Chinese and in Hirth’s English'], against: ['Written in the fifth century CE from earlier sources', 'Hirth’s English adds nothing independent: it translates the same passage'], note: 'The Chinese record shows contact with Parthian territory; what it says of Daqin (Rome) is hearsay gathered on the mission.',
   passages: ['p_houhanshu_88daqinanxi', 'p_houhanshu_88daqinganyi'], src: ['g_fan445b', 'g_hirth1885'] });
+
+// ================================================================ Scholarship wave (RDADA run 2026-11-17 Scholarship)
+// First-hand papers and reviews replace some of the pointer sources used above. Where the scholar could only be reached second-hand,
+// the line says so. Sceptical sources are held to the same standard as supportive ones.
+
+X('s-ie-steppe-language', { src: ['g_allentoft2015', 'g_narasimhan2019', 'g_lazaridis2022', 'g_klejn2017', 'g_heyd2017'],
+  for: ['Allentoft et al. (2015, abstract): “Our findings are consistent with the hypothesized spread of Indo-European languages during the Early Bronze Age”: their own hedge, since the paper measures ancestry, not language'],
+  against: ['Lazaridis et al. (2022): “Language is not encoded in the genome”; the homeland is an inference from where steppe ancestry is and is not found', 'Klejn’s answer to the 2015 authors: his doubts are not assuaged (abstract only; his arguments were not read)', 'Heyd (2017, abstract): the Yamnaya-to-Corded-Ware picture is too simple, with “considerable evidence for centuries of connections and interactions across the continent”'] });
+X('s-ie-steppe-cordedware', { src: ['g_heyd2017'], against: ['Heyd (2017): the archaeological record shows centuries of interaction, not a single transmission (abstract only)'] });
+X('s-ie-anatolian-farmers', { src: ['g_bouckaert2012', 'g_heggarty2023', 'g_kassian2025', 'g_lazaridis2022'],
+  for: ['Bouckaert et al. (2012): “We find decisive support for an Anatolian over a steppe origin”', 'Heggarty et al. (2023, abstract): a root of about 8120 years BP that “does not rule out an initial homeland south of the Caucasus, with a subsequent branch northward onto the steppe”: a hybrid, not pure Anatolian', 'Lazaridis et al. (2022): a West Asian homeland for Indo-Anatolian, with only secondary dispersals of non-Anatolian Indo-European from the steppe'],
+  against: ['Kassian and Starostin (2025): “there remain serious issues when it comes to marking cognation between different characters”: they belong to a school with a rival method, so they have a stake', 'Bouckaert’s root has since been challenged by later trees (Heggarty 2023 gets a different root and a hybrid homeland)'],
+  note: 'Updated with the first-hand papers: the Anatolian case is now mainly a West Asian or south-Caucasus one, not farmers into Europe.' });
+X('s-ie-asia', { src: ['g_narasimhan2019'],
+  for: ['Narasimhan et al. (2019, abstract): steppe ancestry in South Asia is “tracking a movement of people that affected both regions and that likely spread the unique shared features shared between Indo-Iranian and Balto-Slavic languages”'],
+  against: ['The same abstract notes there is no ancient DNA yet for the ANI and ASI groups, so the inference is statistical'] });
+X('s-persia-judaism', { src: ['g_shakednd', 'g_isbell2006', 'g_boyce1984', 'g_agostini2016', 'g_dobroruka2012', 'g_smithnd'],
+  for: ['Shaked (an Iranist, typescript): “scholars of Iranian generally tend to assume that Iran had a great deal of influence on Judaism and Christianity”; he names angelology, eschatology and dualism as the changes that point to Persia'],
+  against: ['Isbell (2006): “not a single Persian loanword is known throughout the entirety of the Hebrew Torah”; his own survey is “cursory”', 'Ehrman (first-hand blog): “Do we see any evidence of a belief in resurrection in Jewish texts from that period? Well, actually, no we don’t”: resurrection appears only from the Maccabean period, after Persian rule', 'M. S. Smith’s own summary explains Israelite monotheism by empire: “the conditions of human empires provided the model for divine empire” (Assyria and Babylon, not Persia)', 'Gignoux, as reported by Dobroruka (second-hand): Persian apocalyptic “is either too late to be taken as an effective influence”'],
+  unresolved: ['Barr (1985), Grabbe and Bremmer’s book could not be opened; Boyce reached only through a chapter abstract and a second-hand report'],
+  note: 'Updated: one proponent (Shaked) and two sceptics (Isbell, Ehrman) now read first-hand; the others stay second-hand and are marked so.' });
+X('s-writing-egypt-sinai', { src: ['g_haring2019', 'g_haring2025', 'g_simons2011', 'g_hflmayer2021'],
+  for: ['Simons (2011): “The proto-Sinaitic script almost certainly used the principle of acrophony to assign phonetic values to its signs”, drawing its signs from Egyptian hieroglyphic and hieratic'],
+  against: ['Haring (2019): “the Proto-Sinaitic inscriptions have largely remained undeciphered, the Wadi el-Ḥôl texts entirely so”', 'Haring (2025): “without a satisfactory decipherment of the Wadi el-Hol abjad texts it is impossible to say if they are really related to the expedition texts”', 'Höflmayer et al. (2021): “The date for the development of early alphabetic script is still disputed”; several scholars also deny acrophony'] });
+X('s-writing-sinai-phoenician', { src: ['g_hflmayer2021'], against: ['Höflmayer et al. (2021) report a Lachish inscription argued to bridge the gap between Sinai and later Levantine texts; the gap-filling is argued, not settled'] });
+X('s-writing-semitic-brahmi', { src: ['g_pillai2023', 'g_baumsnd'],
+  for: ['Pillai (2023): “Brāhmī was not derived from a single script, but instead was a hybrid invention by Indian scholars from Aramaic, Phoenician and Greek letters” (a minority proposal that also says there is no consensus)'],
+  against: ['Baums: “it remains possible, though by no means certain, that [Ashoka] or his immediate predecessors may have invented the Brahmi script on the model of Kharosthi”: the Kharosthi-model view, not a Semitic one', 'Salomon (1998) and Falk (2018), the standard references, could not be opened: they are known only through Pillai and Baums'],
+  note: 'Updated: three modern positions are now on the page (Semitic prototypes, a Kharosthi model, a hybrid), all graded debated.' });
+T2('s-olmec-maya-writing', { thread: 'th-writing', from: 'olmec', to: 'maya', carried: 'writing', what: 'The earliest Mesoamerican writing (the Cascajal block, c. 1000–800 BCE) and later scripts', medium: 'unknown', start: -1000, end: -400, directness: 'debated', status: 'E4',
+  note: 'The Cascajal block is claimed as the earliest writing in the Americas. Imaging and pXRF find its material consistent with Olmec serpentine, but doubts about authenticity linger. The strand’s end year is a schematic placement: no source opened dates the first Maya glyphs.',
+  for: ['Skidmore (2006, Mesoweb) summarises the original Science claim of 1000–800 BCE', 'Englehardt et al. (2020) find the block’s material and manufacture consistent with securely provenanced Olmec serpentine'], against: ['Englehardt et al.: “Doubts linger, however, regarding the object’s authenticity”', 'A Mesoweb report on the San Bartolo murals relies on sources not opened and treats claimed La Venta glyphs as iconic rather than script', 'No source opened tests whether Olmec signs descend into Maya writing'],
+  src: ['g_englehardt2020', 'g_skidmore2006', 'g_evidenceofnd', 'g_clemmensen2023'] });
+X('s-laurasian', { src: ['g_thompsonnd', 'g_allen2014', 'g_witzelnd', 'g_dhuy2015', 'g_graca2016', 'g_urban2025'],
+  for: ['Allen (2014): the Thulung data “seem to accord with the Laurasia concept sufficiently well to suggest that the concept merits further testing”: he is predisposed to common-origin approaches, and this is one case', 'd’Huy (2015, a newsletter): “Comparative evidence supports the probability that the Polyphemus tale was current in some form in the Palaeolithic era”'],
+  against: ['Thompson’s review calls it “completely out of date and highly questionable scholarship”: one hostile review, whose “racist” charge is the reviewer’s own definition', 'A comparable method traces one tale, “The Smith and the Devil”, to the Bronze Age (da Silva and Tehrani 2016, one of five tested at 87%); Urban (2025) calls that “the astonishing claim” and finds tree models fit Quechua versions poorly (by analogy, not a reanalysis)'],
+  unresolved: ['Lincoln’s 2015 review of Witzel could not be opened; no independent review of Berezkin’s catalogue turned up'] });
+X('s-cosmic-hunt', { src: ['g_berezkin2005'], for: ['Berezkin (2005): the parallels “could be explained only by particular historical links between corresponding traditions”: his own work, not an independent test'] });
+X('s-craft-to-roman-alchemy', { src: ['g_rageot2023', 'g_walter1999', 'g_shortland2009'],
+  for: ['A 26th Dynasty embalming workshop at Saqqara: labelled vessels link Egyptian recipe names to oil, tar and resin mixtures, including imported Pistacia and conifer products (Rageot et al. 2023)', 'Walter et al. (1999, abstract): laurionite and phosgenite in cosmetics “appear to be synthetic products manufactured by the Egyptians using ‘wet’ chemistry”: the authors’ inference'],
+  against: ['Shortland (2009): “The earliest surviving glassmaking workshop is a subject of debate”: even the best-known craft site is unsettled'] });
