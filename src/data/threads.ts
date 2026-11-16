@@ -375,3 +375,88 @@ X('s-cosmic-hunt', { src: ['g_berezkin2005'], for: ['Berezkin (2005): the parall
 X('s-craft-to-roman-alchemy', { src: ['g_rageot2023', 'g_walter1999', 'g_shortland2009'],
   for: ['A 26th Dynasty embalming workshop at Saqqara: labelled vessels link Egyptian recipe names to oil, tar and resin mixtures, including imported Pistacia and conifer products (Rageot et al. 2023)', 'Walter et al. (1999, abstract): laurionite and phosgenite in cosmetics “appear to be synthetic products manufactured by the Egyptians using ‘wet’ chemistry”: the authors’ inference'],
   against: ['Shortland (2009): “The earliest surviving glassmaking workshop is a subject of debate”: even the best-known craft site is unsettled'] });
+
+// ================================================================ Breadth wave (RDADA run 2026-11-17 Breadth)
+// New regions and eras. Strands in extra/h.ts are generated from verified candidates (scripts/candidates-to-strands.py); the
+// cultures, threads and the grouping below are the editor's. Where no source gave dates, the strand sits on the overlap of the
+// two cultures' spans and says so in its note.
+import { STRANDS_H } from './extra/h';
+
+CULTURES.push(
+  CA('bantu-homeland', ['Nigeria', 'Cameroon'], 'Bantu homeland (Nigeria–Cameroon)', 'Africa', -3000, -1000),
+  C('congo-rainforest', 'Congo rainforest', 'Africa', -1000, 1500),
+  CA('bantu-africa', ['Bantu', 'sub-Saharan Africa'], 'Bantu-speaking Africa', 'Africa', -1000, 1500),
+  C('nok', 'Nok culture (central Nigeria)', 'Africa', -1000, 300),
+  CA('north-africa-sahara', ['Maghreb', 'Sahara', 'trans-Saharan trade'], 'North Africa and the Sahara trade', 'Africa', -500, 1500),
+  CA('ghana-mali', ['Ghana', 'Mali', 'Sahel', 'Timbuktu'], 'Ghana and Mali (Sahel)', 'Africa', 400, 1600),
+  CA('aksum', ['Axum', 'Ethiopia', 'Ezana'], 'Aksum (Ethiopia)', 'Africa', 100, 940),
+  CA('east-africa-coast', ['Swahili', 'Azania', 'Periplus'], 'East African coast (Azania)', 'Africa', 0, 1500),
+  CA('balsas-mesoamerica', ['Mexico', 'maize', 'Mesoamerica'], 'Balsas valley and Mesoamerica', 'Americas', -8000, 1500),
+  CA('andes', ['Peru', 'Inca'], 'Andes and Peruvian coast', 'Americas', -3000, 1500),
+  C('west-mexico', 'West Mexico', 'Americas', 600, 1500),
+  C('n-south-america', 'Northern South America (Ecuador, Colombia)', 'Americas', -3000, 1500),
+  C('indigenous-n-america', 'Indigenous North America', 'Americas', -15000, 1600),
+  CA('newfoundland', ['Vinland', 'L’Anse aux Meadows'], 'Newfoundland (L’Anse aux Meadows)', 'Americas', 1000, 1030),
+  C('americas-all', 'The Americas', 'Americas', -15000, 1600),
+  C('old-world', 'The Old World', 'Americas', -3000, 1900),
+  CA('polynesia-east', ['Polynesia', 'Rapa Nui', 'Easter Island'], 'Eastern Polynesia', 'Pacific', 800, 1500),
+  CA('norse', ['Vikings', 'Iceland', 'Greenland'], 'Norse world (Iceland, Greenland)', 'Europe', 800, 1400),
+  CA('baekje', ['Paekche', 'Korea'], 'Baekje (Korea)', 'East Asia', -18, 660),
+  CA('goguryeo', ['Koguryo', 'Korea'], 'Goguryeo (Korea)', 'East Asia', -37, 668),
+  CA('silla', ['Korea'], 'Silla (Korea)', 'East Asia', -57, 935),
+  CA('goryeo-joseon', ['Korea', 'Joseon', 'Goryeo'], 'Goryeo and Joseon Korea', 'East Asia', 918, 1897),
+  CA('yamato-japan', ['Japan', 'Nara', 'Heian'], 'Yamato and early Japan', 'East Asia', 300, 1100),
+  CA('vietnam', ['Jiaozhi', 'Annam', 'Tonkin'], 'Jiaozhi (northern Vietnam)', 'East Asia', -111, 938),
+  CA('funan', ['Cambodia', 'Mekong delta'], 'Funan', 'Southeast Asia', 100, 550),
+  CA('champa', ['Cham', 'Vietnam'], 'Champa', 'Southeast Asia', 192, 1500),
+  CA('kutai-java', ['Borneo', 'Java', 'Kutai'], 'Kutai and West Java', 'Southeast Asia', 350, 500),
+  CA('sea-all', ['Indianization', 'Indonesia'], 'Southeast Asia', 'Southeast Asia', -500, 1500),
+  C('pre-anatolian', 'Pre-Anatolian Indo-European speakers', 'Near East', -2500, -1900),
+  C('europe-asia-ie', 'Europe and Asia (Indo-European speakers)', 'Europe', -4000, 1000),
+  C('alpine', 'Alpine region (north Italic contact)', 'Europe', -700, 0),
+  CA('germanic-north', ['runes', 'Scandinavia'], 'Germanic north (runic)', 'Europe', -200, 800),
+  CA('armenia', ['Mashtots', 'Koriwn'], 'Armenia', 'Near East', -600, 1000),
+  C('georgia', 'Georgia (Kartli)', 'Near East', -300, 1000),
+  CA('ugarit', ['Syria'], 'Ugarit (Syria)', 'Near East', -1400, -1190),
+  C('nabataean', 'Nabataean kingdom', 'Near East', -100, 106),
+  CA('arabia', ['Hijaz', 'Arabic script', 'Namara'], 'Arabia (Nabataean to early Islam)', 'Near East', -100, 700),
+  C('manichaean', 'Manichaean communities', 'Near East', 240, 1400),
+  CA('church-east', ['Nestorian', 'Syriac Christianity'], 'Church of the East (Syria and Persia)', 'Near East', 100, 1400),
+  C('minoan', 'Minoan Crete (Linear A)', 'Mediterranean', -2000, -1450),
+  C('cyprus', 'Cyprus', 'Mediterranean', -1100, 300),
+  CA('early-christianity', ['Christians', 'church'], 'Early Christian communities', 'Mediterranean', 30, 400),
+  C('roman-east', 'Roman Anatolia and the Aegean', 'Mediterranean', -133, 400),
+  C('roman-north-africa', 'Roman North Africa', 'Mediterranean', -146, 430),
+  C('italian-ports', 'Italian maritime republics (Genoa, Caffa)', 'Mediterranean', 1200, 1500),
+  CA('bologna', ['Irnerius', 'Roman law revival'], 'Medieval Bologna', 'Europe', 1000, 1300),
+  CA('golden-horde', ['Mongols', 'Sarai'], 'Golden Horde', 'Steppe', 1242, 1502),
+  CA('mongol-empire', ['Mongols', 'Genghis', 'Karakorum'], 'Mongol Empire', 'Steppe', 1206, 1368),
+  C('tian-shan', 'Issyk-Kul and the Tian Shan', 'Steppe', 1300, 1350),
+  C('western-eurasia', 'Western Eurasia', 'Islamic world and Europe', 1300, 1400),
+  CA('ilkhanate', ['Tabriz', 'Rashid al-Din'], 'Ilkhanate Persia', 'Iran', 1256, 1335),
+);
+THREADS.push(
+  { id: 'th-africa', name: 'Africa: peoples, iron and trade', carried: 'people', blurb: 'The Bantu expansion, the debated origins of African iron, and what Arabic geographers and the Periplus record of trade and conversion. Genomic, linguistic and archaeological reconstructions of the Bantu route disagree, and the page keeps both.' },
+  { id: 'th-americas', name: 'The Americas: crops and contact', carried: 'crop_or_animal', blurb: 'Maize and its spread, Polynesian and Norse contact, and the Columbian exchange. Dated finds are separated from inference; the sceptic is quoted where one was opened.' },
+  { id: 'th-eastasia', name: 'East Asia: the Sinosphere', carried: 'religion', blurb: 'Writing, Buddhism, paper and technologies between China, Korea, Japan and Vietnam, read from Nihon Shoki, Samguk sagi and Hangul’s own prefaces. Scholars date the arrival of Buddhism in Japan differently from the chronicle.' },
+  { id: 'th-seasia', name: 'Southeast Asia: Indianization', carried: 'idea', blurb: 'Sanskrit inscriptions and Chinese envoy accounts set against the scholars who doubt a simple “Indianization”: Wolters’s localization, Vickery’s dating, and multidirectional exchange.' },
+  { id: 'th-islam', name: 'Islam, Arabic and the Indian Ocean', carried: 'idea', blurb: 'The earliest Arabic-script inscriptions, the Birmingham Quran fragment’s dating dispute, the Constitution of Medina, and the Indian Ocean trade to China.' },
+  { id: 'th-lawchurch', name: 'Law and Christianity', carried: 'institution', blurb: 'Roman law from Gaius to Bologna, and the spread of Christianity and Manichaeism through Pliny, Acts, Augustine and the Xi’an stele. A letter showing Christians in Bithynia is not a spread route, and the page says so.' },
+  { id: 'th-plague', name: 'Mongol-era exchange and the plague', carried: 'people', blurb: 'Rubruck and Polo on the Mongol world, and the Black Death’s route. The Caffa catapult story rests on one non-eyewitness; ancient-DNA studies place the strain, not the route.' },
+);
+for (const r of STRANDS_H) {
+  const a = CULTURES.find(c => c.id === r.from)!, b = CULTURES.find(c => c.id === r.to)!;
+  let start = r.start, end = r.end;
+  if (start == null && end == null) { start = Math.max(a.start, b.start); end = Math.min(a.end, b.end); if (end < start) { start = b.start; end = Math.min(b.end, b.start + 60); } }
+  else if (start == null) start = end!; else if (end == null) end = start;
+  const { schematic, ...s } = r; void schematic;
+  STRANDS.push({ ...s, start: start!, end: end! } as Strand);
+}
+
+// Finer detail: route and branch strands nested under their overview strand (shown with "Show fine detail").
+const PARENTS: Record<string, string[]> = {
+  'x-africa-bantu-homeland-bantu-africa-peop': ['x-africa-bantu-homeland-congo-rainforest-lang', 'x-africa-bantu-homeland-congo-rainforest-peop', 'x-africa-congo-rainforest-bantu-africa-peop'],
+  'x-mongol-golden-horde-latin-europe-peop': ['x-mongol-golden-horde-italian-ports-peop', 'x-mongol-tian-shan-western-eurasia-peop'],
+  'x-indo-yamnaya-europe-asia-ie-lang': ['x-indo-pre-anatolian-anatolia-lang', 'x-indo-yamnaya-anatolia-lang', 'x-indo-germanic-north-alpine-lang'],
+};
+for (const [par, kids] of Object.entries(PARENTS)) for (const k of kids) { const s = STRANDS.find(x => x.id === k); if (s) s.parent = par; }
