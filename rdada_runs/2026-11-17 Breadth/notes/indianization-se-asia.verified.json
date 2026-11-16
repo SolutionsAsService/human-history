@@ -1,0 +1,691 @@
+[
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "Notes d'épigraphie (BEFEO 15, 1915): Inscription de Vó-canh",
+  "authors": "Finot, L.",
+  "year": 1915,
+  "venue": "Bulletin de l'École française d'Extrême-Orient 15 (via Angkor Database PDF)",
+  "url": "https://cdn.angkordatabase.asia/libs/docs/finot-notes-epigraphiques-befeo15-1915.pdf",
+  "doi": "10.3406/befeo.1915.5229",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "L'esprit du grand Açoka revit dans cet édit.",
+  "summary": "Finot's catalogue entry gives the damaged Sanskrit stele of Vo Canh (Khanh Hoa), in vasantatilaka metre, with a French rendering of the legible last lines: a king of the line of Sri Mara dedicates his treasure to the welfare of creatures. Finot argues the ideas (impermanence, compassion, giving) are Buddhist.",
+  "limits": "Finot's own OCR text is noisy and the early lines are illegible. The Buddhist reading is Finot's interpretation, not stated in the text, and he refers dating to Bergaigne (not opened). Kingdom (Champa, Funan or Lam Ap) is not stated by the stele. Verifier: the quoted words are Finot's commentary comparing the edict to Asoka's, not the inscription's own wording, so kind is secondary and the Sanskrit-transfer strand is only inferred; the catalogue entry (opened) confirms Sanskrit, vasantatilaka metre and a king of Sri Mara's line, but gives no date (refers to Bergaigne, ISCC p. 191). The 200-500 CE range had no source and is nulled (composition 'not dated here'; strand start/end null). Title corrected to the printed 'Notes d'épigraphie'; DOI is printed on the PDF.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Champa (Khanh Hoa)",
+   "carried": "language",
+   "what": "Sanskrit verse edict with Buddhist-sounding ideas of compassion and giving, issued by a descendant of Sri Mara",
+   "medium": "unknown",
+   "start": null,
+   "end": null,
+   "directness": "inferred"
+  },
+  "text": {
+   "work": "Vo Canh inscription (Inscription de Vó-canh)",
+   "locator": "Finot catalogue no. B 2. 1 (Champa); French rendering of the last 8 legible lines, with commentary",
+   "language": "Sanskrit (quoted here in Finot's French commentary)",
+   "edition": "Finot, BEFEO 15 (1915), Notes d'épigraphie, B 2.1; text and French rendering",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "not dated here"
+   },
+   "witness": "The stone itself (granite stele, Vo Canh near Nha Trang), copied for Finot's plate; no later manuscript tradition"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "Notes d'épigraphie (BEFEO 15, 1915): historical introduction to the Hanoi museum inscriptions",
+  "authors": "Finot, L.",
+  "year": 1915,
+  "venue": "Bulletin de l'École française d'Extrême-Orient 15 (via Angkor Database PDF)",
+  "url": "https://cdn.angkordatabase.asia/libs/docs/finot-notes-epigraphiques-befeo15-1915.pdf",
+  "doi": "10.3406/befeo.1915.5229",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "la plus ancienne inscription de l'Indochine, celle de Vó-canh, qui reportait l'histoire de la colonisation indienne à plusieurs siècles en arrière",
+  "summary": "Finot states that the Vo Canh stele is the oldest inscription of Indochina and pushed the history of Indian colonisation back several centuries, showing how early epigraphy framed the 'colonisation' model.",
+  "limits": "Framing statement by an early epigraphist, with the colonisation vocabulary later contested. It dates nothing by itself. Verifier: kind changed from primary (no text object; Finot is a modern scholar). Strand range 200-500 CE had no source ('plusieurs siècles' is Finot's only dating) and is nulled. Title corrected to printed 'Notes d'épigraphie'; DOI printed on the PDF.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Champa",
+   "carried": "people",
+   "what": "Indian 'colonisation' read from the oldest Indochinese Sanskrit inscription",
+   "medium": "unknown",
+   "start": null,
+   "end": null,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "The Yupa Inscriptions of King Mulavarman, from Koetei (East Borneo): Inscription A",
+  "authors": "Vogel, J. Ph.",
+  "year": 1918,
+  "venue": "Bijdragen tot de Taal-, Land- en Volkenkunde 74, pp. 167-232 (archive.org scan, Dutch India Office volume 1918)",
+  "url": "https://archive.org/stream/dli.ministry.10312/26759_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "His were three eminent sons resembling the three sacrificial fires.",
+  "summary": "Vogel's transcript and English translation of Yupa A: the king Mulavarman, son of Asvavarman and grandson of 'the great Kundunga', performed a Bahusuvarnaka sacrifice, the post being prepared by 'the chief amongst the twice-borns'. Pure Sanskrit verse (anustubh) on a sacrificial post, in Borneo.",
+  "limits": "Translation is Vogel's, with footnotes noting Kern's alternative readings. The text names Brahmanical sacrifice and priests, but not how the practice reached Kutai; Kundunga's name is not Sanskrit and the dating is palaeographic only. Verifier: the quoted lines show Brahmanical sacrificial vocabulary in Borneo, not a transfer or its source; 'South India' origin is Vogel's palaeographic inference, so directness lowered from documented to inferred. Dates widened to 301-500 as Vogel gives them.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "South India (Pallava-type Sanskrit milieu)",
+   "to": "Kutai, East Borneo",
+   "carried": "religion",
+   "what": "Vedic-style sacrifice and Brahmin priests in royal Sanskrit verse",
+   "medium": "unknown",
+   "start": 301,
+   "end": 500,
+   "directness": "inferred"
+  },
+  "text": {
+   "work": "Yupa inscription A (Kern's no. II), Mulavarman, Muara Kaman",
+   "locator": "stanzas 1-3 (lines 1-12)",
+   "language": "Sanskrit (quoted in Vogel's English translation)",
+   "edition": "Vogel 1918, BKI 74, transcript and translation",
+   "composition": {
+    "start": 301,
+    "end": 500,
+    "basis": "Vogel (opened): 'Professor Kern hesitated between the fourth and fifth century and finally proposed 400 A. D.'; palaeographic only, Vogel adds 'we stand on no very firm ground'. Range widened from the researcher's 350-450 to the 4th-5th century Vogel states."
+   },
+   "witness": "Inscribed stone posts at Moeara Kaman (Koetei), reported to the Batavian Society in 1879-1880 (Vogel); Kern's edition in Verslagen en Mededeelingen, Kon. Akademie, Amsterdam 1881-82; transcript and translation in Vogel 1918"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "The Yupa Inscriptions of King Mulavarman, from Koetei (East Borneo): Inscription B",
+  "authors": "Vogel, J. Ph.",
+  "year": 1918,
+  "venue": "Bijdragen tot de Taal-, Land- en Volkenkunde 74 (archive.org scan)",
+  "url": "https://archive.org/stream/dli.ministry.10312/26759_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "for that deed of merit this sacrificial post has been made by the priests who had come hithers.",
+  "summary": "Vogel's translation of Yupa B records Mulavarman's gift of a thousand and twenty cattle to Brahmins ('twice-born who resemble the sacrificial fire') at Vaprakesvara, the post being made by priests 'who had come hither'.",
+  "limits": "The phrase 'who had come hither' (viprair ihagataih) suggests visiting priests, but the text does not say from where; reading and the OCR line are from the scan. Verifier: 'who had come hither' says the priests were incoming but not from where, so 'India' and medium 'teaching' are not in the passage; directness lowered to inferred, medium to unknown. OCR 'hithers' kept as printed.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India (Brahmin priests)",
+   "to": "Kutai, East Borneo",
+   "carried": "religion",
+   "what": "Brahmin ritual specialists performing and receiving royal sacrificial gifts",
+   "medium": "unknown",
+   "start": 301,
+   "end": 500,
+   "directness": "inferred"
+  },
+  "text": {
+   "work": "Yupa inscription B (Kern's no. III), Mulavarman",
+   "locator": "stanzas 4-5 (lines 1-8)",
+   "language": "Sanskrit (quoted in Vogel's English translation)",
+   "edition": "Vogel 1918, BKI 74",
+   "composition": {
+    "start": 301,
+    "end": 500,
+    "basis": "Vogel (opened) following Kern: between the 4th and 5th century, 400 CE proposed; palaeographic only. Range widened from 350-450."
+   },
+   "witness": "Inscribed stone post at Moeara Kaman (Koetei), reported to the Batavian Society in 1879-1880; Kern's edition 1881-82; Vogel 1918"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "The Yupa Inscriptions of King Mulavarman, from Koetei (East Borneo): palaeographical conclusions",
+  "authors": "Vogel, J. Ph.",
+  "year": 1918,
+  "venue": "Bijdragen tot de Taal-, Land- en Volkenkunde 74 (archive.org scan)",
+  "url": "https://archive.org/stream/dli.ministry.10312/26759_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Palaeography",
+  "stance": "supports",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "it is undoubtedly the archaic type of the ancient Grantha character",
+  "summary": "Vogel concludes the Kutai script is most closely related to the archaic Grantha used by early Pallava rulers, and ranks the early records Bhadravarman (Champa), Mulavarman, Purnavarman with c. 50 years between each, so Pallava-derived script is inferred from letter forms, not from a documented route.",
+  "limits": "Palaeography cannot date closely or show the route; Vogel himself says the chronology 'stand[s] on no very firm ground' and notes no stone records exist from early Pallava India for comparison. Verifier: the quote drops Vogel's hedge: the sentence continues that this script 'appears to be most closely related' to the Koetei characters; also Vogel notes Pallava stone inscriptions only begin in the 7th century.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Pallava South India",
+   "to": "Kutai, Champa, West Java",
+   "carried": "writing",
+   "what": "Pallava-type (archaic Grantha) script behind the earliest Indonesian and Cham Sanskrit inscriptions",
+   "medium": "unknown",
+   "start": 350,
+   "end": 450,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "The Yupa Inscriptions of King Mulavarman: date proposed",
+  "authors": "Vogel, J. Ph.",
+  "year": 1918,
+  "venue": "Bijdragen tot de Taal-, Land- en Volkenkunde 74 (archive.org scan)",
+  "url": "https://archive.org/stream/dli.ministry.10312/26759_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Palaeography",
+  "stance": "context",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "Professor Kern hesitated between the fourth and fifth century and finally proposed 400 A. D.",
+  "summary": "Vogel endorses Kern's c. 400 CE for the Kutai posts and puts Bhadravarman of Champa about the middle of the 4th century, noting the Vo-canh rock inscription and Bhadravarman's as the earliest of Indo-China.",
+  "limits": "A 1918 palaeographic estimate; later scholarship may revise it (not checked in an opened source).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Kutai / Champa",
+   "carried": "writing",
+   "what": "earliest dated horizon of Indic script in Indonesia and Indochina",
+   "medium": "unknown",
+   "start": 350,
+   "end": 450,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "Hundian and Suwu: A Fresh Look at the Emergence of Funan (quoting Kang Tai's Account of Foreign Lands)",
+  "authors": "Fukami, S.",
+  "year": null,
+  "venue": "NII repository PDF (journal not printed on the pages read; author of St. Andrew's University)",
+  "url": "https://stars.repo.nii.ac.jp/record/8115/files/KJ00006141347.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "Although the ruler of Funan Liuye tried to seize the ship, Hundian shot an arrow from his sacred bow that pierced her ship",
+  "summary": "Fukami translates Kang Tai's founding legend (Hundian, a devout man of 'Mofu', arrives by ship and subdues the queen Liuye) and lists how the Book of Jin, Southern Qi and Liang give the founder's origin: 'a foreign country', 'Jiguo', 'Jiaoguo ... to the south'.",
+  "limits": "Kang Tai's text survives only in later quotations (Taiping yulan, Shuijing zhu). Fukami's translation, not the Chinese, is quoted. Kang Tai's mission is dated 225-230 CE by Fukami but 245-250 by Vickery. Verifier: the quoted legend does not itself name India; the Indian origin is the debated identification (Fukami's article, quoted separately). Mission-date conflict kept: Fukami 225-230, Vickery 245-250 (Vickery's note says Pelliot first chose 225-230 then 245-250).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India (alleged)",
+   "to": "Funan",
+   "carried": "people",
+   "what": "legendary founder Hundian (=Kaundinya?) and a legend of an overseas hero",
+   "medium": "court_or_empire",
+   "start": 100,
+   "end": 300,
+   "directness": "debated"
+  },
+  "text": {
+   "work": "Kang Tai, Account of Foreign Lands in the Period of the Kingdom of Wu (cited in Taiping yulan juan 347)",
+   "locator": "founding legend of Funan",
+   "language": "Chinese (quoted in Fukami's English translation)",
+   "edition": "Fukami, 'Hundian and Suwu', with the Chinese in the appendices",
+   "composition": {
+    "start": 225,
+    "end": 250,
+    "basis": "Fukami dates Kang Tai's mission to 225-230 CE; Vickery (opened) gives 245-250; Fukami notes the report is lost and survives in later quotation"
+   },
+   "witness": "Kang Tai's report is lost (Fukami); it survives in later quotation: Taiping yulan (juan 347, 787), Shuijing zhu, and the Funan sections of the Book of Jin, Book of Southern Qi and Book of Liang"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "Hundian and Suwu: A Fresh Look at the Emergence of Funan: was Hundian from India?",
+  "authors": "Fukami, S.",
+  "year": null,
+  "venue": "NII repository PDF (journal not printed on the pages read)",
+  "url": "https://stars.repo.nii.ac.jp/record/8115/files/KJ00006141347.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History",
+  "stance": "contradicts",
+  "ask_addressed": "Include sceptical or alternative scholarship on 'Indianization' (Wolters, Mabbett, Hall) and what is documented versus inferred.",
+  "quote": "the identification of Hundian’s home country with India is no more than a possibility",
+  "summary": "Fukami weighs Hundian's origin: the Book of Liang says the home lay to the south of Funan; the Kaundinya identification is a name-equation; so Funan's emergence may be due to Southeast Asian political alignments, not Indianization.",
+  "limits": "The article argues the evidence is weak, not that India is excluded: 'it may be impossible to entirely discount' Indian origin. Not peer-review status checked.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India (alleged)",
+   "to": "Funan",
+   "carried": "people",
+   "what": "Brahmin founder Kaundinya as bearer of Indian culture",
+   "medium": "court_or_empire",
+   "start": 0,
+   "end": 300,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "Hundian and Suwu: Suwu's mission to Tianzhu",
+  "authors": "Fukami, S.",
+  "year": null,
+  "venue": "NII repository PDF (journal not printed on the pages read)",
+  "url": "https://stars.repo.nii.ac.jp/record/8115/files/KJ00006141347.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History",
+  "stance": "fails_to_support",
+  "ask_addressed": "Include sceptical or alternative scholarship on 'Indianization' (Wolters, Mabbett, Hall) and what is documented versus inferred.",
+  "quote": "it demonstrates that there had been little contact between Funan and Tianzhu prior to that time",
+  "summary": "From the Liang shu and Kang Tai accounts of the Funan prince Suwu's trip to India and the Indian envoys Chen and Song, Fukami infers little earlier Funan-India contact and a state formed within Southeast Asia, so Indian contact is documented for c. 220s-240s, not before.",
+  "limits": "Inference from an argument from silence about contact before the mission; the Chinese accounts are quoted in translation. Verifier: Fukami dates Kang Tai's mission 225-230 (so Suwu's return in the 220s); Vickery gives 245-250 for the mission, so the strand range is held at 220-250 and the conflict stays open.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India (Tianzhu)",
+   "to": "Funan",
+   "carried": "people",
+   "what": "first documented Funan-India embassies (Suwu to India; Indian envoys back)",
+   "medium": "trade",
+   "start": 220,
+   "end": 250,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "The Khmer Empire and the Malay Peninsula (Liang shu on Kaundinya)",
+  "authors": "Briggs, L. P.",
+  "year": null,
+  "venue": "The Far Eastern Quarterly (JSTOR copy via Angkor Database)",
+  "url": "https://cdn.angkordatabase.asia/libs/docs/publications/the-khmer-empire-and-the-malay-peninsula/briggs-funan2.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "He changed all the rules according to the customs of India.",
+  "summary": "Briggs translates the Liang shu: Kaundinya, 'originally a Brahman of India', told by a supernatural voice to reign in Funan, is chosen king and reforms its rules by Indian customs. Briggs dates this to about the start of the 5th century, as 'Kaundinya II'.",
+  "limits": "1950-era secondary reading that accepts the Chinese text; the Liang shu was compiled long after, and Vickery and Fukami dispute it. Date of Briggs' article is not printed on the pages read. copy: unauthorised-looking upload; cite the publication, not this URL",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Funan",
+   "carried": "institution",
+   "what": "Indian customs and law, brought by a Brahmin Kaundinya (II), c. 400 CE",
+   "medium": "court_or_empire",
+   "start": 357,
+   "end": 430,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "The Khmer Empire and the Malay Peninsula (Tun-hsiin Brahmans)",
+  "authors": "Briggs, L. P.",
+  "year": null,
+  "venue": "The Far Eastern Quarterly (JSTOR copy via Angkor Database)",
+  "url": "https://cdn.angkordatabase.asia/libs/docs/publications/the-khmer-empire-and-the-malay-peninsula/briggs-funan2.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History",
+  "stance": "supports",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "They do nothing but read the sacred books of the heavenly spirits [Brahmanical works]",
+  "summary": "Briggs quotes a Chinese report (via Pelliot) that Tun-hsiin, a vassal of Funan on the Malay Peninsula, held more than a thousand Indian Brahmans who married local women, and a Tang report that P'an-p'an and Lang-ya-hsiu learn Brahmanical writings and revere the Buddha's law.",
+  "limits": "Briggs' translation of a fragment cited by Pelliot; the source text and date of that Chinese document are not given on the pages read. Verifier: the Chinese document is cited by Briggs from Pelliot (note 23) without a date, so a dated-text 'documented' reading and the 200-700 range are unsupported; directness lowered to inferred, dates nulled. The Tang remark about P'an-p'an and Lang-ya-hsiu appears elsewhere in Briggs (Chiu T'ang shu) and is not in this quote. copy: unauthorised-looking upload; cite the publication, not this URL",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Funan vassals (Tun-hsiin, Malay Peninsula)",
+   "carried": "religion",
+   "what": "resident Indian Brahmans and Brahmanical writings",
+   "medium": "migration",
+   "start": null,
+   "end": null,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "Inscriptions of Kambuja: inscription of Queen Kulaprabhavati (Neak Ta Dambang Dek)",
+  "authors": "Majumdar, R. C.",
+  "year": 1953,
+  "venue": "Asiatic Society Monograph Series (archive.org full text, Digital Library of India scan)",
+  "url": "https://archive.org/stream/in.ernet.dli.2015.181497/2015.181497.Inscriptions-Of-Kambuja_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "begins with an invocation to Visnu and records the pious donations of Kulaprabhavati, the chief queen of Jayavarman.",
+  "summary": "Majumdar's summary, after Cœdès, of a five-verse Sanskrit plaque: the queen of Jayavarman (of Funan, c. 475-514) installs a divine image at a town 'inhabited by Brahmanas', and builds a hermitage with a tank.",
+  "limits": "The page shows only a summary and noisy Devanagari OCR; the translation of the stanzas is not in the lines read. The identification of the king with the Funan Jayavarman is Cœdès' suggestion. Verifier: the inscription is undated and its place in c. 475-514 rests on Coedes' identification of Jayavarman, so directness lowered from documented to inferred; OCR 'c. 475 to 614' kept visible. Quote is Majumdar's summary, not the Sanskrit. copy: unauthorised-looking upload; cite the publication, not this URL",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Funan (Takeo, Cambodia)",
+   "carried": "religion",
+   "what": "Vaishnava (Visnu) worship in Sanskrit verse at a Brahmin settlement",
+   "medium": "unknown",
+   "start": 475,
+   "end": 514,
+   "directness": "inferred"
+  },
+  "text": {
+   "work": "Neak Ta Dambang Dek inscription of Queen Kulaprabhavati",
+   "locator": "Majumdar no. 1; five verses",
+   "language": "Sanskrit (quoted in Majumdar's English summary)",
+   "edition": "Majumdar, Inscriptions of Kambuja (1953), after Cœdès, Journal of the Greater India Society IV",
+   "composition": {
+    "start": 475,
+    "end": 514,
+    "basis": "Majumdar reports Coedes' suggestion that the king is the Funan Jayavarman; the OCR prints his reign as 'c. 475 to 614' (read as 514, the death date Briggs (opened) gives for Kaundinya Jayavarman, who reigned before 484 to 514). Inscription itself undated; range rests on that identification."
+   },
+   "witness": "Schist plaque from Treang, Cambodia; Cœdès' edition (Journal of the Greater India Society IV)"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "Funan Reviewed: Deconstructing the Ancients",
+  "authors": "Vickery, M.",
+  "year": 2003,
+  "venue": "Bulletin de l'École française d'Extrême-Orient 90-91 (2003-2004), pp. 101-143",
+  "url": "https://cdn.angkordatabase.asia/libs/docs/publications/funan-reviewed-deconstructing-the-ancients/funan-reviewed-vickery.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History",
+  "stance": "contradicts",
+  "ask_addressed": "Include sceptical or alternative scholarship on 'Indianization' (Wolters, Mabbett, Hall) and what is documented versus inferred.",
+  "quote": "There is no evidence of Indianization (religion, art, architecture, state concepts) anywhere in Southeast Asia at that date.",
+  "summary": "Vickery argues that Hun-t'ien's date (1st century) is too early for Indianization and that the Funanese themselves did not claim acquaintance with India then; he calls the idea of Indian influence arriving with brahmans and a 'Hindu civilization implanted' 'early Southeast Asian academic folklore', and cites Manguin that Indianization followed about a millennium of steady exchange.",
+  "limits": "A strongly sceptical reading by one scholar; Vickery grants that Funan absorbed more Indian cultural influence from the 3rd century onward. copy: unauthorised-looking upload; cite the publication, not this URL",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Funan",
+   "carried": "religion",
+   "what": "Brahmin Kaundinya as bearer of Hindu civilisation in the 1st century",
+   "medium": "court_or_empire",
+   "start": 1,
+   "end": 300,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "Funan Reviewed: the Chinese reports (Kang Tai and Zhu Ying)",
+  "authors": "Vickery, M.",
+  "year": 2003,
+  "venue": "Bulletin de l'École française d'Extrême-Orient 90-91 (2003-2004)",
+  "url": "https://cdn.angkordatabase.asia/libs/docs/publications/funan-reviewed-deconstructing-the-ancients/funan-reviewed-vickery.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History",
+  "stance": "context",
+  "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+  "quote": "These stories are oral traditions, quite different in historical evidential value from the observations made by the envoys",
+  "summary": "Vickery separates what Kang Tai and Zhu Ying observed at Funan in 245-250 CE from the foundation legend they were told, which he treats as oral tradition, and lists four Chinese versions of it.",
+  "limits": "Vickery's date for the mission (245-250) differs from Fukami's (225-230); the envoys' reports are not preserved. Verifier: Vickery's 245-250 is one of two proposed dates (Fukami 225-230; Vickery's note says Pelliot first chose 225-230), so the strand range 225-250 keeps the conflict visible. copy: unauthorised-looking upload; cite the publication, not this URL",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Funan",
+   "to": "China (Wu)",
+   "carried": "idea",
+   "what": "foundation legend of Funan as told to the Wu envoys",
+   "medium": "court_or_empire",
+   "start": 225,
+   "end": 250,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "'Local' vs. 'Cosmopolitan' in the Study of Premodern Southeast Asia (on Wolters' localization)",
+  "authors": "Acri, A.",
+  "year": 2017,
+  "venue": "Suvannabhumi 9(1), pp. 7-52",
+  "url": "https://koreascience.kr/article/JAKO201714052854214.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Historiography",
+  "stance": "supports",
+  "ask_addressed": "Include sceptical or alternative scholarship on 'Indianization' (Wolters, Mabbett, Hall) and what is documented versus inferred.",
+  "quote": "Indian materials tended to be fractured and restated and therefore drained of their original significance",
+  "summary": "Acri reviews Wolters's 1999 'localization' model (Southeast Asian adaptation, not Indian imposition), quoting Wolters's own definition; Wolters regarded news from India as reaching the region 'fairly promptly and continuously'.",
+  "limits": "Wolters is quoted second-hand (1999 edition, p. 55); his book was not opened. Acri also presents the critiques.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Southeast Asia",
+   "carried": "idea",
+   "what": "Indic materials as raw fragments, 'localized' by local agents",
+   "medium": "trade",
+   "start": 100,
+   "end": 1500,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "'Local' vs. 'Cosmopolitan' (on Pollock's critique of Wolters)",
+  "authors": "Acri, A.",
+  "year": 2017,
+  "venue": "Suvannabhumi 9(1), pp. 7-52",
+  "url": "https://koreascience.kr/article/JAKO201714052854214.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Historiography",
+  "stance": "contradicts",
+  "ask_addressed": "Include sceptical or alternative scholarship on 'Indianization' (Wolters, Mabbett, Hall) and what is documented versus inferred.",
+  "quote": "Pollock has criticized Wolters’ view of an echt “Southeast Asianness” that presupposes an essential and ahistorical cultural substratum",
+  "summary": "Acri reports Pollock's counter-argument: Sanskrit use by Southeast Asian rulers shows participation in a cosmopolitan culture driven by local agency, and the 'localization' evidence is drawn from Sanskrit sources, not independent local ones.",
+  "limits": "One side of a live debate; Acri's summary of Pollock (2006), not Pollock himself.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Southeast Asia",
+   "carried": "language",
+   "what": "Sanskrit cosmopolitan culture adopted by local rulers",
+   "medium": "court_or_empire",
+   "start": 300,
+   "end": 1300,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "indianization-se-asia",
+  "records": [],
+  "title": "Beyond Indianization: Buddhist Knowledge Circulation in South and Southeast Asia",
+  "authors": "Khu, S., Pranoto, I.",
+  "year": 2026,
+  "venue": "Journal of Buddhist Studies and Applied Buddhism (JSBA) 11(3), pp. 737-755",
+  "url": "https://so04.tci-thaijo.org/index.php/JSBA/article/download/288981/193584/1336405",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Historiography",
+  "stance": "context",
+  "ask_addressed": "Include sceptical or alternative scholarship on 'Indianization' (Wolters, Mabbett, Hall) and what is documented versus inferred.",
+  "quote": "Such a framework can obscure the historical agency of Southeast Asian societies in selecting, transforming, and circulating cultural and religious knowledge.",
+  "summary": "A 2026 integrative review rejects one-way 'Indianization' in favour of multidirectional circulation and localization of Buddhist knowledge; it also concedes that two of its own cases remain speculative.",
+  "limits": "A literature review of secondary work, not new evidence; the authors admit the lack of definitive empirical evidence for their two cases.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Southeast Asia",
+   "carried": "religion",
+   "what": "Buddhist knowledge as multidirectional circulation",
+   "medium": "trade",
+   "start": 300,
+   "end": 1100,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "candidate": {
+   "brief": "indianization-se-asia",
+   "records": [],
+   "title": "Inscriptions of Kambuja: Prasat Pram Loven inscription of Gunavarman",
+   "authors": "Majumdar, R. C.",
+   "year": 1953,
+   "venue": "Asiatic Society Monograph Series (archive.org full text)",
+   "url": "https://archive.org/stream/in.ernet.dli.2015.181497/2015.181497.Inscriptions-Of-Kambuja_djvu.txt",
+   "doi": null,
+   "accessed": "2026-11-17",
+   "kind": "primary",
+   "discipline": "Epigraphy",
+   "stance": "supports",
+   "ask_addressed": "Southeast Asia: transmission of Sanskrit, Hindu-Buddhist religion and Indian scripts (Pallava-derived) to Funan, Champa, Java, Cambodia. Primary: Vo Canh inscription, Kutai Yupa inscriptions, Angkor-period Sanskrit inscriptions (Cœdès, Finot, Majumdar translations), Chinese envoy accounts (Kang Tai and Zhu Ying on Funan in the Liang shu or Nan Qi shu).",
+   "quote": "The two kings Jayavarman and Rudravarman were rulers of Fu-nan in the last quarter of the fifth and the first half of the sixth century",
+   "summary": "Majumdar summarises a twelve-verse Sanskrit stele (metres Vasantatilaka, Sloka, Sardulavikridita) with an invocation to Buddha, then Rudravarman and a Brahmin treasurer appointed by his father Jayavarman: Funan Sanskrit court verse with Buddhist and Brahmin elements.",
+   "limits": "Fragmentary text; summary only. OCR of the lines on the Brahmin treasurer is corrupted and not quoted.",
+   "reliability": "unassessed",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   },
+   "strand": {
+    "from": "India",
+    "to": "Funan",
+    "carried": "language",
+    "what": "Sanskrit court poetry in Buddhist-invocation inscription",
+    "medium": "court_or_empire",
+    "start": 475,
+    "end": 550,
+    "directness": "documented"
+   },
+   "text": {
+    "work": "Prasat Pram Loven inscription of Gunavarman",
+    "locator": "Majumdar no. 2; 12 verses",
+    "language": "Sanskrit (quoted in Majumdar's English summary)",
+    "edition": "Majumdar 1953 after Cœdès, BEFEO 31, 1",
+    "composition": {
+     "start": 475,
+     "end": 550,
+     "basis": "Majumdar: Jayavarman and Rudravarman reigned in the last quarter of the 5th and first half of the 6th century; Briggs (opened) gives Rudravarman's reign from 514"
+    },
+    "witness": "Stone stele from Thup Muoi, Plain of Reeds (Vietnam); Cœdès' edition (BEFEO 31, p. 1)"
+   }
+  },
+  "reason": "metadata_mismatch: the quoted passage and summary (invocation to Buddha, Rudravarman, Brahmin treasurer, six verses) are from Majumdar no. 3, the Ta Prohm inscription of Rudravarman, not no. 2 Prasat Pram Loven of Gunavarman (12 verses, consecration of a Visnu footprint, no Buddha invocation), which is what title, work, locator, verse count and witness describe. Quote is on the page but under a different work; resubmit as no. 3 with a corrected strand."
+ }
+]

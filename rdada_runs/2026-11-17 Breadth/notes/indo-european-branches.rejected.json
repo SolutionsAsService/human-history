@@ -1,0 +1,72 @@
+[
+  {
+    "candidate": {
+      "brief": "indo-european-branches",
+      "records": [],
+      "title": "Hittite Online, Lesson 1: Proclamation of Anittas (commentary on names and the god Siu)",
+      "authors": "Kimball, S.E.; Slocum, J.",
+      "year": 2013,
+      "venue": "University of Texas at Austin, Linguistics Research Center",
+      "url": "https://lrc.la.utexas.edu/eieol/hitol/10",
+      "accessed": "2026-11-17",
+      "kind": "secondary",
+      "discipline": "Hittitology",
+      "stance": "context",
+      "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Anatolian)",
+      "quote": "Although neither Anittas nor his father Pithanas bore an Indo-European name",
+      "summary": "The commentary notes that the king and his father bore non-Indo-European names, while the god 'our Sius' (from PIE dyeus) points to an Indo-European cult, and suggests the Hittites were an ethnically mixed group.",
+      "limits": "Commentary, not the text. It argues from one god-name and personal names; it does not show migration route or date of arrival.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "strand": {
+        "from": "Proto-Indo-European speakers",
+        "to": "Central Anatolia (Hittites)",
+        "carried": "language",
+        "what": "Hittite and a PIE sky-god cult in a mixed Hattic and Indo-European society",
+        "medium": "unknown",
+        "start": -1700,
+        "end": -1600,
+        "directness": "inferred"
+      }
+    },
+    "reason": "strand_unsupported: the quoted sentence only says the names are non-Indo-European and a god 'might' be of Indo-European origin; it says nothing of a language or cult being carried into Anatolia, and the strand's dates and 'inferred' rating come from elsewhere"
+  },
+  {
+    "candidate": {
+      "brief": "indo-european-branches",
+      "records": [],
+      "title": "Indo-Aryan superstrate in Mitanni (treaty gods)",
+      "authors": null,
+      "year": null,
+      "venue": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indo-Aryan_superstrate_in_Mitanni",
+      "accessed": "2026-11-17",
+      "kind": "secondary",
+      "discipline": "Near Eastern studies",
+      "stance": "context",
+      "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Indo-Aryan in the Near East)",
+      "quote": "In a treaty between the Hittites and Mitanni",
+      "summary": "Says the Suppiluliuma I and Shattiwaza treaty (c. 1380 BCE) invokes Mitra, Varuna, Indra and Nasatya, Indo-Aryan-looking names in Hurrian Mitanni.",
+      "limits": "Wikipedia summary; the treaty tablet itself and Thieme 1960 were not opened. Shows Indo-Aryan-like names in the Near East by the 14th c. BCE, not a migration route or a Vedic date.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "strand": {
+        "from": "Indo-Aryan speakers",
+        "to": "Mitanni (northern Mesopotamia)",
+        "carried": "religion",
+        "what": "Indo-Aryan divine names and horse terms",
+        "medium": "unknown",
+        "start": -1400,
+        "end": -1350,
+        "directness": "inferred"
+      }
+    },
+    "reason": "strand_unsupported: the quoted words ('In a treaty between the Hittites and Mitanni') name no Indo-Aryan deities or transfer; the strand rests on the following sentence, not the quote"
+  }
+]

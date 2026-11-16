@@ -1,0 +1,72 @@
+[
+  {
+    "candidate": {
+      "title": "Linear B",
+      "authors": null,
+      "year": null,
+      "venue": "Wikipedia (cites Chadwick, Cambridge Faculty of Classics 2012 and others)",
+      "url": "https://en.wikipedia.org/wiki/Linear_B",
+      "kind": "secondary",
+      "discipline": "Aegean epigraphy",
+      "stance": "supports",
+      "ask_addressed": "Break the writing thread into documented adaptations",
+      "quote": "Linear B was deciphered in 1952 by English architect and self-taught linguist Michael Ventris",
+      "summary": "Summarises Linear B as adapted from Linear A and deciphered by Ventris in 1952 as Mycenaean Greek: the Minoan-to-Mycenaean script adaptation. The same page says Linear A is undeciphered.",
+      "limits": "Encyclopedia summary. I could not open Ventris and Chadwick's 1953 JHS paper or Documents in Mycenaean Greek (paywalled / lending). The adaptation rests on sign-form comparison, not on a text that says so.",
+      "strand": {
+        "from": "Minoan Crete (Linear A)",
+        "to": "Mycenaean Greek",
+        "carried": "writing",
+        "what": "syllabic script adapted to write Greek",
+        "medium": "unknown",
+        "start": -1450,
+        "end": -1200,
+        "directness": "inferred"
+      },
+      "brief": "writing-systems-breakdown",
+      "records": [],
+      "accessed": "2026-11-17",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "strand_unsupported: the quoted sentence (Ventris's 1952 decipherment) says nothing of Linear A or of an adaptation; the strand Linear A -> Mycenaean Greek is stated elsewhere on the page, not in the quote. Wikipedia-only in any case."
+  },
+  {
+    "candidate": {
+      "title": "Ge'ez script",
+      "authors": null,
+      "year": null,
+      "venue": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ge%CA%BDez_script",
+      "kind": "secondary",
+      "discipline": "Epigraphy",
+      "stance": "supports",
+      "ask_addressed": "Break the writing thread into documented adaptations",
+      "quote": "Vocalization of Geʻez occurred in the 4th century, and though the first completely vocalized texts known are inscriptions by Ezana",
+      "summary": "Ge'ez derives from Ancient South Arabian, with vocalisation in the 4th century (Ezana; a Wazeba coin has one vocalised letter).",
+      "limits": "Page says the origin 'is debated' (Eritrea, Ethiopia or Yemen); it relies on Hudson and others which I did not open.",
+      "strand": {
+        "from": "Ancient South Arabian script",
+        "to": "Aksum (Ge'ez)",
+        "carried": "writing",
+        "what": "consonantal script then vowel marking",
+        "medium": "unknown",
+        "start": -700,
+        "end": 350,
+        "directness": "inferred"
+      },
+      "brief": "writing-systems-breakdown",
+      "records": [],
+      "accessed": "2026-11-17",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      }
+    },
+    "reason": "strand_unsupported: the quoted sentence concerns 4th-century vocalization attested in Ezana's inscriptions; it does not mention Ancient South Arabian or any derivation, so it does not justify the strand South Arabian -> Ge'ez (stated elsewhere on the page). Wikipedia-only in any case."
+  }
+]

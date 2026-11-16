@@ -1,0 +1,96 @@
+[
+ {
+  "candidate": {
+   "brief": "americas-crops-contact",
+   "records": [],
+   "title": "Letter of Columbus to Santangel (Early Modern Spain edition)",
+   "authors": "Columbus C. (ed. B.W. Ife, King's College London)",
+   "year": null,
+   "venue": "Early Modern Spain, King's College London",
+   "url": "https://www.ems.kcl.ac.uk/content/etext/e022.html",
+   "accessed": "2026-11-17",
+   "kind": "primary",
+   "discipline": "History",
+   "stance": "context",
+   "ask_addressed": "Americas: maize domestication and spread, Andean-Mesoamerican metallurgy contact, Polynesian-Native American contact (Ioannidis 2020 aDNA and the sweet potato), Norse contact in Newfoundland (L'Anse aux Meadows 1021 CE dendro date, Kuitems 2022), the Columbian Exchange.",
+   "quote": "as much spice and cotton as Their Majesties may order to be shipped",
+   "summary": "Columbus promises the Crown New World goods on return from the first voyage; shows intended export of American produce, not an observed crop transfer.",
+   "limits": "A promise, not a record of shipment. Edition year and translator not shown in the text I read.",
+   "reliability": "unassessed",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   },
+   "strand": {
+    "from": "Caribbean (Hispaniola, Cuba)",
+    "to": "Spain",
+    "carried": "crop_or_animal",
+    "what": "cotton, spices, gold promised",
+    "medium": "trade",
+    "start": 1493,
+    "end": 1493,
+    "directness": "inferred"
+   },
+   "text": {
+    "work": "Letter to Luis de Santangel",
+    "locator": "conclusion",
+    "language": "English (EMS facing translation)",
+    "edition": "Early Modern Spain e-text (King's College London), last updated 25 July 2005",
+    "composition": {
+     "start": 1493,
+     "end": 1493,
+     "basis": "letter dated on board off the Canaries 15 February 1493 on the EMS page; enclosure added at Lisbon"
+    },
+    "witness": "Not stated on the page opened"
+   }
+  },
+  "reason": "strand_unsupported: the quote is Columbus's promise of future shipments of spice and cotton, not a record or find of any transfer; a strand of 'inferred' transfer from it is not justified. Quote, URL and edition (EMS e-text, last updated 25 July 2005; letter dated 15 Feb 1493) verified; could be re-added as a non-strand context item."
+ },
+ {
+  "candidate": {
+   "brief": "americas-crops-contact",
+   "records": [],
+   "title": "Diario of 1492 (Early Modern Spain edition), entry for 16 October",
+   "authors": "Columbus C. (abstract by Las Casas; ed. King's College London)",
+   "year": null,
+   "venue": "Early Modern Spain, King's College London",
+   "url": "https://www.ems.kcl.ac.uk/content/etext/e019.html",
+   "accessed": "2026-11-17",
+   "kind": "primary",
+   "discipline": "History",
+   "stance": "context",
+   "ask_addressed": "Americas: maize domestication and spread, Andean-Mesoamerican metallurgy contact, Polynesian-Native American contact (Ioannidis 2020 aDNA and the sweet potato), Norse contact in Newfoundland (L'Anse aux Meadows 1021 CE dendro date, Kuitems 2022), the Columbian Exchange.",
+   "quote": "no pongo duda que todo el año siembran panizo y cogen",
+   "summary": "Columbus notes year-round sowing of 'panizo' on an island in the Bahamas.",
+   "limits": "'Panizo' is a millet-type word; this text does not say maize, so identifying it with maize is an inference. The text is in third person elsewhere ('Dize el Almirante'), i.e. an abstract, not Columbus's own hand.",
+   "reliability": "unassessed",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   },
+   "strand": {
+    "from": "Caribbean",
+    "to": "Spain (record)",
+    "carried": "crop_or_animal",
+    "what": "panizo (maize?) sown year-round",
+    "medium": "text",
+    "start": 1492,
+    "end": 1492,
+    "directness": "debated"
+   },
+   "text": {
+    "work": "Diario of the first voyage",
+    "locator": "Martes y miercoles 16 de otubre",
+    "language": "Spanish",
+    "edition": "Early Modern Spain e-text (King's College London), last updated 25 July 2005",
+    "composition": {
+     "start": 1492,
+     "end": 1493,
+     "basis": "voyage dates; surviving text is an abstract in the third person"
+    },
+    "witness": "Not stated on the page opened"
+   }
+  },
+  "reason": "strand_unsupported: the quote only says year-round sowing of 'panizo' on a Bahamian island; it states no transfer, and nothing in it identifies panizo as maize. Quote, locator and edition verified."
+ }
+]

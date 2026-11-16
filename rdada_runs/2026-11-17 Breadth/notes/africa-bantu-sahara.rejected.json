@@ -1,0 +1,86 @@
+[
+  {
+    "candidate": {
+      "brief": "africa-bantu-sahara",
+      "records": [],
+      "accessed": "2026-11-17",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "title": "Ancient West African foragers in the context of African population history",
+      "authors": "Lipson M., Ribot I., Mallick S., Rohland N., Olalde I., et al., Reich D.",
+      "year": 2020,
+      "venue": "Nature 577: 665-670",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8386425/",
+      "doi": "10.1038/s41586-020-1929-1",
+      "kind": "primary",
+      "discipline": "Ancient DNA",
+      "stance": "context",
+      "ask_addressed": "Africa: what do linguistics, ancient DNA and archaeology show about the Bantu expansion (dates, routes, Lipson et al. 2020, Patin et al. 2017, Bostoen's work) and what is disputed?",
+      "quote": "implying that these individuals are not representative of the primary source population(s) ancestral to present-day Bantu speakers",
+      "summary": "Genome-wide data from four children buried c. 8000 and 3000 years ago at Shum Laka (Cameroon), in the probable Bantu homeland, show ancestry close to West-Central African hunter-gatherers, unlike most Niger-Congo speakers today. The authors say the results neither support nor contradict a central role for the Grassfields in Bantu origins.",
+      "limits": "Four individuals from one site; it does not date or route the Bantu expansion, and does not show who the Bantu source population was. It frames the Bantu spread as c. 3000-1500 BP on the strength of cited linguistic and archaeological work, not its own data.",
+      "strand": {
+        "from": "Bantu homeland (Cameroon/Nigeria borderlands)",
+        "to": "southern half of Africa",
+        "carried": "language",
+        "what": "Bantu languages and Bantu-associated ancestry",
+        "medium": "migration",
+        "start": -1000,
+        "end": 500,
+        "directness": "inferred"
+      }
+    },
+    "reason": "strand_unsupported: the quoted passage says Shum Laka individuals are unrepresentative of Bantu source populations; it states no transfer of language or ancestry, and the strand's -1000/500 span and 'inferred' directness rest on background citations, not the quote"
+  },
+  {
+    "candidate": {
+      "brief": "africa-bantu-sahara",
+      "records": [],
+      "accessed": "2026-11-17",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "title": "Socrates Scholasticus, Ecclesiastical History 1.19 (Frumentius, Edesius and Rufinus)",
+      "authors": "Socrates Scholasticus (trans. in NPNF series 2, vol. 2)",
+      "year": null,
+      "venue": "New Advent (Church Fathers, NPNF2-02)",
+      "url": "https://www.newadvent.org/fathers/26011.htm",
+      "doi": null,
+      "kind": "primary",
+      "discipline": "Late-antique church history",
+      "stance": "supports",
+      "ask_addressed": "Aksum's adoption of Christianity (Ezana inscriptions; Rufinus)",
+      "quote": "Rufinus assures us that he heard these facts from Edesius, who was afterwards ordained to the priesthood at Tyre",
+      "summary": "Socrates tells how Meropius's youthful kinsmen, Edesius and Frumentius, were seized, served the Indian king, and Frumentius asked Athanasius at Alexandria for a bishop, then returned as bishop. He names Rufinus as having had the story from Edesius.",
+      "limits": "I could not open Rufinus's own Ecclesiastical History (10.9-10), only a later retelling that names it as source. 'Indians' here is the interior India of the text, taken by scholars to be Aksum (Rukuni 2021); Socrates writes a century after the events.",
+      "text": {
+        "work": "Historia Ecclesiastica (Socrates Scholasticus)",
+        "locator": "Book 1, chapter 19",
+        "language": "Greek (quoted in English, NPNF translation)",
+        "edition": "NPNF series 2, as hosted by New Advent",
+        "composition": {
+          "start": null,
+          "end": null,
+          "basis": "Wikipedia 'Socrates of Constantinople' (opened) gives his life as c. 380 to after 439; no composition date was read on an opened page"
+        },
+        "witness": "Not established from the page opened"
+      },
+      "strand": {
+        "from": "Roman Tyre and Alexandria",
+        "to": "Aksum (the 'India' of the text)",
+        "carried": "religion",
+        "what": "Christian worship and a bishop for Aksum through Frumentius",
+        "medium": "teaching",
+        "start": 330,
+        "end": 350,
+        "directness": "debated"
+      }
+    },
+    "reason": "strand_unsupported: the quoted sentence only says Rufinus heard the Frumentius story from Edesius; it does not name Aksum or say Christianity was carried there (Aksum is the researcher's reading of 'India', not in the quote)"
+  }
+]

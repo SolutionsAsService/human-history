@@ -1,0 +1,689 @@
+[
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Hittite Online, Lesson 1: The Proclamation of Anittas (Old Hittite)",
+    "authors": "Kimball, S.E.; Slocum, J.",
+    "year": null,
+    "venue": "University of Texas at Austin, Linguistics Research Center",
+    "url": "https://lrc.la.utexas.edu/eieol/hitol/10",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Hittitology / Indo-European linguistics",
+    "stance": "supports",
+    "ask_addressed": "Quote primary passages or inscriptions at their loci with date and basis, and what the earliest attestation shows about spread (and does not).",
+    "quote": "M A-ni-it-ta DUMU M Pi-it-ha-a-na LUGAL URU Ku-us-sa-ra QÍ-BÍ-MA",
+    "summary": "Opening line of the Anitta text in Hittite cuneiform transliteration (Anitta, son of Pithana, king of Kussara, 'speak!'), with word-by-word analysis; the page calls it the earliest genuinely historical text found at Boğazköy. Shows Hittite as a written language by the Old Kingdom copies; the opening is an Akkadian formula (QÍ-BÍ-MA).",
+    "limits": "The page does not date the composition or the surviving tablets; the dating basis is in the separate Wikipedia and Hittite_language candidates. Both Anitta and Pithana have non-Indo-European names. It shows Indo-European speech in central Anatolia, not how or when it arrived. Year nulled: the page shows no publication year. Composition reset to the single date stated on the opened Wikipedia page (1700 BCE); the earlier -1700/-1600 range was the researcher's approximation.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Proclamation of Anittas (Anitta text, CTH 1)",
+      "locator": "opening lines (lesson 1 extract)",
+      "language": "Hittite (Old Hittite, cuneiform transliteration; Akkadian QÍ-BÍ-MA)",
+      "edition": "Hittite Online Lesson 1, Kimball and Slocum (UT Austin LRC), transliteration with analysis",
+      "composition": {
+        "start": -1700,
+        "end": -1700,
+        "basis": "Wikipedia 'Anitta text' (opened): 'It is dated to 1700 BCE'; the page also reports Archi's view that it was first written in Akkadian at Kanesh. Single stated date, not a range; the cited Hittite Online page gives no composition date."
+      },
+      "witness": "Old Kingdom copy and later Hittite copies from Boğazköy/Hattusa (Hittite Online: 'preserved in a copy written in the Old Kingdom period and in later copies')"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Anitta text",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Anitta_text",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Hittitology",
+    "stance": "context",
+    "ask_addressed": "Quote primary passages or inscriptions at their loci with date and basis, and what the earliest attestation shows about spread (and does not).",
+    "quote": "Anitta, son of Pithana, king of Kussara, speak!",
+    "summary": "Gives an English rendering (from Hittite Online) and states the text is the oldest known in Hittite and in any Indo-European language, dated to 1700 BCE, possibly first composed in Akkadian at Kanesh (Archi).",
+    "limits": "Wikipedia is a tertiary summary; the 1700 BCE date and Archi's Akkadian-original view are cited there, not opened here. Surviving copies are later than the composition.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Anatolian languages (Kültepe texts; branch split and migration)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Anatolian_languages",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Indo-European linguistics",
+    "stance": "context",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Anatolian)",
+    "quote": "The earliest sources of Hittite are the 19th century BC Kültepe texts",
+    "summary": "Earliest Anatolian IE attestation is Hittite names and loanwords in Old Assyrian merchant records at Kültepe/Kanesh. The Hittite_language page on Wikipedia says 'as early as the 20th century BC' (a 19th vs 20th century disagreement between the pages).",
+    "limits": "Isolated names and words, not running Hittite text; shows speakers were in Anatolia by c. 2000-1800 BCE, not their origin. Wikipedia summaries; underlying scholarship not opened. Verifier: directness lowered from documented to inferred; Hittite names and loanwords in Akkadian records show the language was present at Kanesh then, not how or when it reached Anatolia. Dates reset to the 19th century BCE the quote states; the Hittite_language page's 20th-century figure was not opened.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Pre-Anatolian Indo-European speakers",
+      "to": "Anatolia",
+      "carried": "language",
+      "what": "Anatolian branch; earliest records are Hittite names and words in Old Assyrian documents at Kanesh",
+      "medium": "unknown",
+      "start": -1900,
+      "end": -1800,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Anatolian languages (origin of the branch)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Anatolian_languages",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Indo-European linguistics",
+    "stance": "context",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (what the earliest attestation does not show)",
+    "quote": "The Anatolian branch is probably the earliest to have split from the Proto-Indo-European language",
+    "summary": "The page presents the Anatolian branch as the earliest split ('Indo-Hittite') with a migration into Anatolia in the early 2nd millennium BCE, while the competing farming-from-Anatolia view puts the homeland there; the attestation order does not settle either.",
+    "limits": "Being attested earliest is not evidence of being the earliest split or of the homeland. Summary page; the underlying sources were not opened. Verifier: the quoted sentence supports only the branch-split claim; the early-2nd-millennium migration into Anatolia is stated in the following sentences of the same page (mid-4th-millennium split, migration early 2nd millennium BC).",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Pontic-Caspian steppe or Anatolia (disputed)",
+      "to": "Anatolia",
+      "carried": "language",
+      "what": "Anatolian branch origin and route",
+      "medium": "migration",
+      "start": -2000,
+      "end": -1800,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Luwian language (hieroglyphic seals)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Luwian_language",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Anatolian linguistics",
+    "stance": "context",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Luwian)",
+    "quote": "The earliest hieroglyphs appear on official and royal seals, dating from the early 2nd millennium BC",
+    "summary": "Luwian hieroglyphs begin on seals in the early 2nd millennium BCE, with unequivocal full writing only from the 14th c. BCE; cuneiform Luwian is attested in Kizzuwatna and central Anatolia.",
+    "limits": "Seal signs are mostly names and titles; the page itself says unequivocal writing is later. Summary page, no inscription text quoted.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Documents in Mycenaean Greek, 2nd ed. (Pylos tablet Ta 641)",
+    "authors": "Ventris, M.; Chadwick, J.",
+    "year": 1973,
+    "venue": "Cambridge University Press (OCR on archive.org)",
+    "url": "https://archive.org/download/MichaelVentrisJohnChadwickDocumentsInMYCENAEANGREEKIlovepdfCompressed/Michael_Ventris,__John_Chadwick]_Documents_in_MYCENAEAN%20GREEK-ilovepdf-compressed_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Mycenaean epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Greek: Linear B)",
+    "quote": "seems to be ti-ri-po-de, and it recurs twice as ti-ri-po",
+    "summary": "Blegen's 1953 letter reads Pylos tablet Ta 641 where ti-ri-po-de matches Greek tripode 'tripods' beside pot ideograms, one of the confirmations that Linear B is Greek. The OCR is not a facsimile of the tablet.",
+    "limits": "This is the 1973 second edition, not Ventris and Chadwick 1953 (JHS 73), which was not opened. The tablet is Pylos (LH IIIB-C), not the earliest Linear B. Shows Greek by the 13th c. BCE, not the route into Greece. copy: unauthorised-looking upload; cite the publication, not this URL",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Pylos tablet Ta 641 (as discussed in Documents in Mycenaean Greek)",
+      "locator": "Chapter I, section 5 (Blegen letter 16 May 1953)",
+      "language": "Mycenaean Greek (Linear B, transliterated)",
+      "edition": "Ventris and Chadwick, Documents in Mycenaean Greek, 2nd ed. by Chadwick, Cambridge UP 1973 (archive.org OCR)",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "No composition/inscription date for Ta 641 is stated in the passage; the book says only that it was found at Pylos in 1952 and that its mainland chronology table runs c. 1340-1200 BCE for the latest phase. Earlier -1250/-1200 range was the researcher's admitted approximation and has been nulled."
+      },
+      "witness": "Clay tablet fired in the Pylos destruction, found at Pylos (the book dates this tablet's find to 1952)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Documents in Mycenaean Greek, 2nd ed. (date of the archives)",
+    "authors": "Ventris, M.; Chadwick, J.",
+    "year": 1973,
+    "venue": "Cambridge University Press (OCR on archive.org)",
+    "url": "https://archive.org/download/MichaelVentrisJohnChadwickDocumentsInMYCENAEANGREEKIlovepdfCompressed/Michael_Ventris,__John_Chadwick]_Documents_in_MYCENAEAN%20GREEK-ilovepdf-compressed_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Mycenaean epigraphy",
+    "stance": "context",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Greek: Linear B dates)",
+    "quote": "the archive room at Pylos, destroyed at the beginning of Late Helladic 111 c",
+    "summary": "The authors say the tablets are only the last year's vouchers before each palace's destruction: Pylos at the start of LH IIIC, Mycenae houses at the end of LH IIIB. The Linear B chronology table in the book runs c. 1450-1405 (Knossos) to 1340-1200 (mainland). Wikipedia's Linear B page gives 'around 1450 BC' for the earliest examples.",
+    "limits": "Archive tablets survive only from the final year before each fire, so the script's use is older than any tablet. The Knossos date (c. 1405 or later) is contested in the book itself. Shows Greek was in Crete/Greece by about 1400 BCE, not when it arrived. copy: unauthorised-looking upload; cite the publication, not this URL",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Linear B archives (Knossos, Pylos, Mycenae)",
+      "locator": "Chapter on archaeological setting (OCR near 'last year's vouchers')",
+      "language": "Mycenaean Greek (Linear B)",
+      "edition": "Ventris and Chadwick 1973 (archive.org OCR)",
+      "composition": {
+        "start": -1450,
+        "end": -1200,
+        "basis": "the book's chronological table (OCR): Linear B at Knossos c. 1450-1405, mainland c. 1405-1340 and c. 1340-1200 BCE; Pylos archive room destroyed at the beginning of Late Helladic IIIC (quote). Range is the table's span."
+      },
+      "witness": "Fired clay tablets"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Archeological and linguistic evidence for the Tocharians in Eastern Central Asia",
+    "authors": "Mair, V.H.",
+    "year": 2013,
+    "venue": "CETOM conference, University of Vienna",
+    "url": "https://cetom.univie.ac.at/download/conference_2013/Mair.pdf",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Linguistics / archaeology",
+    "stance": "fails_to_support",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Tocharian)",
+    "quote": "we no longer have direct evidence for the presence of Tocharian speakers in the Tarim Basin",
+    "summary": "Mair himself says Tocharians are documented in the Tarim Basin by texts and captioned wall paintings only in the medieval period; for antiquity and the Bronze Age there is no direct evidence and presence is inferred.",
+    "limits": "This is an abstract (about 190 words); the archaeological and linguistic case itself was not in the file. Mair argues for the Afanasievo-to-Tarim route, which the page does not prove. Mair is a proponent of the migration view. Verifier: strand reduced to what the abstract says; the Afanasievo origin, migration medium and -2000/600 dates are not in the abstract. Year 2013 is taken from the URL path (conference_2013), not shown in the PDF text.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "unspecified (the abstract names no origin or route)",
+      "to": "Tarim Basin",
+      "carried": "language",
+      "what": "Tocharian speakers' presence before the medieval manuscripts",
+      "medium": "unknown",
+      "start": null,
+      "end": null,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Notes on the Buddhastotra Fragment THT3597 in Tocharian B",
+    "authors": "Peyrot, M.",
+    "year": 2010,
+    "venue": "Studies on Inner Asian Languages 25, 143-169 (Osaka University)",
+    "url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/26139/sial25-143.pdf",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Tocharian philology",
+    "stance": "supports",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Tocharian manuscripts)",
+    "quote": "you have surpassed all suns with your light",
+    "summary": "Edition with transliteration, transcription and English translation of an 'archaic Tocharian B' Buddhist praise-poem; Peyrot judges the leaf a later copy ('the leaf was definitely copied at a later stage') of an archaic text. Tocharian is shown as a Buddhist literary language of the Tarim oasis cities.",
+    "limits": "Page gives no absolute date; Wikipedia's Tocharian page dates the Tarim manuscripts generally to the 6th-8th c. CE, and Mair says there is no direct evidence earlier. Doesn't show where Tocharian speakers came from. Quote is the printed English rendering (English translation in Peyrot's section 3); OCR text has stray marks.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "THT 3597, Buddhastotra (praise of the Buddha's self-sacrifices)",
+      "locator": "section 3, English translation, stanza 1",
+      "language": "Tocharian B (quoted in English)",
+      "edition": "Peyrot 2010, Studies on Inner Asian Languages 25: transliteration, transcription and Peyrot's own English translation (section 3); Schmidt 1983 is cited there as the earlier translator.",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "not given on the page; Peyrot describes the language as archaic but the leaf as a later copy ('early standard' script)"
+      },
+      "witness": "Tarim Basin manuscript leaf THT 3597 (Berlin collection); Peyrot judges it a later copy of an archaic text. Tocharian manuscripts generally date 6th-8th c. CE per Wikipedia 'Tocharian languages' (opened)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Coligny calendar",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Coligny_calendar",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Celtic studies",
+    "stance": "context",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Celtic: Coligny)",
+    "quote": "the bronze plaque likely dates to the end of the second century CE",
+    "summary": "The Coligny bronze, in Gaulish with Latin letters and Roman numerals, is dated by lettering and its statue to the late 2nd c. CE, with copying errors implying an older original calendar.",
+    "limits": "Wikipedia summary; the dating basis cited there was not opened. Late Roman-period witness, so it shows Gaulish as a written language only in Roman Gaul and says nothing of when Celtic spread. A page text passage from the plate itself was not quoted.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Coligny calendar",
+      "locator": "bronze plaque fragments",
+      "language": "Gaulish (Latin script)",
+      "edition": "Wikipedia summary; no scholarly edition opened",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "page says the calendar is 'much older' than the plaque; no date given"
+      },
+      "witness": "Bronze plaque, end of 2nd century CE per the page"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Lezoux Plate",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lezoux_Plate",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Celtic studies",
+    "stance": "context",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Celtic: Lezoux)",
+    "quote": "batoron ueia sue-breto",
+    "summary": "Quotes a line of the Gaulish Lezoux plate in Gallo-Latin cursive with the translation 'one should go one's way by one's own judgement', with Old Irish cognates (e.g. molad, bráth) noted.",
+    "limits": "The page gives no date and the reading is partial. Evidence for Celtic only in Roman Gaul; Irish comparison supports Celtic kinship but not a spread route. Verifier: kind changed from primary to secondary; this is a Wikipedia transcription of the inscription, not an edition.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Lezoux plate",
+      "locator": "fragmentary lines (the page does not number the lines)",
+      "language": "Gaulish (Gallo-Latin cursive)",
+      "edition": "Wikipedia transcription; Lambert's RIG (2002) is listed there but not opened",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "no date on the page"
+      },
+      "witness": "Ceramic plate found 1970 at Lezoux"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Vimose inscriptions",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vimose_inscriptions",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Runology",
+    "stance": "context",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Germanic: Vimose comb)",
+    "quote": "considered the oldest known datable runic inscription altogether",
+    "summary": "Lists the Vimose comb, c. 160 CE, reading harja, among the oldest datable Elder Futhark inscriptions from Funen, Denmark.",
+    "limits": "Date and reading come from a cited secondary source (Seebold 1994) not opened; harja could be a name or a word. A runic text shows Germanic language in Scandinavia by the 2nd century CE only. Verifier: kind changed from primary to secondary; this is a Wikipedia transcription of the inscription, not an edition.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Vimose comb",
+      "locator": "inscription 'harja'",
+      "language": "Proto-Norse / late Proto-Germanic (Elder Futhark)",
+      "edition": "Wikipedia page transcription",
+      "composition": {
+        "start": 160,
+        "end": 160,
+        "basis": "Wikipedia 'Vimose inscriptions' (opened): 'Vimose comb (c. 160)'; single stated date, not a range. Earlier 125-175 range was the researcher's own."
+      },
+      "witness": "Bone comb in the National Museum of Denmark"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Negau helmets",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Negau_helmets",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Germanic philology",
+    "stance": "context",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Germanic: Negau B)",
+    "quote": "The date of the inscription is unclear, but it may be as old as 350–300 BC",
+    "summary": "Negau B bears a North Etruscan-script inscription, read by Markey as Hariχasti teiva 'Harigast the priest', possibly the earliest Germanic name and earliest Grimm's law attestation.",
+    "limits": "The date and reading are unsettled (the page cites Teržan 2012). The script is North Etruscan, not runic. Verifier: kind changed from primary to secondary; this is a Wikipedia transcription of the inscription, not an edition.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Negau helmet B (Ženjak)",
+      "locator": "inscription 'harigasti teiva'",
+      "language": "Possibly Germanic (North Etruscan alphabet)",
+      "edition": "Wikipedia page",
+      "composition": {
+        "start": -350,
+        "end": -300,
+        "basis": "Wikipedia 'Negau helmets' (opened): inscription date unclear, 'may be as old as 350-300 BC' (Teržan 2012); helmets c. 450-350 BC. -350/-300 is the earliest possible date, not a settled one."
+      },
+      "witness": "Bronze helmet found at Negova, Slovenia"
+    },
+    "strand": {
+      "from": "Germanic speakers",
+      "to": "Alpine region (north Italic contact)",
+      "carried": "language",
+      "what": "earliest possible Germanic name and Grimm's law evidence",
+      "medium": "unknown",
+      "start": -350,
+      "end": -300,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Negau helmets (caution on interpretation)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Negau_helmets",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Germanic philology",
+    "stance": "fails_to_support",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (what Negau does not show)",
+    "quote": "could be a second personal name",
+    "summary": "Quotes Smith's caution: the reading of teiva is not secure and may be a second name, and Germanic people preferred leather caps to metal helmets, undercutting use as a Germanic witness.",
+    "limits": "Opposing position is reported by the page secondhand; Smith's own work not opened.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Germanic speakers",
+      "to": "Alpine region",
+      "carried": "language",
+      "what": "Negau B as Germanic evidence",
+      "medium": "unknown",
+      "start": -350,
+      "end": -300,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Golden Horns of Gallehus",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Golden_Horns_of_Gallehus",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Runology",
+    "stance": "context",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Germanic: Gallehus)",
+    "quote": "I Hlewagastiz Holtijaz made the horn",
+    "summary": "Gives the Elder Futhark inscription 'ek hlewagastiz holtijaz horna tawido' with a translation, on horns dated to the early 5th century.",
+    "limits": "Later than Vimose; the page was read via transliteration only. It shows runic Proto-Norse, a long way from earliest Germanic. Verifier: kind changed from primary to secondary; this is a Wikipedia transcription of the inscription, not an edition.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Gallehus horn inscription",
+      "locator": "single line",
+      "language": "Proto-Norse (Elder Futhark)",
+      "edition": "Wikipedia",
+      "composition": {
+        "start": 400,
+        "end": 450,
+        "basis": "page: 'dated to the early 5th century'"
+      },
+      "witness": "Gold horns (lost; copies survive)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Koriun, Life of Mashtots (English translation) section VII-IX",
+    "authors": "Koriun",
+    "year": null,
+    "venue": "vehi.net, 'The Life of Mashtots'",
+    "url": "https://www.vehi.net/istoriya/armenia/korun/english/02.html",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Armenian studies",
+    "stance": "supports",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Armenian)",
+    "quote": "letters of the Armenian language, and then and there quickly designed, named, determined, their order",
+    "summary": "Koriun says Mashtots designed the Armenian letters and fixed their order, then went to Samosata with pupils; this is the earliest account of the alphabet's invention.",
+    "limits": "The page does not name the translator; I could not confirm which translation it is. Wikipedia Koriun calls the Life the earliest known original Armenian work and Koriun a fifth-century author; no precise date was given. Written after the alphabet (c. 400s), so it dates Armenian writing, not the language's origin. The Armenian-language branch is otherwise unattested earlier.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Life of Mashtots",
+      "locator": "sections VII-IX (the page)",
+      "language": "Classical Armenian (quoted in English)",
+      "edition": "vehi.net English edition, translator not shown",
+      "composition": {
+        "start": 401,
+        "end": 500,
+        "basis": "Wikipedia 'Koriun' (opened): 'a fifth-century Armenian author'; the page gives no narrower date. Earlier 440-500 was the researcher's admitted approximation."
+      },
+      "witness": "Oldest manuscript in Paris (BnF) per Wikipedia 'Koriun'"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "The Rig Veda, Hymn 1.1 (English)",
+    "authors": null,
+    "year": null,
+    "venue": "rigveda-online.github.io",
+    "url": "https://rigveda-online.github.io/1/1.html",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Indology",
+    "stance": "supports",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Indo-Iranian: Vedic)",
+    "quote": "I Laud Agni, the chosen Priest, God, minister of sacrifice",
+    "summary": "Gives the first verse of the Rigveda in Devanagari, transliteration and an English rendering that reads like Griffith's 1896 translation.",
+    "limits": "Translator is not named on the page (resemblance to Griffith not confirmed). Wikipedia 'Rigveda' dates composition 'most likely between c. 1500 and 1000 BCE' (wider 1900-1200 BCE); the oldest manuscripts are far later, as it was transmitted orally.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Rigveda",
+      "locator": "1.1.1",
+      "language": "Vedic Sanskrit (transliteration; English)",
+      "edition": "rigveda-online.github.io (translator not named)",
+      "composition": {
+        "start": -1500,
+        "end": -1000,
+        "basis": "Wikipedia 'Rigveda' ('most likely between c. 1500 and 1000 BCE')"
+      },
+      "witness": "Oral transmission; written manuscripts much later (not on the page)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Indo-Aryan superstrate in Mitanni (Kikkuli text)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Indo-Aryan_superstrate_in_Mitanni",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Near Eastern studies",
+    "stance": "context",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (Indo-Aryan in the Near East)",
+    "quote": "horse training text",
+    "summary": "Notes Kikkuli's horse-training text (c. 1400 BCE) contains terms like aika, tera, panza, satta close to Vedic eka, tri, pañca, sapta.",
+    "limits": "Page summary; the tablet was not opened. Number words closely resemble Vedic but this is a loan-vocabulary layer. Verifier: the quote is only a label ('horse training text'); the dated terms are in the next sentence of the page.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "indo-european-branches",
+    "records": [],
+    "title": "Language trees with sampled ancestors support a hybrid model for the origin of Indo-European languages",
+    "authors": "Heggarty, P., et al.",
+    "year": 2023,
+    "venue": "Science 381(6656)",
+    "url": "https://api.crossref.org/works/10.1126/science.abg0818",
+    "doi": "10.1126/science.abg0818",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Historical linguistics",
+    "stance": "contradicts",
+    "ask_addressed": "Break the Indo-European thread into branch evidence: earliest attestation per branch (dispute about the spread)",
+    "quote": "Although this date is not consistent with the Steppe hypothesis, it does not rule out an initial homeland south of the Caucasus",
+    "summary": "Abstract (Crossref record) reports a root age near 8120 BP, not consistent with a purely steppe origin, and proposes a hybrid model.",
+    "limits": "Only the Crossref abstract was opened; the paper's methods and data were not. Authors: only the first is listed here; the Crossref author list was not read. Crossref lists 33 authors (first: Heggarty); 'et al.' is accurate. DOI 10.1126/science.abg0818 and Science 381(6656) confirmed on the record.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Pontic-Caspian steppe / south of the Caucasus (disputed)",
+      "to": "Europe and Asia",
+      "carried": "language",
+      "what": "origin and timing of Indo-European expansion",
+      "medium": "migration",
+      "start": -6000,
+      "end": -2000,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "candidate": {
+   "brief": "east-asia-sinosphere",
+   "records": [],
+   "title": "Bibliographical Characteristics of the Movable Metal Type and Woodblock-printed Jikji and Quotations from Venerable Baegun",
+   "authors": null,
+   "year": 2026,
+   "venue": "Review of Korean Studies 29(1): 351-",
+   "url": "https://www.accesson.kr/rks/assets/pdf/59324/journal-29-1-351.pdf",
+   "doi": "10.25024/review.2026.29.1.013",
+   "accessed": "2026-11-17",
+   "kind": "secondary",
+   "discipline": "Bibliography / Book history",
+   "stance": "supports",
+   "ask_addressed": "East Asia: how Chinese writing, Buddhism, Confucian learning and technologies reached Korea, Japan and Vietnam.",
+   "quote": "宣光七年丁巳七月日淸州牧外興德寺鑄字印施",
+   "summary": "Quotes the Jikji imprint, dated Xuanguang 7 (1377), reading 'printed with movable metal type at Heungdeoksa Temple outside Cheongju'; states that the only extant movable metal type print is the second volume of Jikji, held at the BnF, and that the woodblock edition (1378) survives complete.",
+   "limits": "Authors' names were not extracted from the PDF. It addresses the extant item and dating, not whether earlier Chinese or Korean metal printing existed; Sangjeong gogeum yemun (1234) is lost.",
+   "reliability": "unassessed",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   },
+   "strand": {
+    "from": "China",
+    "to": "Goryeo Korea",
+    "carried": "technology",
+    "what": "Movable type printing, here in cast metal",
+    "medium": "unknown",
+    "start": 1234,
+    "end": 1377,
+    "directness": "debated"
+   },
+   "text": {
+    "work": "Baegun hwasang chorok buljo jikji simche yojeol (Jikji)",
+    "locator": "Imprint (colophon) on the last page of vol. 2",
+    "language": "Classical Chinese",
+    "edition": "Imprint as transcribed in the Review of Korean Studies article",
+    "composition": {
+     "start": 1377,
+     "end": 1377,
+     "basis": "Imprint dated Xuanguang 7 (1377), per the 2026 article; the author Baegun died 1374 and the woodblock edition is 1378"
+    },
+    "witness": "Metal-type vol. 2 at the BnF (Coréen 109); woodblock edition 1378"
+   }
+  },
+  "reason": "strand_unsupported: the quoted imprint (Heungdeoksa, 1377) shows metal-type printing in Goryeo but nothing about transmission from China; the article does not mention 1234 or Sangjeong gogeum yemun, so the strand years are unsupported. Also kind 'secondary' conflicts with a primary text object. Jikji is still covered by the BnF candidate. Quote, DOI and 1377 date were found on the PDF."
+ }
+]

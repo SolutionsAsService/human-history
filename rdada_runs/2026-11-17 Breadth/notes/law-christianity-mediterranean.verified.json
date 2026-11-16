@@ -1,0 +1,876 @@
+[
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "The Institutes of Gaius, First Commentary, I. Concerning Civil and Natural Law",
+    "authors": "Gaius (English translation as printed on the page; translator not named on the page)",
+    "year": null,
+    "venue": "The Latin Library (thelatinlibrary.com), English text headed 'c. 170 A.D.'",
+    "url": "https://thelatinlibrary.com/law/gaius1.html",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Roman law",
+    "stance": "context",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "partly make use of their own laws, and partly have recourse to those which are common to all men",
+    "summary": "Gaius opens his textbook by distinguishing a people's own civil law from the law common to all peoples (ius gentium), a frame Justinian's Institutes later reuse.",
+    "limits": "Composition date comes from a scholarly source opened separately (English Wikipedia 'Institutes (Gaius)', citing Miglietta 2013: written around 161 CE; the page quoted here heads the text 'c. 170 A.D.', so the two dates disagree). The translator is not named on the page. Verona palimpsest (Codex Veronensis, copied c. 500 CE) is the earliest witness per the same Wikipedia page; this page does not state it. [Verifier] Strand directness lowered from documented to inferred: this passage (Gaius 1.1) does not itself show reuse in Justinian's Institutes; that reuse is stated only in the Wikipedia article (candidate 'Institutes (Gaius)': Gaius's influence 'found its way into the Digesta and the Institutiones Iustiniani'), a secondary source whose citation was not opened. Date conflict kept visible: page heads the text 'c. 170 A.D.'; Wikipedia says written around 161 AD.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Institutes of Gaius",
+      "locator": "1.1",
+      "language": "Latin original (c. 2nd century CE); quoted in an English translation, translator not named on the page",
+      "edition": "English text hosted at thelatinlibrary.com/law/gaius1.html (accessed 2026-11-17)",
+      "composition": {
+        "start": 160,
+        "end": 170,
+        "basis": "English Wikipedia 'Institutes (Gaius)' (opened 2026-11-17): 'written around 161 AD'; the quoted page says 'c. 170 A.D.'"
+      },
+      "witness": "Codex Veronensis (palimpsest copied c. 500 CE, found by Niebuhr in 1816), per English Wikipedia 'Institutes (Gaius)'"
+    },
+    "strand": {
+      "from": "Classical Roman jurisprudence",
+      "to": "Justinianic codification",
+      "carried": "institution",
+      "what": "the structure and much of the text of Gaius's elementary Institutes, reused in Justinian's Institutes",
+      "medium": "text",
+      "start": 161,
+      "end": 533,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Institutes (Gaius)",
+    "authors": "Wikipedia contributors",
+    "year": null,
+    "venue": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/wiki/Institutes_(Gaius)",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Legal history",
+    "stance": "context",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "was discovered by Barthold Georg Niebuhr",
+    "summary": "Gives the c. 161 CE composition and says the text, thought lost until 1816, was found then by Niebuhr as a Verona palimpsest (copied c. 500, per its image caption), and notes that the text was previously known only indirectly through Justinian.",
+    "limits": "Encyclopedia article, not a primary or peer-reviewed source; it was used here only for the composition and witness dates, which should be re-checked against Miglietta 2013 and Reynolds, Texts and Transmission, as the page cites them. [Verifier] Also states that Gaius's influence reached Justinian's Digest and Institutes (citation not opened); the 161 AD date and 'probably of the 5th century' Verona manuscript were found on the page.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Institutes of Justinian, Proem (Imperatoriam maiestatem)",
+    "authors": "Justinian I (compiled under Tribonian, Theophilus and Dorotheus)",
+    "year": null,
+    "venue": "The Latin Library (thelatinlibrary.com)",
+    "url": "https://www.thelatinlibrary.com/justinian/institutes.proem.shtml",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Roman law",
+    "stance": "context",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "Imperatoriam maiestatem non solum armis decoratam, sed etiam legibus oportet esse armatam",
+    "summary": "The preface states the programme of imperial law-giving as a companion to conquest; the Institutes are the first-year textbook of the Corpus Iuris Civilis.",
+    "limits": "Composition date is from English Wikipedia 'Institutes (Justinian)' (published 21 Nov 533, promulgated with the Digest 30 Dec 533, citing Jolowicz and Nicholas). The earliest manuscript witness is not stated on the page opened; no witness date is claimed here.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Institutes of Justinian",
+      "locator": "Proem",
+      "language": "Latin",
+      "edition": "Latin text at thelatinlibrary.com (edition not named on the page)",
+      "composition": {
+        "start": 533,
+        "end": 533,
+        "basis": "English Wikipedia 'Institutes (Justinian)' (opened 2026-11-17): published 21 November 533, citing Jolowicz and Nicholas, Historical Introduction to the Study of Roman Law"
+      },
+      "witness": "Not established from sources opened"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "The Digest or Pandects: The Three Prefaces of the Digest by Justinian (First Preface, to Tribonianus)",
+    "authors": "Justinian I; English translation as hosted (translator not named on the page)",
+    "year": null,
+    "venue": "Constitution Society, 'The Enactments of Justinian: The Digest'",
+    "url": "https://constitution.org/2-Authors/sps/sps02_j2-01.htm",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Roman law",
+    "stance": "context",
+    "ask_addressed": "Quote primary passages at their loci with composition date, earliest witness and basis.",
+    "quote": "to be so confused that it is extended to an infinite length and is not within the grasp of human capacity",
+    "summary": "Justinian describes the inherited body of law as confused and unmanageable and orders its reduction into one work; the three prefaces carry dates ending in 533 and the page prints 'Given on the seventeenth of the Kalends of January ... 533' for the later ones.",
+    "limits": "The page does not name the translator (the researcher's 'S. P. Scott' does not appear on the page, so it was removed from authors). The passage's date (530) is the dating clause printed on the page; no scholarly source was opened for it. The earliest witness (the Florentine manuscript) was not opened.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Digest (Pandects) of Justinian, First Preface (Deo auctore)",
+      "locator": "First Preface, sec. 1",
+      "language": "Latin original; quoted in English",
+      "edition": "English translation hosted at constitution.org (translator not named anywhere on the page opened)",
+      "composition": {
+        "start": 530,
+        "end": 530,
+        "basis": "The quoted passage is the Deo auctore constitution to Tribonian; the hosted page prints its dating clause directly after it ('eighteenth day of the kalends of January, during the consulship of ... Lampadius and Orestes, 530'). The later 533 dating clause on the page closes a different constitution (to the law professors) and is not this passage's date; the Digest as a whole was promulgated in 533."
+      },
+      "witness": "Not established from sources opened"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Die Chronik des Propstes Burchard von Ursberg (MGH edition, Holder-Egger and von Simson, 1916)",
+    "authors": "Burchard of Ursperg; ed. O. Holder-Egger, B. von Simson",
+    "year": 1916,
+    "venue": "MGH SS rer. Germ. 16, via Internet Archive",
+    "url": "https://archive.org/stream/diechronikdespro16burc/diechronikdespro16burc_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Legal history",
+    "stance": "supports",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "libros legum, qui dudum neglecti fuerant, nec quisquam in eis studuerat, ad petitionem Mathilde",
+    "summary": "Burchard says that Wernerius (Irnerius) renewed the long-neglected books of law at the request of Countess Matilda and, as the next words go, arranged them as Justinian had compiled them; this is a 13th-century report of the Bologna revival, not a contemporary one.",
+    "limits": "Burchard wrote about a century after the events; OCR prints 'Wemerius' for Wernerius and the page has line-number markers. The edition's own apparatus (opened) reports Fitting's view that Burchard took the notice from John of Cremona. Reliability of the Matilda link is debated by specialists; not resolved here. [Verifier] Identification of 'Wernerius' with Irnerius is made by the edition's own introduction (page text: 'wernerius (irnerius) von bologna'). The strand dates 1084-1125 are not in Burchard; the only date on an opened page is 'founded a new school ... in 1084 or 1088' (Wikipedia 'Irnerius').",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Chronicon Urspergense (Ursperger Chronik)",
+      "locator": "MGH edition, passage on Wernerius after the entry on Gratian",
+      "language": "Latin",
+      "edition": "Holder-Egger and von Simson, MGH Scriptores rerum Germanicarum in usum scholarum 16 (Hannover and Leipzig, 1916), OCR text",
+      "composition": {
+        "start": 1177,
+        "end": 1230,
+        "basis": "English Wikipedia 'Burchard of Ursperg' (opened 2026-11-17): Burchard c. 1177-1230/1; the chronicle extends to 1229"
+      },
+      "witness": "The autograph was lost to fire in the 16th century (same Wikipedia page); the edition rests on later manuscripts"
+    },
+    "strand": {
+      "from": "Justinianic Corpus Iuris",
+      "to": "Medieval Bologna law school",
+      "carried": "institution",
+      "what": "revival of the study of Justinian's law books at Bologna (Irnerius)",
+      "medium": "teaching",
+      "start": 1084,
+      "end": 1125,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Irnerius",
+    "authors": "Wikipedia contributors",
+    "year": null,
+    "venue": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/wiki/Irnerius",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Legal history",
+    "stance": "context",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "he returned to Bologna, where he founded a new school of jurisprudence in 1084 or 1088",
+    "summary": "The page itself gives a range of dates for the founding of the Bologna law school and a birth date of about 1050, so the often-repeated 1088 is not firm.",
+    "limits": "Encyclopedia article; the dates it gives are approximate and it is a tertiary source. It is included only as a caution on the Bologna chronology. [Verifier] Stance lowered from fails_to_support to context: an encyclopedia article that reports an uncertain founding date (1084 or 1088) and does not contradict any candidate claim. Also says he acted at Countess Matilda of Tuscany's urging.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Pliny and Trajan on the Christians (Letters 10.96-97), English translation",
+    "authors": "Pliny the Younger; translator not named on the page",
+    "year": null,
+    "venue": "Georgetown University faculty page (faculty.georgetown.edu/jod)",
+    "url": "https://faculty.georgetown.edu/jod/texts/pliny.html",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Roman provincial administration",
+    "stance": "supports",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "they were accustomed to meet on a fixed day before dawn and sing responsively a hymn to Christ as to a god",
+    "summary": "Pliny, as governor of Bithynia-Pontus, reports questioning Christians, executing those who persisted, and what apostates said of their worship.",
+    "limits": "The page names no translator or edition and gives the governorship as 111-113 CE. Pliny's report is hostile and second-hand (informers and apostates, plus two enslaved women under torture), and does not itself show how Christianity reached Bithynia. [Verifier] Strand directness lowered from documented to inferred: the letter shows Christians present in Bithynia (the page: the 'contagion ... has spread not only to the cities but also to the villages and farms'; the quoted sentence shows worship, not spread), c. 111-113, not a documented spread route. Wikipedia 'Pliny the Younger on Christians' says 'the origin of christianity in that region is not known'. Medium stays unknown.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Pliny the Younger, Epistulae",
+      "locator": "10.96",
+      "language": "Latin original; quoted in English, translator not named",
+      "edition": "English text on faculty.georgetown.edu/jod/texts/pliny.html",
+      "composition": {
+        "start": 111,
+        "end": 113,
+        "basis": "The quoted page dates Pliny's governorship of Pontus/Bithynia to 111-113 AD. English Wikipedia 'Pliny the Younger on Christians' says he arrived between 109 and 111 and does not give a single letter date; no narrower date was opened."
+      },
+      "witness": "Ten-book tradition depends on a manuscript transcribed towards the end of the 5th century, of which six leaves survive (Morgan Library M.462), per English Wikipedia 'Epistulae (Pliny)' (opened); whether Book 10 letter 96 is among those leaves was not checked"
+    },
+    "strand": {
+      "from": "Early Christianity",
+      "to": "Bithynia-Pontus (Roman province)",
+      "carried": "religion",
+      "what": "Christian communities in the cities, villages and farms of Bithynia, as Pliny reports them",
+      "medium": "unknown",
+      "start": 90,
+      "end": 112,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Pliny and Trajan on the Christians (Letters 10.96-97), Trajan's reply",
+    "authors": "Trajan (in Pliny, Epistulae 10.97); translator not named on the page",
+    "year": null,
+    "venue": "Georgetown University faculty page (faculty.georgetown.edu/jod)",
+    "url": "https://faculty.georgetown.edu/jod/texts/pliny.html",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Roman provincial administration",
+    "stance": "context",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "They are not to be sought out; if they are denounced and proved guilty, they are to be punished",
+    "summary": "Trajan's rescript: Christians are not to be hunted, but those denounced and convicted are punished unless they sacrifice; anonymous accusations are to be refused.",
+    "limits": "Same page and dating as the Pliny 10.96 candidate; translator unnamed. The rescript shows imperial policy in 111-113 CE and is silent on how Christianity spread. [Verifier] Page checked; the quoted rescript is on the page.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Pliny the Younger, Epistulae",
+      "locator": "10.97",
+      "language": "Latin original; quoted in English, translator not named",
+      "edition": "English text on faculty.georgetown.edu/jod/texts/pliny.html",
+      "composition": {
+        "start": 111,
+        "end": 113,
+        "basis": "The quoted page dates Pliny's governorship to 111-113 CE"
+      },
+      "witness": "See Pliny 10.96 candidate"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Pliny the Younger on Christians",
+    "authors": "Wikipedia contributors",
+    "year": null,
+    "venue": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Roman provincial administration",
+    "stance": "context",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "The received scholarly consensus is that this correspondence is authentic.",
+    "summary": "The page states the scholarly consensus on authenticity of the Pliny-Trajan exchange and cites the authorship-verification study by Tuccinardi (2017); the same page also frames the letter's evidential value in conditional terms ('If it is genuine').",
+    "limits": "Encyclopedia article. It reports that the consensus is for authenticity, so this candidate does not dispute the letters; it records that authenticity has been questioned enough to need a stated consensus. The cited studies were not opened. [Verifier] The page's authenticity section also says that more recently a stylometric comparison questioned the letter's authenticity; the page states the scholarly consensus is for authenticity. Same page notes the origin of Christianity in Bithynia is not known.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Acts 13:1-4 (the sending of Barnabas and Saul from Antioch)",
+    "authors": "Luke (traditional attribution; author unnamed in the text)",
+    "year": null,
+    "venue": "King James Version via bible-api.com",
+    "url": "https://bible-api.com/Acts%2013:1-4?translation=kjv",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "New Testament",
+    "stance": "supports",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them",
+    "summary": "Antioch's church commissions Barnabas and Saul, who sail from Seleucia to Cyprus: the first mission voyage in Acts.",
+    "limits": "Acts reports the mission in a theologically shaped narrative whose historical detail is debated. The KJV (1611) is the translation quoted; the Greek was not opened. [Verifier] Strand dates are conventional chronology supplied by the researcher; the passage itself gives no dates. Quote matches KJV via scripts/fetch_text.py.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Acts of the Apostles",
+      "locator": "13:1-4",
+      "language": "Greek original; quoted in English (KJV, 1611)",
+      "edition": "King James Version via bible-api.com (accessed 2026-11-17)",
+      "composition": {
+        "start": 80,
+        "end": 90,
+        "basis": "English Wikipedia 'Acts of the Apostles' (opened 2026-11-17): usually dated to 80-90 CE (citing Charlesworth 2008); an early-2nd-century date is argued by Tyson and others"
+      },
+      "witness": "Not established from sources opened (the 2nd- to 4th-century papyri and codices were not checked)"
+    },
+    "strand": {
+      "from": "Antioch church",
+      "to": "Cyprus and Anatolia",
+      "carried": "religion",
+      "what": "commissioned missionary journey of Barnabas and Saul",
+      "medium": "teaching",
+      "start": 46,
+      "end": 48,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Acts 16:9-12 (the Macedonian call, Troas to Philippi)",
+    "authors": "Luke (traditional attribution; author unnamed in the text)",
+    "year": null,
+    "venue": "King James Version via bible-api.com",
+    "url": "https://bible-api.com/Acts%2016:9-12?translation=kjv",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "New Testament",
+    "stance": "supports",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us.",
+    "summary": "The first crossing of the mission from Asia into Europe, from Troas via Samothrace and Neapolis to Philippi, a Roman colony; the narrative shifts to 'we' here.",
+    "limits": "The 'we' passages (16-27) are read by some scholars as an eyewitness companion and by others as a literary device; this page does not settle it. Dating basis as for Acts 13. [Verifier] Strand dates are conventional chronology supplied by the researcher; the passage itself gives no dates. Quote matches KJV via scripts/fetch_text.py.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Acts of the Apostles",
+      "locator": "16:9-12",
+      "language": "Greek original; quoted in English (KJV, 1611)",
+      "edition": "King James Version via bible-api.com (accessed 2026-11-17)",
+      "composition": {
+        "start": 80,
+        "end": 90,
+        "basis": "English Wikipedia 'Acts of the Apostles': usually 80-90 CE (Charlesworth 2008); contested"
+      },
+      "witness": "Not established from sources opened"
+    },
+    "strand": {
+      "from": "Roman Asia (Troas)",
+      "to": "Macedonia (Philippi)",
+      "carried": "religion",
+      "what": "Pauline mission crossing into Europe",
+      "medium": "teaching",
+      "start": 49,
+      "end": 50,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Acts 28:14-16 (Paul arrives in Rome)",
+    "authors": "Luke (traditional attribution; author unnamed in the text)",
+    "year": null,
+    "venue": "King James Version via bible-api.com",
+    "url": "https://bible-api.com/Acts%2028:14-16?translation=kjv",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "New Testament",
+    "stance": "supports",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "they came to meet us as far as Appii Forum, and The three taverns",
+    "summary": "Brethren met at a landing place and then on the Appian Way come out to meet Paul on the road to Rome, indicating a Christian presence there before his arrival.",
+    "limits": "A narrative statement in Acts; no independent dating of the Roman community is given by this passage. Dating basis as for Acts 13. [Verifier] Strand dates are conventional chronology supplied by the researcher; the passage itself gives no dates. Quote matches KJV via scripts/fetch_text.py.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Acts of the Apostles",
+      "locator": "28:14-16",
+      "language": "Greek original; quoted in English (KJV, 1611)",
+      "edition": "King James Version via bible-api.com (accessed 2026-11-17)",
+      "composition": {
+        "start": 80,
+        "end": 90,
+        "basis": "English Wikipedia 'Acts of the Apostles': usually 80-90 CE; contested"
+      },
+      "witness": "Not established from sources opened"
+    },
+    "strand": {
+      "from": "Eastern Mediterranean churches",
+      "to": "Rome",
+      "carried": "religion",
+      "what": "an existing Christian community at and near Rome",
+      "medium": "unknown",
+      "start": 55,
+      "end": 60,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Acts of the Apostles (dating section)",
+    "authors": "Wikipedia contributors",
+    "year": null,
+    "venue": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/wiki/Acts_of_the_Apostles",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "New Testament",
+    "stance": "context",
+    "ask_addressed": "Quote primary passages at their loci with composition date, earliest witness and basis.",
+    "quote": "A growing number of scholars prefer a late date for the composition of Acts, i.e., c. 110-120 CE.",
+    "summary": "The page gives the usual 80-90 CE dating and records the argument, quoted from Tyson (2011), for a date c. 110-120 CE, so the composition range for the Acts passages is disputed.",
+    "limits": "Encyclopedia article quoting Tyson; the Tyson essay itself was not opened. A date of 110-120 CE would put Acts after Pliny's letter, not before it. [Verifier] Stance lowered from fails_to_support to context: an encyclopedia article quoting Tyson, whose essay was not opened; the same article says Acts is 'usually dated to 80-90 AD'.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "The 'Edict of Milan' as found in Lactantius, De mortibus persecutorum 48 (ANF translation)",
+    "authors": "Lactantius (Licinius's letter, 313); ANF translation as hosted",
+    "year": null,
+    "venue": "Early Church Texts (earlychurchtexts.com)",
+    "url": "https://earlychurchtexts.com/public/edict_of_milan.htm",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Roman imperial law and religion",
+    "stance": "supports",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "the Christians and all others should have liberty to follow that mode of religion which to each of them appeared best",
+    "summary": "The document, in Lactantius's Latin and Eusebius's Greek (HE 10.5), grants freedom of religion to Christians and all others and orders return of confiscated property.",
+    "limits": "Quoted from the ANF English translation as hosted; the page does not give the translator's name in the portion checked. The letter is Licinius's, posted at Nicomedia on 13 June 313 (English Wikipedia 'Edict of Milan', citing Lactantius 48.1-12); Lactantius's treatise itself was written after 316 (English Wikipedia 'De mortibus persecutorum'). So composition of the document (313) and of the work that preserves it (after 316) differ. [Verifier] Wording kept exact: this is a text of Licinius's letter as preserved in Lactantius, ch. 48, not an edict issued at Milan; 'Edict of Milan' is the host page's modern label. Composition end year removed (a placeholder bound with no source).",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Lactantius, De mortibus persecutorum",
+      "locator": "48",
+      "language": "Latin original; quoted in English (Ante-Nicene Fathers translation)",
+      "edition": "ANF English translation hosted at earlychurchtexts.com (accessed 2026-11-17)",
+      "composition": {
+        "start": 316,
+        "end": null,
+        "basis": "English Wikipedia 'De mortibus persecutorum' (opened): 'written in Latin sometime after AD 316'; the source gives no upper bound. The letter quoted inside it dates to 313 (the quoted page: 'dated 313')."
+      },
+      "witness": "A manuscript found in 1678 at the Augustine convent library at Moissac, France (same Wikipedia page); the work had been considered lost"
+    },
+    "strand": {
+      "from": "Roman imperial state (persecuting)",
+      "to": "Christianity (legal toleration)",
+      "carried": "institution",
+      "what": "toleration and restitution for Christians in the eastern provinces",
+      "medium": "court_or_empire",
+      "start": 311,
+      "end": 313,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Edict of Milan",
+    "authors": "Wikipedia contributors",
+    "year": null,
+    "venue": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/wiki/Edict_of_Milan",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Roman imperial law and religion",
+    "stance": "context",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "the document, once wrongly known as the Edict of Milan (there was never such a thing)",
+    "summary": "Quoting Potter (2013), the page says the 'Edict of Milan' was never an edict but a letter of Licinius to eastern governors, and that scholars generally reject the older story.",
+    "limits": "Encyclopedia article quoting David Potter, Constantine the Emperor (2013) and Frend; the books were not opened. [Verifier] Stance lowered from contradicts to context: an encyclopedia article quoting David Potter (2013) and Frend, books that were not opened; it is not first-hand evidence.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Stele on the Diffusion of Christianity (the Luminous Religion) from Rome (Da Qin) into China, 'The Nestorian Monument' (Chinese and Syriac text with English translation)",
+    "authors": "L. Eccles and S. N. C. Lieu (translators)",
+    "year": 2023,
+    "venue": "manichaeism.de (PDF, ongoing project, last update 5.11.2023)",
+    "url": "https://www.manichaeism.de/wp-content/uploads/2024/10/Xian-Monument-5.11.2023.pdf",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Church of the East in China",
+    "stance": "supports",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "from the land of Syria came to Chang’an (Ch’ang-an)",
+    "summary": "The stele says that the bishop Aluoben (Alopen) from 'Da Qin' reached Chang'an in the ninth Zhenguan year (635 CE), was received by the minister Fang Xuanling and had books translated.",
+    "limits": "This is the stele's own retrospective account, written in 781, 146 years after the arrival; 'Syria' translates Da Qin, whose referent is itself discussed in the commentary. The Eccles and Lieu translation is a work in progress. [Verifier] Translation hosted by a third-party site as a PDF; it names Eccles and Lieu as translators of an ongoing project (last update 5.11.2023). Page checked: '(635 CE)' and 'Aluoben ... from the land of Syria came to Chang'an' appear in section 7.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Daqin Jingjiao liuxing Zhongguo bei (Xi'an or Nestorian Stele)",
+      "language": "Classical Chinese, with Syriac; quoted in English (Eccles and Lieu, ongoing translation)",
+      "edition": "Eccles and Lieu, ongoing translation with commentary, PDF last updated 5 Nov 2023 (accessed 2026-11-17)",
+      "composition": {
+        "start": 781,
+        "end": 781,
+        "basis": "The stele states its own erection in the second year of the Jianzhong era (781 CE); the Eccles and Lieu PDF gives 24 February 781 and the Syriac colophon 1092 of the Greeks (= 781)"
+      },
+      "witness": "The stone itself, 781 CE; buried probably in 845 and found between 1621 and 1625 (English Wikipedia 'Xi'an Stele'); now in the Beilin Museum, Xi'an",
+      "locator": "Chinese section 7 (Alopen's arrival, Zhenguan 9 = 635 CE)"
+    },
+    "strand": {
+      "from": "Church of the East (Syria and Persia)",
+      "to": "Tang China",
+      "carried": "religion",
+      "what": "Christianity of the Church of the East, brought by Alopen",
+      "medium": "teaching",
+      "start": 635,
+      "end": 781,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Stele on the Diffusion of Christianity (the Luminous Religion) from Rome (Da Qin) into China, 'The Nestorian Monument' (Chinese and Syriac text with English translation): Syriac colophon",
+    "authors": "L. Eccles and S. N. C. Lieu (translators)",
+    "year": 2023,
+    "venue": "manichaeism.de (PDF, ongoing project, last update 5.11.2023)",
+    "url": "https://www.manichaeism.de/wp-content/uploads/2024/10/Xian-Monument-5.11.2023.pdf",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Church of the East in China",
+    "stance": "supports",
+    "ask_addressed": "Quote primary passages at their loci with composition date, earliest witness and basis.",
+    "quote": "Written on it are the law of our Saviour and the preaching of our fathers to the rulers of the Chinese.",
+    "summary": "The Syriac text dates the monument to 1092 of the Greeks (781 CE) and names Mar Yazdbuzid, country-bishop of Khumdan, from Balkh in Tocharistan, with Adam the deacon, so the Syriac and Chinese texts carry distinct dating and personnel.",
+    "limits": "The Syriac naming of the Church of the East patriarch Hnanisho shows that news of his death had not reached Chang'an (English Wikipedia 'Xi'an Stele'); that comment is secondary. [Verifier] Quote found in the Syriac colophon section of the PDF ('1092 Greeks (= 781 CE)' also on the page).",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Daqin Jingjiao liuxing Zhongguo bei (Xi'an or Nestorian Stele)",
+      "language": "Syriac (quoted in English translation by Eccles and Lieu)",
+      "edition": "Eccles and Lieu, ongoing translation with commentary, PDF last updated 5 Nov 2023 (accessed 2026-11-17)",
+      "composition": {
+        "start": 781,
+        "end": 781,
+        "basis": "The stele states its own erection in the second year of the Jianzhong era (781 CE); the Eccles and Lieu PDF gives 24 February 781 and the Syriac colophon 1092 of the Greeks (= 781)"
+      },
+      "witness": "The stone itself, 781 CE; buried probably in 845 and found between 1621 and 1625 (English Wikipedia 'Xi'an Stele'); now in the Beilin Museum, Xi'an",
+      "locator": "Syriac colophon (lines S1-S14)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Xi'an Stele (authenticity and 17th-century sceptics)",
+    "authors": "Wikipedia contributors",
+    "year": null,
+    "venue": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/wiki/Xi%27an_Stele",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Church of the East in China",
+    "stance": "context",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "argued that the stone was a fake or that the inscriptions had been modified by the Jesuits",
+    "summary": "Records that Horn, Spitzel, Navarrete and later Voltaire alleged forgery or Jesuit alteration after the stone's discovery in 1621-25; the page treats these as early sceptics.",
+    "limits": "Encyclopedia article; it is not an assessment of the forgery claim by a specialist source. The Syriac and Chinese texts, the later find of Dunhuang Jingjiao documents and mainstream scholarship are cited as answering it, but those sources were not opened here. [Verifier] Stance lowered from fails_to_support to context: an encyclopedia article reporting 17th-century forgery claims; it does not assess them with a specialist source. It says the stele was buried in 845 and found by 1625 (discovered 1621-1625).",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Confessions, Book 3 (Chapter 6, section 10)",
+    "authors": "Augustine of Hippo; English translation J. G. Pilkington (NPNF series, as hosted)",
+    "year": null,
+    "venue": "New Advent (newadvent.org/fathers/110103.htm)",
+    "url": "https://www.newadvent.org/fathers/110103.htm",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Early Christian literature",
+    "stance": "supports",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "I fell among men proudly raving, very carnal, and voluble",
+    "summary": "Augustine describes joining the Manichaeans at Carthage as a young man and the 'Truth, Truth' language by which they drew him in.",
+    "limits": " Augustine writes as a former Manichaean and hostile witness. [Verifier] The page itself says 'translated by J.G. Pilkington' (NPNF series 1, vol. 1). [Verifier] Strand directness lowered from documented to inferred: the quoted sentence shows Augustine joined the Manichaeans; it does not say where or how the teaching arrived. Strand dates are conventional chronology supplied by the researcher; the passage itself gives no dates.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Augustine, Confessions",
+      "locator": "3.6.10",
+      "language": "Latin original; quoted in English (NPNF translation as hosted)",
+      "edition": "New Advent, translation of the NPNF series (accessed 2026-11-17)",
+      "composition": {
+        "start": 397,
+        "end": 400,
+        "basis": "English Wikipedia 'Confessions (Augustine)' (opened 2026-11-17): written between AD 397 and 400, citing Chadwick 2008"
+      },
+      "witness": "Not established from sources opened"
+    },
+    "strand": {
+      "from": "Sasanian Mesopotamia (Manichaeism)",
+      "to": "Roman North Africa",
+      "carried": "religion",
+      "what": "Manichaean teaching found among Augustine's Carthage circle in the 370s",
+      "medium": "teaching",
+      "start": 373,
+      "end": 383,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "Confessions, Book 5 (Chapter 3, section 3)",
+    "authors": "Augustine of Hippo; English translation J. G. Pilkington (NPNF series, as hosted)",
+    "year": null,
+    "venue": "New Advent (newadvent.org/fathers/110105.htm)",
+    "url": "https://www.newadvent.org/fathers/110105.htm",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Early Christian literature",
+    "stance": "supports",
+    "ask_addressed": "Quote primary passages at their loci with composition date, earliest witness and basis.",
+    "quote": "There had at this time come to Carthage a certain bishop of the Manichæans",
+    "summary": "Augustine in his twenty-ninth year meets Faustus, a Manichaean bishop at Carthage, and finds his rhetoric stronger than his knowledge, which begins his break with the sect.",
+    "limits": "Hostile first-person account, composed some years after the events. [Verifier] The page itself says 'translated by J.G. Pilkington' (NPNF series 1, vol. 1).",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Augustine, Confessions",
+      "locator": "5.3.3",
+      "language": "Latin original; quoted in English (NPNF translation as hosted)",
+      "edition": "New Advent, translation of the NPNF series (accessed 2026-11-17)",
+      "composition": {
+        "start": 397,
+        "end": 400,
+        "basis": "English Wikipedia 'Confessions (Augustine)': written between AD 397 and 400"
+      },
+      "witness": "Not established from sources opened"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "The Kephalaia of the Teacher (excerpts, Sasanika Sources)",
+    "authors": "Mani (Coptic Kephalaia); translation Iain Gardner",
+    "year": 1995,
+    "venue": "Brill, 1995; excerpt PDF hosted at sites.uci.edu",
+    "url": "https://cpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/347/files/2020/01/Kephalaia.pdf",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Manichaeism",
+    "stance": "supports",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "I crossed from the country of the Indians to the land of the Persians.",
+    "summary": "Mani, speaking in the first person, says he preached 'the hope of life' in India, then returned to Persia, appeared before Shapur and was allowed to preach in Persia, Parthia, Adiabene and to the frontiers of the Roman provinces.",
+    "limits": "The excerpt shows only the Sasanika selection; the chapter number is not printed in the excerpt and is not claimed here. The Coptic codex is a 5th-century translation of material set down after Mani's death (c. 270s), so the first-person voice is a later redaction. [Verifier] copy: unauthorised-looking upload; cite the publication, not this URL. The PDF is an excerpt of Gardner, The Kephalaia of the Teacher (Brill, 1995) hosted on a UCI course site. Strand lowered from documented to inferred and its years removed: the account is a later redaction with only relative dating on the page ('in the last years of Ardashir the king', 'the year Ardashir died'). Page text also names Parthia, Adiabene and the borders of the Roman provinces.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Kephalaia of the Teacher",
+      "locator": "Coptic codex pp. 14-16 (excerpt headings 'Parthians 5.25' and 'Persia 16.1'); chapter number not shown",
+      "language": "Coptic (translation of a Syriac or Aramaic original); quoted in English (Gardner 1995)",
+      "edition": "Iain Gardner, The Kephalaia of the Teacher (Brill, 1995), Sasanika excerpt PDF",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "No composition range on a page opened: English Wikipedia 'Kephalaia' calls it a genre of 'later discourses and interpretations' ostensibly going back to Mani, in 5th-century Coptic codices; an earlier researcher range (240-276) rested on no opened source and was removed."
+      },
+      "witness": "Coptic papyrus codex, c. 5th century CE, per English Wikipedia 'Kephalaia'"
+    },
+    "strand": {
+      "from": "Sasanian Mesopotamia",
+      "to": "India and Persia",
+      "carried": "religion",
+      "what": "Mani's own mission to India, then Persia, Parthia and Adiabene",
+      "medium": "teaching",
+      "start": null,
+      "end": null,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "law-christianity-mediterranean",
+    "records": [],
+    "title": "The Chronology of Ancient Nations (Athar al-Baqiya), English version by C. E. Sachau, p. 190: quotation from Mani's Shabuhragan",
+    "authors": "Al-Biruni (quoting Mani); translator C. Edward Sachau",
+    "year": 1879,
+    "venue": "W. H. Allen, London, 1879; Internet Archive OCR",
+    "url": "https://archive.org/stream/chronologyofanci00biru/chronologyofanci00biru_djvu.txt",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Manichaeism",
+    "stance": "supports",
+    "ask_addressed": "Roman law transmission (Gaius Institutes, Justinian's Digest/Institutes preface, rediscovery at Bologna), the spread of Christianity (Pliny to Trajan letter 10.96 on Christians in Bithynia c. 112 CE, Acts of the Apostles passages on mission routes, Edict of Milan, the Xi'an Nestorian Stele of 781 CE with its Syriac and Chinese text), Manichaeism's spread (Mani's Kephalaia or the Turfan fragments; Augustine's Confessions on Manichaeism).",
+    "quote": "they have been brought by the messenger, called Buddha, to India, in another by Zaradusht to Persia, in another by Jesus to the West.",
+    "summary": "Al-Biruni quotes the opening of Mani's Shabuhragan, where Mani lists Buddha in India, Zoroaster in Persia and Jesus in the West before himself in Babylonia, the programme of a religion meant to be universal.",
+    "limits": "Mani's text is known here through a quotation in Arabic by al-Biruni, written c. 1000, some 750 years later; Middle Persian Turfan fragments of the Shabuhragan exist (English Wikipedia 'Shabuhragan') but their wording was not opened. The OCR text had line breaks inside the quoted sentence. [Verifier] Strand years removed (not on any page opened). Sachau p. 190 confirmed on the OCR page; al-Biruni dates his book to a.d. 1000 per the title page.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Mani, Shabuhragan (quoted in al-Biruni, Athar al-Baqiya)",
+      "locator": "Sachau 1879 translation, p. 190",
+      "language": "Middle Persian original (lost in full); quoted from al-Biruni's Arabic in Sachau's English",
+      "edition": "Sachau, The Chronology of Ancient Nations (London, 1879), Internet Archive OCR",
+      "composition": {
+        "start": null,
+        "end": 272,
+        "basis": "English Wikipedia 'Shabuhragan' (opened): written by Mani (c. 210-276) and dedicated to Shapur I (c. 215-272), the contemporary king, so before 272; that page gives no narrower date. The researcher's 'r. 240-270' is not on the page and was dropped."
+      },
+      "witness": "Quotation in al-Biruni (c. 1000 CE); Middle Persian fragments from Turpan (8th-century fragment per Wikipedia caption)"
+    },
+    "strand": {
+      "from": "Buddhism, Zoroastrianism and Christianity (as Mani names them)",
+      "to": "Manichaeism",
+      "carried": "idea",
+      "what": "Mani's claim that his religion completes earlier prophetic missions in India, Persia and the West",
+      "medium": "text",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  }
+]
