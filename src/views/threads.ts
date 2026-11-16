@@ -1,11 +1,12 @@
 import type { Carried, Culture, Directness, Strand } from '../types';
-import { CARRIED, CULTURES, STRANDS, THREADS } from '../data/threads';
+import { CARRIED, CULTURES, PASSAGE_BY_ID, STRANDS, THREADS } from '../data/threads';
 import { ENTRY_BY_ID } from '../data';
 import { STATUS } from '../lib/classification';
 import { h, svg } from '../lib/dom';
 import { fmtRange, fmtYear } from '../lib/time';
 import { set, state, subscribe } from '../lib/store';
 import { badge, list, sourceCard } from './ui';
+import { SOURCE_BY_ID } from '../data';
 
 /** Threads: what travelled between cultures. A time-by-culture diagram of transfers, with the evidence for each one. */
 const AXIS = [-40000, -15000, -10000, -5000, -3000, -1500, -500, 0, 500, 1000, 1500, 2000];
@@ -140,6 +141,18 @@ export class ThreadsView {
             h('span', { class: 'th-meta' }, fmtRange(s.start, s.end), ' · ', DIRECT[s.directness].label)), sel?.id === s.id ? this.card(s) : null))))));
   }
 
+  private passage(p: import('../types').Passage) {
+    const comp = p.compStart == null && p.compEnd == null ? 'not dated here' : p.compStart === p.compEnd ? `c. ${fmtYear(p.compStart!)}` : `${p.compStart == null ? '?' : fmtYear(p.compStart)} – ${p.compEnd == null ? '?' : fmtYear(p.compEnd)}`;
+    return h('figure', { class: 'th-q' },
+      h('blockquote', { lang: /hebrew|greek|latin|akkad|sumer|egypt|sanskrit|avest|chinese|old persian/i.test(p.language) && !/english|translat/i.test(p.language) ? undefined : undefined }, '“' + p.quote + '”'),
+      h('figcaption', null, h('b', null, p.work + ' ' + p.locator), ' · ', p.language),
+      h('dl', { class: 'th-dates' },
+        h('dt', null, 'Work composed'), h('dd', null, comp, h('span', { class: 'dim' }, ' — ' + p.compBasis)),
+        h('dt', null, 'Earliest witness'), h('dd', null, p.witness),
+        h('dt', null, 'Edition read'), h('dd', null, p.edition)),
+      SOURCE_BY_ID[p.src] ? h('details', { class: 'sec small' }, h('summary', null, 'Source of this edition'), h('ul', { class: 'srcs' }, sourceCard(p.src))) : null);
+  }
+
   private name(id: string) { return CULTURES.find(c => c.id === id)?.name ?? id; }
 
   private card(s: Strand) {
@@ -159,6 +172,7 @@ export class ThreadsView {
       s.for.length ? h('div', { class: 'lc-g' }, h('h4', { class: 'pos' }, 'Evidence for'), list(s.for, 'pos')) : null,
       s.against.length ? h('div', { class: 'lc-g' }, h('h4', { class: 'neg' }, 'Against, or limits'), list(s.against, 'neg')) : null,
       s.unresolved?.length ? h('div', { class: 'lc-g' }, h('h4', null, 'Unresolved'), list(s.unresolved)) : null,
+      (s.passages ?? []).length ? h('div', { class: 'lc-g th-pass' }, h('h4', null, 'Primary passages'), (s.passages ?? []).map(id => PASSAGE_BY_ID[id]).filter(Boolean).map(p => this.passage(p))) : null,
       rel.length ? h('div', { class: 'lc-g' }, h('h4', null, 'Related records'), h('div', { class: 'chips' }, rel.map(id => h('a', { class: 'chip', href: `#/map?e=${id}`, on: { click: (e: Event) => { e.preventDefault(); set({ view: 'map', selected: { kind: 'entry', id } }); } } }, ENTRY_BY_ID[id].title)))) : null,
       h('details', { class: 'sec small', open: true }, h('summary', null, 'Sources', h('em', null, String(s.src.length))), h('ul', { class: 'srcs' }, s.src.map(sourceCard))),
       h('p', { class: 'rule' }, 'Status grades the evidence for this transfer, not for either culture. Model-free: nothing here is inferred by software.'));

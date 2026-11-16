@@ -1,0 +1,193 @@
+{
+ "meta": {
+  "note": "Primary-text briefs. Leads, not evidence."
+ },
+ "briefs": [
+  {
+   "id": "bible-near-east-parallels",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote the Hebrew Bible passages and the Near Eastern texts that scholars compare with them, each from an edition you opened: Genesis 6-9 (flood) with Atrahasis (tablet III) and Gilgamesh XI; Genesis 1-2 with Enuma Elish; Exodus 2:1-10 with the Sargon birth legend; Proverbs 22:17-24:22 with the Instruction of Amenemope; Psalm 104 with the Great Hymn to the Aten; Exodus 21-23 (Covenant Code) with the Code of Hammurabi.",
+    "For each pair give what the passages share and where they differ, the composition range and basis for each work, and the strongest scholarly caution (independent development, common source, direction of influence disputed)."
+   ],
+   "loci": [
+    "Genesis 1-2, 6-9",
+    "Exodus 2, 21-23",
+    "Proverbs 22-24",
+    "Psalm 104",
+    "Atrahasis",
+    "Gilgamesh XI",
+    "Enuma Elish",
+    "Sargon Birth Legend",
+    "Amenemope",
+    "Great Hymn to the Aten",
+    "Code of Hammurabi"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "bible-persia",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote the biblical and Persian texts that bear on Persian-Judaean contact: Isaiah 44:28-45:1, Ezra 1:1-4 and 6:3-5, 2 Chronicles 36:22-23, Nehemiah 2, Esther 1 (Persian court terms), Daniel 6; the Cyrus Cylinder (a translation from an opened source); the Behistun inscription (DB, Old Persian text in translation); the Gathas (Yasna 30) and the Avestan material on angels and a final judgement, only as far as you can read an edition.",
+    "Give composition ranges with their basis, the earliest witnesses (Dead Sea Scrolls for Isaiah, Daniel and Esther fragments), and the scholarly debate on how far Zoroastrian ideas shaped Judaism; quote the strongest sceptical scholar you can open."
+   ],
+   "loci": [
+    "Isaiah 44-45",
+    "Ezra 1, 6",
+    "2 Chronicles 36",
+    "Nehemiah 2",
+    "Esther 1",
+    "Daniel 6",
+    "Cyrus Cylinder",
+    "Behistun DB",
+    "Yasna 30"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "bible-greek-latin-transmission",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote the primary evidence for how the Hebrew Bible reached Greek and Latin readers: the Letter of Aristeas (translation of the Torah at Alexandria under Ptolemy II), the Prologue of Ben Sira (Sirach) by his grandson (translated into Greek in Egypt in 132 BCE), the Septuagint and its earliest manuscripts, the Dead Sea Scrolls Great Isaiah Scroll as the oldest complete witness, Jerome's prologues to the Vulgate.",
+    "Separate composition, earliest witness and edition for each. Include scholarly caution on the Letter of Aristeas's legendary details."
+   ],
+   "loci": [
+    "Letter of Aristeas",
+    "Sirach Prologue",
+    "Great Isaiah Scroll 1QIsa",
+    "Jerome Prologus Galeatus",
+    "Septuagint manuscripts"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "egypt-primary-texts",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote the Egyptian primary texts that threads depend on: the Instruction of Amenemope (chapters 1-3, 9-10 compared by scholars with Proverbs), the Great Hymn to the Aten (Amarna, c. 1350 BCE), the Rosetta Stone and Canopus Decree (Egyptian hieroglyphic, Demotic and Greek in one text), a Pyramid Text spell, and the Memphite Theology; and any Egyptian text describing a chemical or technical process (for example the Ebers papyrus recipes).",
+    "Give composition range with basis, material witness (stone, papyrus, museum number) and the edition or translation read."
+   ],
+   "loci": [
+    "Amenemope",
+    "Great Hymn to the Aten",
+    "Rosetta Stone",
+    "Canopus Decree",
+    "Pyramid Texts",
+    "Memphite Theology",
+    "Ebers papyrus"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "mesopotamia-primary-texts",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote the cuneiform primary texts and translations: Enuma Elish tablet I, Atrahasis tablet III (flood), Gilgamesh XI (flood), the Code of Hammurabi prologue and some laws, the Sumerian King List; and the evidence that Mesopotamian literature travelled: Gilgamesh fragments found at Hattusa (Hittite and Hurrian versions) and Megiddo, and the Amarna letters (Akkadian diplomatic correspondence between Egypt, Mitanni, Hatti, Babylon and Levantine rulers, c. 1360 BCE).",
+    "Give composition ranges with basis, earliest tablet witness and find-spot, and the edition or translation read. Use ORACC, ETCSL, CDLI, Livius, Gutenberg, archive.org or Wikisource, whichever answers."
+   ],
+   "loci": [
+    "Enuma Elish",
+    "Atrahasis",
+    "Gilgamesh XI",
+    "Code of Hammurabi",
+    "Sumerian King List",
+    "Gilgamesh Hattusa Megiddo",
+    "Amarna letters EA"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "india-iran-primary-texts",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote the primary evidence for Indo-Iranian and Indian contact: the Hittite-Mitanni treaty (c. 1380 BCE) invoking Mitra, Varuna, Indra and the Nasatyas; the Rigveda (hymns to Indra, Mitra-Varuna) in an opened translation; Yasna 30 from the Avesta; the Edicts of Ashoka (Rock Edict 13 naming Greek kings; the Greek and Aramaic inscriptions at Kandahar); the Behistun inscription.",
+    "Give composition ranges with basis (Rigveda and Avesta dates are scholarly ranges, quote the basis), the earliest witness, and the edition or translation read. Add the strongest scholarly caution on Indo-Iranian dating."
+   ],
+   "loci": [
+    "Mitanni treaty Kikkuli",
+    "Rigveda",
+    "Yasna 30",
+    "Ashoka Rock Edict 13",
+    "Kandahar Greek Aramaic edicts",
+    "Behistun"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "china-primary-texts",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote Chinese primary sources for contact and transmission along the Silk Road, from an opened edition or translation (ctext.org, archive.org, Wikisource): Shiji ch. 123 (Sima Qian on Zhang Qian's mission and Dayuan, Daxia/Bactria), Hou Hanshu on the Prince of Chu Ying (65 CE) and the first imperial reference to the Buddha, Hou Hanshu on Cai Lun and paper (105 CE), and the Record of Buddhist Kingdoms (Faxian, c. 414 CE) or Xuanzang's Records.",
+    "Give composition ranges with basis and the earliest witness, and note textual cautions (later interpolation, legendary accounts such as the Ming-ti dream)."
+   ],
+   "loci": [
+    "Shiji 123",
+    "Hou Hanshu Chu Ying",
+    "Hou Hanshu Cai Lun",
+    "Faxian",
+    "Xuanzang Great Tang Records"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "inscriptions-and-science-primary",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote the primary inscriptions and texts for writing and science transmission: the Ahiram sarcophagus inscription (Phoenician, c. 1000 BCE); the Dipylon oinochoe and Nestor's Cup from Pithekoussai (earliest Greek alphabetic inscriptions, c. 740-720 BCE); an Etruscan abecedarium (Marsiliana tablet); Ptolemy's Almagest (Babylonian eclipse records used by Hipparchus, Almagest IV.2 and V.14); al-Khwarizmi's Algebra (Rosen 1831 translation, opening); the Fihrist of Ibn al-Nadim on the translation movement; Robert of Chester's preface to the Latin Algebra or the Liber de compositione alchemiae.",
+    "Give composition or inscription date with basis, the object or manuscript witness, and the edition read."
+   ],
+   "loci": [
+    "Ahiram inscription",
+    "Nestor's Cup Pithekoussai",
+    "Dipylon inscription",
+    "Marsiliana abecedarium",
+    "Almagest IV.2 Babylonian eclipses",
+    "al-Khwarizmi Algebra",
+    "Fihrist",
+    "Robert of Chester"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  }
+ ]
+}

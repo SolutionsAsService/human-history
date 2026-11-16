@@ -183,6 +183,21 @@ export interface Culture {
   entries?: string[];  // related ledger records
 }
 
+/** A passage quoted from an ancient text, with the work's three dates kept apart. */
+export interface Passage {
+  id: string;
+  work: string;
+  locator: string;
+  language: string;
+  quote: string;
+  edition: string;
+  compStart: number | null;
+  compEnd: number | null;
+  compBasis: string;
+  witness: string;
+  src: string;          // the source record of the edition read
+}
+
 export interface Thread { id: string; name: string; carried: Carried; blurb: string }
 
 /** One transfer. `status` grades the evidence for the transfer itself (E1–E8), not for either culture. */
@@ -204,4 +219,6 @@ export interface Strand {
   unresolved?: string[];
   src: string[];
   entries?: string[];
+  /** Ids of quoted primary passages (src/data/extra/g.ts, generated from RDADA runs). */
+  passages?: string[];
 }

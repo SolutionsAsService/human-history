@@ -1,7 +1,7 @@
 // Data integrity checks. Run: npm run validate
 // Enforces the ledger rule "do not assign a high confidence classification without identifying the supporting sources",
 // referential integrity across entries/sources/links/hypotheses, and basic geographic and temporal sanity.
-import { CULTURES, STRANDS, THREADS } from '../src/data/threads';
+import { CULTURES, PASSAGE_BY_ID, PASSAGES, STRANDS, THREADS } from '../src/data/threads';
 import { ENTRIES, ENTRY_BY_ID, EVENTS, EVENT_BY_ID, LINKS, MIGRATIONS, QUESTIONS, SOURCE_BY_ID, SOURCES } from '../src/data/index';
 
 const errors: string[] = [];
@@ -67,7 +67,9 @@ for (const s of STRANDS) {
   if (s.directness === 'documented' && (s.status === 'E5' || s.status === 'E6' || s.status === 'E7' || s.status === 'E8')) warn(`strand ${s.id}: documented, but graded ${s.status} — check the two agree`);
   if (s.directness === 'inferred' && (s.status === 'E1')) warn(`strand ${s.id}: inferred but graded E1`);
   for (const en of s.entries ?? []) if (!ENTRY_BY_ID[en]) err(`strand ${s.id}: unknown entry "${en}"`);
+  for (const pid of s.passages ?? []) if (!PASSAGE_BY_ID[pid]) err(`strand ${s.id}: unknown passage "${pid}"`);
 }
+for (const p of PASSAGES) { if (!SOURCE_BY_ID[p.src]) err(`passage ${p.id}: unknown source "${p.src}"`); if (!p.compBasis) err(`passage ${p.id}: composition date has no basis`); }
 for (const c of CULTURES) { if (c.end < c.start) err(`culture ${c.id}: end before start`); for (const en of c.entries ?? []) if (!ENTRY_BY_ID[en]) err(`culture ${c.id}: unknown entry "${en}"`); }
 const idle = CULTURES.filter(c => !STRANDS.some(s => s.from === c.id || s.to === c.id)).map(c => c.id);
 if (idle.length) warn(`cultures with no strands: ${idle.join(', ')}`);

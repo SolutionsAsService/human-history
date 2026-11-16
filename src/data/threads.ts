@@ -1,4 +1,5 @@
-import type { Culture, Strand, Thread, Carried } from '../types';
+import type { Culture, Strand, Thread, Carried, Passage } from '../types';
+import { PASSAGES as GEN_PASSAGES } from './extra/g';
 
 // Threads: what one culture passed to another. Every strand below comes from a source that was opened and whose quoted
 // passage was found verbatim by an independent verifier (see rdada_runs/). A resemblance noticed by an editor is not a strand.
@@ -20,6 +21,9 @@ export const CARRIED: Record<Carried, { label: string; color: string }> = {
 const C = (id: string, name: string, group: string, start: number, end: number, entries?: string[]): Culture => ({ id, name, group, start, end, entries });
 
 // Lane order is the order of this list; lanes appear grouped by region band.
+export const PASSAGES: Passage[] = GEN_PASSAGES;
+export const PASSAGE_BY_ID: Record<string, Passage> = Object.fromEntries(PASSAGES.map(p => [p.id, p]));
+
 export const CULTURES: Culture[] = [
   C('paleo-eurasia', 'Late Palaeolithic Eurasia', 'Deep time', -40000, -11000),
   C('americas-first', 'First peoples of the Americas', 'Deep time', -20000, -1000),
