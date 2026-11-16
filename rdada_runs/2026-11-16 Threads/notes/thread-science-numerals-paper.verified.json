@@ -1,0 +1,446 @@
+[
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "The Hindu-Arabic numerals",
+  "authors": "Smith, D.E., Karpinski, L.C.",
+  "year": 1911,
+  "venue": "Ginn and Company, Boston (public-domain scan, Internet Archive)",
+  "url": "https://archive.org/stream/hinduarabicnumer00smitrich/hinduarabicnumer00smitrich_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of mathematics",
+  "stance": "supports",
+  "ask_addressed": "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
+  "quote": "Novem figure indorum he sunt 987654321.",
+  "summary": "Quotes Leonardo of Pisa's Liber Abbaci (1202) heading and text naming the 'nine figures of the Indians'; Smith and Karpinski cite Boncompagni's 1857 edition. Shows Fibonacci himself labelled the system Indian.",
+  "limits": "Does not show the route by which Leonardo learned them (he describes learning them in North Africa; not in this passage). 1911 work, partly superseded (it knew the Bakhshali manuscript only as 'probably' earlier than Gwalior; dates now debated). OCR text; quote checked against the OCR.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Latin Europe (Pisa)",
+   "carried": "idea",
+   "what": "decimal place-value numerals (nine figures plus sign 0) in the Liber Abaci",
+   "medium": "text",
+   "start": 1202,
+   "end": 1202,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "The Hindu-Arabic numerals",
+  "authors": "Smith, D.E., Karpinski, L.C.",
+  "year": 1911,
+  "venue": "Ginn and Company, Boston (public-domain scan, Internet Archive)",
+  "url": "https://archive.org/stream/hinduarabicnumer00smitrich/hinduarabicnumer00smitrich_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of mathematics",
+  "stance": "supports",
+  "ask_addressed": "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
+  "quote": "the Arabs from the early ninth century on fully recognized the Hindu origin of the new numerals",
+  "summary": "Concludes from Arabic writers on the Indian reckoning (al-Khwarizmi and others) that Islamic scholars from about 800 CE themselves called the system Hindu.",
+  "limits": "A secondary synthesis; the underlying Arabic texts were not opened here. Date is 'early ninth century', not a single year. 1911 work, partly superseded (it knew the Bakhshali manuscript only as 'probably' earlier than Gwalior; dates now debated). OCR text; quote checked against the OCR. Verifier: the quoted sentence is the authors' own conclusion drawn from named Arabic treatises, not a quotation of an Arabic text.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Islamic world (Abbasid Baghdad)",
+   "carried": "idea",
+   "what": "Hindu decimal numerals and reckoning",
+   "medium": "text",
+   "start": 800,
+   "end": 900,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "Robert of Chester's Latin Translation of the Algebra of al-Khowarizmi, with an Introduction, Critical Notes and an English Version",
+  "authors": "Karpinski, L.C.",
+  "year": 1915,
+  "venue": "Macmillan, New York (public-domain scan, Internet Archive)",
+  "url": "https://archive.org/stream/robertofchesters00muha/robertofchesters00muha_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of mathematics",
+  "stance": "supports",
+  "ask_addressed": "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
+  "quote": "derived from the use of the name Al-Khowarizmi in the opening sentence of the arithmetic, which reads, Dixit algoritmi",
+  "summary": "Karpinski explains that 'algorism' came from the Latin arithmetic opening 'Dixit algoritmi' (the Algoritmi de numero Indorum), and that Robert of Chester translated al-Khwarizmi's algebra at Segovia in 1145 (Spanish Era 1183).",
+  "limits": "Shows the Arabic-to-Latin step through named translators and a Latin text, but notes the author of the Latin arithmetic is unknown. 1915 scholarship; OCR text. Verifier: the quoted sentence gives no date; the 1145 Segovia date and the translation context come from elsewhere on the same scanned book.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Islamic world (Baghdad, al-Andalus)",
+   "to": "Latin Europe",
+   "carried": "idea",
+   "what": "Indian numerals and algebra of al-Khwarizmi in Latin",
+   "medium": "translation",
+   "start": 1100,
+   "end": 1200,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "Alberuni's India: an account of the religion, philosophy, literature, geography, chronology, astronomy, customs, laws and astrology of India about A.D. 1030",
+  "authors": "Alberuni (al-Biruni); Sachau, E.C. (trans.)",
+  "year": 1910,
+  "venue": "Kegan Paul, Trench, Trubner, London (public-domain scan, Internet Archive)",
+  "url": "https://archive.org/stream/alberunisindiaac01biru/alberunisindiaac01biru_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "primary",
+  "discipline": "History of astronomy",
+  "stance": "supports",
+  "ask_addressed": "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
+  "quote": "there came embassies from that part of India to Bagdad, and among them scholars, who brought along with them two books",
+  "summary": "Al-Biruni (c. 1030) reports that under Caliph al-Mansur (753-774) Indian scholars brought the Brahmasiddhanta and Khandakhadyaka to Baghdad, where al-Fazari translated them; the Arabs thereby first learned a scientific astronomy.",
+  "limits": "Written about 250 years after the event, and itself a retrospective claim; it concerns astronomical texts, not numerals as such. Translator's English of 1888/1910. Verifier: a literary report, not a dated document of the transfer; Gutas (separate candidate) doubts direct Sanskrit-to-Arabic translation, so directness is kept at documented only for the report itself.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India (Sind)",
+   "to": "Islamic world (Baghdad)",
+   "carried": "idea",
+   "what": "Sanskrit astronomical siddhantas (Brahmagupta)",
+   "medium": "court_or_empire",
+   "start": 753,
+   "end": 774,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "Alberuni's India: an account of the religion, philosophy, literature, geography, chronology, astronomy, customs, laws and astrology of India about A.D. 1030",
+  "authors": "Alberuni (al-Biruni); Sachau, E.C. (trans.)",
+  "year": 1910,
+  "venue": "Kegan Paul, Trench, Trubner, London (public-domain scan, Internet Archive)",
+  "url": "https://archive.org/stream/alberunisindiaac01biru/alberunisindiaac01biru_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "primary",
+  "discipline": "History of mathematics",
+  "stance": "supports",
+  "ask_addressed": "Which claims are disputed (date of the zero, 'Arabic numerals' naming, paper arrival, independent invention)?",
+  "quote": "are derived from the finest forms of the Hindu signs",
+  "summary": "In the chapter on Indian numeral signs al-Biruni states that the numerals 'which we use' derive from the best forms of Hindu signs, an eleventh-century Islamic-world witness to the Indian origin behind the later label 'Arabic numerals'.",
+  "limits": "Passage read in an OCR of the translation (the OCR has 'we' as '2ve'). Says 'derived from', not when or by whom. The fragment is verbatim from the translation.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Islamic world",
+   "carried": "idea",
+   "what": "numeral signs",
+   "medium": "text",
+   "start": 1000,
+   "end": 1050,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbasid Society (2nd-4th/8th-10th c.)",
+  "authors": "Gutas, D.",
+  "year": 1998,
+  "venue": "Routledge, London",
+  "url": "https://archive.org/stream/DimitriGutasGreekThoughtArabicCultureTheGraecoArabicTranslationMovementInBaghdad/Dimitri%20Gutas-Greek%20Thought,%20Arabic%20Culture_%20The%20Graeco-Arabic%20Translation%20Movement%20in%20Baghdad%20and%20Early%20'Abbasaid%20Society%20(2nd-4th%205th-10th%20c.)%20(Arabic%20Thought%20&%20Culture)%20%20-Routledge%20(1998)_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Intellectual history",
+  "stance": "supports",
+  "ask_addressed": "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
+  "quote": "from about the middle of the eighth century to the end of the tenth, almost all non-literary and non-historical secular Greek books",
+  "summary": "Gutas opens with the claim that nearly all secular Greek scientific and philosophical books available in the Byzantine East and Near East were translated into Arabic from about 750 to 1000, tying it to Abbasid state patronage.",
+  "limits": "The quote is the first half of a sentence ('...were translated into Arabic'). The Arabic-to-Latin leg is not covered here. OCR text of the book, loaded from an Internet Archive copy.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Greek-speaking Eastern Mediterranean (Byzantium, Syria)",
+   "to": "Islamic world (Abbasid Baghdad)",
+   "carried": "idea",
+   "what": "Greek scientific and philosophical corpus",
+   "medium": "translation",
+   "start": 750,
+   "end": 1000,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early 'Abbasid Society (2nd-4th/8th-10th c.)",
+  "authors": "Gutas, D.",
+  "year": 1998,
+  "venue": "Routledge, London",
+  "url": "https://archive.org/stream/DimitriGutasGreekThoughtArabicCultureTheGraecoArabicTranslationMovementInBaghdad/Dimitri%20Gutas-Greek%20Thought,%20Arabic%20Culture_%20The%20Graeco-Arabic%20Translation%20Movement%20in%20Baghdad%20and%20Early%20'Abbasaid%20Society%20(2nd-4th%205th-10th%20c.)%20(Arabic%20Thought%20&%20Culture)%20%20-Routledge%20(1998)_djvu.txt",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "skeptical",
+  "discipline": "Intellectual history",
+  "stance": "fails_to_support",
+  "ask_addressed": "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
+  "quote": "Indian scientific material in astronomy, astrology, mathematics, and medicine passed into Arabic mainly through Persian (Pahlavi) intermediaries during the 'Abbasid period",
+  "summary": "Gutas argues that Indian science reached Arabic mainly via Pahlavi (Sasanian) intermediaries and that direct Sanskrit-to-Arabic translation is doubtful, qualifying a simple India-to-Baghdad story and stressing the Sasanian-Zoroastrian background of the translation movement.",
+  "limits": "Quote normalised from OCR ('Pahlavj', 'inter- mediaries'). Sits against al-Biruni's report of direct work with Indian pandits; the two are not reconciled here. Gutas is a single (influential) scholarly position.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "India",
+   "to": "Islamic world (via Sasanian Persia)",
+   "carried": "idea",
+   "what": "Indian astronomy, mathematics and medicine",
+   "medium": "court_or_empire",
+   "start": 600,
+   "end": 900,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "Hipparchus (Wikipedia, section 'Babylonian sources')",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Hipparchus",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of astronomy",
+  "stance": "supports",
+  "ask_addressed": "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
+  "quote": "Franz Xaver Kugler demonstrated that the synodic and anomalistic periods that Ptolemy attributes to Hipparchus had already been used in Babylonian ephemerides",
+  "summary": "Points to Kugler (1900) and Toomer for the case that Hipparchus (active c. 147-127 BCE) took Babylonian lunar periods and observation records, the route running through Hipparchus's own lists as later used by Ptolemy.",
+  "limits": "Wikipedia pointer; the cited works (Kugler 1900; Toomer) were not opened. Jones's 1991 Isis article and a 2020 arXiv paper were found by search but their hosts were blocked.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Babylonian astronomy",
+   "to": "Hellenistic Greece (Hipparchus)",
+   "carried": "idea",
+   "what": "lunar period relations, eclipse records, sexagesimal methods",
+   "medium": "text",
+   "start": -162,
+   "end": -127,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "Hipparchus (Wikipedia, section 'Babylonian sources')",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Hipparchus",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "skeptical",
+  "discipline": "History of astronomy",
+  "stance": "fails_to_support",
+  "ask_addressed": "Which claims are disputed (date of the zero, 'Arabic numerals' naming, paper arrival, independent invention)?",
+  "quote": "the only text by Hipparchus that survives does not provide sufficient information to decide whether Hipparchus's knowledge",
+  "summary": "States that Hipparchus's one surviving work cannot show whether his units and methods were Babylonian practice, and that whether Babylonians knew Hipparchus or the reverse 'is debatable' for the tropical-year figure.",
+  "limits": "Wikipedia summary of the literature; the sentence is cut mid-clause ('...was based on Babylonian practice'). Underlying scholars not opened.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Babylonian astronomy",
+   "to": "Hellenistic Greece (Hipparchus)",
+   "carried": "idea",
+   "what": "Babylonian methods and data",
+   "medium": "text",
+   "start": -162,
+   "end": -127,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "History of paper (Wikipedia)",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/History_of_paper",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "skeptical",
+  "discipline": "History of technology",
+  "stance": "contradicts",
+  "ask_addressed": "Which claims are disputed (date of the zero, 'Arabic numerals' naming, paper arrival, independent invention)?",
+  "quote": "reported weavers, painters, goldsmiths, and silversmiths among the prisoners taken, but no papermakers",
+  "summary": "Cites Bloom for the view that the story of Chinese prisoners from Talas (751) teaching papermaking at Samarkand is not reliable: no contemporary Arab source, the captive Du Huan lists no papermakers, and paper was in Central Asia earlier.",
+  "limits": "Wikipedia pointer to Bloom, Paper Before Print (2001); Bloom's book was not opened (its Internet Archive copy is lending-only). The page also says paper reached Baghdad by 793 and Europe by 1085-1150 without primary text. Verifier: medium changed from 'trade' to 'unknown' (the page does not name a medium); the quoted sentence itself does not state an Islamic origin, which the page gives elsewhere ('probably' Islamic Iberian paper in the Missal of Silos), so directness stays inferred.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "China",
+   "to": "Islamic world (Samarkand, Baghdad)",
+   "carried": "technology",
+   "what": "papermaking",
+   "medium": "unknown",
+   "start": 751,
+   "end": 794,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "History of paper (Wikipedia)",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/History_of_paper",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of technology",
+  "stance": "context",
+  "ask_addressed": "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
+  "quote": "Papermaking reached Europe as early as 1085 in Toledo and was firmly established in Xàtiva, Spain by 1150.",
+  "summary": "Gives the dates for paper's arrival in Europe by way of Islamic Iberia (oldest European paper document: the Missal of Silos; a water-powered mill decree at Xàtiva in 1282).",
+  "limits": "Wikipedia pointer; dates are as cited by it (Fuller, Burns) and were not checked against the originals.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Islamic world (al-Andalus)",
+   "to": "Latin Europe",
+   "carried": "technology",
+   "what": "papermaking",
+   "medium": "trade",
+   "start": 1085,
+   "end": 1282,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "thread-science-numerals-paper",
+  "records": [],
+  "title": "Movable type (Wikipedia)",
+  "authors": "Wikipedia contributors",
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Movable_type",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "skeptical",
+  "discipline": "History of printing",
+  "stance": "fails_to_support",
+  "ask_addressed": "Which claims are disputed (date of the zero, 'Arabic numerals' naming, paper arrival, independent invention)?",
+  "quote": "viewed the story with skepticism but believed that Chinese wood blocks could have been transferred via travelers",
+  "summary": "Reports the Feltre/Castaldi tradition that Marco Polo's Chinese books inspired European printing, and Henry Yule's sceptical view of it, leaving Gutenberg's metal type (c. 1450) with no documented chain from Bi Sheng's ceramic type (c. 1040).",
+  "limits": "Wikipedia pointer citing Tsien (1985); not opened. The Tsien volume exists on archive.org but is lending-only. Independent invention is only implied, not argued.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "China",
+   "to": "Latin Europe",
+   "carried": "technology",
+   "what": "woodblock and movable-type printing",
+   "medium": "trade",
+   "start": 1040,
+   "end": 1450,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ }
+]

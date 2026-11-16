@@ -1,0 +1,74 @@
+[
+ {
+  "candidate": {
+   "brief": "thread-science-numerals-paper",
+   "records": [],
+   "title": "The Hindu-Arabic numerals",
+   "authors": "Smith, D.E., Karpinski, L.C.",
+   "year": 1911,
+   "venue": "Ginn and Company, Boston (public-domain scan, Internet Archive)",
+   "url": "https://archive.org/stream/hinduarabicnumer00smitrich/hinduarabicnumer00smitrich_djvu.txt",
+   "doi": null,
+   "accessed": "2026-11-16",
+   "kind": "secondary",
+   "discipline": "History of mathematics",
+   "stance": "context",
+   "ask_addressed": "Which claims are disputed (date of the zero, 'Arabic numerals' naming, paper arrival, independent invention)?",
+   "quote": "The earliest undoubted occurrence of a zero in India is an inscription at Gwalior",
+   "summary": "Records the older consensus (quoting an earlier scholar) that the dated Gwalior inscription of 876 CE was the earliest sure Indian zero, with the Bakhshali manuscript 'probably' earlier. Shows how the date of the zero moved.",
+   "limits": "Superseded as a dating claim (see the Oxford radiocarbon report). The Gwalior date is a floor for the written zero in India, not evidence of transfer. 1911 work, partly superseded (it knew the Bakhshali manuscript only as 'probably' earlier than Gwalior; dates now debated). OCR text; quote checked against the OCR.",
+   "reliability": "unassessed",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   },
+   "strand": {
+    "from": "India",
+    "to": "Islamic world",
+    "carried": "idea",
+    "what": "the written zero symbol",
+    "medium": "unknown",
+    "start": 876,
+    "end": 876,
+    "directness": "debated"
+   }
+  },
+  "reason": "strand_unsupported: the quoted passage dates the earliest Indian zero (Gwalior, 876) and says nothing about transfer to the Islamic world; the strand (India to Islamic world, debated) is not stated by the source. Quote itself verified verbatim in the OCR (Smith & Karpinski 1911). Resubmit without a strand, or with a source that states the transfer."
+ },
+ {
+  "candidate": {
+   "brief": "thread-science-numerals-paper",
+   "records": [],
+   "title": "Radiocarbon dating of the Bakhshali manuscript",
+   "authors": "Chivall, D., Llado-Buisan, V., Howell, D., Evison, G.",
+   "year": null,
+   "venue": "Oxford Radiocarbon Accelerator Unit and Bodleian Libraries, University of Oxford (ORA report)",
+   "url": "https://ora.ox.ac.uk/objects/uuid:5a6d1dd7-f20c-4209-adb6-33849f5b08f4/files/snp193c210",
+   "doi": null,
+   "accessed": "2026-11-16",
+   "kind": "primary",
+   "discipline": "Radiocarbon dating / history of mathematics",
+   "stance": "contradicts",
+   "ask_addressed": "Which claims are disputed (date of the zero, 'Arabic numerals' naming, paper arrival, independent invention)?",
+   "quote": "The second determination on Folio 16 demonstrated that the initial determination was inaccurate.",
+   "summary": "The Oxford report revises the 2017 measurements: folio 16, first dated to the 3rd-4th century and publicised as the oldest zero, was re-measured, and the five-folio model puts production at 799-1102 calCE.",
+   "limits": "A report on bark age (terminus post quem), not on when the text was composed; the report itself says the folios may differ in age. It does not discuss routes of transmission. Year not shown on the PDF (a Wikipedia note dates the revision to October 2024).",
+   "reliability": "unassessed",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   },
+   "strand": {
+    "from": "India (Gandhara / NW India)",
+    "to": "Islamic world",
+    "carried": "idea",
+    "what": "dot zero and decimal notation in a written Indian text",
+    "medium": "unknown",
+    "start": 799,
+    "end": 1102,
+    "directness": "debated"
+   }
+  },
+  "reason": "strand_unsupported: quote verified verbatim (ORA report, Chivall et al.; phase model 799-892 to 900-1102 calCE also confirmed), but the report is a radiocarbon dating of bark and says nothing about transmission to the Islamic world; the strand is not stated by the source. Resubmit as a non-strand dating-dispute entry."
+ }
+]

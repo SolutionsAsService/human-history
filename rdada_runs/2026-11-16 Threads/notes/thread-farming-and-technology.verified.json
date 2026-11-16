@@ -1,0 +1,366 @@
+[
+  {
+    "brief": "thread-farming-and-technology",
+    "records": [],
+    "title": "Early farmers from across Europe directly descended from Neolithic Aegeans",
+    "authors": "Hofmanová, Z., Kreutzer, S., Hellenthal, G. et al.",
+    "year": 2016,
+    "venue": "Proceedings of the National Academy of Sciences (White Rose Research Online record)",
+    "url": "https://eprints.whiterose.ac.uk/id/eprint/117992/",
+    "doi": "10.1073/pnas.1523951113",
+    "accessed": "2026-11-16",
+    "kind": "primary",
+    "discipline": "Palaeogenomics",
+    "stance": "supports",
+    "ask_addressed": "What do ancient DNA and archaeology show about the spread of farming from the Fertile Crescent into Europe and beyond (migration versus cultural diffusion), and the spread of bronze and iron working, the horse and wheeled vehicles, and Austronesian seafaring?",
+    "quote": "Our study demonstrates a direct genetic link between Mediterranean and Central European early farmers and those of Greece and Anatolia",
+    "summary": "Genomes of five Neolithic individuals from northern Greece and northwestern Turkey are genetically close to early farmers across Europe, which the authors read as a chain of migration from southwestern Asia.",
+    "limits": "Only five Aegean individuals; the record page gives the abstract, not the methods. The page is a repository record, not the full text.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Neolithic Anatolia and the Aegean",
+      "to": "Neolithic Europe (Balkans, Central Europe, Mediterranean)",
+      "carried": "people",
+      "what": "early farmers and their farming economy",
+      "medium": "migration",
+      "start": -6500,
+      "end": -5500,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-farming-and-technology",
+    "records": [],
+    "title": "Early farmers from across Europe directly descended from Neolithic Aegeans (abstract: stated uncertainties)",
+    "authors": "Hofmanová, Z., Kreutzer, S., Hellenthal, G. et al.",
+    "year": 2016,
+    "venue": "Proceedings of the National Academy of Sciences (White Rose Research Online record)",
+    "url": "https://eprints.whiterose.ac.uk/id/eprint/117992/",
+    "doi": "10.1073/pnas.1523951113",
+    "accessed": "2026-11-16",
+    "kind": "primary",
+    "discipline": "Palaeogenomics",
+    "stance": "context",
+    "ask_addressed": "Which parts are settled and which disputed?",
+    "quote": "Conspicuous uncertainties remain about the relative roles of migration, cultural diffusion, and admixture with local foragers in the early Neolithization of Europe.",
+    "summary": "The paper itself frames migration versus diffusion versus forager admixture as the open question that its data address for the Aegean-to-Europe route.",
+    "limits": "Same abstract as the previous candidate; it states the debate, it does not itself document the regional variation in forager admixture.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Neolithic Anatolia and the Aegean",
+      "to": "Neolithic Europe",
+      "carried": "people",
+      "what": "farming, with disputed share of migration, diffusion and forager admixture",
+      "medium": "migration",
+      "start": -6500,
+      "end": -5500,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-farming-and-technology",
+    "records": [],
+    "title": "Population Turnover in Remote Oceania Shortly After Initial Settlement (author manuscript)",
+    "authors": "Lipson, M., Skoglund, P., Spriggs, M. et al.",
+    "year": null,
+    "venue": "Current Biology (Oxford University Research Archive manuscript)",
+    "url": "https://ora.ox.ac.uk/objects/uuid:b198cb4d-4656-417a-aa5a-a1230060bc5a/files/m535a9bf106a6e317b8cbc769347dc06c",
+    "accessed": "2026-11-16",
+    "kind": "primary",
+    "discipline": "Palaeogenomics",
+    "stance": "supports",
+    "ask_addressed": "What do ancient DNA and archaeology show about the spread of farming from the Fertile Crescent into Europe and beyond (migration versus cultural diffusion), and the spread of bronze and iron working, the horse and wheeled vehicles, and Austronesian seafaring?",
+    "quote": "the latter descendants of the Austronesian expansion from East and Southeast Asia",
+    "summary": "Ancient genomes from Vanuatu (about 3000 BP onward) show first Remote Oceanians of almost entirely East Asian ancestry, tied by the authors to the Austronesian expansion.",
+    "limits": "Manuscript version; does not itself test the Taiwan origin of the source population. Year not printed on the manuscript page.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Austronesian-speaking East and Southeast Asia",
+      "to": "Remote Oceania (Vanuatu)",
+      "carried": "people",
+      "what": "Austronesian-speaking colonists (Lapita) with East Asian ancestry",
+      "medium": "migration",
+      "start": -1000,
+      "end": -400,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-farming-and-technology",
+    "records": [],
+    "title": "Population Turnover in Remote Oceania Shortly After Initial Settlement (author manuscript)",
+    "authors": "Lipson, M., Skoglund, P., Spriggs, M. et al.",
+    "year": null,
+    "venue": "Current Biology (Oxford University Research Archive manuscript)",
+    "url": "https://ora.ox.ac.uk/objects/uuid:b198cb4d-4656-417a-aa5a-a1230060bc5a/files/m535a9bf106a6e317b8cbc769347dc06c",
+    "accessed": "2026-11-16",
+    "kind": "primary",
+    "discipline": "Palaeogenomics",
+    "stance": "contradicts",
+    "ask_addressed": "Which parts are settled and which disputed?",
+    "quote": "a dramatic turnover is apparent in Vanuatu between around 3000 and 2400 years ago",
+    "summary": "Complicates a simple Austronesian-to-Polynesian continuity: the first Austronesian-ancestry settlers were joined or largely replaced by people of Papuan ancestry within about 600 years.",
+    "limits": "Regional case (Vanuatu); not the whole of Oceania. Manuscript version. Verifier: quote spans a PDF line break; found verbatim.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Near Oceania (Bismarck Archipelago, Papuan ancestry)",
+      "to": "Remote Oceania (Vanuatu)",
+      "carried": "people",
+      "what": "Papuan-ancestry population replacing or swamping the first Austronesian-ancestry settlers",
+      "medium": "migration",
+      "start": -1000,
+      "end": -400,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-farming-and-technology",
+    "records": [],
+    "title": "Austronesian peoples (Wikipedia, pointer only)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Austronesian_peoples",
+    "accessed": "2026-11-16",
+    "kind": "secondary",
+    "discipline": "Linguistics and archaeology",
+    "stance": "context",
+    "ask_addressed": "Which parts are settled and which disputed?",
+    "quote": "The mainstream accepted hypothesis is the \"Out of Taiwan\" model first proposed by Peter Bellwood.",
+    "summary": "Encyclopedia summary stating the mainstream Out-of-Taiwan model and the rival Out-of-Sundaland model; used as a pointer to the primary literature, not as evidence.",
+    "limits": "Wikipedia; no primary dating or sampling shown. Not support for a dating or identification.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Taiwan",
+      "to": "Island Southeast Asia and Oceania",
+      "carried": "language",
+      "what": "Austronesian languages and seafaring settlement (Out of Taiwan model, with rival Out of Sundaland)",
+      "medium": "migration",
+      "start": -3000,
+      "end": -1500,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-farming-and-technology",
+    "records": [],
+    "title": "Bronze Age population dynamics and the rise of dairy pastoralism on the eastern Eurasian steppe",
+    "authors": "Jeong, C., Wilkin, S., Amgalantugs, T. et al.",
+    "year": 2018,
+    "venue": "Proceedings of the National Academy of Sciences (White Rose Research Online)",
+    "url": "https://eprints.whiterose.ac.uk/id/eprint/149598/",
+    "doi": "10.1073/pnas.1813608115",
+    "accessed": "2026-11-16",
+    "kind": "primary",
+    "discipline": "Archaeogenetics and proteomics",
+    "stance": "supports",
+    "ask_addressed": "What do ancient DNA and archaeology show about the spread of farming from the Fertile Crescent into Europe and beyond (migration versus cultural diffusion), and the spread of bronze and iron working, the horse and wheeled vehicles, and Austronesian seafaring?",
+    "quote": "ruminant dairy pastoralism was adopted on the Eastern steppe by local hunter-gatherers through a process of cultural transmission and minimal genetic exchange",
+    "summary": "Milk proteins in dental calculus and genomes from Mongolia show dairy herding on the eastern steppe by 1300 BCE with little western steppe ancestry: a case of cultural diffusion without major migration.",
+    "limits": "One region and population; the authors contrast it explicitly with European farming, so it does not generalise. Verifier: directness lowered from documented to inferred; the quote says adoption was by cultural transmission, not from where, and the abstract page does not name the western source.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Western Eurasian steppe",
+      "to": "Eastern Eurasian steppe (Mongolia)",
+      "carried": "custom",
+      "what": "dairy pastoralism with western domesticated ruminants",
+      "medium": "unknown",
+      "start": -1300,
+      "end": -1300,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-farming-and-technology",
+    "records": [],
+    "title": "Widespread horse-based mobility arose around 2200 bce in Eurasia (supplementary information)",
+    "authors": null,
+    "year": null,
+    "venue": "Nature (Oxford University Research Archive file)",
+    "url": "https://ora.ox.ac.uk/objects/uuid:9de5041d-93bc-49df-8a99-5668e628bc9e/files/rbc386k59w",
+    "doi": "10.1038/s41586-024-07597-5",
+    "accessed": "2026-11-16",
+    "kind": "primary",
+    "discipline": "Palaeogenomics",
+    "stance": "supports",
+    "ask_addressed": "What do ancient DNA and archaeology show about the spread of farming from the Fertile Crescent into Europe and beyond (migration versus cultural diffusion), and the spread of bronze and iron working, the horse and wheeled vehicles, and Austronesian seafaring?",
+    "quote": "DOM2 horses, from their genetic homeland in the lower Don-Volga region ~2,200 BCE",
+    "summary": "Supplement to an ancient horse genome time series stating that modern domestic (DOM2) horses derive from the lower Don-Volga region about 2200 BCE, and that Botai is the earliest evidence of milking, bridling and corralling.",
+    "limits": "Supplementary text only; the main paper's conclusions and authors are not on this page. The page carries no author list or year. Verifier: directness lowered from documented to inferred; the quoted passage gives the origin region and date (~2,200 BCE) but not the spread across Eurasia, which is only in the title.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Lower Don-Volga steppe",
+      "to": "Eurasia",
+      "carried": "crop_or_animal",
+      "what": "DOM2 domestic horse lineage",
+      "medium": "unknown",
+      "start": -2200,
+      "end": -2000,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-farming-and-technology",
+    "records": [],
+    "title": "The innovation and adoption of iron in the ancient Near East",
+    "authors": "Erb-Satullo, N.L.",
+    "year": 2019,
+    "venue": "Journal of Archaeological Research (Oxford University Research Archive record)",
+    "url": "https://ora.ox.ac.uk/objects/uuid:8b406295-a086-48b1-aa7a-f66c4c035b07",
+    "accessed": "2026-11-16",
+    "kind": "secondary",
+    "discipline": "Archaeometallurgy",
+    "stance": "supports",
+    "ask_addressed": "What do ancient DNA and archaeology show about the spread of farming from the Fertile Crescent into Europe and beyond (migration versus cultural diffusion), and the spread of bronze and iron working, the horse and wheeled vehicles, and Austronesian seafaring?",
+    "quote": "Current evidence supports an Anatolian origin for extractive iron metallurgy on a limited scale sometime in the early 2nd millennium BC.",
+    "summary": "Review synthesising field, textual and archaeometric data: limited iron smelting in Anatolia early in the 2nd millennium BC, with large-scale expansion across the Near East only in the late 2nd and early 1st millennium BC.",
+    "limits": "The page gives the abstract only. It does not address Africa, Europe or Asia, nor whether iron was invented independently elsewhere.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Anatolia",
+      "to": "Wider Near East",
+      "carried": "technology",
+      "what": "extractive iron metallurgy",
+      "medium": "unknown",
+      "start": -1900,
+      "end": -900,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-farming-and-technology",
+    "records": [],
+    "title": "Crucible technologies in the Late Bronze-Early Iron Age South Caucasus: copper processing, tin bronze production, and the possibility of local tin ores",
+    "authors": null,
+    "year": null,
+    "venue": "Oxford University Research Archive record",
+    "url": "https://ora.ox.ac.uk/objects/uuid:cd1f99cc-9b55-4108-b480-0d097e076212",
+    "accessed": "2026-11-16",
+    "kind": "secondary",
+    "discipline": "Archaeometallurgy",
+    "stance": "fails_to_support",
+    "ask_addressed": "Which parts are settled and which disputed?",
+    "quote": "at the very least it raises the possibility that the Colchian bronze industry was based on local rather than imported tin",
+    "summary": "A single crucible suggests tin bronze in Colchis may have used nearby cassiterite, which weakens the assumption that all Bronze Age tin bronze depended on long-distance tin trade.",
+    "limits": "One fragment, which the authors say does not show regular practice. The ORA page shows no author list or year.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Eastern Mediterranean and Near East",
+      "to": "South Caucasus (Colchis)",
+      "carried": "technology",
+      "what": "tin bronze production, source of tin uncertain",
+      "medium": "trade",
+      "start": -1300,
+      "end": -800,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-farming-and-technology",
+    "records": [],
+    "title": "Neolithic Europe (Wikipedia, pointer only)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Neolithic_Europe",
+    "accessed": "2026-11-16",
+    "kind": "secondary",
+    "discipline": "Archaeology and population genetics",
+    "stance": "fails_to_support",
+    "ask_addressed": "Which parts are settled and which disputed?",
+    "quote": "associating them with particular demographic events is usually speculative",
+    "summary": "The page notes that pre-aDNA genetic clines read as evidence for demic diffusion from Anatolia were later questioned; it also says current evidence has Neolithic culture introduced via western Anatolia.",
+    "limits": "Wikipedia; a pointer to the demic-diffusion literature, not evidence. The quoted phrase is attributed on the page to a critic of the cline approach.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Anatolia",
+      "to": "Europe",
+      "carried": "crop_or_animal",
+      "what": "Neolithic package and genes via the Balkans (demic diffusion, pre-aDNA clines)",
+      "medium": "migration",
+      "start": -6500,
+      "end": -4000,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  }
+]

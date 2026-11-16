@@ -1,0 +1,108 @@
+[
+  {
+    "candidate": {
+      "brief": "thread-farming-and-technology",
+      "records": [],
+      "title": "Ancient cattle genomics, origins, and rapid turnover in the Fertile Crescent",
+      "authors": "Verdugo, M.P., Mullin, V.E., Scheu, A. et al.",
+      "year": 2019,
+      "venue": "Science (White Rose Research Online accepted version)",
+      "url": "https://eprints.whiterose.ac.uk/id/eprint/149232/",
+      "doi": "10.1126/science.aav1002",
+      "accessed": "2026-11-16",
+      "kind": "primary",
+      "discipline": "Archaeogenetics",
+      "stance": "supports",
+      "ask_addressed": "What do ancient DNA and archaeology show about the spread of farming from the Fertile Crescent into Europe and beyond (migration versus cultural diffusion), and the spread of bronze and iron working, the horse and wheeled vehicles, and Austronesian seafaring?",
+      "quote": "Ancient Near Eastern cattle show ancestry from multiple aurochs strains plus a massive zebu influx at the onset of the Meghalayan Age.",
+      "summary": "Genomes of 67 ancient Near Eastern cattle show a region-wide Bronze Age shift from Indus zebu introgression, an animal (not people) transfer; the same study dates cattle domestication to about 10,500 BP in the Upper Euphrates and Tigris.",
+      "limits": "Accepted manuscript. Concerns animal ancestry; the human carrier and route are inferred, not shown. The 4.2 ka drought link is the authors' proposal.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "strand": {
+        "from": "Indus Valley",
+        "to": "Near East",
+        "carried": "crop_or_animal",
+        "what": "zebu (Bos indicus) cattle ancestry",
+        "medium": "unknown",
+        "start": -2200,
+        "end": -1800,
+        "directness": "documented"
+      }
+    },
+    "reason": "quote_not_found: Quoted sentence is not on the page; the abstract says \"rapid and widespread introgression of zebu, Bos indicus, from the Indus Valley ... stimulated at the onset of the current geological age, ~4.2 thousand years ago\". Researcher paraphrased."
+  },
+  {
+    "candidate": {
+      "brief": "thread-farming-and-technology",
+      "records": [],
+      "title": "Palaeopathology and horse domestication: the case of some Iron Age horses from the Altai Mountains, Siberia",
+      "authors": "Levine, M.A., Bailey, G.N., Whitwell, K.E., Jeffcott, L.B.",
+      "year": 2000,
+      "venue": "Human Ecodynamics, Oxbow Books (White Rose Research Online)",
+      "url": "https://eprints.whiterose.ac.uk/id/eprint/1171/",
+      "accessed": "2026-11-16",
+      "kind": "skeptical",
+      "discipline": "Zooarchaeology",
+      "stance": "contradicts",
+      "ask_addressed": "Which parts are settled and which disputed?",
+      "quote": "new radiocarbon dates for the Dereivka teeth have disproved the claims for early horse domestication at that site",
+      "summary": "A sceptical zooarchaeological source on bit-wear and morphological indicators of horse domestication, reporting that redating undid the Dereivka claim.",
+      "limits": "Published 2000, so it predates the genomic work; the Botai debate is not addressed. It argues that bit wear and kill-off patterns are ambiguous, not that horses were not domesticated later.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "strand": {
+        "from": "Pontic-Caspian steppe (Dereivka)",
+        "to": "Eurasian steppe",
+        "carried": "crop_or_animal",
+        "what": "claimed early horse domestication, disputed",
+        "medium": "unknown",
+        "start": -4000,
+        "end": -3000,
+        "directness": "debated"
+      }
+    },
+    "reason": "quote_not_found: Quote about radiocarbon dates disproving Dereivka domestication is not on the page; the abstract does not mention Dereivka or radiocarbon dating at all."
+  },
+  {
+    "candidate": {
+      "brief": "thread-farming-and-technology",
+      "records": [],
+      "title": "Wheel (Wikipedia, pointer only)",
+      "authors": null,
+      "year": null,
+      "venue": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wheel",
+      "accessed": "2026-11-16",
+      "kind": "secondary",
+      "discipline": "Archaeology",
+      "stance": "context",
+      "ask_addressed": "What do ancient DNA and archaeology show about the spread of farming from the Fertile Crescent into Europe and beyond (migration versus cultural diffusion), and the spread of bronze and iron working, the horse and wheeled vehicles, and Austronesian seafaring?",
+      "quote": "The earliest known examples of wooden spoked wheels are from the Sintashta culture, dating to c.2000 BCE (Krivoye Lake).",
+      "summary": "Encyclopedia chronology placing the first wheeled vehicles in the Copper Age (4500-3300 BCE), the oldest surviving wooden wheel (Ljubljana Marshes) at about 3130 BCE and spoked wheels at Sintashta about 2000 BCE.",
+      "limits": "Wikipedia; no source for where the wheel was invented or the route by which it spread. Pointer only.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "strand": {
+        "from": "Unknown (Copper Age Europe, Near East or steppe)",
+        "to": "Eurasia",
+        "carried": "technology",
+        "what": "wheeled vehicles, spoked wheels and chariots",
+        "medium": "unknown",
+        "start": -3500,
+        "end": -2000,
+        "directness": "debated"
+      }
+    },
+    "reason": "strand_unsupported: Quoted sentence only dates the earliest known spoked wheels (Sintashta, c.2000 BCE); it says nothing about transmission from an origin to Eurasia, so the strand (from \"Unknown\") is a similarity not a source-stated transfer."
+  }
+]

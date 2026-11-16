@@ -1,0 +1,407 @@
+[
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "New Book Chronicle (review of Odler, Copper in Ancient Egypt: before, during and after the Pyramid Age, c. 4000-1600 BC)",
+  "authors": null,
+  "year": 2024,
+  "venue": "Antiquity 98(399), pp. 858-871",
+  "url": "https://www.cambridge.org/core/journals/antiquity/article/new-book-chronicle/1900A752AD2C4DCA4CAFC017FD3C92CF",
+  "doi": "10.15184/aqy.2024.76",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Archaeology / Egyptology",
+  "stance": "supports",
+  "ask_addressed": "What is documented about pharaonic Egyptian copper, gold and bronze metallurgy, dyes and pigments (Egyptian green/frit), and the medical papyri (Ebers, Edwin Smith) that bear on chemistry?",
+  "quote": "bronze (an alloy of copper and tin) was actually very rare",
+  "summary": "Review of a 2023 monograph on Egyptian copper: bronze was rare in the 'Bronze Age', arsenical copper far more widespread, ores processed near Eastern Desert and Sinai mines.",
+  "limits": "A review of a book, not the book; reviewer not identified in the text opened; covers c. 4000-1600 BC only, so not the New Kingdom.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "New Book Chronicle (review of Odler, Copper in Ancient Egypt)",
+  "authors": null,
+  "year": 2024,
+  "venue": "Antiquity 98(399), pp. 858-871",
+  "url": "https://www.cambridge.org/core/journals/antiquity/article/new-book-chronicle/1900A752AD2C4DCA4CAFC017FD3C92CF",
+  "doi": "10.15184/aqy.2024.76",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Archaeology / Egyptology",
+  "stance": "context",
+  "ask_addressed": "What is documented about pharaonic Egyptian copper, gold and bronze metallurgy, dyes and pigments (Egyptian green/frit), and the medical papyri (Ebers, Edwin Smith) that bear on chemistry?",
+  "quote": "for a century the hieroglyph for \"copper\" was misinterpreted by scholars as meaning \"crucible\"",
+  "summary": "Shows how Egyptological reading of the vocabulary of copper and metalworkers was corrected; relevant to claims of a pharaonic 'chemical' vocabulary.",
+  "limits": "Second-hand report of the monograph's philological chapter; no primary texts examined here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "The History of Ancient Technology (Presidential Address)",
+  "authors": "Partington, J. R.",
+  "year": 1950,
+  "venue": "Bulletin of the British Society for the History of Science 1(4)",
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7389C0E688DF19BD5F2F7FCD89B9C1D1/S0950563600000282a.pdf/the-history-of-ancient-technology.pdf",
+  "doi": "10.1017/S0950563600000282",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of chemistry",
+  "stance": "supports",
+  "ask_addressed": "What is documented about pharaonic Egyptian copper, gold and bronze metallurgy, dyes and pigments (Egyptian green/frit), and the medical papyri (Ebers, Edwin Smith) that bear on chemistry?",
+  "quote": "this name, asem, is perhaps the oldest name of a metal to be recorded",
+  "summary": "Surveys ancient applied chemistry; notes the Egyptian name asem for electrum, attested from the First Dynasty on his account, and unrefined early gold.",
+  "limits": "1950 address, a 'rapid and rather superficial survey' by his own words; dates and claims predate modern analyses and must be checked against current work.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "The History of Ancient Technology (Presidential Address)",
+  "authors": "Partington, J. R.",
+  "year": 1950,
+  "venue": "Bulletin of the British Society for the History of Science 1(4)",
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7389C0E688DF19BD5F2F7FCD89B9C1D1/S0950563600000282a.pdf/the-history-of-ancient-technology.pdf",
+  "doi": "10.1017/S0950563600000282",
+  "accessed": "2026-11-16",
+  "kind": "skeptical",
+  "discipline": "History of chemistry",
+  "stance": "context",
+  "ask_addressed": "Is there any Egyptological statement on whether pharaonic Egypt had alchemy or a written chemistry before the Greek-Roman period? Include sceptical views.",
+  "quote": "some kind of refining process was used in Asia Minor about 1400 B.C., long before its use in Lydia in 550 B.C.",
+  "summary": "Argues from Amarna-letter evidence that gold refining was known in the Near East by about 1400 BC but infers Egyptian methods of refining and testing gold were not well known then; frames ancient chemistry as applied craft.",
+  "limits": "Old, inferential, and the Amarna letters concern Near Eastern correspondence, not Egyptian written chemistry; does not discuss alchemy proper. Verifier lowered stance fails_to_support -> context: the passage concerns gold refining in Asia Minor c. 1400 BC (Amarna letters); it says nothing about alchemy or written chemistry in pharaonic Egypt.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "Egyptian blue: modern myths, ancient realities",
+  "authors": "Skovmøller, A., Brøns, C., Sargent, M. L.",
+  "year": 2016,
+  "venue": "Journal of Roman Archaeology 29, pp. 371-387",
+  "url": "https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/abs/egyptian-blue-modern-myths-ancient-realities/8A0AC63ADE841C9A3A0F01AF988EE05F",
+  "doi": "10.1017/S1047759400072184",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Archaeological science",
+  "stance": "context",
+  "ask_addressed": "What is documented about pharaonic Egyptian copper, gold and bronze metallurgy, dyes and pigments (Egyptian green/frit), and the medical papyri (Ebers, Edwin Smith) that bear on chemistry?",
+  "quote": "Egyptian blue is a calcium copper tetrasilicate compound, a synthetic pigment made by heating a calcium compound",
+  "summary": "Only the Cambridge abstract/extract was opened: composition and recipe of the synthetic blue frit and cobalt 'Amarna-blue'.",
+  "limits": "Abstract only (paywall). Concerns Egyptian blue, not green frit; Mediterranean and Roman focus.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "Simply red: A Late Bronze Age glass ingot from Amarna",
+  "authors": "Jackson, C. M., Nicholson, P. T.",
+  "year": 2023,
+  "venue": "Journal of Archaeological Science: Reports 47, 103793",
+  "url": "https://eprints.whiterose.ac.uk/id/eprint/194908/1/1-s2.0-S2352409X22004564-main.pdf",
+  "doi": "10.1016/j.jasrep.2022.103793",
+  "accessed": "2026-11-16",
+  "kind": "primary",
+  "discipline": "Archaeological science",
+  "stance": "supports",
+  "ask_addressed": "What is documented about pharaonic Egyptian copper, gold and bronze metallurgy, dyes and pigments (Egyptian green/frit), and the medical papyri (Ebers, Edwin Smith) that bear on chemistry?",
+  "quote": "shows an excess of copper colourant which indicates that the intended colour was opaque red",
+  "summary": "Chemical analysis of an ingot from Amarna: evidence for deliberate colouring with copper in New Kingdom glassmaking, linked to Qantir refractory remains and Amarna furnaces.",
+  "limits": "Glass, not frit or pigment; one object; CC BY open copy. DOI printed on the page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "Egyptian blue (Wikipedia, raw text; pointer)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Egyptian_blue?action=raw",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Archaeological science",
+  "stance": "context",
+  "ask_addressed": "Is there any Egyptological statement on whether pharaonic Egypt had alchemy or a written chemistry before the Greek-Roman period? Include sceptical views.",
+  "quote": "No written information exists in ancient Egyptian texts about the manufacture of Egyptian blue in antiquity",
+  "summary": "Wikipedia states no Egyptian written account of the manufacture survives and the first recipe is Vitruvius, first century BC.",
+  "limits": "Pointer only; encyclopedia, check its cited sources. Supports absence of written technical recipe for this pigment, not of all chemistry.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "Magic and Medicine",
+  "authors": "Humphreys, H.",
+  "year": 1953,
+  "venue": "Antiquity 27(107)",
+  "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/magic-and-medicine/48E52ABCF9180DD6E4ED95A37FC720FB",
+  "doi": "10.1017/S0003598X00024789",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of medicine",
+  "stance": "context",
+  "ask_addressed": "What is documented about pharaonic Egyptian copper, gold and bronze metallurgy, dyes and pigments (Egyptian green/frit), and the medical papyri (Ebers, Edwin Smith) that bear on chemistry?",
+  "quote": "The Ebers papyrus prescribes invocations to be uttered when taking a dose of medicine",
+  "summary": "Presents the Ebers pharmacopoeia as mixing invocations with nauseous remedies; names Smith papyrus as mainly surgical.",
+  "limits": "1953 essay with dated language ('primitive man'); extract only; not a chemical analysis of ingredients.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "Commentary on the Significance for Modern Neurology of the 17th Century B.C. Surgical Papyrus",
+  "authors": "Helgason, C. M.",
+  "year": 1987,
+  "venue": "Canadian Journal of Neurological Sciences 14, pp. 560-563",
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/23D6085E4096BA76E9F10408F05EEC55/S0317167100037367a.pdf/commentary-on-the-significance-for-modern-neurology-of-the-17th-centurybc-surgical-papyrus.pdf",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of medicine",
+  "stance": "context",
+  "ask_addressed": "What is documented about pharaonic Egyptian copper, gold and bronze metallurgy, dyes and pigments (Egyptian green/frit), and the medical papyri (Ebers, Edwin Smith) that bear on chemistry?",
+  "quote": "it contains the earliest mention in oriental literature of (a) the brain and meninges",
+  "summary": "Summarises Breasted's 1930 edition of the Edwin Smith papyrus and its dating; bears on empirical medicine, not chemistry.",
+  "limits": "About neurology and surgery; says nothing about chemical practice. Its interpretation follows Breasted and may overstate 'rational' medicine.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "Ancient handbooks and Graeco-Egyptian collections of alchemical recipes",
+  "authors": "Martelli, M.",
+  "year": 2020,
+  "venue": "BJHS Themes 5",
+  "url": "https://www.cambridge.org/core/journals/bjhs-themes/article/ancient-handbooks-and-graecoegyptian-collections-of-alchemical-recipes/3F2A7926F9D784A43E5170E0BA50AFB5",
+  "doi": "10.1017/bjt.2020.4",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of science",
+  "stance": "context",
+  "ask_addressed": "Is there any Egyptological statement on whether pharaonic Egypt had alchemy or a written chemistry before the Greek-Roman period? Include sceptical views.",
+  "quote": "two anonymous recipe books on papyrus codices written in third- or fourth-century Egypt",
+  "summary": "Treats the Leiden and Stockholm papyri as the earliest alchemical recipe compilations, dated to the third or fourth century CE, not the pharaonic period.",
+  "limits": "Does not itself assert a pharaonic absence; the date of the written corpus is the point. Recipe content may draw on older craft practice. Verifier lowered stance contradicts -> context: the quoted sentence dates two recipe papyri to third/fourth-century Egypt but does not itself say they are the earliest or that pharaonic alchemy was absent.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "Alchemy and Translation (Chapter 12, Companion to Medieval Translation)",
+  "authors": "Bentick, E.",
+  "year": 2020,
+  "venue": "Cambridge University Press",
+  "url": "https://www.cambridge.org/core/books/abs/companion-to-medieval-translation/alchemy-and-translation/9526774C45AB9946B0A48F7D53D47B72",
+  "doi": "10.1017/9781641891844.013",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of science",
+  "stance": "context",
+  "ask_addressed": "Is there any Egyptological statement on whether pharaonic Egypt had alchemy or a written chemistry before the Greek-Roman period? Include sceptical views.",
+  "quote": "The Leiden and Stockholm papyri, composed in third-century Egypt, contain 255 Greek recipes",
+  "summary": "Describes the earliest extant alchemical writing as Greek recipes for dyes, imitation stones and gilded or silvered metals from Roman Egypt.",
+  "limits": "Overview chapter, abstract/first page only; focus is later translation.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "A Survey of Greek Alchemy",
+  "authors": "Taylor, F. S.",
+  "year": 1930,
+  "venue": "Journal of Hellenic Studies 50(1)",
+  "url": "https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/survey-of-greek-alchemy/AFC9CDEFAE89BEF7385DD637C369B5B6",
+  "doi": "10.2307/626167",
+  "accessed": "2026-11-16",
+  "kind": "alternative",
+  "discipline": "History of chemistry",
+  "stance": "context",
+  "ask_addressed": "Is there any Egyptological statement on whether pharaonic Egypt had alchemy or a written chemistry before the Greek-Roman period? Include sceptical views.",
+  "quote": "Arising perhaps in the traditional knowledge of the Egyptian priesthood",
+  "summary": "Proposes, with hedging, a priestly Egyptian origin while noting the earliest surviving alchemical works are all in Greek.",
+  "limits": "1930 extract; 'perhaps' is speculation, not evidence of pharaonic alchemy, and no pharaonic text is cited in the extract. Verifier lowered stance supports -> context: 'Arising perhaps' is a hedged conjecture, not support for pharaonic alchemy.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "The Visions of Zosimos of Panopolis: Text, Translation, and Commentary",
+  "authors": "Werrett, J.",
+  "year": 2024,
+  "venue": "DPhil thesis, University of Oxford (ORA)",
+  "url": "https://ora.ox.ac.uk/objects/uuid:45fed8a7-0777-4822-b4a2-0fcc788d0b64/files/dtm70mv88b",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Classics / history of science",
+  "stance": "context",
+  "ask_addressed": "Is there any Egyptological statement on whether pharaonic Egypt had alchemy or a written chemistry before the Greek-Roman period? Include sceptical views.",
+  "quote": "being preserved and transmitted through temple traditions and their priests, from Old Kingdom Egypt to the Late Antique period",
+  "summary": "Reports Zosimos's own view of a primordial alchemical tradition running from the Old Kingdom through temples; thesis relays that as Zosimos's belief.",
+  "limits": "The Old Kingdom claim is Zosimos's third-century CE assertion, not independent evidence of pharaonic alchemy. Doctoral thesis, not peer reviewed. Verifier lowered stance debated -> context: 'debated' is not a valid stance value; the thesis only reports Zosimos's belief.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "Ebers Papyrus (Wikipedia, raw text; pointer)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ebers_Papyrus?action=raw",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of medicine",
+  "stance": "context",
+  "ask_addressed": "What is documented about pharaonic Egyptian copper, gold and bronze metallurgy, dyes and pigments (Egyptian green/frit), and the medical papyri (Ebers, Edwin Smith) that bear on chemistry?",
+  "quote": "evidence of a long tradition of empiricism",
+  "summary": "Wikipedia notes incantations alongside empirical content in the Ebers papyrus, dated about 1550 BCE.",
+  "limits": "Pointer only; encyclopedia, not evidence.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ },
+ {
+  "brief": "egypt-leftovers",
+  "records": [],
+  "title": "Alchemy (Wikipedia, raw text; pointer)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Alchemy?action=raw",
+  "doi": null,
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "History of science",
+  "stance": "context",
+  "ask_addressed": "Is there any Egyptological statement on whether pharaonic Egypt had alchemy or a written chemistry before the Greek-Roman period? Include sceptical views.",
+  "quote": "In its Western form, alchemy is first attested in pseudepigraphical texts written in Greco-Roman Egypt during the first few centuries AD.",
+  "summary": "Wikipedia dates the first attestation of Western alchemy to Greco-Roman Egypt.",
+  "limits": "Pointer only; check cited scholarship.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-16"
+  }
+ }
+]
