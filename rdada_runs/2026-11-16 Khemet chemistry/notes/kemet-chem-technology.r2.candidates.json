@@ -1,0 +1,22 @@
+[
+  {
+    "brief": "kemet-chem-technology",
+    "records": [],
+    "title": "Egyptian blue",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Egyptian_blue",
+    "doi": null,
+    "accessed": "2026-11-16",
+    "kind": "secondary",
+    "discipline": "Materials chemistry / archaeometry",
+    "stance": "context",
+    "ask_addressed": "What chemical technologies is ancient Egypt securely documented to have practised: pigments (Egyptian blue, Egyptian green, frit)",
+    "quote": "Egyptian blue, also called cuprorivaite, is a human-made pigment with the chemical formula CaCuSi4O10.",
+    "summary": "Encyclopaedic pointer only: identifies Egyptian blue as a synthetic calcium copper silicate. Only the opening sentence was read; no dates or analyses were checked.",
+    "limits": "Tertiary source, not evidence for dating or technology. Use only to locate primary literature in its reference list.",
+    "reliability": "unassessed",
+    "review": {"status": "unreviewed", "by": null}
+  }
+]
