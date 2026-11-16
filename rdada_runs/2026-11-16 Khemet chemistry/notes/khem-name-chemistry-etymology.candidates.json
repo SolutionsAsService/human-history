@@ -1,0 +1,134 @@
+[
+ {
+  "brief": "khem-name-chemistry-etymology",
+  "records": [],
+  "title": "Etymology of chemistry",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (tertiary encyclopedia)",
+  "url": "https://en.wikipedia.org/wiki/Etymology_of_chemistry",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Etymology / history of chemistry",
+  "stance": "context",
+  "ask_addressed": "What is the evidence and scholarly status of the claim that the word 'chemistry'/'alchemy' derives from Kemet/Khem/'black land' (Egyptian kmt)? What are the competing etymologies (Greek chyma/cheo, Arabic kimiya, others) and who argues which? State clearly which is most widely accepted and why.",
+  "quote": "the ancient writings of the Egyptians, which treat of the khēmia transmutation of gold and silver",
+  "summary": "Sets out two main views: Greek chēmeia (from khuma/khéō, 'pour', attributed to Mahn) and Egyptian kmt > Demotic kmỉ > Coptic kēme 'Egypt' (Budge), with Mahn calling the Egyptian derivation possibly folk etymology. Cites Newman & Principe 1998, Rocke 1985, Anawati 1996, OED, LSJ. Reports a c. AD 300 Diocletian decree and Firmicus as early attestations.",
+  "limits": "Tertiary, user-edited; used as a finding aid to the scholarship it cites, not as authority. Several sentences are tagged citation needed. Does not name a winner; the page as read did not report Zosimus, Suda or Stephanus attestations.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "khem-name-chemistry-etymology",
+  "records": [],
+  "title": "Alchemy (etymology section)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (tertiary encyclopedia)",
+  "url": "https://en.wikipedia.org/wiki/Alchemy",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Etymology / history of chemistry",
+  "stance": "context",
+  "ask_addressed": "What is the evidence and scholarly status of the claim that the word 'chemistry'/'alchemy' derives from Kemet/Khem/'black land' (Egyptian kmt)? What are the competing etymologies (Greek chyma/cheo, Arabic kimiya, others) and who argues which? State clearly which is most widely accepted and why.",
+  "quote": "meaning 'black earth', which refers to the fertile and auriferous soil of the Nile valley",
+  "summary": "Says some trace Greek khēmeía to Egyptian kēme 'black earth'; that Zosimus derived it from a book called the Khemeu; that Arabic al-kīmiyā is a borrowing of Late Greek khēmeía; and that Diels (1914) derived it from χύμα, metal cast objects.",
+  "limits": "Tertiary, user-edited; used as a finding aid to the scholarship it cites, not as authority. Several sentences are tagged citation needed. Only the first 100,000 characters of the page were read; the etymology section does not name Suda or Plutarch.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "khem-name-chemistry-etymology",
+  "records": [],
+  "title": "Alchemy (Diels 1914 alternative derivation from chuma)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (tertiary encyclopedia)",
+  "url": "https://en.wikipedia.org/wiki/Alchemy",
+  "accessed": "2026-11-16",
+  "kind": "skeptical",
+  "discipline": "Etymology / history of chemistry",
+  "stance": "contradicts",
+  "ask_addressed": "What is the evidence and scholarly status of the claim that the word 'chemistry'/'alchemy' derives from Kemet/Khem/'black land' (Egyptian kmt)? What are the competing etymologies (Greek chyma/cheo, Arabic kimiya, others) and who argues which? State clearly which is most widely accepted and why.",
+  "quote": "argued in 1914 that it rather derived from χύμα",
+  "summary": "Reports Hermann Diels's competing Greek derivation from chuma (cast metal), the main scholarly alternative to the Egyptian 'black land' derivation.",
+  "limits": "Tertiary, user-edited; used as a finding aid to the scholarship it cites, not as authority. Several sentences are tagged citation needed. Report of Diels at second hand; his argument itself was not opened.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "khem-name-chemistry-etymology",
+  "records": [],
+  "title": "Zosimos of Panopolis",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (tertiary encyclopedia)",
+  "url": "https://en.wikipedia.org/wiki/Zosimos_of_Panopolis",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Etymology / history of chemistry",
+  "stance": "context",
+  "ask_addressed": "What do the earliest attestations of the words chemeia / chymeia say (e.g. Zosimus, Suda, Plutarch's Isis and Osiris use of Chemia for Egypt)?",
+  "quote": "the science of chemistry takes its name",
+  "summary": "Reports a fragment preserved by Syncellus in which Zosimus (flourished c. AD 300) ties the first tradition of the art to a book called chema and says chemistry takes its name from it. This is an ancient folk etymology, not independent evidence for kmt.",
+  "limits": "Tertiary, user-edited; used as a finding aid to the scholarship it cites, not as authority. Several sentences are tagged citation needed. Says nothing of the Suda; the fragment was not opened directly.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "khem-name-chemistry-etymology",
+  "records": [],
+  "title": "Names of Egypt",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (tertiary encyclopedia)",
+  "url": "https://en.wikipedia.org/wiki/Names_of_Egypt",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Egyptology / toponymy",
+  "stance": "context",
+  "ask_addressed": "What do the earliest attestations of the words chemeia / chymeia say (e.g. Zosimus, Suda, Plutarch's Isis and Osiris use of Chemia for Egypt)?",
+  "quote": "appeared in Early Greek as Χημία (Khēmía)",
+  "summary": "States Kemet/km.t is formed from hieroglyphs meaning 'black', tied to the Nile's black soils versus the red desert; Coptic K(h)ēmə; Greek Khēmía. Supports the Egyptian-name side (Egypt called Chemia) but makes no claim linking it to alchemy.",
+  "limits": "Tertiary, user-edited; used as a finding aid to the scholarship it cites, not as authority. Several sentences are tagged citation needed. Does not mention Plutarch or alchemy in the portion read.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "khem-name-chemistry-etymology",
+  "records": [],
+  "title": "Diocletian (alchemical books)",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia (tertiary encyclopedia)",
+  "url": "https://en.wikipedia.org/wiki/Diocletian",
+  "accessed": "2026-11-16",
+  "kind": "secondary",
+  "discipline": "Roman history",
+  "stance": "context",
+  "ask_addressed": "What do the earliest attestations of the words chemeia / chymeia say (e.g. Zosimus, Suda, Plutarch's Isis and Osiris use of Chemia for Egypt)?",
+  "quote": "the persecution of Diocletian is the first authentic event in the history of alchymy",
+  "summary": "Repeats the tradition that Diocletian ordered Egyptian books on making gold and silver burned, quoting Gibbon. This is the story that underlies the Suda's chemeia entry, but the page as read does not cite the Suda or use the word chemeia.",
+  "limits": "Tertiary, user-edited; used as a finding aid to the scholarship it cites, not as authority. Several sentences are tagged citation needed. Gibbon's 18th-century judgment, not a modern assessment; historicity of the burning is not tested here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ }
+]
