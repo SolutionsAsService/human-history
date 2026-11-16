@@ -79,7 +79,7 @@
   "discipline": "History of mathematics",
   "stance": "context",
   "ask_addressed": "Which claims are disputed (date of the zero, 'Arabic numerals' naming, paper arrival, independent invention)?",
-  "quote": "The earliest undoubted occurrence of a zero in India is an inscription at Gwalior, dated Samvat 933 (876 A. d.}",
+  "quote": "The earliest undoubted occurrence of a zero in India is an inscription at Gwalior",
   "summary": "Records the older consensus (quoting an earlier scholar) that the dated Gwalior inscription of 876 CE was the earliest sure Indian zero, with the Bakhshali manuscript 'probably' earlier. Shows how the date of the zero moved.",
   "limits": "Superseded as a dating claim (see the Oxford radiocarbon report). The Gwalior date is a floor for the written zero in India, not evidence of transfer. 1911 work, partly superseded (it knew the Bakhshali manuscript only as 'probably' earlier than Gwalior; dates now debated). OCR text; quote checked against the OCR.",
   "reliability": "unassessed",
@@ -113,7 +113,7 @@
   "stance": "supports",
   "ask_addressed": "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
   "quote": "derived from the use of the name Al-Khowarizmi in the opening sentence of the arithmetic, which reads, Dixit algoritmi",
-  "summary": "Karpinski explains that 'algorism' came from the Latin arithmetic opening 'Dixit algoritmi' (the Algoritmi de numero Indorum), and that Robert of Chester translated al-Khwarizmi's algebra at Segovia in 1145.",
+  "summary": "Karpinski explains that 'algorism' came from the Latin arithmetic opening 'Dixit algoritmi' (the Algoritmi de numero Indorum), and that Robert of Chester translated al-Khwarizmi's algebra at Segovia in 1145 (Spanish Era 1183).",
   "limits": "Shows the Arabic-to-Latin step through named translators and a Latin text, but notes the author of the Latin arithmetic is unknown. 1915 scholarship; OCR text.",
   "reliability": "unassessed",
   "review": {
@@ -128,39 +128,6 @@
    "medium": "translation",
    "start": 1100,
    "end": 1200,
-   "directness": "documented"
-  }
- },
- {
-  "brief": "thread-science-numerals-paper",
-  "records": [],
-  "title": "Robert of Chester's Latin Translation of the Algebra of al-Khowarizmi, with an Introduction, Critical Notes and an English Version",
-  "authors": "Karpinski, L.C.",
-  "year": 1915,
-  "venue": "Macmillan, New York (public-domain scan, Internet Archive)",
-  "url": "https://archive.org/stream/robertofchesters00muha/robertofchesters00muha_djvu.txt",
-  "doi": null,
-  "accessed": "2026-11-16",
-  "kind": "secondary",
-  "discipline": "History of mathematics",
-  "stance": "supports",
-  "ask_addressed": "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
-  "quote": "Latin translation made by Robert of Chester while living in Segovia in 1183 of the Spanish Era",
-  "summary": "Dates Robert of Chester's Latin translation of al-Khwarizmi's algebra to Segovia, 1183 of the Spanish Era (1145 CE), placing the route in Christian Spain.",
-  "limits": "Gives place and date but not the Arabic exemplar or Robert's helpers. OCR text of a 1915 edition.",
-  "reliability": "unassessed",
-  "review": {
-   "status": "unreviewed",
-   "by": null
-  },
-  "strand": {
-   "from": "Islamic world (al-Andalus)",
-   "to": "Latin Europe",
-   "carried": "idea",
-   "what": "al-Khwarizmi's algebra translated into Latin",
-   "medium": "translation",
-   "start": 1145,
-   "end": 1145,
    "directness": "documented"
   }
  },
@@ -326,39 +293,6 @@
    "medium": "unknown",
    "start": 799,
    "end": 1102,
-   "directness": "debated"
-  }
- },
- {
-  "brief": "thread-science-numerals-paper",
-  "records": [],
-  "title": "Radiocarbon dating of the Bakhshali manuscript",
-  "authors": "Chivall, D., Llado-Buisan, V., Howell, D., Evison, G.",
-  "year": null,
-  "venue": "Oxford Radiocarbon Accelerator Unit and Bodleian Libraries, University of Oxford (ORA report)",
-  "url": "https://ora.ox.ac.uk/objects/uuid:5a6d1dd7-f20c-4209-adb6-33849f5b08f4/files/snp193c210",
-  "doi": null,
-  "accessed": "2026-11-16",
-  "kind": "primary",
-  "discipline": "Radiocarbon dating / history of mathematics",
-  "stance": "context",
-  "ask_addressed": "Which claims are disputed (date of the zero, 'Arabic numerals' naming, paper arrival, independent invention)?",
-  "quote": "subject of academic debate with scholars having proposed dates ranging from as early 200 CE to 1100 CE",
-  "summary": "States the pre-radiocarbon scholarly range for the age of the Bakhshali manuscript, the main early witness to the Indian zero, at 200 to 1100 CE, so the date of the zero rests on a contested dating.",
-  "limits": "Context line from the report; the report does not name the scholars. Does not cover the Wujastyk et al. 2017 response (that paper could not be opened).",
-  "reliability": "unassessed",
-  "review": {
-   "status": "unreviewed",
-   "by": null
-  },
-  "strand": {
-   "from": "India (Gandhara / NW India)",
-   "to": "Islamic world",
-   "carried": "idea",
-   "what": "dot zero in a written Indian text",
-   "medium": "unknown",
-   "start": 200,
-   "end": 1100,
    "directness": "debated"
   }
  },
