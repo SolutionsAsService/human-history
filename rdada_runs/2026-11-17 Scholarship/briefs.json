@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "note": "Scholarship wave: first-hand scholarly sources for the thinnest strands. Leads, not evidence."
+ },
+ "briefs": [
+  {
+   "id": "myths-scholarship",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "What do independent specialists say about Witzel's Laurasian mythology and Berezkin's motif maps (reviews, critiques)? Open Lincoln 2015 (Asian Ethnology 74(2): 443-449, doi 10.18874/ae.74.2.11) if reachable, and any other critical review.",
+    "What do phylogenetic studies of folktales and myths find (da Silva and Tehrani 2016, doi 10.1098/rsos.150645; d'Huy's Polyphemus and Cosmic Hunt papers) and how have critics responded?"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Lincoln review Witzel Origins of the World's Mythologies Asian Ethnology",
+    "da Silva Tehrani 2016 comparative phylogenetic analyses of folktales Royal Society Open Science",
+    "Witzel Laurasian mythology criticism review",
+    "d'Huy phylogenetic Cosmic Hunt critique"
+   ]
+  },
+  {
+   "id": "ie-primary-papers",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "Open and quote the primary aDNA and phylogenetic papers on Indo-European origins: Haak et al. 2015, Allentoft et al. 2015, Damgaard et al. 2018, Narasimhan et al. 2019, Bouckaert et al. 2012, Heggarty et al. 2023, Lazaridis et al. on the Anatolian question. Use bioRxiv, Europe PMC, PMC, institutional repositories, or Crossref/Unpaywall to find open copies.",
+    "Quote each paper's own statement of what it shows and of its limits, and the strongest published criticisms."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Haak 2015 massive migration from the steppe bioRxiv",
+    "Narasimhan 2019 formation of human populations South Central Asia",
+    "Heggarty 2023 language trees with sampled ancestors Science",
+    "Anatolian hypothesis ancient DNA Lazaridis Indo-European"
+   ]
+  },
+  {
+   "id": "persia-judaism-scholarship",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "Open the scholarship on whether Persian (Zoroastrian) ideas shaped Judaism: Barr, 'The Question of Religious Influence: The Case of Zoroastrianism, Judaism, and Christianity' (JAAR 1985), Mary Boyce, Grabbe on the Persian period, Bremmer 2002, Mark S. Smith 2001, and any open-access review article.",
+    "Quote the strongest proponent and the strongest sceptic first-hand, with their stated reasons and limits."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Barr question of religious influence Zoroastrianism Judaism Christianity",
+    "Zoroastrian influence on Judaism review article open access",
+    "Persian period Judaism Zoroastrianism Grabbe",
+    "resurrection Persian influence Bremmer afterlife critique"
+   ]
+  },
+  {
+   "id": "brahmi-and-early-writing",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "Open modern scholarship on the origin of Brahmi (Salomon 1998; Falk 2018; Indi@logs hybrid-origin paper), the Wadi el-Hol inscriptions (Darnell et al. 2005), the Proto-Sinaitic decipherment debate, and the dating of Chinese and Mesoamerican writing (Cascajal block, Rodriguez Martinez et al. 2006).",
+    "Quote each author's claim and limits. State which proposals are widely accepted and which are minority views."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Brahmi script origin Salomon Falk Aramaic indigenous debate",
+    "Wadi el-Hol inscriptions Darnell early alphabetic",
+    "Cascajal block Science 2006 Olmec writing authenticity",
+    "origin of the alphabet Proto-Sinaitic decipherment review"
+   ]
+  },
+  {
+   "id": "egypt-chemistry-sources",
+   "kind": "topic",
+   "records": [],
+   "asks": [
+    "Open the primary analytical papers behind Khemet's chemical crafts: Walter et al. 1999 (Nature), Rehren and Pusch 2005 (Science), Kovalev et al. 2023 (JAS), Hatton Shortland Tite 2008, Odler on copper, Buckley and Evershed 2001 and 2004 full text. Use open copies via Unpaywall/Crossref, repositories, or PMC.",
+    "Quote findings and limits. Add any open text on Egyptian faience production and on gold metallurgy."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Walter 1999 Nature laurionite phosgenite Egyptian cosmetics",
+    "Rehren Pusch 2005 Qantir late Bronze Age glass",
+    "Kovalev 2023 Egyptian blue review",
+    "Hatton Shortland Tite 2008 Egyptian blue green frits"
+   ]
+  }
+ ]
+}
