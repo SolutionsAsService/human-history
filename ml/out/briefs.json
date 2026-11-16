@@ -1,0 +1,2861 @@
+{
+ "meta": {
+  "version": "0.1.0",
+  "generated": "2026-11-15",
+  "nodes": 354,
+  "entries": 321,
+  "links": 521,
+  "seeds": 5,
+  "fast": false,
+  "seconds": 214,
+  "warning": "Model-generated leads for a human reviewer. Not evidence. Nothing here has been checked against a source. Statuses are the authors' own judgements.",
+  "n": 68,
+  "note": "Briefs for RDADA. Nothing here is evidence."
+ },
+ "briefs": [
+  {
+   "id": "rec:roswell-1947",
+   "kind": "record",
+   "records": [
+    "roswell-1947"
+   ],
+   "need": 1.465,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "most sources low or unassessed reliability",
+    "model second look on ev: declared E1, similar records suggest E3 (model expects a WEAKER status than declared)",
+    "model second look on interp: declared E8, similar records suggest E5 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Some witness accounts are not explained one by one"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Roswell incident (1947)\"",
+    "\"Roswell incident (1947)\" Roswell primary source OR analysis OR review",
+    "\"Roswell incident (1947)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Roswell incident (1947)",
+    "place": "Roswell, New Mexico, USA",
+    "start": 1947,
+    "end": 1947,
+    "cat": "uap",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 1,
+     "official": 1,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E8"
+   }
+  },
+  {
+   "id": "rec:phaistos-disc",
+   "kind": "record",
+   "records": [
+    "phaistos-disc"
+   ],
+   "need": 1.38,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability",
+    "model second look on interp: declared E3, similar records suggest E5 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Language, content and place of manufacture"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Phaistos Disc\"",
+    "\"Phaistos Disc\" Phaistos primary source OR analysis OR review",
+    "\"Phaistos Disc\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Phaistos Disc",
+    "place": "Phaistos, Crete",
+    "start": -1850,
+    "end": -1600,
+    "cat": "artifact",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:bimini",
+   "kind": "record",
+   "records": [
+    "bimini"
+   ],
+   "need": 1.327,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability",
+    "model second look on interp: declared E8, similar records suggest E5 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Bimini Road\"",
+    "\"Bimini Road\" Bahamas primary source OR analysis OR review",
+    "\"Bimini Road\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Bimini Road",
+    "place": "Bahamas",
+    "start": -10000,
+    "end": -3000,
+    "cat": "submerged",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E5",
+    "interp": "E8"
+   }
+  },
+  {
+   "id": "rec:adams-bridge",
+   "kind": "record",
+   "records": [
+    "adams-bridge"
+   ],
+   "need": 1.287,
+   "reasons": [
+    "only 2 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability",
+    "model second look on ev: declared E1, similar records suggest E3 (model expects a WEAKER status than declared)",
+    "model second look on interp: declared E7, similar records suggest E5 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Exact age of the shoal chain",
+    "Unresolved in the ledger: Which stretches were walkable in historic times"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Adam\u2019s Bridge (Rama Setu)\"",
+    "\"Adam\u2019s Bridge (Rama Setu)\" Palk Strait primary source OR analysis OR review",
+    "\"Adam\u2019s Bridge (Rama Setu)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Adam\u2019s Bridge (Rama Setu)",
+    "place": "Palk Strait, India\u2013Sri Lanka",
+    "start": -5050,
+    "end": 1480,
+    "cat": "geology",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E7"
+   }
+  },
+  {
+   "id": "rec:aatip",
+   "kind": "record",
+   "records": [
+    "aatip"
+   ],
+   "need": 1.266,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "model second look on ev: declared E2, similar records suggest E4 (model expects a WEAKER status than declared)",
+    "model second look on interp: declared E6, similar records suggest E4 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: What the programme actually studied and concluded",
+    "Unresolved in the ledger: Relation to later efforts"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"AATIP\"",
+    "\"AATIP\" Pentagon primary source OR analysis OR review",
+    "\"AATIP\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "AATIP \u2014 Advanced Aerospace Threat Identification Program",
+    "place": "Pentagon, Arlington, Virginia",
+    "start": 2007,
+    "end": 2012,
+    "cat": "uap",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 1,
+     "skeptical": 0
+    },
+    "ev": "E2",
+    "interp": "E6"
+   }
+  },
+  {
+   "id": "rec:rendlesham-1980",
+   "kind": "record",
+   "records": [
+    "rendlesham-1980"
+   ],
+   "need": 1.25,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "most sources low or unassessed reliability",
+    "model second look on interp: declared E5, similar records suggest E7 (model expects a WEAKER status than declared)",
+    "model suggests the alternative type \u201cA non-human craft or intelligence\u201d (score 1.00; unreviewed)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Look for evidence on: Physical evidence or multi-sensor data that survives mundane explanations.",
+    "Unresolved in the ledger: Radiation readings and ground marks have no agreed meaning"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Rendlesham Forest incident (1980)\"",
+    "\"Rendlesham Forest incident (1980)\" Suffolk primary source OR analysis OR review",
+    "\"Rendlesham Forest incident (1980)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Rendlesham Forest incident (1980)",
+    "place": "Suffolk, England",
+    "start": 1980,
+    "end": 1981,
+    "cat": "uap",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 1,
+     "official": 1,
+     "skeptical": 0
+    },
+    "ev": "E2",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:ezekiel-vision",
+   "kind": "record",
+   "records": [
+    "ezekiel-vision"
+   ],
+   "need": 1.214,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model second look on interp: declared E7, similar records suggest E3 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Hebrew terms with uncertain meaning"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Ezekiel\u2019s vision\"",
+    "\"Ezekiel\u2019s vision\" Chebar canal primary source OR analysis OR review",
+    "\"Ezekiel\u2019s vision\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Ezekiel\u2019s vision",
+    "place": "Chebar canal, Babylonia",
+    "start": -593,
+    "end": -571,
+    "cat": "text",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E7"
+   }
+  },
+  {
+   "id": "rec:lalibela",
+   "kind": "record",
+   "records": [
+    "lalibela"
+   ],
+   "need": 1.182,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "model second look on interp: declared E2, similar records suggest E4 (model expects a WEAKER status than declared)",
+    "model suggests the alternative type \u201cA different function or purpose\u201d (score 0.29; unreviewed)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Look for evidence on: Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "Unresolved in the ledger: Exact construction phases"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Lalibela rock-hewn churches\"",
+    "\"Lalibela rock-hewn churches\" Amhara primary source OR analysis OR review",
+    "\"Lalibela rock-hewn churches\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Lalibela rock-hewn churches",
+    "place": "Amhara, Ethiopia",
+    "start": 1150,
+    "end": 1250,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:waldseemuller-1507",
+   "kind": "record",
+   "records": [
+    "waldseemuller-1507"
+   ],
+   "need": 1.13,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "model second look on interp: declared E1, similar records suggest E4 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Sources of the western coast outline"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Waldseem\u00fcller world map (1507)\"",
+    "\"Waldseem\u00fcller world map (1507)\" Library of Congress primary source OR analysis OR review",
+    "\"Waldseem\u00fcller world map (1507)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Waldseem\u00fcller world map (1507)",
+    "place": "Library of Congress, Washington (held)",
+    "start": 1507,
+    "end": 1507,
+    "cat": "map",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E1"
+   }
+  },
+  {
+   "id": "rec:dod-2020-video-release",
+   "kind": "record",
+   "records": [
+    "dod-2020-video-release"
+   ],
+   "need": 1.11,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "1 placeholder source(s) not yet identified",
+    "model second look on ev: declared E1, similar records suggest E3 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: The identity of the objects",
+    "Unresolved in the ledger: Whether original raw data could be analysed"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"DoD release of the Navy UAP videos (April 2020)\"",
+    "\"DoD release of the Navy UAP videos (April 2020)\" Washington primary source OR analysis OR review",
+    "\"DoD release of the Navy UAP videos (April 2020)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "DoD release of the Navy UAP videos (April 2020)",
+    "place": "Washington, DC",
+    "start": 2020,
+    "end": 2020,
+    "cat": "uap",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 1,
+     "skeptical": 1
+    },
+    "ev": "E1",
+    "interp": "E4"
+   }
+  },
+  {
+   "id": "rec:edfu-building-texts",
+   "kind": "record",
+   "records": [
+    "edfu-building-texts"
+   ],
+   "need": 1.105,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "most sources low or unassessed reliability",
+    "model second look on interp: declared E3, similar records suggest E5 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: How old the underlying tradition is"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Edfu Building Texts\"",
+    "\"Edfu Building Texts\" Edfu primary source OR analysis OR review",
+    "\"Edfu Building Texts\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Edfu Building Texts",
+    "place": "Edfu, Egypt",
+    "start": -237,
+    "end": -57,
+    "cat": "text",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 1,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:wewelsburg",
+   "kind": "record",
+   "records": [
+    "wewelsburg"
+   ],
+   "need": 1.1,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "model second look on interp: declared E3, similar records suggest E8 (model expects a WEAKER status than declared)",
+    "model suggests the alternative type \u201cA forgery, hoax or later invention\u201d (score 0.35; unreviewed)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Look for evidence on: Provenance and the earliest independent record of the object or claim.",
+    "Unresolved in the ledger: The planned role in SS ceremonies"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Wewelsburg\"",
+    "\"Wewelsburg\" North Rhine-Westphalia primary source OR analysis OR review",
+    "\"Wewelsburg\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Wewelsburg \u2014 the SS castle",
+    "place": "North Rhine-Westphalia, Germany",
+    "start": 1934,
+    "end": 1945,
+    "cat": "esoteric",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:korean-dolmens",
+   "kind": "record",
+   "records": [
+    "korean-dolmens"
+   ],
+   "need": 1.08,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability",
+    "model suggests the alternative type \u201cA different function or purpose\u201d (score 0.56; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "Unresolved in the ledger: Origin of the tradition",
+    "Unresolved in the ledger: Quarrying and transport methods of the largest capstones"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Korean dolmens (Gochang, Hwasun, Ganghwa)\"",
+    "\"Korean dolmens (Gochang, Hwasun, Ganghwa)\" Korean Peninsula primary source OR analysis OR review",
+    "\"Korean dolmens (Gochang, Hwasun, Ganghwa)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Korean dolmens (Gochang, Hwasun, Ganghwa)",
+    "place": "Korean Peninsula",
+    "start": -1000,
+    "end": -300,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 1,
+     "skeptical": 0
+    },
+    "ev": "E2",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:baiae-submerged",
+   "kind": "record",
+   "records": [
+    "baiae-submerged"
+   ],
+   "need": 1.08,
+   "reasons": [
+    "only 2 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability",
+    "model second look on interp: declared E2, similar records suggest E4 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Pace of subsidence through history"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Baiae\"",
+    "\"Baiae\" Bay of Pozzuoli primary source OR analysis OR review",
+    "\"Baiae\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Baiae \u2014 submerged Roman resort",
+    "place": "Bay of Pozzuoli, Italy",
+    "start": -150,
+    "end": 500,
+    "cat": "submerged",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 1,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:cactus-hill",
+   "kind": "record",
+   "records": [
+    "cactus-hill"
+   ],
+   "need": 1.072,
+   "reasons": [
+    "only 1 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "model second look on interp: declared E5, similar records suggest E7 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Integrity of the lower layers"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Cactus Hill\"",
+    "\"Cactus Hill\" Virginia primary source OR analysis OR review",
+    "\"Cactus Hill\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Cactus Hill",
+    "place": "Virginia, USA",
+    "start": -16050,
+    "end": -13050,
+    "cat": "origins",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E5",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:daisen-kofun",
+   "kind": "record",
+   "records": [
+    "daisen-kofun"
+   ],
+   "need": 1.05,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability",
+    "model suggests the alternative type \u201cContact, diffusion or outside influence\u201d (score 0.59; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Multiple independent lines (material, genetic, linguistic) for the contact, not a visual resemblance.",
+    "Unresolved in the ledger: Burial identity"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Daisen Kofun (Nintoku-ry\u014d)\"",
+    "\"Daisen Kofun (Nintoku-ry\u014d)\" Sakai primary source OR analysis OR review",
+    "\"Daisen Kofun (Nintoku-ry\u014d)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Daisen Kofun (Nintoku-ry\u014d)",
+    "place": "Sakai, Osaka, Japan",
+    "start": 400,
+    "end": 450,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 1,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:talayotic-menorca",
+   "kind": "record",
+   "records": [
+    "talayotic-menorca"
+   ],
+   "need": 1.03,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Function of taulas"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Talayotic culture of Menorca\"",
+    "\"Talayotic culture of Menorca\" Menorca primary source OR analysis OR review",
+    "\"Talayotic culture of Menorca\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Talayotic culture of Menorca",
+    "place": "Menorca, Spain",
+    "start": -1600,
+    "end": -123,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E2",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:yonaguni",
+   "kind": "record",
+   "records": [
+    "yonaguni"
+   ],
+   "need": 1.01,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Whether any tool marks exist",
+    "Unresolved in the ledger: Any limited human modification"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Yonaguni formations\"",
+    "\"Yonaguni formations\" Ryukyu Islands primary source OR analysis OR review",
+    "\"Yonaguni formations\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Yonaguni formations",
+    "place": "Ryukyu Islands, Japan",
+    "start": -8000,
+    "end": -5000,
+    "cat": "submerged",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 1,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E5",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:saqqara-bird",
+   "kind": "record",
+   "records": [
+    "saqqara-bird"
+   ],
+   "need": 1.01,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Original function",
+    "Unresolved in the ledger: Precise date"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Saqqara bird\"",
+    "\"Saqqara bird\" Saqqara primary source OR analysis OR review",
+    "\"Saqqara bird\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Saqqara bird",
+    "place": "Saqqara, Egypt",
+    "start": -300,
+    "end": -200,
+    "cat": "artifact",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 1,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:ramayana",
+   "kind": "record",
+   "records": [
+    "ramayana"
+   ],
+   "need": 1.01,
+   "reasons": [
+    "only 2 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model second look on interp: declared E2, similar records suggest E5 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Which books are oldest",
+    "Unresolved in the ledger: The relation of the epic to the Mahabharata"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"The R\u0101m\u0101ya\u1e47a of V\u0101lm\u012bki\"",
+    "\"The R\u0101m\u0101ya\u1e47a of V\u0101lm\u012bki\" Northern India (setting: Ayodhya to Lanka) primary source OR analysis OR review",
+    "\"The R\u0101m\u0101ya\u1e47a of V\u0101lm\u012bki\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "The R\u0101m\u0101ya\u1e47a of V\u0101lm\u012bki",
+    "place": "Northern India (setting: Ayodhya to Lanka)",
+    "start": -500,
+    "end": 300,
+    "cat": "text",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:karahan-tepe",
+   "kind": "record",
+   "records": [
+    "karahan-tepe"
+   ],
+   "need": 1.0,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "model suggests the alternative type \u201cA different function or purpose\u201d (score 1.00; unreviewed)",
+    "model suggests the alternative type \u201cA lost advanced civilization or unknown technology\u201d (score 0.64; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "Look for evidence on: Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+    "Unresolved in the ledger: Contemporaneity of the sites",
+    "Unresolved in the ledger: Whether any was a primary settlement site"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Karahan Tepe and the Ta\u015f Tepeler network\"",
+    "\"Karahan Tepe and the Ta\u015f Tepeler network\" \u015eanl\u0131urfa primary source OR analysis OR review",
+    "\"Karahan Tepe and the Ta\u015f Tepeler network\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Karahan Tepe and the Ta\u015f Tepeler network",
+    "place": "\u015eanl\u0131urfa, T\u00fcrkiye",
+    "start": -9500,
+    "end": -8000,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E2",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:dholavira",
+   "kind": "record",
+   "records": [
+    "dholavira"
+   ],
+   "need": 0.98,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model suggests the alternative type \u201cContact, diffusion or outside influence\u201d (score 0.77; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Multiple independent lines (material, genetic, linguistic) for the contact, not a visual resemblance.",
+    "Unresolved in the ledger: Meaning of the signs",
+    "Unresolved in the ledger: Role in trade"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Dholavira\"",
+    "\"Dholavira\" Kutch primary source OR analysis OR review",
+    "\"Dholavira\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Dholavira",
+    "place": "Kutch, Gujarat, India",
+    "start": -2650,
+    "end": -1450,
+    "cat": "settlement",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:haamonga-a-maui",
+   "kind": "record",
+   "records": [
+    "haamonga-a-maui"
+   ],
+   "need": 0.98,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model suggests the alternative type \u201cContact, diffusion or outside influence\u201d (score 0.41; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Multiple independent lines (material, genetic, linguistic) for the contact, not a visual resemblance.",
+    "Unresolved in the ledger: Intended function",
+    "Unresolved in the ledger: Direct date"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Ha\u2018amonga \u2018a Maui\"",
+    "\"Ha\u2018amonga \u2018a Maui\" Tongatapu primary source OR analysis OR review",
+    "\"Ha\u2018amonga \u2018a Maui\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Ha\u2018amonga \u2018a Maui",
+    "place": "Tongatapu, Tonga",
+    "start": 1200,
+    "end": 1250,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E2",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:hancock-visionary-themes",
+   "kind": "record",
+   "records": [
+    "hancock-visionary-themes"
+   ],
+   "need": 0.98,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Unresolved in the ledger: The role of altered states in early art"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Hancock, \u201cVisionary\u201d and consciousness-origin themes\"",
+    "\"Hancock, \u201cVisionary\u201d and consciousness-origin themes\" Published work and talks (altered states and art) primary source OR analysis OR review",
+    "\"Hancock, \u201cVisionary\u201d and consciousness-origin themes\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Hancock, \u201cVisionary\u201d and consciousness-origin themes",
+    "place": "Published work and talks (altered states and art)",
+    "start": 2020,
+    "end": 2024,
+    "cat": "lostciv",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 1,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E5",
+    "interp": "E6"
+   }
+  },
+  {
+   "id": "rec:wari",
+   "kind": "record",
+   "records": [
+    "wari"
+   ],
+   "need": 0.96,
+   "reasons": [
+    "only 1 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model second look on interp: declared E2, similar records suggest E4 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Nature of Wari\u2013Tiwanaku relations"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Huari (Wari)\"",
+    "\"Huari (Wari)\" Ayacucho primary source OR analysis OR review",
+    "\"Huari (Wari)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Huari (Wari)",
+    "place": "Ayacucho, Peru",
+    "start": 600,
+    "end": 1000,
+    "cat": "settlement",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:aaro-2024",
+   "kind": "record",
+   "records": [
+    "aaro-2024"
+   ],
+   "need": 0.957,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "model second look on interp: declared E5, similar records suggest E3 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Whether any compartmented records exist",
+    "Unresolved in the ledger: Firsthand versus secondhand testimony"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"US government UAP reviews (ODNI 2021, AARO 2024)\"",
+    "\"US government UAP reviews (ODNI 2021, AARO 2024)\" Washington primary source OR analysis OR review",
+    "\"US government UAP reviews (ODNI 2021, AARO 2024)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "US government UAP reviews (ODNI 2021, AARO 2024)",
+    "place": "Washington, DC",
+    "start": 2021,
+    "end": 2024,
+    "cat": "uap",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 2,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:abydos-king-list",
+   "kind": "record",
+   "records": [
+    "abydos-king-list"
+   ],
+   "need": 0.95,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model suggests the alternative type \u201cA different (older or younger) date\u201d (score 0.34; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Direct dating of the object, a sealed stratigraphic position, and the method's known failure modes.",
+    "Unresolved in the ledger: Which source lists were used"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Abydos King List\"",
+    "\"Abydos King List\" Abydos primary source OR analysis OR review",
+    "\"Abydos King List\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Abydos King List",
+    "place": "Abydos, Egypt",
+    "start": -1290,
+    "end": -1279,
+    "cat": "text",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:harappa",
+   "kind": "record",
+   "records": [
+    "harappa"
+   ],
+   "need": 0.95,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model suggests the alternative type \u201cA different function or purpose\u201d (score 0.49; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Domestic or practical debris in sealed floors, and parallel structures of known use.",
+    "Unresolved in the ledger: Timing of the Early to Mature transition"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Harappa\"",
+    "\"Harappa\" Punjab primary source OR analysis OR review",
+    "\"Harappa\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Harappa",
+    "place": "Punjab, Pakistan",
+    "start": -3300,
+    "end": -1900,
+    "cat": "settlement",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:sannai-maruyama",
+   "kind": "record",
+   "records": [
+    "sannai-maruyama"
+   ],
+   "need": 0.95,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model suggests the alternative type \u201cA different cause (climate, ecology or politics)\u201d (score 0.82; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Palaeoclimate or ecological records at the same resolution as the event.",
+    "Unresolved in the ledger: Function of the large structures"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Sannai-Maruyama\"",
+    "\"Sannai-Maruyama\" Aomori primary source OR analysis OR review",
+    "\"Sannai-Maruyama\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Sannai-Maruyama \u2014 a large J\u014dmon settlement",
+    "place": "Aomori, Japan",
+    "start": -3900,
+    "end": -2200,
+    "cat": "settlement",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:mapungubwe",
+   "kind": "record",
+   "records": [
+    "mapungubwe"
+   ],
+   "need": 0.95,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model suggests the alternative type \u201cContact, diffusion or outside influence\u201d (score 0.99; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Multiple independent lines (material, genetic, linguistic) for the contact, not a visual resemblance.",
+    "Unresolved in the ledger: Political organisation"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Mapungubwe\"",
+    "\"Mapungubwe\" Limpopo primary source OR analysis OR review",
+    "\"Mapungubwe\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Mapungubwe",
+    "place": "Limpopo, South Africa",
+    "start": 1075,
+    "end": 1300,
+    "cat": "settlement",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:kilwa",
+   "kind": "record",
+   "records": [
+    "kilwa"
+   ],
+   "need": 0.95,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model suggests the alternative type \u201cA different cause (climate, ecology or politics)\u201d (score 0.62; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Palaeoclimate or ecological records at the same resolution as the event.",
+    "Unresolved in the ledger: Early phases"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Kilwa Kisiwani\"",
+    "\"Kilwa Kisiwani\" Tanzania primary source OR analysis OR review",
+    "\"Kilwa Kisiwani\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Kilwa Kisiwani",
+    "place": "Tanzania",
+    "start": 1000,
+    "end": 1500,
+    "cat": "settlement",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:mahabharata-chronology",
+   "kind": "record",
+   "records": [
+    "mahabharata-chronology"
+   ],
+   "need": 0.95,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability",
+    "model suggests the alternative type \u201cA lost advanced civilization or unknown technology\u201d (score 0.46; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Positive, dated, in-context evidence of the technology itself, not an inability to explain the object.",
+    "Unresolved in the ledger: The historical kernel"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Mah\u0101bh\u0101rata composition and the date of the war\"",
+    "\"Mah\u0101bh\u0101rata composition and the date of the war\" Kurukshetra primary source OR analysis OR review",
+    "\"Mah\u0101bh\u0101rata composition and the date of the war\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Mah\u0101bh\u0101rata composition and the date of the war",
+    "place": "Kurukshetra, India (narrative setting)",
+    "start": -400,
+    "end": 400,
+    "cat": "text",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 1,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:coso-artifact",
+   "kind": "record",
+   "records": [
+    "coso-artifact"
+   ],
+   "need": 0.95,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Find primary or review sources that bear on the record's central claim."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Coso artifact\"",
+    "\"Coso artifact\" Olancha primary source OR analysis OR review",
+    "\"Coso artifact\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Coso artifact",
+    "place": "Olancha, California, USA",
+    "start": 1961,
+    "end": 1961,
+    "cat": "artifact",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 1
+    },
+    "ev": "E1",
+    "interp": "E8"
+   }
+  },
+  {
+   "id": "rec:fra-mauro",
+   "kind": "record",
+   "records": [
+    "fra-mauro"
+   ],
+   "need": 0.95,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "model second look on interp: declared E2, similar records suggest E4 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Fra Mauro map (c. 1450)\"",
+    "\"Fra Mauro map (c. 1450)\" Venice primary source OR analysis OR review",
+    "\"Fra Mauro map (c. 1450)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Fra Mauro map (c. 1450)",
+    "place": "Venice, Italy",
+    "start": 1450,
+    "end": 1459,
+    "cat": "map",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 1
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:utsuro-bune",
+   "kind": "record",
+   "records": [
+    "utsuro-bune"
+   ],
+   "need": 0.938,
+   "reasons": [
+    "only 1 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability",
+    "model second look on ev: declared E5, similar records suggest E3 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Which source is earliest",
+    "Unresolved in the ledger: Whether any contemporary eyewitness record exists"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Utsuro-bune (1803)\"",
+    "\"Utsuro-bune (1803)\" Hitachi coast primary source OR analysis OR review",
+    "\"Utsuro-bune (1803)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Utsuro-bune (1803)",
+    "place": "Hitachi coast, Japan",
+    "start": 1803,
+    "end": 1803,
+    "cat": "uap",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E5",
+    "interp": "E7"
+   }
+  },
+  {
+   "id": "rec:ariosophy",
+   "kind": "record",
+   "records": [
+    "ariosophy"
+   ],
+   "need": 0.92,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "model suggests the alternative type \u201cA forgery, hoax or later invention\u201d (score 0.50; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Provenance and the earliest independent record of the object or claim."
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Ariosophy and v\u00f6lkisch mysticism\"",
+    "\"Ariosophy and v\u00f6lkisch mysticism\" Vienna primary source OR analysis OR review",
+    "\"Ariosophy and v\u00f6lkisch mysticism\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Ariosophy and v\u00f6lkisch mysticism",
+    "place": "Vienna, Austria",
+    "start": 1890,
+    "end": 1920,
+    "cat": "esoteric",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E8"
+   }
+  },
+  {
+   "id": "rec:fravor-testimony",
+   "kind": "record",
+   "records": [
+    "fravor-testimony"
+   ],
+   "need": 0.92,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "model suggests the alternative type \u201cMisidentification or a mundane cause\u201d (score 0.93; unreviewed)",
+    "model suggests the alternative type \u201cA non-human craft or intelligence\u201d (score 0.84; unreviewed)"
+   ],
+   "asks": [
+    "Look for evidence on: Whether the reported effect is reproduced by an ordinary cause (sensor geometry, atmosphere, known aircraft).",
+    "Look for evidence on: Physical evidence or multi-sensor data that survives mundane explanations.",
+    "Unresolved in the ledger: Whether sensor records exist for the radar track"
+   ],
+   "wanted_kinds": [
+    "alternative",
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Fravor testimony: the 2004 Nimitz encounter\"",
+    "\"Fravor testimony: the 2004 Nimitz encounter\" Pacific Ocean off Southern California primary source OR analysis OR review",
+    "\"Fravor testimony: the 2004 Nimitz encounter\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Fravor testimony: the 2004 Nimitz encounter",
+    "place": "Pacific Ocean off Southern California",
+    "start": 2004,
+    "end": 2023,
+    "cat": "uap",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 1,
+     "skeptical": 0
+    },
+    "ev": "E3",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:grusch-2023",
+   "kind": "record",
+   "records": [
+    "grusch-2023"
+   ],
+   "need": 0.898,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "model second look on ev: declared E5, similar records suggest E3 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Whether classified evidence exists"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Grusch testimony: alleged non-human craft programmes (2023)\"",
+    "\"Grusch testimony: alleged non-human craft programmes (2023)\" Washington primary source OR analysis OR review",
+    "\"Grusch testimony: alleged non-human craft programmes (2023)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Grusch testimony: alleged non-human craft programmes (2023)",
+    "place": "Washington, D.C., USA",
+    "start": 2023,
+    "end": 2023,
+    "cat": "uap",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 2,
+     "skeptical": 0
+    },
+    "ev": "E5",
+    "interp": "E6"
+   }
+  },
+  {
+   "id": "rec:persian-gulf",
+   "kind": "record",
+   "records": [
+    "persian-gulf"
+   ],
+   "need": 0.874,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "model second look on ev: declared E3, similar records suggest E1 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Survey of the basin floor"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Persian Gulf basin (\u201cGulf Oasis\u201d)\"",
+    "\"Persian Gulf basin (\u201cGulf Oasis\u201d)\" Persian Gulf primary source OR analysis OR review",
+    "\"Persian Gulf basin (\u201cGulf Oasis\u201d)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Persian Gulf basin (\u201cGulf Oasis\u201d)",
+    "place": "Persian Gulf",
+    "start": -18000,
+    "end": -6000,
+    "cat": "submerged",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E3",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:malmstrom-1967",
+   "kind": "record",
+   "records": [
+    "malmstrom-1967"
+   ],
+   "need": 0.864,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "most sources low or unassessed reliability",
+    "model second look on ev: declared E5, similar records suggest E3 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Which parts are supported by primary records",
+    "Unresolved in the ledger: Whether any unusual objects were actually recorded"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Malmstrom AFB missile-site incidents, 1967\"",
+    "\"Malmstrom AFB missile-site incidents, 1967\" Great Falls primary source OR analysis OR review",
+    "\"Malmstrom AFB missile-site incidents, 1967\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Malmstrom AFB missile-site incidents, 1967",
+    "place": "Great Falls, Montana, USA",
+    "start": 1967,
+    "end": 1967,
+    "cat": "uap",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 2,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E5",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:khambhat",
+   "kind": "record",
+   "records": [
+    "khambhat"
+   ],
+   "need": 0.86,
+   "reasons": [
+    "only 1 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Is any feature anthropogenic?",
+    "Unresolved in the ledger: Dates of the recovered materials"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Gulf of Khambhat structures\"",
+    "\"Gulf of Khambhat structures\" Gujarat primary source OR analysis OR review",
+    "\"Gulf of Khambhat structures\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Gulf of Khambhat structures",
+    "place": "Gujarat, India",
+    "start": -7500,
+    "end": -3000,
+    "cat": "submerged",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E5",
+    "interp": "E7"
+   }
+  },
+  {
+   "id": "rec:sayburc",
+   "kind": "record",
+   "records": [
+    "sayburc"
+   ],
+   "need": 0.86,
+   "reasons": [
+    "only 2 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Contemporaneity with G\u00f6bekli Tepe",
+    "Unresolved in the ledger: Meaning of the leopard and human scene"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Saybur\u00e7\"",
+    "\"Saybur\u00e7\" \u015eanl\u0131urfa primary source OR analysis OR review",
+    "\"Saybur\u00e7\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Saybur\u00e7 \u2014 carved reliefs of the Ta\u015f Tepeler horizon",
+    "place": "\u015eanl\u0131urfa, T\u00fcrkiye",
+    "start": -9500,
+    "end": -8500,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E2",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:sefer-cakmak-tepe",
+   "kind": "record",
+   "records": [
+    "sefer-cakmak-tepe"
+   ],
+   "need": 0.86,
+   "reasons": [
+    "only 1 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Whether the sites were contemporary",
+    "Unresolved in the ledger: Which were settlements"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Sefer Tepe and \u00c7akmaktepe\"",
+    "\"Sefer Tepe and \u00c7akmaktepe\" \u015eanl\u0131urfa primary source OR analysis OR review",
+    "\"Sefer Tepe and \u00c7akmaktepe\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Sefer Tepe and \u00c7akmaktepe \u2014 more Ta\u015f Tepeler sites",
+    "place": "\u015eanl\u0131urfa, T\u00fcrkiye",
+    "start": -9500,
+    "end": -8500,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E3",
+    "interp": "E4"
+   }
+  },
+  {
+   "id": "rec:clovis-blackwater-draw",
+   "kind": "record",
+   "records": [
+    "clovis-blackwater-draw"
+   ],
+   "need": 0.86,
+   "reasons": [
+    "only 2 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "model second look on interp: declared E8, similar records suggest E1 (model expects a STRONGER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Origin of fluted-point technology",
+    "Unresolved in the ledger: Whether Clovis hunters were mainly big-game specialists"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Clovis at Blackwater Draw\"",
+    "\"Clovis at Blackwater Draw\" Blackwater Draw primary source OR analysis OR review",
+    "\"Clovis at Blackwater Draw\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Clovis at Blackwater Draw",
+    "place": "Blackwater Draw, New Mexico, USA",
+    "start": -11100,
+    "end": -10800,
+    "cat": "settlement",
+    "current_sources": {
+     "primary": 2,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E8"
+   }
+  },
+  {
+   "id": "rec:almendres-cromlech",
+   "kind": "record",
+   "records": [
+    "almendres-cromlech"
+   ],
+   "need": 0.86,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Dates of the phases",
+    "Unresolved in the ledger: Astronomical function"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Almendres Cromlech\"",
+    "\"Almendres Cromlech\" \u00c9vora primary source OR analysis OR review",
+    "\"Almendres Cromlech\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Almendres Cromlech",
+    "place": "\u00c9vora, Portugal",
+    "start": -5000,
+    "end": -3000,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E2",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:xiahe-denisovan",
+   "kind": "record",
+   "records": [
+    "xiahe-denisovan"
+   ],
+   "need": 0.86,
+   "reasons": [
+    "only 2 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "model second look on interp: declared E2, similar records suggest E4 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: The overall morphology of Denisovans",
+    "Unresolved in the ledger: Whether EPAS1 high-altitude adaptation came from them"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Xiahe mandible\"",
+    "\"Xiahe mandible\" Baishiya Karst Cave primary source OR analysis OR review",
+    "\"Xiahe mandible\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Xiahe mandible \u2014 a Denisovan on the Tibetan Plateau",
+    "place": "Baishiya Karst Cave, Gansu, China",
+    "start": -158050,
+    "end": -158050,
+    "cat": "origins",
+    "current_sources": {
+     "primary": 2,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E2",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:dwarka-submerged",
+   "kind": "record",
+   "records": [
+    "dwarka-submerged"
+   ],
+   "need": 0.86,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Date of the main structures",
+    "Unresolved in the ledger: Natural versus built status of several features"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Dwarka and Bet Dwarka\"",
+    "\"Dwarka and Bet Dwarka\" Gulf of Kutch primary source OR analysis OR review",
+    "\"Dwarka and Bet Dwarka\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Dwarka and Bet Dwarka \u2014 submerged structures",
+    "place": "Gulf of Kutch, Gujarat, India",
+    "start": -1500,
+    "end": 500,
+    "cat": "submerged",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 1,
+     "official": 0,
+     "skeptical": 1
+    },
+    "ev": "E3",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:poompuhar",
+   "kind": "record",
+   "records": [
+    "poompuhar"
+   ],
+   "need": 0.86,
+   "reasons": [
+    "only 1 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Extent and date of the drowned port",
+    "Unresolved in the ledger: Natural versus built status of some features"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Poompuhar (Kaveripattinam)\"",
+    "\"Poompuhar (Kaveripattinam)\" Tamil Nadu primary source OR analysis OR review",
+    "\"Poompuhar (Kaveripattinam)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Poompuhar (Kaveripattinam) \u2014 submerged port",
+    "place": "Tamil Nadu, India",
+    "start": -300,
+    "end": 400,
+    "cat": "submerged",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E3",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:cain-and-abel",
+   "kind": "record",
+   "records": [
+    "cain-and-abel"
+   ],
+   "need": 0.86,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Origin of the story\u2019s motifs",
+    "Unresolved in the ledger: Meaning of the \u201cmark of Cain\u201d"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Cain and Abel (Genesis 4) and its Near Eastern parallels\"",
+    "\"Cain and Abel (Genesis 4) and its Near Eastern parallels\" Jerusalem (composition); narrative setting east of Eden primary source OR analysis OR review",
+    "\"Cain and Abel (Genesis 4) and its Near Eastern parallels\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Cain and Abel (Genesis 4) and its Near Eastern parallels",
+    "place": "Jerusalem (composition); narrative setting east of Eden",
+    "start": -900,
+    "end": -450,
+    "cat": "text",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:chaco-canyon",
+   "kind": "record",
+   "records": [
+    "chaco-canyon"
+   ],
+   "need": 0.86,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Population and political role",
+    "Unresolved in the ledger: Reasons for abandonment"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Chaco Canyon great houses\"",
+    "\"Chaco Canyon great houses\" New Mexico primary source OR analysis OR review",
+    "\"Chaco Canyon great houses\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Chaco Canyon great houses",
+    "place": "New Mexico, USA",
+    "start": 850,
+    "end": 1150,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "rec:ica-stones",
+   "kind": "record",
+   "records": [
+    "ica-stones"
+   ],
+   "need": 0.85,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Find primary or review sources that bear on the record's central claim."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Ica stones\"",
+    "\"Ica stones\" Ica primary source OR analysis OR review",
+    "\"Ica stones\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Ica stones",
+    "place": "Ica, Peru",
+    "start": 1966,
+    "end": 1976,
+    "cat": "artifact",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 1,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E8"
+   }
+  },
+  {
+   "id": "rec:baghdad-battery",
+   "kind": "record",
+   "records": [
+    "baghdad-battery"
+   ],
+   "need": 0.83,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Original use"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Baghdad Battery\"",
+    "\"Baghdad Battery\" Khujut Rabu / Ctesiphon area primary source OR analysis OR review",
+    "\"Baghdad Battery\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Baghdad Battery",
+    "place": "Khujut Rabu / Ctesiphon area, Iraq",
+    "start": -250,
+    "end": 640,
+    "cat": "artifact",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:vaimanika-shastra",
+   "kind": "record",
+   "records": [
+    "vaimanika-shastra"
+   ],
+   "need": 0.83,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "1 placeholder source(s) not yet identified",
+    "most sources low or unassessed reliability"
+   ],
+   "asks": [
+    "Unresolved in the ledger: The relation to earlier Sanskrit passages about vim\u0101nas"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Vaim\u0101nika \u015a\u0101stra\"",
+    "\"Vaim\u0101nika \u015a\u0101stra\" Bangalore primary source OR analysis OR review",
+    "\"Vaim\u0101nika \u015a\u0101stra\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Vaim\u0101nika \u015a\u0101stra \u2014 a modern text on \u201cancient aircraft\u201d",
+    "place": "Bangalore, India",
+    "start": 1918,
+    "end": 1923,
+    "cat": "text",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 1,
+     "official": 0,
+     "skeptical": 1
+    },
+    "ev": "E1",
+    "interp": "E8"
+   }
+  },
+  {
+   "id": "rec:skara-brae",
+   "kind": "record",
+   "records": [
+    "skara-brae"
+   ],
+   "need": 0.83,
+   "reasons": [
+    "only 2 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "model second look on interp: declared E1, similar records suggest E4 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Relationship to the ceremonial centres at Brodgar"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Skara Brae\"",
+    "\"Skara Brae\" Orkney primary source OR analysis OR review",
+    "\"Skara Brae\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Skara Brae",
+    "place": "Orkney, Scotland",
+    "start": -3180,
+    "end": -2500,
+    "cat": "settlement",
+    "current_sources": {
+     "primary": 1,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E1"
+   }
+  },
+  {
+   "id": "rec:los-millares",
+   "kind": "record",
+   "records": [
+    "los-millares"
+   ],
+   "need": 0.83,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Social organisation"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Los Millares\"",
+    "\"Los Millares\" Almer\u00eda primary source OR analysis OR review",
+    "\"Los Millares\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Los Millares",
+    "place": "Almer\u00eda, Spain",
+    "start": -3200,
+    "end": -2200,
+    "cat": "settlement",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E3"
+   }
+  },
+  {
+   "id": "rec:tehran-1976",
+   "kind": "record",
+   "records": [
+    "tehran-1976"
+   ],
+   "need": 0.83,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "sources come from a single discipline",
+    "1 placeholder source(s) not yet identified"
+   ],
+   "asks": [
+    "Unresolved in the ledger: No raw data are publicly available"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Tehran F-4 encounter (1976)\"",
+    "\"Tehran F-4 encounter (1976)\" Tehran primary source OR analysis OR review",
+    "\"Tehran F-4 encounter (1976)\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Tehran F-4 encounter (1976)",
+    "place": "Tehran, Iran",
+    "start": 1976,
+    "end": 1976,
+    "cat": "uap",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 1,
+     "skeptical": 0
+    },
+    "ev": "E3",
+    "interp": "E5"
+   }
+  },
+  {
+   "id": "rec:hipparchus-precession",
+   "kind": "record",
+   "records": [
+    "hipparchus-precession"
+   ],
+   "need": 0.83,
+   "reasons": [
+    "only 2 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Whether Babylonian astronomers had noticed the effect earlier"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Hipparchus and the discovery of precession\"",
+    "\"Hipparchus and the discovery of precession\" Rhodes primary source OR analysis OR review",
+    "\"Hipparchus and the discovery of precession\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Hipparchus and the discovery of precession",
+    "place": "Rhodes, Greece",
+    "start": -147,
+    "end": -127,
+    "cat": "astronomy",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 2,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E1"
+   }
+  },
+  {
+   "id": "rec:hallstatt",
+   "kind": "record",
+   "records": [
+    "hallstatt"
+   ],
+   "need": 0.83,
+   "reasons": [
+    "only 1 source(s)",
+    "no primary source",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "sources come from a single discipline"
+   ],
+   "asks": [
+    "Unresolved in the ledger: Social organisation of the mining community"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Hallstatt\"",
+    "\"Hallstatt\" Hallstatt primary source OR analysis OR review",
+    "\"Hallstatt\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Hallstatt \u2014 salt mines and Iron Age cemetery",
+    "place": "Hallstatt, Austria",
+    "start": -800,
+    "end": -450,
+    "cat": "settlement",
+    "current_sources": {
+     "primary": 0,
+     "secondary": 1,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E1"
+   }
+  },
+  {
+   "id": "rec:antarctic-bedrock-and-ice-history",
+   "kind": "record",
+   "records": [
+    "antarctic-bedrock-and-ice-history"
+   ],
+   "need": 0.83,
+   "reasons": [
+    "only 2 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "model second look on interp: declared E1, similar records suggest E5 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Details of past ice-sheet extent in interglacials"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"Antarctic bedrock and the age of the ice sheet\"",
+    "\"Antarctic bedrock and the age of the ice sheet\" Antarctica primary source OR analysis OR review",
+    "\"Antarctic bedrock and the age of the ice sheet\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "Antarctic bedrock and the age of the ice sheet",
+    "place": "Antarctica",
+    "start": -33998050,
+    "end": 2026,
+    "cat": "geology",
+    "current_sources": {
+     "primary": 2,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E1"
+   }
+  },
+  {
+   "id": "rec:west-kennet-long-barrow",
+   "kind": "record",
+   "records": [
+    "west-kennet-long-barrow"
+   ],
+   "need": 0.816,
+   "reasons": [
+    "only 2 source(s)",
+    "lists counter-evidence but cites no sceptical or alternative source",
+    "model second look on interp: declared E2, similar records suggest E4 (model expects a WEAKER status than declared)"
+   ],
+   "asks": [
+    "Find an independent source that either supports or fails to support the declared status; say which.",
+    "Unresolved in the ledger: Social meaning of the successive depositions"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "skeptical"
+   ],
+   "queries": [
+    "\"West Kennet Long Barrow\"",
+    "\"West Kennet Long Barrow\" Wiltshire primary source OR analysis OR review",
+    "\"West Kennet Long Barrow\" critique OR rebuttal OR reanalysis OR \"alternative explanation\""
+   ],
+   "context": {
+    "title": "West Kennet Long Barrow",
+    "place": "Wiltshire, England",
+    "start": -3650,
+    "end": -2000,
+    "cat": "monument",
+    "current_sources": {
+     "primary": 2,
+     "secondary": 0,
+     "alternative": 0,
+     "official": 0,
+     "skeptical": 0
+    },
+    "ev": "E1",
+    "interp": "E2"
+   }
+  },
+  {
+   "id": "link:yinxu~shiji",
+   "kind": "link",
+   "records": [
+    "yinxu",
+    "shiji"
+   ],
+   "need": 0.459,
+   "reasons": [
+    "model proposes \u201ccontradicts\u201d between these records (unreviewed); an evidentiary relation needs a source that actually connects them"
+   ],
+   "asks": [
+    "Is there a published source that connects Yinxu (Anyang) and Shiji (Records of the Grand Historian) in the way \u201ccontradicts\u201d implies? If none, say so."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary"
+   ],
+   "queries": [
+    "\"Yinxu (Anyang)\" \"Shiji (Records of the Grand Historian)\""
+   ],
+   "context": {
+    "a": "Yinxu (Anyang) \u2014 oracle bones",
+    "b": "Shiji (Records of the Grand Historian)"
+   }
+  },
+  {
+   "id": "link:anzick~beringia",
+   "kind": "link",
+   "records": [
+    "anzick",
+    "beringia"
+   ],
+   "need": 0.453,
+   "reasons": [
+    "model proposes \u201csupports\u201d between these records (unreviewed); an evidentiary relation needs a source that actually connects them"
+   ],
+   "asks": [
+    "Is there a published source that connects Anzick and Beringia in the way \u201csupports\u201d implies? If none, say so."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary"
+   ],
+   "queries": [
+    "\"Anzick\" \"Beringia\""
+   ],
+   "context": {
+    "a": "Anzick \u2014 Clovis-associated child genome",
+    "b": "Beringia"
+   }
+  },
+  {
+   "id": "link:palermo-stone~turin-canon",
+   "kind": "link",
+   "records": [
+    "palermo-stone",
+    "turin-canon"
+   ],
+   "need": 0.446,
+   "reasons": [
+    "model proposes \u201csupports\u201d between these records (unreviewed); an evidentiary relation needs a source that actually connects them"
+   ],
+   "asks": [
+    "Is there a published source that connects Palermo Stone (royal annals) and Turin Royal Canon in the way \u201csupports\u201d implies? If none, say so."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary"
+   ],
+   "queries": [
+    "\"Palermo Stone (royal annals)\" \"Turin Royal Canon\""
+   ],
+   "context": {
+    "a": "Palermo Stone (royal annals)",
+    "b": "Turin Royal Canon"
+   }
+  },
+  {
+   "id": "link:wadi-al-jarf~heit-el-ghurab",
+   "kind": "link",
+   "records": [
+    "wadi-al-jarf",
+    "heit-el-ghurab"
+   ],
+   "need": 0.432,
+   "reasons": [
+    "model proposes \u201csupports\u201d between these records (unreviewed); an evidentiary relation needs a source that actually connects them"
+   ],
+   "asks": [
+    "Is there a published source that connects Wadi al-Jarf and Heit el-Ghurab in the way \u201csupports\u201d implies? If none, say so."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary"
+   ],
+   "queries": [
+    "\"Wadi al-Jarf\" \"Heit el-Ghurab\""
+   ],
+   "context": {
+    "a": "Wadi al-Jarf \u2014 Khufu\u2019s harbour and the Merer papyri",
+    "b": "Heit el-Ghurab \u2014 the Giza workers\u2019 town"
+   }
+  },
+  {
+   "id": "link:malta-siberia~beringia",
+   "kind": "link",
+   "records": [
+    "malta-siberia",
+    "beringia"
+   ],
+   "need": 0.42,
+   "reasons": [
+    "model proposes \u201csupports\u201d between these records (unreviewed); an evidentiary relation needs a source that actually connects them"
+   ],
+   "asks": [
+    "Is there a published source that connects Mal\u2019ta and Beringia in the way \u201csupports\u201d implies? If none, say so."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary"
+   ],
+   "queries": [
+    "\"Mal\u2019ta\" \"Beringia\""
+   ],
+   "context": {
+    "a": "Mal\u2019ta \u2014 ancient North Eurasian ancestry",
+    "b": "Beringia"
+   }
+  },
+  {
+   "id": "link:roswell-1947~uap-military-installation-reports",
+   "kind": "link",
+   "records": [
+    "roswell-1947",
+    "uap-military-installation-reports"
+   ],
+   "need": 0.406,
+   "reasons": [
+    "model proposes \u201ccontradicts\u201d between these records (unreviewed); an evidentiary relation needs a source that actually connects them"
+   ],
+   "asks": [
+    "Is there a published source that connects Roswell incident (1947) and UAP reports near military and nuclear installations in the way \u201ccontradicts\u201d implies? If none, say so."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary"
+   ],
+   "queries": [
+    "\"Roswell incident (1947)\" \"UAP reports near military and nuclear installations\""
+   ],
+   "context": {
+    "a": "Roswell incident (1947)",
+    "b": "UAP reports near military and nuclear installations"
+   }
+  },
+  {
+   "id": "link:polynesian-navigation~mu-lemuria",
+   "kind": "link",
+   "records": [
+    "polynesian-navigation",
+    "mu-lemuria"
+   ],
+   "need": 0.394,
+   "reasons": [
+    "model proposes \u201csupports\u201d between these records (unreviewed); an evidentiary relation needs a source that actually connects them"
+   ],
+   "asks": [
+    "Is there a published source that connects Polynesian wayfinding and Mu and Lemuria in the way \u201csupports\u201d implies? If none, say so."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary"
+   ],
+   "queries": [
+    "\"Polynesian wayfinding\" \"Mu and Lemuria\""
+   ],
+   "context": {
+    "a": "Polynesian wayfinding",
+    "b": "Mu and Lemuria"
+   }
+  },
+  {
+   "id": "link:bamboo-annals~yinxu",
+   "kind": "link",
+   "records": [
+    "bamboo-annals",
+    "yinxu"
+   ],
+   "need": 0.388,
+   "reasons": [
+    "model proposes \u201ccontradicts\u201d between these records (unreviewed); an evidentiary relation needs a source that actually connects them"
+   ],
+   "asks": [
+    "Is there a published source that connects Bamboo Annals (Zhushu Jinian) and Yinxu (Anyang) in the way \u201ccontradicts\u201d implies? If none, say so."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary"
+   ],
+   "queries": [
+    "\"Bamboo Annals (Zhushu Jinian)\" \"Yinxu (Anyang)\""
+   ],
+   "context": {
+    "a": "Bamboo Annals (Zhushu Jinian)",
+    "b": "Yinxu (Anyang) \u2014 oracle bones"
+   }
+  }
+ ]
+}

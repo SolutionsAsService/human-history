@@ -96,6 +96,8 @@ def main(argv=None):
               "task1_links": t1, "task2_status": t2, "task3_alternatives": {**t3, "archetypes": [{"id": arch["tax"][c]["id"], "label": arch["tax"][c]["label"], "examples": arch["examples"][c], "support": int(arch["Y"][:, c].sum())} for c in keep]}}
     proposals = {"meta": result["meta"], "links": link_props, "alternatives": alt_props, "status_second_looks": sl_all}
     (out / "results.json").write_text(json.dumps(result, indent=1)); (out / "proposals.json").write_text(json.dumps(proposals, indent=1))
+    from .sourcing import build as build_briefs
+    briefs = build_briefs(d, proposals); (out / "briefs.json").write_text(json.dumps({"meta": {**result["meta"], "n": len(briefs), "note": "Briefs for RDADA. Nothing here is evidence."}, "briefs": briefs}, indent=1))
     write_report(result, proposals, out / "report.md")
     print(f"[done] {len(link_props)} link proposals, {len(alt_props)} alternative proposals, {len(sl_all)} status second-looks in {time.time() - t0:.0f}s -> {out}")
 
