@@ -16,9 +16,10 @@ import * as XD from './extra/d';
 import { SOURCES_D, LINKS_D } from './extra/d';
 import * as XE from './extra/e';
 import * as XF from './extra/f';
+import { SOURCES_G } from './extra/g';
 
 export const ENTRIES: Entry[] = [...ORIGINS, ...SITES, ...MEMORY, ...FRONTIER, ...XA.ENTRIES_A, ...XB.ENTRIES_B, ...XC.ENTRIES_C, ...XE.ENTRIES_E, ...XF.ENTRIES_F];
-export const SOURCES: Source[] = [...SOURCES_0, ...XA.SOURCES_A, ...XB.SOURCES_B, ...XC.SOURCES_C, ...SOURCES_D, ...XE.SOURCES_E, ...XF.SOURCES_F];
+export const SOURCES: Source[] = [...SOURCES_0, ...XA.SOURCES_A, ...XB.SOURCES_B, ...XC.SOURCES_C, ...SOURCES_D, ...XE.SOURCES_E, ...XF.SOURCES_F, ...SOURCES_G];
 export const SOURCE_BY_ID: Record<string, Source> = Object.fromEntries(SOURCES.map(x => [x.id, x]));
 export const LINKS: Link[] = [...LINKS_0, ...XA.LINKS_A, ...XB.LINKS_B, ...XC.LINKS_C, ...LINKS_D, ...XE.LINKS_E, ...XF.LINKS_F];
 export const EVENTS = [...EVENTS_0, ...XA.EVENTS_A, ...XB.EVENTS_B, ...XC.EVENTS_C, ...XE.EVENTS_E];

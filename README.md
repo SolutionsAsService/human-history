@@ -73,3 +73,10 @@ Base map data (Natural Earth land and 0/200 m bathymetry, public domain) is comm
 - PostGIS and a document-ingestion pipeline that preserves provenance; vector search
 - A research assistant restricted to retrievable sources, unable to fabricate citations
 - Work through the P1 queue in the Ledger first
+
+## Threads
+
+The **Threads** page draws what one culture passed to another (languages, scripts, religions, ideas, technologies, crops, people) as ribbons between culture lanes over time, with the evidence for and against each transfer. Line style shows how direct the evidence is: solid = documented, dashed = debated, dotted = inferred from resemblance. Status (E1–E8) grades the evidence for the transfer itself, not for either culture.
+
+Every strand comes from a source opened by the [RDADA](https://github.com/SolutionsAsService/RDADA) research agent and re-checked by a separate verifier (`rdada_runs/`). `scripts/candidates-to-sources.py` turns verified candidates into `src/data/extra/g.ts`; strands in `src/data/threads.ts` are written by hand from those passages. A resemblance noticed by an editor is not a strand, and `npm run validate` refuses a strand with no source, an unknown culture, or a debated strand that records nothing against it.
+

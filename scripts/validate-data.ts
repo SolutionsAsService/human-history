@@ -78,6 +78,7 @@ if (orphans.length) warn(`${orphans.length} entries have no graph links yet: ${o
 const unused = SOURCES.filter(s => !ENTRIES.some(e => e.sources.includes(s.id)) && !EVENTS.some(e => e.sources.includes(s.id)) && !MIGRATIONS.some(e => e.sources.includes(s.id)) && !STRANDS.some(x => x.src.includes(s.id)) && !QUESTIONS.some(q => q.options.some(o => o.sources.includes(s.id))) && !LINKS.some(l => l.src.includes(s.id)));
 if (unused.length) warn(`unused sources: ${unused.map(s => s.id).join(', ')}`);
 
+console.log(`cultures ${CULTURES.length} · threads ${THREADS.length} · strands ${STRANDS.length}`);
 console.log(`entries ${ENTRIES.length} · events ${EVENTS.length} · migrations ${MIGRATIONS.length} · links ${LINKS.length} · questions ${QUESTIONS.length} · sources ${SOURCES.length}`);
 for (const w of warns) console.log('WARN ', w);
 for (const e of errors) console.log('ERROR', e);

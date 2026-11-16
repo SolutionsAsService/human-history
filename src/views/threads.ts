@@ -8,7 +8,7 @@ import { set, state, subscribe } from '../lib/store';
 import { badge, list, sourceCard } from './ui';
 
 /** Threads: what travelled between cultures. A time-by-culture diagram of transfers, with the evidence for each one. */
-const AXIS = [-10000, -5000, -3000, -1500, -500, 0, 500, 1000, 1500, 2000];
+const AXIS = [-40000, -15000, -10000, -5000, -3000, -1500, -500, 0, 500, 1000, 1500, 2000];
 const xPos = (y: number) => {
   if (y <= AXIS[0]) return 0; if (y >= AXIS[AXIS.length - 1]) return 1;
   for (let i = 0; i < AXIS.length - 1; i++) if (y <= AXIS[i + 1]) return (i + (y - AXIS[i]) / (AXIS[i + 1] - AXIS[i])) / (AXIS.length - 1);
@@ -19,6 +19,7 @@ const DIRECT: Record<Directness, { label: string; tip: string; dash: string; w: 
   inferred: { label: 'Inferred', tip: 'Similarity plus plausible contact; no direct record of the transfer.', dash: '2 4', w: 2.2 },
   debated: { label: 'Debated', tip: 'Specialists disagree about whether, when or how.', dash: '7 5', w: 2.6 },
 };
+const tick = (y: number) => (y <= -10000 ? `${-y / 1000}k BCE` : y < -1000 ? `${Math.abs(y).toLocaleString('en-US')} BCE` : y < 0 ? `${-y} BCE` : y === 0 ? '1 CE' : `${y} CE`);
 const MEDIUM: Record<string, string> = { migration: 'migration', conquest: 'conquest', trade: 'trade', translation: 'translation', text: 'texts', teaching: 'teaching', court_or_empire: 'court or empire', unknown: 'route unknown' };
 
 export class ThreadsView {
@@ -29,10 +30,12 @@ export class ThreadsView {
   private mode: 'diagram' | 'list' = typeof innerWidth !== 'undefined' && innerWidth < 760 ? 'list' : 'diagram';
   private body = h('div', { class: 'th-body' });
   private detail = h('aside', { class: 'th-detail', 'aria-live': 'polite' });
-  private ro?: ResizeObserver; private lastW = 0;
+  private layout!: HTMLElement;
+  private ro?: ResizeObserver; private lastW = 0; private rendered = '';
 
   constructor() {
-    this.el.append(this.head(), this.body, this.detail);
+    this.layout = h('div', { class: 'th-layout' }, this.body, this.detail);
+    this.el.append(this.head(), this.layout);
     subscribe(keys => { if (state.view === 'threads' && (keys.has('view') || keys.has('strand'))) this.render(); });
     this.ro = new ResizeObserver(() => { const w = this.body.clientWidth; if (state.view === 'threads' && this.mode === 'diagram' && Math.abs(w - this.lastW) > 8) this.render(); });
     this.ro.observe(this.body);
@@ -67,8 +70,16 @@ export class ThreadsView {
     if (!STRANDS.length) { this.body.replaceChildren(h('p', { class: 'th-empty' }, 'No threads yet.')); this.detail.replaceChildren(); return; }
     this.body.replaceChildren(vis.length ? (this.mode === 'diagram' ? this.diagram(vis, sel) : this.listView(vis, sel)) : h('p', { class: 'th-empty' }, 'No transfers match these filters.'));
     this.lastW = this.body.clientWidth;
-    this.detail.replaceChildren(sel ? this.card(sel) : h('p', { class: 'th-hint' }, this.mode === 'diagram' ? 'Select a ribbon to see what was passed on, the evidence for it, and what argues against it.' : 'Select a transfer to see the evidence.'));
-    this.detail.classList.toggle('has', !!sel);
+    const inline = this.mode === 'list';
+    this.detail.replaceChildren(inline ? '' : sel ? this.card(sel) : h('p', { class: 'th-hint' }, 'Select a ribbon to see what was passed on, the evidence for it, and what argues against it.'));
+    this.detail.classList.toggle('has', !!sel && !inline);
+    this.layout.classList.toggle('has', !!sel && !inline);
+    this.detail.hidden = inline;
+    if (sel && this.rendered !== sel.id) {
+      this.rendered = sel.id;
+      requestAnimationFrame(() => { const el = inline ? this.body.querySelector('.th-card') : (innerWidth < 1100 ? this.detail : null); (el as HTMLElement | null)?.scrollIntoView({ block: 'nearest', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); });
+    }
+    if (!sel) this.rendered = '';
   }
 
   // ---- diagram
@@ -76,25 +87,25 @@ export class ThreadsView {
     const used = new Set<string>(); vis.forEach(s => { used.add(s.from); used.add(s.to); });
     const groups = [...new Set(CULTURES.filter(c => used.has(c.id)).map(c => c.group))];
     const lanes: Culture[] = groups.flatMap(g => CULTURES.filter(c => c.group === g && used.has(c.id)));
-    const laneH = 34, top = 34, left = Math.min(150, Math.max(104, innerWidth * 0.12)), pad = 22;
+    const laneH = 30, top = 34, left = 216, pad = 28;
     const W = Math.max(this.body.clientWidth || 900, 780), H = top + lanes.length * laneH + 20;
     const X = (y: number) => left + xPos(y) * (W - left - pad);
     const Y = (id: string) => top + lanes.findIndex(l => l.id === id) * laneH + laneH / 2;
     const root = svg('svg', { class: 'th-svg', viewBox: `0 0 ${W} ${H}`, width: W, height: H, role: 'group', 'aria-label': 'Transfers between cultures over time' });
     const defs = svg('defs'); root.append(defs);
     (Object.keys(CARRIED) as Carried[]).forEach(k => {
-      const m = svg('marker', { id: 'ar-' + k, viewBox: '0 0 10 10', refX: 8, refY: 5, markerWidth: 6, markerHeight: 6, orient: 'auto-start-reverse' });
+      const m = svg('marker', { id: 'ar-' + k, viewBox: '0 0 10 10', refX: 8, refY: 5, markerWidth: 9, markerHeight: 9, markerUnits: 'userSpaceOnUse', orient: 'auto-start-reverse' });
       m.append(svg('path', { d: 'M0 0L10 5L0 10z', fill: CARRIED[k].color })); defs.append(m);
     });
     AXIS.forEach(y => {
       root.append(svg('line', { x1: X(y), x2: X(y), y1: top - 6, y2: H - 14, class: 'th-grid' }));
-      const t = svg('text', { x: X(y), y: 16, class: 'th-tick', 'text-anchor': 'middle' }); t.textContent = fmtYear(y, true); root.append(t);
+      const t = svg('text', { x: Math.min(X(y), W - 30), y: 16, class: 'th-tick', 'text-anchor': 'middle' }); t.textContent = tick(y); root.append(t);
     });
     let band = ''; lanes.forEach((c, i) => {
       const y = top + i * laneH;
       if (c.group !== band) { band = c.group; root.append(svg('line', { x1: 0, x2: W, y1: y, y2: y, class: 'th-band' })); }
-      root.append(svg('rect', { x: X(c.start), y: y + 9, width: Math.max(3, X(c.end) - X(c.start)), height: laneH - 18, rx: 4, class: 'th-span' }));
-      const lab = svg('text', { x: 6, y: y + laneH / 2 + 4, class: 'th-lane' }); lab.textContent = c.name; root.append(lab);
+      root.append(svg('rect', { x: X(c.start), y: y + 7, width: Math.max(3, X(c.end) - X(c.start)), height: laneH - 14, rx: 4, class: 'th-span' }));
+      const lab = svg('text', { x: 8, y: y + laneH / 2 + 4, class: 'th-lane' }); lab.textContent = c.name.length > 33 ? c.name.slice(0, 32) + '…' : c.name; const lt = svg('title'); lt.textContent = c.name; lab.append(lt); root.append(lab);
     });
     const g = svg('g'); root.append(g);
     const order = [...vis].sort((a, b) => (a.id === sel?.id ? 1 : 0) - (b.id === sel?.id ? 1 : 0));
@@ -126,7 +137,7 @@ export class ThreadsView {
           h('li', null, h('button', { class: 'th-row' + (sel?.id === s.id ? ' on' : ''), style: `--c:${CARRIED[s.carried].color}`, 'aria-pressed': String(sel?.id === s.id), on: { click: () => set({ strand: sel?.id === s.id ? null : s.id }) } },
             h('span', { class: 'th-route' }, this.name(s.from), h('b', { 'aria-hidden': 'true' }, ' → '), this.name(s.to)),
             h('span', { class: 'th-what' }, s.what),
-            h('span', { class: 'th-meta' }, fmtRange(s.start, s.end), ' · ', DIRECT[s.directness].label))))))));
+            h('span', { class: 'th-meta' }, fmtRange(s.start, s.end), ' · ', DIRECT[s.directness].label)), sel?.id === s.id ? this.card(s) : null))))));
   }
 
   private name(id: string) { return CULTURES.find(c => c.id === id)?.name ?? id; }
