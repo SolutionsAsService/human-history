@@ -1,0 +1,38 @@
+[
+  {
+    "candidate": {
+      "brief": "thread-writing-systems",
+      "records": [],
+      "accessed": "2026-11-16",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "doi": null,
+      "title": "The Sculptures and Inscription of Darius the Great on the Rock of Behistun in Persia: a new collation of the Persian, Susian and Babylonian texts",
+      "authors": "King, L. W.; Thompson, R. C.",
+      "year": 1907,
+      "venue": "British Museum, London (Internet Archive scan); Epigraph L, Susian version",
+      "url": "https://archive.org/details/sculpturesinscri00brituoft",
+      "kind": "primary",
+      "discipline": "Assyriology / Old Persian epigraphy",
+      "stance": "context",
+      "ask_addressed": "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+      "summary": "The standard 1907 collation prints a trilingual royal inscription of Darius I (Old Persian, Susian/Elamite, Babylonian) and, in the Susian-only Epigraph L, a fragmentary statement that Darius made inscriptions 'in another fashion ... such as was not formerly' and sent copies into all lands.",
+      "limits": "The English reconstruction is fragmentary and the passage in this edition does not name the script; it supports a Darius-era date (c. 520 BC) for Old Persian writing but not by itself the derivation from Mesopotamian cuneiform, which is inferred from sign structure. Whether texts attributed to Cyrus or Ariaramnes are earlier is disputed.",
+      "strand": {
+        "from": "Mesopotamian and Elamite cuneiform",
+        "to": "Old Persian cuneiform",
+        "carried": "writing",
+        "what": "a simplified, semi-alphabetic cuneiform script attested first under Darius I at Behistun",
+        "medium": "court_or_empire",
+        "start": -522,
+        "end": -486,
+        "directness": "inferred"
+      },
+      "quote": "By the grace of Auramazda I made inscriptions in another fashion"
+    },
+    "reason": "strand_unsupported: quote (Behistun Elamite epigraph L, found verbatim) records Darius making inscriptions 'in another fashion, such as was not formerly' but says nothing about derivation from Mesopotamian or Elamite cuneiform."
+  }
+]

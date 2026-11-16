@@ -1,0 +1,73 @@
+[
+  {
+    "candidate": {
+      "brief": "thread-indo-european",
+      "records": [],
+      "title": "Indo-European and Indo-Iranian Wagon Terminology and the Date of the Indo-Iranian Split (Chapter 15)",
+      "authors": "Lubotsky A.",
+      "year": 2023,
+      "venue": "The Indo-European Puzzle Revisited (Cambridge University Press), pp. 257-262",
+      "url": "https://www.cambridge.org/core/books/abs/indoeuropean-puzzle-revisited/indoeuropean-and-indoiranian-wagon-terminology-and-the-date-of-the-indoiranian-split/ADBF07BCD6447A00E1B5E3EE4E128FA7",
+      "doi": "10.1017/9781009261753.021",
+      "accessed": "2026-11-16",
+      "kind": "secondary",
+      "discipline": "Historical linguistics",
+      "stance": "context",
+      "ask_addressed": "What does ancient DNA, archaeology and historical linguistics show about the spread of Indo-European languages (steppe/Yamnaya hypothesis, Anatolian hypothesis, Indo-Iranian branch)? Dates, routes, and the strength of each hypothesis.",
+      "quote": "we can reconstruct five words of wheel and wagon terminology for Proto-Indo-European (PIE)",
+      "summary": "The chapter reviews the wheel and wagon vocabulary usually used to date PIE and the Indo-Iranian split; the open preview shows only its opening premise (five reconstructed words), not its conclusion.",
+      "limits": "Only the opening summary line is open; the dating conclusion for the Indo-Iranian split was not read, so the page bears on the topic without establishing a date.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "strand": {
+        "from": "Proto-Indo-European (steppe)",
+        "to": "Proto-Indo-Iranian",
+        "carried": "language",
+        "what": "wheel and wagon vocabulary as dating evidence",
+        "medium": "unknown",
+        "start": null,
+        "end": null,
+        "directness": "debated"
+      }
+    },
+    "reason": "strand_unsupported: the quoted line is a reported claim ('it is often stated that we can reconstruct five words') about wagon vocabulary; it says nothing of a PIE-to-Proto-Indo-Iranian transmission, nor of any scholarly disagreement, so neither the strand nor directness 'debated' is shown by the passage."
+  },
+  {
+    "candidate": {
+      "brief": "thread-indo-european",
+      "records": [],
+      "title": "Beyond binaries. Interrogating ancient DNA",
+      "authors": null,
+      "year": null,
+      "venue": "Archaeological Dialogues",
+      "url": "https://www.cambridge.org/core/journals/archaeological-dialogues/article/abs/beyond-binaries-interrogating-ancient-dna/B183556FE17AC85276281A1C7CF25E1C",
+      "accessed": "2026-11-16",
+      "kind": "skeptical",
+      "discipline": "Archaeological theory",
+      "stance": "fails_to_support",
+      "ask_addressed": "What are the principal sceptical or alternative views, and what remains unresolved?",
+      "quote": "We suggest that at present much aDNA research rests upon two problematic theoretical assumptions",
+      "summary": "A general critique of aDNA archaeology: nature/culture binary and treating cultures as bounded identities. Not specific to Indo-European, but it is the theoretical basis for much of the sceptical reading of steppe-migration narratives.",
+      "limits": "Abstract only; general to aDNA, not about Indo-European specifically. Authors and year were not read from the page, so they are left unrecorded.",
+      "reliability": "unassessed",
+      "review": {
+        "status": "unreviewed",
+        "by": null
+      },
+      "strand": {
+        "from": "Yamnaya / steppe (as discussed in aDNA debates)",
+        "to": "Europe",
+        "carried": "people",
+        "what": "steppe-related ancestry (framing disputed)",
+        "medium": "migration",
+        "start": null,
+        "end": null,
+        "directness": "debated"
+      }
+    },
+    "reason": "strand_unsupported: the quoted abstract line is a general critique of aDNA theory (Crellin & Harris 2020); it does not mention Yamnaya, Indo-European or any steppe-to-Europe transfer, so the strand is not said by the source."
+  }
+]

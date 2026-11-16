@@ -1,0 +1,483 @@
+[
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Researches in Sinai",
+    "authors": "Petrie, W. M. F.",
+    "year": 1906,
+    "venue": "John Murray, London (Internet Archive scan); chapter 'The Foreign Writing', Serabit el-Khadim",
+    "url": "https://archive.org/details/researchesinsin00currgoog",
+    "kind": "primary",
+    "discipline": "Egyptology / excavation report",
+    "stance": "context",
+    "ask_addressed": "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+    "summary": "Petrie, who excavated Serabit el-Khadim, reports unreadable non-Egyptian inscriptions on a sphinx and about eight tablets, mixing a few hieroglyphs with other signs, and argues they are a definite writing system with repeated sign sequences. He does not say it descends from hieroglyphs.",
+    "limits": "1906 excavation report: pre-dates decipherment and the Wadi el-Hol finds; reports an observation of a separate system, not a derivation from hieroglyphs. Direct link to Phoenician is not argued. Verifier: the quoted sentence denies mere imitation of Egyptian writing; the Egyptian link rests on the surrounding text (a mixture of hieroglyph-like signs), so the strand stays debated.",
+    "strand": {
+      "from": "Egyptian hieroglyphs (Middle/New Kingdom Egypt)",
+      "to": "Proto-Sinaitic inscriptions at Serabit el-Khadim",
+      "carried": "writing",
+      "what": "an apparently non-Egyptian sign system carved in Egyptian-style monuments by non-Egyptian miners",
+      "medium": "unknown",
+      "start": -1500,
+      "end": -1500,
+      "directness": "debated"
+    },
+    "quote": "It is a definite system, and not merely a scribbling made in ignorant imitation of Egyptian writing by men who knew no better.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Researches in Sinai",
+    "authors": "Petrie, W. M. F.",
+    "year": 1906,
+    "venue": "John Murray, London (Internet Archive scan); chapter 'The Foreign Writing', Serabit el-Khadim",
+    "url": "https://archive.org/details/researchesinsin00currgoog",
+    "kind": "alternative",
+    "discipline": "Egyptology / excavation report",
+    "stance": "fails_to_support",
+    "ask_addressed": "Which links are documented by dated inscriptions and which are inferred from letter shapes?",
+    "summary": "Petrie dates the Sinai writing to about 1500 BC from pottery, the sphinx and the Thutmose III-era stone, but treats it as one of many early alphabets, not as the single parent of the Phoenician alphabet.",
+    "limits": "Petrie's wider theory of a deep-time common 'signary' (from 6000-7000 BC) is not accepted here as evidence. His 1500 BC date is superseded in later scholarship by earlier proposals (recalled, not fetched: Darnell et al. 2005 on Wadi el-Hol).",
+    "strand": {
+      "from": "Proto-Sinaitic script (Serabit el-Khadim)",
+      "to": "Phoenician alphabet",
+      "carried": "writing",
+      "what": "whether the Sinai signs are the ancestor of the fixed Phoenician alphabet; Petrie says only one of several early alphabets",
+      "medium": "unknown",
+      "start": -1500,
+      "end": -1050,
+      "directness": "debated"
+    },
+    "quote": "one of the many alphabets which were in use in the Mediterranean lands long before the fixed alphabet selected by the Phoenicians",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Herodotus, Histories, Book 5, chapter 58 (A. D. Godley translation)",
+    "authors": "Herodotus; Godley, A. D. (trans.)",
+    "year": null,
+    "venue": "Perseus Digital Library, Tufts University",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126:book=5:chapter=58",
+    "kind": "primary",
+    "discipline": "Classical literature",
+    "stance": "supports",
+    "ask_addressed": "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+    "summary": "Herodotus (writing in the 5th century BC) says Phoenicians who came with Cadmus brought the alphabet to Hellas and that Ionians learned it from them, calling the letters 'Phoenician'.",
+    "limits": "A literary tradition with a legendary founder (Cadmus), not an inscription; gives no date. Evidence for the Greek borrowing rests on letter shapes, order and names, not on this text.",
+    "strand": {
+      "from": "Phoenicia",
+      "to": "Greece (Ionian Greeks)",
+      "carried": "writing",
+      "what": "the alphabet, as remembered in Greek tradition",
+      "medium": "trade",
+      "start": null,
+      "end": null,
+      "directness": "inferred"
+    },
+    "quote": "brought with them to Hellas, among many other kinds of learning, the alphabet, which had been unknown before this, I think, to the Greeks",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Greek Writing from Knossos to Homer: A Linguistic Interpretation of the Origin of the Greek Alphabet and the Continuity of Ancient Greek Literacy",
+    "authors": "Woodard, R. D.",
+    "year": 1997,
+    "venue": "Cambridge University Press 1997 (Internet Archive scan); chapter 6 'Phoenician Beginnings'",
+    "url": "https://archive.org/details/GreekWritingFromKnossosToHomerALinguisticInterpretationOfTheOriginOfTheGreekAlph",
+    "kind": "secondary",
+    "discipline": "Classical linguistics / epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Which links are documented by dated inscriptions and which are inferred from letter shapes?",
+    "summary": "Woodard states the Greeks 'unquestionably' acquired the alphabet from Semitic-speaking users of a consonantal Canaanite script and, citing McCarter, gives three grounds: letter forms, near-identical letter order, and Semitic-derived letter names.",
+    "limits": "The case is typological (shape, order, names), not a dated inscription recording the handover. Woodard himself disputes where and when. copy: unauthorised-looking upload; cite the publication, not this URL",
+    "strand": {
+      "from": "Phoenician alphabet",
+      "to": "Greek alphabet",
+      "carried": "writing",
+      "what": "consonantal letters adapted as the Greek alphabet; shared letter order and names",
+      "medium": "trade",
+      "start": -900,
+      "end": -700,
+      "directness": "inferred"
+    },
+    "quote": "the characters of the most archaic Greek scripts closely match those of the Phoenician script",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Greek Writing from Knossos to Homer: A Linguistic Interpretation of the Origin of the Greek Alphabet and the Continuity of Ancient Greek Literacy",
+    "authors": "Woodard, R. D.",
+    "year": 1997,
+    "venue": "Cambridge University Press 1997 (Internet Archive scan); Introduction and chapters 6-7",
+    "url": "https://archive.org/details/GreekWritingFromKnossosToHomerALinguisticInterpretationOfTheOriginOfTheGreekAlph",
+    "kind": "alternative",
+    "discipline": "Classical linguistics / epigraphy",
+    "stance": "fails_to_support",
+    "ask_addressed": "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+    "summary": "Woodard accepts the Phoenician source but argues the adapters were already literate in the Cypriot syllabary and that Cyprus was the place of origin, noting 'considerable disagreement' on where, when and why the script reached the Aegean.",
+    "limits": "A single author's minority-leaning thesis; useful mainly as proof that place, date and agency of the Phoenician-to-Greek step are contested while the source script is not. copy: unauthorised-looking upload; cite the publication, not this URL",
+    "strand": {
+      "from": "Phoenician alphabet",
+      "to": "Greek alphabet via Cyprus",
+      "carried": "writing",
+      "what": "place and agency of the adaptation (Cypriot scribes) rather than the Phoenician source",
+      "medium": "trade",
+      "start": -900,
+      "end": -750,
+      "directness": "debated"
+    },
+    "quote": "one alphabetic foot also rests on a shoulder of the syllabic script of the Cypriot Greeks",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "The Local Scripts of Archaic Greece: A Study of the Origin of the Greek Alphabet and Its Development from the Eighth to the Fifth Centuries B.C.",
+    "authors": "Jeffery, L. H.; Johnston, A. W. (rev.)",
+    "year": 1990,
+    "venue": "Oxford: Clarendon Press, revised edition with supplement by A. W. Johnston, 1990 (Internet Archive scan); chapter on the origin of the Greek alphabet",
+    "url": "https://archive.org/details/scriptarchaic",
+    "kind": "secondary",
+    "discipline": "Greek epigraphy",
+    "stance": "context",
+    "ask_addressed": "Which links are documented by dated inscriptions and which are inferred from letter shapes?",
+    "summary": "Jeffery's standard epigraphic study frames the date of the Greek alphabet as disputed over seven centuries, then argues from Semitic letter forms (tailed kaph, tailless dalet) for a date after the ninth century BC, with the Dipylon oinochoe as an early Attic text.",
+    "limits": "Dating rests on comparing letter forms with Semitic inscriptions, so it is inference, not a dated transfer record. Later work (including Woodard) pushes the question further. copy: unauthorised-looking upload; cite the publication, not this URL",
+    "strand": {
+      "from": "Phoenician alphabet",
+      "to": "Greek alphabet",
+      "carried": "writing",
+      "what": "date of adoption, bounded below by Semitic letter forms and above by the earliest Greek inscriptions (Dipylon, c. 740 BC)",
+      "medium": "trade",
+      "start": -900,
+      "end": -740,
+      "directness": "debated"
+    },
+    "quote": "The dispute concerning this date has ranged over seven centuries—from the fourteenth to the late eighth.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "The Local Scripts of Archaic Greece: A Study of the Origin of the Greek Alphabet and Its Development from the Eighth to the Fifth Centuries B.C.",
+    "authors": "Jeffery, L. H.; Johnston, A. W. (rev.)",
+    "year": 1990,
+    "venue": "Oxford: Clarendon Press, revised edition with supplement by A. W. Johnston, 1990 (Internet Archive scan); chapter on the origin of the Greek alphabet",
+    "url": "https://archive.org/details/scriptarchaic",
+    "kind": "secondary",
+    "discipline": "Greek epigraphy",
+    "stance": "supports",
+    "ask_addressed": "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+    "summary": "Jeffery treats the Greek-to-Etruscan-to-Roman chain as established background to her argument, mentioning contact between Etruscans and 'the Greeks of Kyme'.",
+    "limits": "Passing statement in an argument about Greek origins, not a dedicated treatment of the Latin alphabet; no inscription dates given in the passage. Verifier: passing remark in an argument about conventions; supports Greek-to-Etruscan-to-Roman only in outline. copy: unauthorised-looking upload; cite the publication, not this URL",
+    "strand": {
+      "from": "Greek alphabet (Euboean/Cumaean)",
+      "to": "Etruscan then Latin alphabet",
+      "carried": "writing",
+      "what": "Greek letters passed to Etruscans and then to Romans",
+      "medium": "trade",
+      "start": -750,
+      "end": -500,
+      "directness": "inferred"
+    },
+    "quote": "the Etruscan learners of the Greek alphabet",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "The Alphabet: An Account of the Origin and Development of Letters",
+    "authors": "Taylor, I.",
+    "year": 1883,
+    "venue": "Kegan Paul, Trench & Co., London (Internet Archive scan)",
+    "url": "https://archive.org/details/alphabetaccounto01tayluoft",
+    "kind": "secondary",
+    "discipline": "Palaeography (19th century)",
+    "stance": "supports",
+    "ask_addressed": "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+    "summary": "Taylor derives the Latin alphabet via the Chalcidian variety of the archaic Greek alphabet carried by Chalcidian colonies to Cumae and Neapolis in Italy, and dates the earliest Greek inscriptions to perhaps the 8th-9th century BC.",
+    "limits": "1883 synthesis: dates and the Etruscan intermediary have been refined since. Inference from letter forms and colonial geography, not a dated handover. Verifier: nineteenth-century account; the Chalcidian route to Latin is stated, later scholarship refines it.",
+    "strand": {
+      "from": "Euboean (Chalcidian) Greek alphabet",
+      "to": "Latin alphabet via Cumae",
+      "carried": "writing",
+      "what": "Chalcidian letter forms carried by colonists in Italy",
+      "medium": "migration",
+      "start": -750,
+      "end": -600,
+      "directness": "inferred"
+    },
+    "quote": "colonies from Chalcis, which were established in Sicily, and also in central Italy at Cumae and Neapolis",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "The Alphabet: An Account of the Origin and Development of Letters",
+    "authors": "Taylor, I.",
+    "year": 1883,
+    "venue": "Kegan Paul, Trench & Co., London (Internet Archive scan)",
+    "url": "https://archive.org/details/alphabetaccounto01tayluoft",
+    "kind": "secondary",
+    "discipline": "Palaeography (19th century)",
+    "stance": "supports",
+    "ask_addressed": "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+    "summary": "Taylor states the Russian (Cyrillic) letters were borrowed from Greek in the 9th century and renamed in Slavonic, citing it as an analogy for the renaming of Phoenician letters in Greek.",
+    "limits": "Incidental remark, not an analysis of Cyrillic. Silent on Glagolitic and on the Preslav origin of Cyrillic; the Cyril-Methodius and Glagolitic questions are NOT covered by any opened source (see Gaps). Verifier: Cyrillic is mentioned as an analogy for letter renaming, not as the book's subject; Cyril and Methodius are not named in the quote.",
+    "strand": {
+      "from": "Greek alphabet (Byzantine uncial)",
+      "to": "Slavic (Cyrillic) script",
+      "carried": "writing",
+      "what": "Greek letter forms adapted for Slavonic, with letters renamed",
+      "medium": "text",
+      "start": 800,
+      "end": 899,
+      "directness": "inferred"
+    },
+    "quote": "The Russian letters, which were borrowed in the 9th century from the Greek alphabet, have lost the familiar Greek appellations",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "On the Origin of the Indian Brahma Alphabet",
+    "authors": "Buhler, G.",
+    "year": 1898,
+    "venue": "Trubner, London / Indian Studies No. III (Internet Archive scan); translation of 1895 German original",
+    "url": "https://archive.org/details/onoriginofindian00buhliala",
+    "kind": "secondary",
+    "discipline": "Indology / palaeography",
+    "stance": "supports",
+    "ask_addressed": "Which links are documented by dated inscriptions and which are inferred from letter shapes?",
+    "summary": "Buhler argues that Kharosthi, the right-to-left script of Ashoka's north-western edicts (Shahbazgarhi, Mansehra), derives from the Aramaic of the Achaemenid empire, introduced by Darius's satrapal administration, and cites the Old Persian word dipi in the Indian edicts.",
+    "limits": "Argument from letter forms and imperial administration; the pre-Achaemenid conquest is called 'doubtful and disputed'. 19th-century work, since supplemented by Aramaic Ashokan inscriptions (not opened here). Verifier: the quoted sentence does not name Kharosthi; the book's argument concerns the Kharosthi alphabet, but the quote alone gives only the Aramaic-into-India date.",
+    "strand": {
+      "from": "Achaemenid Aramaic",
+      "to": "Kharosthi (Gandhara, NW India)",
+      "carried": "writing",
+      "what": "Aramaic chancery letters adapted for Prakrit",
+      "medium": "court_or_empire",
+      "start": -520,
+      "end": -250,
+      "directness": "inferred"
+    },
+    "quote": "the introduction of the Aramaean letters into the Indian province could only date from the reign of Darius",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "On the Origin of the Indian Brahma Alphabet",
+    "authors": "Buhler, G.",
+    "year": 1898,
+    "venue": "Trubner, London / Indian Studies No. III (Internet Archive scan); translation of 1895 German original",
+    "url": "https://archive.org/details/onoriginofindian00buhliala",
+    "kind": "secondary",
+    "discipline": "Indology / palaeography",
+    "stance": "supports",
+    "ask_addressed": "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+    "summary": "Buhler lists five competing derivations of Brahmi, then argues for a North Semitic (Phoenician/Aramaic-type) source imported by traders around 800 BC, long before Ashoka's securely dated edicts of the 3rd century BC.",
+    "limits": "Dated by comparing letter shapes with Mesha stone and Assyrian weights; no Indian inscription of that age is cited. This early date and the Semitic origin itself remain contested (see Cunningham; Falk and Salomon recalled, not fetched).",
+    "strand": {
+      "from": "North Semitic (Phoenician/Aramaic) alphabets",
+      "to": "Brahmi script",
+      "carried": "writing",
+      "what": "prototypes of the Brahmi letters, dated by Buhler to c. 800 BC",
+      "medium": "trade",
+      "start": -890,
+      "end": -750,
+      "directness": "debated"
+    },
+    "quote": "this period must fall somewhere between circiter 890 and 750 B. C.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Corpus Inscriptionum Indicarum, Vol. I: Inscriptions of Asoka",
+    "authors": "Cunningham, A.",
+    "year": 1879,
+    "venue": "Office of the Superintendent of Government Printing, Calcutta (Internet Archive scan); plate and essay 'Origin of the Indian Alphabet'",
+    "url": "https://archive.org/details/PpTc_corpus-inscriptionum-indicarum-inscriptions-of-ashoka-vol-1-by-alexander-cunning",
+    "kind": "skeptical",
+    "discipline": "Indian epigraphy / archaeology",
+    "stance": "contradicts",
+    "ask_addressed": "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+    "summary": "The survey officer who edited the Ashokan edicts rejects a Semitic or Phoenician origin for the Indian (Brahmi) alphabet and argues it was an indigenous invention, while admitting the Shahbazgarhi (Kharosthi) script is Semitic in character.",
+    "limits": "Printed 1879 (title page); OCR of the scan corrupts some letters, so the quotation is normalised for OCR homoglyphs. Pre-dates all modern dating evidence; reasoning is from letter forms. The indigenous theory is not the current majority view but is revived in modified form by recent authors (recalled, not fetched: Falk 2018). Verifier: OCR of the quote is slightly garbled; Cunningham adds that the only alternative is Egyptian borrowing.",
+    "strand": {
+      "from": "North Semitic alphabets",
+      "to": "Brahmi script",
+      "carried": "writing",
+      "what": "Cunningham denies any borrowing: Brahmi as independent Indian invention",
+      "medium": "unknown",
+      "start": -300,
+      "end": -250,
+      "directness": "debated"
+    },
+    "quote": "the Indian alphabet is of purely Indian origin, just as much as the Egyptian hieroglyphics were the purely local invention of the people of Egypt",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-writing-systems",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Western Mesoamerican Calendars and Writing Systems (ch. 3: The Writing System of Epiclassic Central Mexico, by Helmke, C. and Nielsen, J.)",
+    "authors": "Clemmensen, M. B.; Helmke, C. (eds.)",
+    "year": 2023,
+    "venue": "Open-access volume (OAPEN; Internet Archive copy)",
+    "url": "https://archive.org/details/oapen-20.500.12657-77203",
+    "kind": "secondary",
+    "discipline": "Mesoamerican epigraphy",
+    "stance": "context",
+    "ask_addressed": "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+    "summary": "The chapter reasons that the shared features of Mesoamerican scripts (Epiclassic, Teotihuacan and others) point to descent from one earliest Mesoamerican writing system, citing Rodriguez Martinez et al. 2006 (Cascajal) among others; the volume's introduction notes nearly a dozen systems, most undeciphered.",
+    "limits": "Addresses descent within Mesoamerica, not independence from Old World scripts (that is assumed, not tested). It does not give a date for the first writing; the Cascajal Block's date is disputed (not opened). No Chinese source was opened. Verifier: chapter by Helmke and Nielsen in a volume edited by Clemmensen and Helmke; the quote cites earlier literature for common descent.",
+    "strand": {
+      "from": "Earliest Mesoamerican writing (Olmec/Cascajal horizon, cited not opened)",
+      "to": "Teotihuacan, Epiclassic and later Mesoamerican scripts",
+      "carried": "writing",
+      "what": "a regional tradition descending from one early script, with no documented Old World source",
+      "medium": "unknown",
+      "start": -900,
+      "end": 1000,
+      "directness": "inferred"
+    },
+    "quote": "imply a common descent from the earliest writing system developed in Mesoamerica",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  }
+]
