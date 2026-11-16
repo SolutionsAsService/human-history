@@ -1,0 +1,507 @@
+[
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "A Record of Buddhistic Kingdoms (Fa-hien's Record), translated and annotated by James Legge",
+    "authors": "Faxian (Fa-hien); Legge, J. (trans.)",
+    "year": 1886,
+    "venue": "Clarendon Press, Oxford (Internet Archive scan)",
+    "url": "https://archive.org/details/recordofbuddhist00fahsuoft",
+    "kind": "primary",
+    "discipline": "Buddhist studies / travel literature",
+    "stance": "supports",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "there were Sramans of India who crossed this river, carrying with them Sutras and Books of Discipline",
+    "summary": "Fa-hien (travelling AD 399-414) reports what monks west of the Indus told him: Indian monks had carried sutras and Vinaya books across the river eastward. It is an eyewitness record of Buddhism already established in Khotan and the Tarim oases on the route to China.",
+    "limits": "Reports oral local tradition about the first crossing, not a dated text; the date of first transmission is not established. Translation is 1886 and its place names are Legge's identifications. Verifier: the quote does not name a medium (trade was the researcher's guess), so medium set to unknown; the strand start of -100 is not in the passage, which only gives the oral tradition and a date relative to the nirvana (Legge refers it to the reign of King P'ing of Chow).",
+    "strand": {
+      "from": "Gandhara and India",
+      "to": "Central Asian oases and China",
+      "carried": "religion",
+      "what": "Buddhist monks carrying sutras and monastic discipline texts eastward across the Indus",
+      "medium": "unknown",
+      "start": -100,
+      "end": 414,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "A Record of Buddhistic Kingdoms (Fa-hien's Record): the monks' question on when the Law first went east",
+    "authors": "Faxian (Fa-hien); Legge, J. (trans.)",
+    "year": 1886,
+    "venue": "Clarendon Press, Oxford (Internet Archive scan)",
+    "url": "https://archive.org/details/recordofbuddhist00fahsuoft",
+    "kind": "primary",
+    "discipline": "Buddhist studies / travel literature",
+    "stance": "context",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "if it could be known when the Law of Buddha first went to the east",
+    "summary": "The monks of the Indus region ask Fa-hien when Buddhism first went east and he can only answer from hearsay; the same passage mentions a king of Yueh-she (Kushan) as a sincere Buddhist invading a neighbouring land. It shows that even c. 400 CE the beginnings of the eastward spread were unclear.",
+    "limits": "Chronology is an oral tradition set against the Buddha's nirvana, not a fixed date. Identification of Yueh-she with the Kushan is Legge's.",
+    "strand": {
+      "from": "India",
+      "to": "China (via Central Asia)",
+      "carried": "religion",
+      "what": "first eastward transmission of Buddhism, origin unclear even to contemporaries",
+      "medium": "unknown",
+      "start": -100,
+      "end": 400,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Abstract of Four Lectures on Buddhist Literature in China",
+    "authors": "Beal, S.",
+    "year": 1882,
+    "venue": "Trubner and Co., London (Internet Archive scan)",
+    "url": "https://archive.org/details/abstractoffourle00bealrich",
+    "kind": "secondary",
+    "discipline": "Sinology / Buddhist studies",
+    "stance": "supports",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "there appeared to Ming Ti, the second emperor, in the third year of the Yung P'ing period (i.e., A.D. 60)",
+    "summary": "Beal retells the Chinese account that Emperor Ming of the Later Han dreamed of a golden flying figure in AD 60 and sent a mission to India, citing the Han annals. It is the traditional Chinese foundation story of Buddhism's entry.",
+    "limits": "A 19th-century retelling of a tradition now regarded as legendary or embellished (the Wikipedia article on Silk Road transmission calls it semi-legendary). The date and the embassy are not independently verified here.",
+    "strand": {
+      "from": "India",
+      "to": "Han China",
+      "carried": "religion",
+      "what": "Buddhist texts and images brought to Luoyang after an imperial mission",
+      "medium": "court_or_empire",
+      "start": 60,
+      "end": 70,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Abstract of Four Lectures on Buddhist Literature in China: Indian priests in China",
+    "authors": "Beal, S.",
+    "year": 1882,
+    "venue": "Trubner and Co., London (Internet Archive scan)",
+    "url": "https://archive.org/details/abstractoffourle00bealrich",
+    "kind": "secondary",
+    "discipline": "Sinology / Buddhist studies",
+    "stance": "supports",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "He was a man of Middle India, of the Brahman caste.",
+    "summary": "Beal's section on the first Indian monks in China (Kasyapa Matanga) names Indian translators who came to the Han court, the beginning of the translation route by which texts entered Chinese.",
+    "limits": "Traditional biographical material compiled well after the events; the 2nd-century translators (An Shigao, Lokaksema) are the documented layer and are not covered by an opened source here.",
+    "strand": {
+      "from": "Middle India",
+      "to": "Han China",
+      "carried": "religion",
+      "what": "first Indian monk-translators at the Han court",
+      "medium": "teaching",
+      "start": 60,
+      "end": 200,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Silk Road transmission of Buddhism (Wikipedia)",
+    "authors": null,
+    "year": 2026,
+    "venue": "Wikipedia (pointer only)",
+    "url": "https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism",
+    "kind": "secondary",
+    "discipline": "Buddhist studies",
+    "stance": "context",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "started in the 1st century CE with a semi-legendary account of an embassy",
+    "summary": "Summary pointing to Zurcher (1972), the Hou Hanshu and the 2nd-century Kushan-linked translation effort; flags the 1st-century embassy story as semi-legendary and the overland-versus-maritime debate.",
+    "limits": "Wikipedia is a pointer to the scholarship, not itself evidence; Zurcher and Hou Hanshu were not opened (the Internet Archive copy of Zurcher is borrow-only). Korea and Japan are not covered by any opened source.",
+    "strand": {
+      "from": "Kushan Gandhara and Central Asia",
+      "to": "Han China",
+      "carried": "religion",
+      "what": "Buddhist missionaries and translation of scripture into Chinese",
+      "medium": "trade",
+      "start": 100,
+      "end": 200,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Chaldean Account of Genesis (the Deluge tablet)",
+    "authors": "Smith, G.",
+    "year": 1876,
+    "venue": "Sampson Low, London (Internet Archive scan)",
+    "url": "https://archive.org/details/chaldeanaccount00smitrich",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "I sent forth a dove and it left.",
+    "summary": "George Smith's translation of the flood tablet (Gilgamesh XI, then 'Izdubar') includes the sequence of dove, swallow and raven sent from the ark, the discovery that prompted comparison with Genesis 8. It documents the Mesopotamian text, not the route by which it reached Israel.",
+    "limits": "1876 translation, much superseded; the borrowing is Smith's reading and the route (Babylonian exile, Canaan, earlier contact) is not documented.",
+    "strand": {
+      "from": "Mesopotamia",
+      "to": "Hebrew Bible",
+      "carried": "idea",
+      "what": "flood narrative with ark and bird-release sequence",
+      "medium": "text",
+      "start": -2000,
+      "end": -500,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Chaldean Account of Genesis: Smith on the date of the Creation and Flood traditions",
+    "authors": "Smith, G.",
+    "year": 1876,
+    "venue": "Sampson Low, London (Internet Archive scan)",
+    "url": "https://archive.org/details/chaldeanaccount00smitrich",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "a general collecting and development of the various traditions of the Creation, Flood, Tower of Babel",
+    "summary": "Smith dates the collecting of the Babylonian Creation and Flood traditions to c. 2000-1850 BC, long before the Hebrew texts, which underpins the case that the Genesis narratives draw on Mesopotamia.",
+    "limits": "Smith's early dating is provisional and partly superseded (Atrahasis and Eridu Genesis are the earlier forms); it shows priority, not transmission.",
+    "strand": {
+      "from": "Mesopotamia",
+      "to": "Hebrew Bible",
+      "carried": "idea",
+      "what": "creation and flood traditions",
+      "medium": "text",
+      "start": -2000,
+      "end": -500,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Chaldean Account of Genesis: the mountain of the ark",
+    "authors": "Smith, G.",
+    "year": 1876,
+    "venue": "Sampson Low, London (Internet Archive scan)",
+    "url": "https://archive.org/details/chaldeanaccount00smitrich",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "fails_to_support",
+    "ask_addressed": "What do sceptical or minimalist scholars say, and which resemblances are judged independent or coincidental?",
+    "quote": "Ararat, the mountain mentioned in the Bible, was north of Assyria, near Lake Van",
+    "summary": "Even the first translator notes differences between the cuneiform and Genesis accounts (Nizir east of Assyria, Ararat north; 'forty' days), so the match is partial and each tradition has its own detail.",
+    "limits": "Smith still argues for dependence; the differences are his, not a sceptic's. A true minimalist source (Heidel, Lambert, Millard) was not opened.",
+    "strand": {
+      "from": "Mesopotamia",
+      "to": "Hebrew Bible",
+      "carried": "idea",
+      "what": "flood narrative, with divergent details",
+      "medium": "text",
+      "start": -2000,
+      "end": -500,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Gilgamesh flood myth (Wikipedia)",
+    "authors": null,
+    "year": 2026,
+    "venue": "Wikipedia (pointer only)",
+    "url": "https://en.wikipedia.org/wiki/Gilgamesh_flood_myth",
+    "kind": "secondary",
+    "discipline": "Assyriology",
+    "stance": "context",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "Many scholars believe that the Gilgamesh flood myth was added to Tablet XI",
+    "summary": "Summarises the three Mesopotamian flood accounts (Eridu Genesis, Atra-Hasis, Gilgamesh XI) and the view that the Gilgamesh flood was borrowed from Atra-Hasis; points to the Genesis parallels and scholarly literature.",
+    "limits": "Pointer only; cited scholarship (Lambert, Millard, George, Heidel) not opened.",
+    "strand": {
+      "from": "Mesopotamia",
+      "to": "Hebrew Bible",
+      "carried": "idea",
+      "what": "flood story via Atra-Hasis and Gilgamesh XI",
+      "medium": "text",
+      "start": -1646,
+      "end": -500,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Oriental Religions in Roman Paganism: Egypt (spread of Isis and Serapis)",
+    "authors": "Cumont, F.",
+    "year": 1911,
+    "venue": "Open Court, Chicago (Internet Archive scan)",
+    "url": "https://archive.org/details/theorientalrelig00cumouoft",
+    "kind": "secondary",
+    "discipline": "Classics / history of religion",
+    "stance": "supports",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "Agathocles introduced it into Sicily",
+    "summary": "Cumont traces the Ptolemaic export of Isis and Serapis to Cyprus, Sicily, Athens and Halicarnassus c. 307-298 BC and then to Italy, as the Hellenised Egyptian cult.",
+    "limits": "1911, a text whose 'oriental religions' framework is old and since contested; it cites classical sources but they were not opened here. Not a primary dated text. Verifier: directness lowered from documented to inferred; the passage is Cumont's 1911 narrative (dates given, ancient sources not shown on the page), not a dated text or inscription.",
+    "strand": {
+      "from": "Ptolemaic Egypt",
+      "to": "Hellenistic world and Italy",
+      "carried": "religion",
+      "what": "cult of Isis and Serapis",
+      "medium": "court_or_empire",
+      "start": -307,
+      "end": -100,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Oriental Religions in Roman Paganism: Egypt (persecutions at Rome)",
+    "authors": "Cumont, F.",
+    "year": 1911,
+    "venue": "Open Court, Chicago (Internet Archive scan)",
+    "url": "https://archive.org/details/theorientalrelig00cumouoft",
+    "kind": "secondary",
+    "discipline": "Classics / history of religion",
+    "stance": "supports",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "The Egyptian gods were expelled from Rome by Augustus and Tiberius on the charge of being immoral",
+    "summary": "Cumont narrates Rome's resistance, expulsions and eventual official adoption of Isis under Caligula, evidence that the cult had arrived and was contested.",
+    "limits": "Secondary, 1911; the Roman sources (Tacitus, Suetonius, Josephus) are not opened here.",
+    "strand": {
+      "from": "Egypt and Hellenistic world",
+      "to": "Rome",
+      "carried": "religion",
+      "what": "Isis and Serapis cult",
+      "medium": "teaching",
+      "start": -50,
+      "end": 40,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Golden Ass (Metamorphoses), Book XI, Loeb edition with Adlington's translation",
+    "authors": "Apuleius; Adlington, W. (trans.)",
+    "year": 1922,
+    "venue": "Loeb Classical Library, Heinemann (Internet Archive scan); text of the 2nd century CE",
+    "url": "https://archive.org/details/goldenassbeingme00apuliala",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "supports",
+    "ask_addressed": "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "quote": "by their proper ceremonies accustom to worship me, do call me by my true name, Queen Isis",
+    "summary": "In the final book the goddess Isis appears to Lucius in a Roman-era North African novel and describes her many names and her Egyptian worship; the book ends with his initiation, showing the Isiac mysteries as a Latin-world religion by the 2nd century CE.",
+    "limits": "A novel, not a ritual record; it shows the cult's presence and literary form, not its route of arrival. Loeb editor places Apuleius' birth c. 125 CE. Verifier: directness lowered from documented to inferred; a 2nd-century novel evidences the cult's presence, not a dated transfer.",
+    "strand": {
+      "from": "Egypt and Hellenistic Isis cult",
+      "to": "Roman Empire",
+      "carried": "religion",
+      "what": "Isiac initiation and devotion",
+      "medium": "text",
+      "start": 150,
+      "end": 180,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Axial Age (Wikipedia)",
+    "authors": null,
+    "year": 2026,
+    "venue": "Wikipedia (pointer only)",
+    "url": "https://en.wikipedia.org/wiki/Axial_Age",
+    "kind": "secondary",
+    "discipline": "History of religion / sociology",
+    "stance": "context",
+    "ask_addressed": "What do sceptical or minimalist scholars say, and which resemblances are judged independent or coincidental?",
+    "quote": "a striking parallel development, without any obvious admixture between these disparate cultures",
+    "summary": "States Jaspers's thesis that parallel religious and philosophical breakthroughs arose in China, India, Iran, Israel and Greece without contact, notes the validity is disputed and points to critiques (Spinney, Mullins and others).",
+    "limits": "Pointer only; the cited Nature news piece and ASR paper were blocked and not opened.",
+    "strand": {
+      "from": "Axial-age China, India, Iran, Israel and Greece",
+      "to": "one another",
+      "carried": "idea",
+      "what": "parallel religious and ethical breakthroughs c. 800-200 BCE",
+      "medium": "unknown",
+      "start": -800,
+      "end": -200,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "brief": "thread-religion-transmission",
+    "records": [],
+    "accessed": "2026-11-16",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": "10.1017/S0034670508000168",
+    "title": "The \"Axial Period\": What Was It and What Does It Signify?",
+    "authors": "Black, A.",
+    "year": 2008,
+    "venue": "The Review of Politics 70(1), Cambridge University Press",
+    "url": "https://www.cambridge.org/core/journals/review-of-politics/article/axial-period-what-was-it-and-what-does-it-signify/3C90077C999E9C482FF3955FBA615F30",
+    "kind": "skeptical",
+    "discipline": "History of ideas / political theory",
+    "stance": "contradicts",
+    "ask_addressed": "What do sceptical or minimalist scholars say, and which resemblances are judged independent or coincidental?",
+    "quote": "Jaspers's approach and description of these phenomena were, I shall argue, highly defective.",
+    "summary": "Abstract of a critique accepting that several cultures developed new ways of talking about cosmos, ethics and community but arguing Jaspers's account is seriously flawed and has caused misunderstanding.",
+    "limits": "Only the abstract was read (full text paywalled); the specific arguments are not seen. The Axial thesis is about parallel, not transmitted, developments.",
+    "strand": {
+      "from": "Axial-age Israel, India, China, Greece and Iran",
+      "to": "one another",
+      "carried": "idea",
+      "what": "parallel ethical and religious reflection",
+      "medium": "unknown",
+      "start": -800,
+      "end": -200,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-16"
+    }
+  }
+]
