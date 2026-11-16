@@ -7,6 +7,7 @@ import { Drawer } from './views/drawer';
 import { LayerPanel } from './views/panel';
 import { GraphView } from './views/graph';
 import { LabView } from './views/lab';
+import { ThreadsView } from './views/threads';
 import { LedgerView } from './views/ledger';
 import { AboutView } from './views/about';
 import { AuditView } from './views/audit';
@@ -17,6 +18,7 @@ import { icon } from './lib/icons';
 const TABS: [View, string, string][] = [
   ['map', 'Map', 'Evidence map and time machine'],
   ['graph', 'Evidence graph', 'Connections across disciplines'],
+  ['threads', 'Threads', 'What passed between cultures: languages, scripts, religions, ideas, technologies'],
   ['lab', 'Hypothesis lab', 'Competing explanations side by side'],
   ['ledger', 'Ledger', 'Built records and the research queue'],
   ['audit', 'Audit', 'The evidence tables checking each other'],
@@ -30,6 +32,7 @@ const drawer = new Drawer();
 const layers = new LayerPanel();
 const graph = new GraphView();
 const lab = new LabView();
+const threads = new ThreadsView();
 const ledger = new LedgerView();
 const about = new AboutView();
 const audit = new AuditView();
@@ -38,8 +41,8 @@ const palette = new Palette();
 const tabs = h('nav', { class: 'tabs', role: 'tablist' }, TABS.map(([v, label, tip]) =>
   h('button', { class: 'tab', role: 'tab', title: tip, dataset: { v }, on: { click: () => set({ view: v, playing: false }) } }, label)));
 
-const ICON_FOR: Record<string, string> = { map: 'map', graph: 'graph', lab: 'lab', ledger: 'ledger', audit: 'audit', about: 'about' };
-const SHORT: Record<string, string> = { map: 'Map', graph: 'Graph', lab: 'Lab', ledger: 'Ledger', audit: 'Audit', about: 'Method' };
+const ICON_FOR: Record<string, string> = { map: 'map', graph: 'graph', threads: 'threads', lab: 'lab', ledger: 'ledger', audit: 'audit', about: 'about' };
+const SHORT: Record<string, string> = { map: 'Map', graph: 'Graph', threads: 'Threads', lab: 'Lab', ledger: 'Ledger', audit: 'Audit', about: 'Method' };
 const bottomNav = h('nav', { class: 'bottomnav', 'aria-label': 'Views' }, TABS.map(([v, , tip]) =>
   h('button', { dataset: { v }, title: tip, 'aria-label': tip, on: { click: () => set({ view: v, playing: false }) } }, icon(ICON_FOR[v]), h('span', null, SHORT[v]))));
 
@@ -63,6 +66,7 @@ const loading = h('div', { class: 'loading' }, h('div', { class: 'spin' }), 'Loa
 const scrim = h('div', { class: 'scrim', on: { click: () => set({ panelOpen: false }) } });
 const vMap = h('section', { class: 'view v-map' }, layers.el, scrim, h('div', { class: 'map-col' }, h('div', { class: 'map-stage' }, map.el, mapControls, caveat, loading), dock.el));
 const vGraph = h('section', { class: 'view v-graph' }, graph.el);
+const vThreads = h('section', { class: 'view v-threads' }, threads.el);
 const vLab = h('section', { class: 'view v-lab' }, lab.el);
 const vLedger = h('section', { class: 'view v-ledger' }, ledger.el);
 const vAbout = h('section', { class: 'view v-about' }, about.el);
@@ -73,7 +77,7 @@ const header = h('header', { class: 'top' },
   tabs, h('span', { class: 'grow' }),
   h('button', { class: 'btn search', on: { click: () => palette.open() } }, 'Search', h('kbd', null, '/')));
 
-const stage = h('main', { class: 'stage' }, vMap, vGraph, vLab, vLedger, vAudit, vAbout, drawer.el);
+const stage = h('main', { class: 'stage' }, vMap, vGraph, vThreads, vLab, vLedger, vAudit, vAbout, drawer.el);
 app.append(header, stage, palette.el);
 document.body.append(h('div', { id: 'sr-live', class: 'sr-only', role: 'status', 'aria-live': 'polite' }));
 document.body.append(bottomNav);
@@ -94,7 +98,7 @@ function sync() {
   if (modal && !wasModal) { prevFocus = document.activeElement as HTMLElement | null; setTimeout(() => (layers.el.querySelector('.lp-close') as HTMLElement | null)?.focus(), 0); }
   if (!modal && wasModal) setTimeout(() => (prevFocus && document.contains(prevFocus) ? prevFocus : (layersToggle as HTMLElement)).focus(), 0);
   wasModal = modal;
-  drawer.el.classList.toggle('hidden', state.view === 'lab' || state.view === 'about' || state.view === 'ledger' || state.view === 'audit');
+  drawer.el.classList.toggle('hidden', state.view === 'lab' || state.view === 'threads' || state.view === 'about' || state.view === 'ledger' || state.view === 'audit');
 }
 
 subscribe(keys => {
@@ -103,7 +107,7 @@ subscribe(keys => {
     if (state.view === 'map') requestAnimationFrame(() => map.resize());
     if (state.view === 'graph') requestAnimationFrame(() => graph.build());
   }
-  if (keys.has('selected') || keys.has('t') || keys.has('view') || keys.has('labPick')) writeHash();
+  if (keys.has('selected') || keys.has('t') || keys.has('view') || keys.has('labPick') || keys.has('strand')) writeHash();
   if (keys.has('selected') && !state.selected) document.title = 'Human History — dynamic evidence map';
 });
 subscribe(() => { if (document.documentElement.classList.contains('geo-ready')) loading.classList.add('done'); });
@@ -126,4 +130,4 @@ readHash();
 sync();
 dock.update();
 layers.render();
-void vGraph; void vLab; void vLedger; void vAbout; void vAudit;
+void vGraph; void vThreads; void vLab; void vLedger; void vAbout; void vAudit;

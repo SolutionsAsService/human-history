@@ -1,0 +1,167 @@
+{
+ "meta": {
+  "note": "Hand-written briefs for the Threads run. Leads, not evidence."
+ },
+ "briefs": [
+  {
+   "id": "egypt-leftovers",
+   "kind": "topic",
+   "records": [],
+   "asks": [
+    "What is documented about pharaonic Egyptian copper, gold and bronze metallurgy, dyes and pigments (Egyptian green/frit), and the medical papyri (Ebers, Edwin Smith) that bear on chemistry?",
+    "Is there any Egyptological statement on whether pharaonic Egypt had alchemy or a written chemistry before the Greek-Roman period? Include sceptical views."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Egyptian metallurgy copper gold bronze review open access",
+    "Ebers papyrus Edwin Smith papyrus pharmacology chemistry",
+    "Egyptian green frit pigment Hatton",
+    "Egyptology alchemy pharaonic origin absent evidence"
+   ]
+  },
+  {
+   "id": "thread-persian-ideas",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "What ideas, institutions and words passed from Achaemenid and Sasanian Persia to neighbouring and later cultures (Second Temple Judaism, Greece and Hellenism, early Christianity, the Islamic Abbasid court, India, Central Asia, Ottoman/Urdu/Swahili loanwords)? State the dated evidence for each strand.",
+    "What do sceptical specialists say about how far Zoroastrianism shaped Judaism and Christianity (angels, dualism, resurrection), and about Persian administrative models?"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Zoroastrian influence on Judaism scholarly debate Persian period",
+    "Achaemenid administration influence Hellenistic Roman",
+    "Sasanian Persian influence Abbasid translation movement Gondeshapur",
+    "Persian loanwords Arabic Turkish Urdu Swahili"
+   ]
+  },
+  {
+   "id": "thread-indo-european",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "What does ancient DNA, archaeology and historical linguistics show about the spread of Indo-European languages (steppe/Yamnaya hypothesis, Anatolian hypothesis, Indo-Iranian branch)? Dates, routes, and the strength of each hypothesis.",
+    "What are the principal sceptical or alternative views, and what remains unresolved?"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Indo-European origin steppe Yamnaya ancient DNA Haak 2015 Allentoft",
+    "Anatolian hypothesis Bouckaert Gray phylogenetic",
+    "Indo-Iranian Andronovo Sintashta spread India Iran",
+    "Indo-European homeland debate criticism"
+   ]
+  },
+  {
+   "id": "thread-writing-systems",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "What is the documented lineage of writing systems: Egyptian hieroglyphs and Proto-Sinaitic to Phoenician to Greek to Latin and Cyrillic; cuneiform to Old Persian; Aramaic to Brahmi, Arabic and Hebrew scripts? Dates, inscriptions, and what is debated (e.g. Aramaic origin of Brahmi, independent invention of Chinese and Mesoamerican scripts).",
+    "Which links are documented by dated inscriptions and which are inferred from letter shapes?"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Proto-Sinaitic alphabet origin Egyptian hieroglyphs Phoenician Greek adoption",
+    "Brahmi script origin Aramaic debate",
+    "history of the alphabet Phoenician to Greek Latin Cyrillic",
+    "Old Persian cuneiform invention Darius Behistun"
+   ]
+  },
+  {
+   "id": "thread-religion-transmission",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "What is documented about religions and religious motifs passing between cultures: Buddhism from India across the Silk Road to China, Korea and Japan; Mesopotamian flood and creation narratives into the Hebrew Bible; Egyptian Isis and Hellenistic mystery cults into Rome; Manichaeism? Give dates, routes and the evidence.",
+    "What do sceptical or minimalist scholars say, and which resemblances are judged independent or coincidental?"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Buddhism transmission Silk Road China dates Kushan translation",
+    "Gilgamesh Atrahasis flood Genesis dependence scholarly",
+    "Isis cult spread Roman Empire evidence",
+    "Axial Age criticism Jaspers"
+   ]
+  },
+  {
+   "id": "thread-science-numerals-paper",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "What is documented about the transmission of knowledge: Indian numerals and zero to the Islamic world to Europe (Fibonacci, al-Khwarizmi); Babylonian astronomy to Greece (Hipparchus); the Greek-to-Arabic-to-Latin translation movement; papermaking from China to the Islamic world to Europe; printing? Give dates, routes and the evidence.",
+    "Which claims are disputed (date of the zero, 'Arabic numerals' naming, paper arrival, independent invention)?"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Hindu-Arabic numerals transmission al-Khwarizmi Fibonacci Liber Abaci",
+    "Babylonian astronomy Hipparchus transmission Greek",
+    "Greek into Arabic translation movement Gutas",
+    "papermaking transmission China Islamic world Europe Samarkand"
+   ]
+  },
+  {
+   "id": "thread-farming-and-technology",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "What do ancient DNA and archaeology show about the spread of farming from the Fertile Crescent into Europe and beyond (migration versus cultural diffusion), and the spread of bronze and iron working, the horse and wheeled vehicles, and Austronesian seafaring?",
+    "Which parts are settled and which disputed?"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Neolithic farmers Anatolia Europe ancient DNA migration Lazaridis Hofmanova",
+    "spread of metallurgy bronze iron Near East Europe diffusion independent invention",
+    "wheel horse chariot spread Eurasian steppe evidence",
+    "Austronesian expansion Lapita Polynesia ancient DNA"
+   ]
+  },
+  {
+   "id": "thread-shared-myths",
+   "kind": "thread",
+   "records": [],
+   "asks": [
+    "Is there credible evidence for very old shared mythic motifs passed down between distant cultures (e.g. Witzel's Laurasian mythology, flood and world-parent myths, the Cosmic Hunt; Berezkin's folklore distribution)? What methods are used and what are the criticisms?",
+    "What does the comparative-genetic study of oral traditions (e.g. phylogenetic studies of folktales) show, and how robust is it?"
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ],
+   "queries": [
+    "Witzel Laurasian mythology comparative criticism",
+    "Berezkin cosmic hunt myth distribution Eurasia America",
+    "d'Huy phylogenetic myth Polyphemus Cosmic Hunt",
+    "Da Silva Tehrani phylogenetic folktales Indo-European Jack and the Beanstalk"
+   ]
+  }
+ ]
+}

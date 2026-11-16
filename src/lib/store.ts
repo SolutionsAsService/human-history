@@ -2,7 +2,7 @@ import type { Cat, Status } from '../types';
 import { CATS } from './classification';
 import { yearToPos, posToYear, NOW } from './time';
 
-export type View = 'map' | 'graph' | 'lab' | 'ledger' | 'audit' | 'about';
+export type View = 'map' | 'graph' | 'threads' | 'lab' | 'ledger' | 'audit' | 'about';
 export type Selection = { kind: 'entry' | 'event' | 'migration'; id: string } | null;
 export type ColorBy = 'category' | 'evidence' | 'interpretation';
 
@@ -28,6 +28,7 @@ export interface State {
   query: string;
   routeGroups: Set<string>;
   labPick: string | null;
+  strand: string | null;
   panelOpen: boolean;
 }
 
@@ -53,6 +54,7 @@ export const state: State = {
   query: '',
   routeGroups: new Set<string>(),
   labPick: null,
+  strand: null,
   panelOpen: typeof innerWidth === 'undefined' || innerWidth > 1100,
 };
 
@@ -89,11 +91,12 @@ export function readHash() {
   const m = location.hash.replace(/^#\/?/, '');
   const [view, qs] = m.split('?');
   const patch: Partial<State> = {};
-  if (['map', 'graph', 'lab', 'ledger', 'audit', 'about'].includes(view)) patch.view = view as View;
+  if (['map', 'graph', 'threads', 'lab', 'ledger', 'audit', 'about'].includes(view)) patch.view = view as View;
   const p = new URLSearchParams(qs ?? '');
   const e = p.get('e'); patch.selected = e ? { kind: (p.get('k') as any) || 'entry', id: e } : null;
   const t = p.get('t'); if (t && !Number.isNaN(Number(t))) patch.t = Number(t);
   const q = p.get('q'); if (q) patch.labPick = q;
+  const st = p.get('s'); if (view === 'threads') patch.strand = st || null;
   set(patch);
 }
 export function writeHash() {
@@ -101,6 +104,7 @@ export function writeHash() {
   if (state.selected) { p.set('e', state.selected.id); if (state.selected.kind !== 'entry') p.set('k', state.selected.kind); }
   if (state.view === 'map') p.set('t', String(Math.round(state.t)));
   if (state.view === 'lab' && state.labPick) p.set('q', state.labPick);
+  if (state.view === 'threads' && state.strand) p.set('s', state.strand);
   const s = `#/${state.view}${[...p].length ? '?' + p.toString() : ''}`;
   if (location.hash !== s) history.replaceState(null, '', s);
 }

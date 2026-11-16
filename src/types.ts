@@ -167,3 +167,41 @@ export interface QueueItem {
   priority: Priority;
   note?: string;
 }
+
+// ---- Threads: what one culture passed to another (languages, scripts, religions, ideas, technologies, crops, people)
+export type Carried = 'language' | 'writing' | 'religion' | 'idea' | 'technology' | 'crop_or_animal' | 'people' | 'institution' | 'custom';
+export type Medium = 'migration' | 'conquest' | 'trade' | 'translation' | 'text' | 'teaching' | 'court_or_empire' | 'unknown';
+export type Directness = 'documented' | 'inferred' | 'debated';
+
+/** A culture, polity or tradition that appears as a lane on the Threads page. Spans are approximate and schematic. */
+export interface Culture {
+  id: string;
+  name: string;
+  group: string;       // lane band: 'Near East', 'Egypt and Africa', 'Mediterranean', 'Iran and Central Asia', 'South Asia', 'East Asia', 'Europe', 'Steppe'
+  start: number;
+  end: number;
+  entries?: string[];  // related ledger records
+}
+
+export interface Thread { id: string; name: string; carried: Carried; blurb: string }
+
+/** One transfer. `status` grades the evidence for the transfer itself (E1–E8), not for either culture. */
+export interface Strand {
+  id: string;
+  thread: string;
+  from: string;
+  to: string;
+  carried: Carried;
+  what: string;
+  medium: Medium;
+  start: number;
+  end: number;
+  directness: Directness;
+  status: Status;
+  note: string;
+  for: string[];
+  against: string[];
+  unresolved?: string[];
+  src: string[];
+  entries?: string[];
+}

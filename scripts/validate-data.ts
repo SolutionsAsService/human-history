@@ -1,6 +1,7 @@
 // Data integrity checks. Run: npm run validate
 // Enforces the ledger rule "do not assign a high confidence classification without identifying the supporting sources",
 // referential integrity across entries/sources/links/hypotheses, and basic geographic and temporal sanity.
+import { CULTURES, STRANDS, THREADS } from '../src/data/threads';
 import { ENTRIES, ENTRY_BY_ID, EVENTS, EVENT_BY_ID, LINKS, MIGRATIONS, QUESTIONS, SOURCE_BY_ID, SOURCES } from '../src/data/index';
 
 const errors: string[] = [];
@@ -50,11 +51,31 @@ for (const q of QUESTIONS) {
     if (high(o.status) && !o.sources.length) err(`option ${o.id}: E1/E2 without sources`);
   }
 }
+// Threads: every strand needs a source, a known culture at each end, and an honest directness.
+dupes(CULTURES.map(c => c.id), 'culture'); dupes(STRANDS.map(s => s.id), 'strand'); dupes(THREADS.map(s => s.id), 'thread');
+const CUL = new Set(CULTURES.map(c => c.id)), THR = new Set(THREADS.map(t => t.id));
+for (const s of STRANDS) {
+  checkSrc(`strand ${s.id}`, s.src);
+  if (!CUL.has(s.from)) err(`strand ${s.id}: unknown culture from="${s.from}"`);
+  if (!CUL.has(s.to)) err(`strand ${s.id}: unknown culture to="${s.to}"`);
+  if (s.from === s.to) err(`strand ${s.id}: from and to are the same culture`);
+  if (!THR.has(s.thread)) err(`strand ${s.id}: unknown thread "${s.thread}"`);
+  if (s.end < s.start) err(`strand ${s.id}: end before start`);
+  if (!s.src.length) err(`strand ${s.id}: no source — a resemblance is not a strand`);
+  if (s.directness === 'documented' && s.src.length < 1) err(`strand ${s.id}: documented without a source`);
+  if (s.directness === 'debated' && !s.against.length) err(`strand ${s.id}: debated but records nothing against`);
+  if (s.directness === 'documented' && (s.status === 'E5' || s.status === 'E6' || s.status === 'E7' || s.status === 'E8')) warn(`strand ${s.id}: documented, but graded ${s.status} — check the two agree`);
+  if (s.directness === 'inferred' && (s.status === 'E1')) warn(`strand ${s.id}: inferred but graded E1`);
+  for (const en of s.entries ?? []) if (!ENTRY_BY_ID[en]) err(`strand ${s.id}: unknown entry "${en}"`);
+}
+for (const c of CULTURES) { if (c.end < c.start) err(`culture ${c.id}: end before start`); for (const en of c.entries ?? []) if (!ENTRY_BY_ID[en]) err(`culture ${c.id}: unknown entry "${en}"`); }
+const idle = CULTURES.filter(c => !STRANDS.some(s => s.from === c.id || s.to === c.id)).map(c => c.id);
+if (idle.length) warn(`cultures with no strands: ${idle.join(', ')}`);
 // Isolated entries are a smell for a graph that is meant to connect disciplines.
 const linked = new Set<string>(); LINKS.forEach(l => { linked.add(l.a); linked.add(l.b); });
 const orphans = ENTRIES.filter(e => !linked.has(e.id)).map(e => e.id);
 if (orphans.length) warn(`${orphans.length} entries have no graph links yet: ${orphans.join(', ')}`);
-const unused = SOURCES.filter(s => !ENTRIES.some(e => e.sources.includes(s.id)) && !EVENTS.some(e => e.sources.includes(s.id)) && !MIGRATIONS.some(e => e.sources.includes(s.id)) && !QUESTIONS.some(q => q.options.some(o => o.sources.includes(s.id))) && !LINKS.some(l => l.src.includes(s.id)));
+const unused = SOURCES.filter(s => !ENTRIES.some(e => e.sources.includes(s.id)) && !EVENTS.some(e => e.sources.includes(s.id)) && !MIGRATIONS.some(e => e.sources.includes(s.id)) && !STRANDS.some(x => x.src.includes(s.id)) && !QUESTIONS.some(q => q.options.some(o => o.sources.includes(s.id))) && !LINKS.some(l => l.src.includes(s.id)));
 if (unused.length) warn(`unused sources: ${unused.map(s => s.id).join(', ')}`);
 
 console.log(`entries ${ENTRIES.length} · events ${EVENTS.length} · migrations ${MIGRATIONS.length} · links ${LINKS.length} · questions ${QUESTIONS.length} · sources ${SOURCES.length}`);
