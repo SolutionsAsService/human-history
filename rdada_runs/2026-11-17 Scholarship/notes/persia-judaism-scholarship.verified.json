@@ -1,0 +1,498 @@
+[
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Influence of Zoroastrianism on Judaism (typescript by Shaul Shaked, Exhibit I in Tanenbaum Collection folder 'Zoroastrianism, 1984')",
+  "authors": "Shaked, S.",
+  "year": null,
+  "venue": "American Jewish Archives, MS-603 Rabbi Marc H. Tanenbaum Collection, Box 53 Folder 10",
+  "url": "https://collections.americanjewisharchives.org/ms/ms0603/ms0603.053.010.pdf",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "History of religions",
+  "stance": "supports",
+  "ask_addressed": "Quote the strongest proponent and the strongest sceptic first-hand, with their stated reasons and limits.",
+  "quote": "scholars of Iranian generally tend to assume that Iran had a great deal of influence on Judaism and Christianity",
+  "summary": "Shaked, an Iranist, names angelology/demonology, eschatology and dualism as the changes in post-exilic Judaism that point to Persia and notes Persian loanwords in Hebrew and Aramaic books. He also says Iranian and Jewish dualism are 'not really the same system'.",
+  "limits": "Typescript of a script prepared for a lay or interfaith audience (the cover note says Shaked was 'contacted'; authorship and date are not otherwise stated beyond the 1984 folder). OCR text has errors. He states a possible source, not a documented route; he concedes the Jewish system 'is basically monotheist'. Verifier: attribution to Shaked rests on the exhibit heading alone (the page says he 'was contacted' while the script was prepared); the quoted sentence reports what Iranists tend to assume, not his own argument. Quote matched as printed (OCR-noisy typescript).",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "angelology/demonology, eschatology and dualism (plus Persian loanwords)",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": 100,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Zoroastrianism and Biblical Religion",
+  "authors": "Isbell, C. D.",
+  "year": 2006,
+  "venue": "Jewish Bible Quarterly 34(3)",
+  "url": "https://jbq.jewishbible.org/assets/Uploads/343/343_persian11.pdf",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Biblical studies",
+  "stance": "contradicts",
+  "ask_addressed": "Quote the strongest proponent and the strongest sceptic first-hand, with their stated reasons and limits.",
+  "quote": "not a single Persian loanword is known throughout the entirety of the Hebrew Torah",
+  "summary": "A sceptical survey that goes item by item (dualism, Satan, creation, purity, angels, resurrection) and argues that sweeping claims of Zoroastrian influence on biblical theology are not supported, and that Zoroastrian sources are too late.",
+  "limits": "A cursory survey by his own account ('a cursory survey'); written against the 'minimalist' Persian-era dating of the Bible, which shapes its framing. Cites Boyce, Eichrodt and Shaked at second hand. Does not engage later Second Temple texts such as Qumran dualism at length.",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Biblical (Hebrew Bible) religion",
+   "carried": "idea",
+   "what": "dualism, Satan, angelology, resurrection, creation theology",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -330,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Zoroastrianism and Biblical Religion (Isbell quoting Shaul Shaked on chronology)",
+  "authors": "Isbell, C. D. (quoting Shaked, S.)",
+  "year": 2006,
+  "venue": "Jewish Bible Quarterly 34(3) (second-hand: Shaked is quoted, not read in the original)",
+  "url": "https://jbq.jewishbible.org/assets/Uploads/343/343_persian11.pdf",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History of religions",
+  "stance": "context",
+  "ask_addressed": "Quote the strongest proponent and the strongest sceptic first-hand, with their stated reasons and limits.",
+  "quote": "All arguments about possible contacts between Israel and Iran come to the stumbling block of the problem of chronology.",
+  "summary": "Shaked, a proponent in his own lecture, is quoted by Isbell as stating the central chronological limit: detailed Zoroastrian theology survives only in Sasanian-era or later books.",
+  "limits": "SECOND-HAND: the original Shaked source is not named in the text I opened and I did not read it. Isbell uses it for a sceptical purpose; Shaked's own overall position is more favourable to influence (see his typescript). Verifier: second-hand quotation kept as stance context only; not Shaked's first-hand view as read by us.",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "Zoroastrian eschatology and theology",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": 100,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Zoroastrianism and Biblical Religion (Isbell reporting Mary Boyce on angelology)",
+  "authors": "Isbell, C. D. (reporting Boyce, M.)",
+  "year": 2006,
+  "venue": "Jewish Bible Quarterly 34(3) (second-hand: Boyce is quoted, not read in the original)",
+  "url": "https://jbq.jewishbible.org/assets/Uploads/343/343_persian11.pdf",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of religions",
+  "stance": "context",
+  "ask_addressed": "Open the scholarship on whether Persian (Zoroastrian) ideas shaped Judaism: Barr, 'The Question of Religious Influence: The Case of Zoroastrianism, Judaism, and Christianity' (JAAR 1985), Mary Boyce, Grabbe on the Persian period, Bremmer 2002, Mark S. Smith 2001, and any open-access review article.",
+  "quote": "reflects to a large extent Zoroastrian belief in the yazatas",
+  "summary": "Isbell reports Boyce as arguing that Jewish angelology (from the 'host of the heavens') reflects Zoroastrian yazatas, and then rebuts it because the yazatas were deities, not servants of Ahura Mazda.",
+  "limits": "SECOND-HAND: Boyce's own text not opened (see notes, Gaps). The quotation is Isbell's excerpt; its source work is only footnoted. Presented by a critic. Verifier: second-hand quotation kept as stance context only; not Boyce's first-hand view.",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "angelology (yazatas and Jewish angels)",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -200,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Was Resurrection a Zoroastrian Idea? (Bremmer quoted by Bart Ehrman)",
+  "authors": "Ehrman, B. D. (reporting Bremmer, J.)",
+  "year": 2017,
+  "venue": "The Bart Ehrman Blog",
+  "url": "https://ehrmanblog.org/was-resurrection-a-zoroastrian-idea/",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "ask_addressed": "Open the scholarship on whether Persian (Zoroastrian) ideas shaped Judaism: Barr, 'The Question of Religious Influence: The Case of Zoroastrianism, Judaism, and Christianity' (JAAR 1985), Mary Boyce, Grabbe on the Persian period, Bremmer 2002, Mark S. Smith 2001, and any open-access review article.",
+  "quote": "There … is little reason to derive Jewish ideas about resurrection from Persian sources. Their origin(s) may well lie in intra-Jewish developments",
+  "summary": "Ehrman quotes Bremmer's conclusion (The Rise and Fall of the Afterlife, Routledge 2002, p. 59) and his point that the oldest Avesta manuscript dates from 1288 CE and all surviving copies derive from a 9th-10th century CE copy.",
+  "limits": "SECOND-HAND: Bremmer's book is on archive.org but only as a lending-library copy, whose text I could not open. A blog post, dated by its page, with reader comments on the same page; the quote is in Ehrman's own text. Confined to resurrection. Verifier: second-hand (Bremmer via Ehrman), stance context only; not Bremmer's first-hand view. Quote is in Ehrman's own text, outside the comments.",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "resurrection of the dead",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -160,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Was Resurrection a Zoroastrian Idea? (Ehrman's chronology argument)",
+  "authors": "Ehrman, B. D.",
+  "year": 2017,
+  "venue": "The Bart Ehrman Blog",
+  "url": "https://ehrmanblog.org/was-resurrection-a-zoroastrian-idea/",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Biblical studies",
+  "stance": "fails_to_support",
+  "ask_addressed": "Quote the strongest proponent and the strongest sceptic first-hand, with their stated reasons and limits.",
+  "quote": "Do we see any evidence of a belief in resurrection in Jewish texts from that period? Well, actually, no we don’t.",
+  "summary": "Ehrman argues from dating: Persian rule ended in the 4th century BCE but resurrection appears in Jewish texts only from the Maccabean period, so contact and the idea do not line up.",
+  "limits": "A blog answer, not peer-reviewed; the page also carries reader comments, but the quoted passage is in the first person ('what I thought (and taught)') and is clearly Ehrman's own text. A chronology argument, not a refutation: it does not rule out later transmission.",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "resurrection of the dead",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -160,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts (author's summary)",
+  "authors": "Smith, M. S.",
+  "year": null,
+  "venue": "The Bible and Interpretation (University of Arizona)",
+  "url": "https://bibleinterp.arizona.edu/articles/MSmith_BiblicalMonotheism",
+  "accessed": "2026-11-17",
+  "kind": "alternative",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "ask_addressed": "Quote the strongest proponent and the strongest sceptic first-hand, with their stated reasons and limits.",
+  "quote": "the conditions of human empires provided the model for divine empire",
+  "summary": "Smith's own short summary of his book places the emergence of Israelite monotheism in the 7th-6th centuries BCE and explains it by social change and Assyrian and Babylonian empire, with Cyrus mentioned only as 'the Lord's anointed'.",
+  "limits": "FIRST-HAND but only Smith's popular summary of the book, not the book's chapter on Isaiah 40-55 (OUP page is paywalled). The summary does not discuss Persian religion; his view on Zoroastrianism comes only second-hand via Antia. Verifier: the page shows 2001 only as the book's imprint year, not a date for this web summary, so year is null (book: OUP 2001); the 'Dec. 2001' month was not found on the page and was removed.",
+  "strand": {
+   "from": "Neo-Assyrian and Neo-Babylonian empires",
+   "to": "Judah / Israelite religion",
+   "carried": "idea",
+   "what": "model of a single god ruling all nations",
+   "medium": "court_or_empire",
+   "start": -722,
+   "end": -539,
+   "directness": "inferred"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Views of Scholars Refuting Zoroastrian Influence (excerpting M. S. Smith, 2001)",
+  "authors": "Antia, K. (quoting Smith, M. S.)",
+  "year": 2012,
+  "venue": "avesta.org (Antia essays)",
+  "url": "https://AVESTA.ORG/antia/Views_of_Scholars_Refuting_Zoroastrian_Influence.pdf",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "History of religions",
+  "stance": "context",
+  "ask_addressed": "Quote the strongest proponent and the strongest sceptic first-hand, with their stated reasons and limits.",
+  "quote": "this is not to say that Persian religious tradition did not reinforce monotheistic rhetoric in this period",
+  "summary": "Antia quotes Smith as doubting that Zoroastrian dualism was the model for biblical monotheism, while conceding Persian religion may have reinforced monotheistic rhetoric; Smith's main source for monotheism is the older Israelite and Ugaritic background.",
+  "limits": "SECOND-HAND for Smith (book not opened). Antia is a Zoroastrian priest and an advocate; the essay selects and comments, and its quotations were not checked against Smith. Kept second-hand. Verifier: second-hand (Smith via Antia), stance context only; not Smith's first-hand view.",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "monotheism",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -330,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Views of Scholars Refuting Zoroastrian Influence (excerpting R. C. Zaehner)",
+  "authors": "Antia, K. (quoting Zaehner, R. C., The Dawn and Twilight of Zoroastrianism)",
+  "year": 2012,
+  "venue": "avesta.org (Antia essays)",
+  "url": "https://AVESTA.ORG/antia/Views_of_Scholars_Refuting_Zoroastrian_Influence.pdf",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of religions",
+  "stance": "context",
+  "ask_addressed": "Quote the strongest proponent and the strongest sceptic first-hand, with their stated reasons and limits.",
+  "quote": "Zoroaster’s doctrine of rewards and punishments, of an eternity of bliss and an eternity of woe",
+  "summary": "Zaehner, as quoted, finds direct influence 'surely' for the individual afterlife and rewards and punishments.",
+  "limits": "SECOND-HAND (Zaehner's book not opened). The same excerpt has Zaehner calling the case for eschatology 'not at all convincing' for lack of evidence from the last four centuries BCE; the quoted sentence stands for the proponent's strongest line. Antia is an advocate. Verifier: second-hand (Zaehner via Antia), stance context only; not Zaehner's first-hand view.",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "individual afterlife and judgment",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -330,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Views of Scholars Refuting Zoroastrian Influence (Zaehner on the limits of the evidence)",
+  "authors": "Antia, K. (quoting Zaehner, R. C.)",
+  "year": 2012,
+  "venue": "avesta.org (Antia essays)",
+  "url": "https://AVESTA.ORG/antia/Views_of_Scholars_Refuting_Zoroastrian_Influence.pdf",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of religions",
+  "stance": "context",
+  "ask_addressed": "Quote the strongest proponent and the strongest sceptic first-hand, with their stated reasons and limits.",
+  "quote": "We cannot say with any certainty whether the Jews borrowed from the Zoroastrians or the Zoroastrians from the Jews",
+  "summary": "Zaehner, as quoted, calls a Judaeo-Christian dependence on Zoroastrian eschatology 'not at all convincing' because no eschatological evidence survives for the last four centuries BCE.",
+  "limits": "SECOND-HAND (Zaehner's book not opened). Antia then disagrees in his own comment. Verifier: second-hand (Zaehner via Antia), stance context only; not Zaehner's first-hand view.",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "eschatology and resurrection",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": -330,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "The Zoroastrian Elements in Jewish and Christian Apocalyptic (quoting D. S. Russell)",
+  "authors": "Antia, K. (quoting Russell, D. S., 1964)",
+  "year": 2020,
+  "venue": "avesta.org (Antia essays)",
+  "url": "https://AVESTA.ORG/antia/The_Zoroastrian_elements_in_Jewish_and_Christian_apocalyptic.pdf",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Biblical studies",
+  "stance": "context",
+  "ask_addressed": "Open the scholarship on whether Persian (Zoroastrian) ideas shaped Judaism: Barr, 'The Question of Religious Influence: The Case of Zoroastrianism, Judaism, and Christianity' (JAAR 1985), Mary Boyce, Grabbe on the Persian period, Bremmer 2002, Mark S. Smith 2001, and any open-access review article.",
+  "quote": "it can hardly be denied that the apocalyptic teaching, for example, concerning such matters as the two ages",
+  "summary": "Russell (The Method and Message of Jewish Apocalyptic, p. 19, as quoted) holds Persian influence on apocalyptic is hard to deny while admitting it is debatable how and how far.",
+  "limits": "SECOND-HAND (Russell not opened); Antia is a Zoroastrian-priest advocate. Russell's 1964 view predates the later dating critiques. Verifier: second-hand (Russell via Antia), stance context only; not Russell's first-hand view.",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "two ages, final judgment, angelology and demonology in apocalyptic",
+   "medium": "court_or_empire",
+   "start": -539,
+   "end": 100,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Hesiodic reminiscences in Zoroastrian-Hellenistic apocalypses (footnote on Gignoux)",
+  "authors": "Dobroruka, V.",
+  "year": 2012,
+  "venue": "Bulletin of SOAS 75(2), 275-295",
+  "url": "https://doi.org/10.1017/S0041977X12000043",
+  "doi": "10.1017/S0041977X12000043",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Religious studies",
+  "stance": "context",
+  "ask_addressed": "Quote the strongest proponent and the strongest sceptic first-hand, with their stated reasons and limits.",
+  "quote": "Persian apocalyptic is either too late to be taken as an effective influence on its Jewish counterpart",
+  "summary": "A footnote reports Gignoux's late-dating position on Persian apocalyptic and Mesopotamian-origin alternatives (Kvanvig, Burkert).",
+  "limits": "SECOND-HAND: the footnote is Dobroruka's report of Gignoux, Kvanvig and Burkert; Gignoux's own papers were not opened, so this is not Gignoux's first-hand view. Only abstract, footnotes and references were open (full text paywalled). Verifier: the claim that Dobroruka is a proponent or author of a pro-influence book is not shown on the page and was removed.",
+  "strand": {
+   "from": "Achaemenid Persia / Zoroastrianism",
+   "to": "Second Temple Judaism",
+   "carried": "idea",
+   "what": "apocalyptic (ages of the world, eschatology)",
+   "medium": "text",
+   "start": -539,
+   "end": 200,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "Persian religion in the Achemenid age (Chapter 11, The Cambridge History of Judaism vol. 1)",
+  "authors": "Boyce, M.",
+  "year": 1984,
+  "venue": "Cambridge History of Judaism, vol. 1: The Persian Period, ed. Davies & Finkelstein, pp. 279-307",
+  "url": "https://cambridge.org/core/product/identifier/CBO9781139055116A017/type/BOOK_PART",
+  "doi": "10.1017/CHOL9780521218801.012",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "History of religions",
+  "stance": "context",
+  "ask_addressed": "Open the scholarship on whether Persian (Zoroastrian) ideas shaped Judaism: Barr, 'The Question of Religious Influence: The Case of Zoroastrianism, Judaism, and Christianity' (JAAR 1985), Mary Boyce, Grabbe on the Persian period, Bremmer 2002, Mark S. Smith 2001, and any open-access review article.",
+  "quote": "most of which was written down between the fourth and tenth centuries c.e.",
+  "summary": "Boyce's chapter summary frames the problem: the date of Zarathushtra is disputed, and the secondary Pahlavi literature was mostly written down in the 4th-10th centuries CE.",
+  "limits": "FIRST-HAND but only the chapter summary page (full text paywalled); it does not itself state a transfer to Judaism. Boyce's own claims of influence were not obtained first-hand.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "persia-judaism-scholarship",
+  "records": [],
+  "title": "On Iranian and Jewish apocalyptics, again (abstract)",
+  "authors": "Agostini, D.",
+  "year": 2016,
+  "venue": "Journal of the American Oriental Society 136(3), 495-505 (abstract on Bibliographia Iranica)",
+  "url": "https://www.biblioiranica.info/iranian-and-jewish-apocalyptics/",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Religious studies",
+  "stance": "context",
+  "ask_addressed": "Open the scholarship on whether Persian (Zoroastrian) ideas shaped Judaism: Barr, 'The Question of Religious Influence: The Case of Zoroastrianism, Judaism, and Christianity' (JAAR 1985), Mary Boyce, Grabbe on the Persian period, Bremmer 2002, Mark S. Smith 2001, and any open-access review article.",
+  "quote": "a rich and exciting battlefield for the scholars of these respective traditions",
+  "summary": "A recent review-type article describes the Iranian-Jewish apocalyptic question as an open battlefield and aims at an updated starting point.",
+  "limits": "Abstract only, via a bibliographic blog; article text not opened. It states no conclusion on direction of influence.",
+  "strand": {
+   "from": "Zoroastrian / Iranian apocalyptic",
+   "to": "Jewish apocalyptic",
+   "carried": "idea",
+   "what": "apocalyptic literature and eschatology",
+   "medium": "text",
+   "start": -539,
+   "end": 200,
+   "directness": "debated"
+  },
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ }
+]

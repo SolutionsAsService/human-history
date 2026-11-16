@@ -23,12 +23,24 @@ const DIRECT: Record<Directness, { label: string; tip: string; dash: string; w: 
 const tick = (y: number) => (y <= -10000 ? `${-y / 1000}k BCE` : y < -1000 ? `${Math.abs(y).toLocaleString('en-US')} BCE` : y < 0 ? `${-y} BCE` : y === 0 ? '1 CE' : `${y} CE`);
 const MEDIUM: Record<string, string> = { migration: 'migration', conquest: 'conquest', trade: 'trade', translation: 'translation', text: 'texts', teaching: 'teaching', court_or_empire: 'court or empire', unknown: 'route unknown' };
 
+
+/** A 28px sample of the line style, so the legend lives on every row. */
+function lineSample(d: Directness, color: string) {
+  const el = svg('svg', { class: 'th-ls', viewBox: '0 0 28 8', width: 28, height: 8, 'aria-hidden': 'true' });
+  const l = svg('line', { x1: 1, y1: 4, x2: 27, y2: 4, stroke: color, 'stroke-width': DIRECT[d].w, 'stroke-linecap': 'round' }); if (DIRECT[d].dash) l.setAttribute('stroke-dasharray', DIRECT[d].dash);
+  el.append(l); return el;
+}
+
 export class ThreadsView {
   readonly el = h('div', { class: 'threads' });
   private kinds = new Set<Carried>(Object.keys(CARRIED) as Carried[]);
   private directs = new Set<Directness>(['documented', 'inferred', 'debated']);
   private thread: string | null = null;
-  private mode: 'diagram' | 'list' = typeof innerWidth !== 'undefined' && innerWidth < 760 ? 'list' : 'diagram';
+  private culture: string | null = null;
+  private query = '';
+  private mode: 'diagram' | 'list' | 'cultures' = typeof innerWidth !== 'undefined' && innerWidth < 900 ? 'list' : 'diagram';
+  private filtersOpen = false;
+  private bar!: HTMLElement; private panel!: HTMLElement; private active!: HTMLElement;
   private body = h('div', { class: 'th-body' });
   private detail = h('aside', { class: 'th-detail', 'aria-live': 'polite' });
   private layout!: HTMLElement;
@@ -36,46 +48,87 @@ export class ThreadsView {
 
   constructor() {
     this.layout = h('div', { class: 'th-layout' }, this.body, this.detail);
-    this.el.append(this.head(), this.layout);
+    this.el.append(...this.head(), this.layout);
     subscribe(keys => { if (state.view === 'threads' && (keys.has('view') || keys.has('strand'))) this.render(); });
     this.ro = new ResizeObserver(() => { const w = this.body.clientWidth; if (state.view === 'threads' && this.mode === 'diagram' && Math.abs(w - this.lastW) > 8) this.render(); });
     this.ro.observe(this.body);
     this.render();
   }
 
-  private visible(): Strand[] {
-    return STRANDS.filter(s => this.kinds.has(s.carried) && this.directs.has(s.directness) && (!this.thread || s.thread === this.thread));
+  private matches(s: Strand) {
+    if (!this.kinds.has(s.carried) || !this.directs.has(s.directness)) return false;
+    if (this.thread && s.thread !== this.thread) return false;
+    if (this.culture && s.from !== this.culture && s.to !== this.culture) return false;
+    if (this.query) {
+      const q = this.query.toLowerCase();
+      const hay = `${this.name(s.from)} ${this.name(s.to)} ${s.what} ${s.note}`.toLowerCase();
+      if (!q.split(/\s+/).every(w => hay.includes(w))) return false;
+    }
+    return true;
+  }
+  private visible(): Strand[] { return STRANDS.filter(s => this.matches(s)); }
+  private filterCount() { return (Object.keys(CARRIED).length - this.kinds.size) + (3 - this.directs.size) + (this.thread ? 1 : 0); }
+
+  private chip(label: string, color: string | null, cls: string, on: boolean, tip: string | undefined, toggle: () => boolean) {
+    const b = h('button', { class: 'th-chip' + (on ? ' on' : '') + (cls ? ' ' + cls : ''), style: color ? `--c:${color}` : undefined, title: tip, 'aria-pressed': String(on),
+      on: { click: () => { const v = toggle(); b.classList.toggle('on', v); b.setAttribute('aria-pressed', String(v)); this.render(); this.syncBar(); } } }, h('i'), label);
+    return b;
   }
 
-  private head() {
-    const chips = (Object.keys(CARRIED) as Carried[]).filter(k => STRANDS.some(s => s.carried === k)).map(k =>
-      h('button', { class: 'th-chip on', style: `--c:${CARRIED[k].color}`, 'aria-pressed': 'true', on: { click: (e: Event) => { const b = e.currentTarget as HTMLElement; const on = !this.kinds.has(k); on ? this.kinds.add(k) : this.kinds.delete(k); b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); this.render(); } } }, h('i'), CARRIED[k].label));
-    const dchips = (Object.keys(DIRECT) as Directness[]).map(d =>
-      h('button', { class: 'th-chip on d-' + d, title: DIRECT[d].tip, 'aria-pressed': 'true', on: { click: (e: Event) => { const b = e.currentTarget as HTMLElement; const on = !this.directs.has(d); on ? this.directs.add(d) : this.directs.delete(d); b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); this.render(); } } }, h('i'), DIRECT[d].label));
-    const threadSel = h('select', { class: 'th-sel', 'aria-label': 'Follow one thread', on: { change: (e: Event) => { this.thread = (e.target as HTMLSelectElement).value || null; this.render(); } } },
+  private head(): HTMLElement[] {
+    const kinds = (Object.keys(CARRIED) as Carried[]).filter(k => STRANDS.some(s => s.carried === k)).map(k =>
+      this.chip(CARRIED[k].label, CARRIED[k].color, '', true, undefined, () => { const on = !this.kinds.has(k); on ? this.kinds.add(k) : this.kinds.delete(k); return on; }));
+    const dirs = (Object.keys(DIRECT) as Directness[]).map(d =>
+      this.chip(DIRECT[d].label, null, 'd-' + d, true, DIRECT[d].tip, () => { const on = !this.directs.has(d); on ? this.directs.add(d) : this.directs.delete(d); return on; }));
+    const threadSel = h('select', { class: 'th-sel', 'aria-label': 'Follow one thread', on: { change: (e: Event) => { this.thread = (e.target as HTMLSelectElement).value || null; this.render(); this.syncBar(); } } },
       h('option', { value: '' }, 'All threads'), ...THREADS.map(t => h('option', { value: t.id }, t.name)));
-    const seg = h('div', { class: 'segs', role: 'group', 'aria-label': 'Layout' },
-      ...(['diagram', 'list'] as const).map(m => h('button', { class: 'seg' + (m === this.mode ? ' on' : ''), dataset: { m }, on: { click: () => { this.mode = m; seg.querySelectorAll('.seg').forEach(b => b.classList.toggle('on', (b as HTMLElement).dataset.m === m)); this.render(); } } }, m === 'diagram' ? 'Diagram' : 'List')));
-    return h('header', { class: 'th-head' },
+    const search = h('input', { type: 'search', class: 'th-search', placeholder: 'Search transfers: Persia, alphabet, flood…', 'aria-label': 'Search transfers', on: { input: (e: Event) => { this.query = (e.target as HTMLInputElement).value.trim(); this.render(); this.syncBar(); } } });
+    const seg = h('div', { class: 'segs th-modes', role: 'group', 'aria-label': 'Layout' },
+      ...([['diagram', 'Diagram'], ['list', 'By thread'], ['cultures', 'Cultures']] as const).map(([m, label]) => h('button', { class: 'seg' + (m === this.mode ? ' on' : ''), dataset: { m }, 'aria-pressed': String(m === this.mode),
+        on: { click: () => { this.mode = m; this.render(); this.syncBar(); } } }, label)));
+    const fbtn = h('button', { class: 'btn th-fbtn', 'aria-expanded': 'false', on: { click: () => { this.filtersOpen = !this.filtersOpen; this.syncBar(); } } }, 'Filters');
+    this.panel = h('div', { class: 'th-panel' },
+      h('label', { class: 'th-lab' }, h('span', null, 'Follow one thread'), threadSel),
+      h('div', { class: 'th-lab' }, h('span', null, 'What was passed on'), h('div', { class: 'th-chips', role: 'group', 'aria-label': 'What was passed on' }, kinds)),
+      h('div', { class: 'th-lab' }, h('span', null, 'How direct the evidence is'), h('div', { class: 'th-chips', role: 'group', 'aria-label': 'How direct the evidence is' }, dirs)));
+    this.active = h('div', { class: 'th-active', 'aria-live': 'polite' });
+    this.bar = h('div', { class: 'th-bar' }, search, h('div', { class: 'th-stick' }, seg, fbtn));
+    return [h('header', { class: 'th-head' },
       h('div', { class: 'th-title' },
         h('h2', null, 'Threads'),
-        h('p', null, 'What one culture passed to another: languages, scripts, religions, ideas, technologies, crops. Each ribbon is one claimed transfer with its evidence. ', h('b', null, 'Solid'), ' = documented, ', h('b', null, 'dashed'), ' = debated, ', h('b', null, 'dotted'), ' = inferred from resemblance.')),
-      h('div', { class: 'th-ctl' }, threadSel, seg),
-      h('div', { class: 'th-chips', role: 'group', 'aria-label': 'What was passed on' }, chips),
-      h('div', { class: 'th-chips', role: 'group', 'aria-label': 'How direct the evidence is' }, dchips));
+        h('p', { class: 'th-lede' }, 'What one culture passed to another: languages, scripts, religions, ideas, technologies, crops. Each transfer carries its evidence and what argues against it.'),
+        h('details', { class: 'th-how' }, h('summary', null, 'How to read this'),
+          h('p', null, h('b', null, 'Solid'), ' line = documented (a dated text, inscription or dated find shows the transfer). ', h('b', null, 'Dashed'), ' = debated (specialists disagree). ', h('b', null, 'Dotted'), ' = inferred from resemblance or plausible contact. The E-grade rates the evidence for the transfer itself, not for either culture. Nothing here is inferred by software.'))),
+    ), this.bar, this.panel, this.active];
+  }
+
+  /** Keeps the bar, the filter panel and the active-filter chips in step with state. */
+  private syncBar() {
+    this.bar.querySelectorAll<HTMLElement>('.seg').forEach(b => { const on = b.dataset.m === this.mode; b.classList.toggle('on', on); b.setAttribute('aria-pressed', String(on)); });
+    const n = this.filterCount();
+    const fb = this.bar.querySelector('.th-fbtn') as HTMLElement; fb.textContent = n ? `Filters · ${n}` : 'Filters'; fb.setAttribute('aria-expanded', String(this.filtersOpen));
+    this.el.classList.toggle('filters-open', this.filtersOpen);
+    const chips: Node[] = [];
+    const pill = (label: string, clear: () => void) => h('button', { class: 'th-pill', 'aria-label': `Remove filter: ${label}`, on: { click: clear } }, label, h('b', { 'aria-hidden': 'true' }, ' ×'));
+    if (this.culture) chips.push(pill('Culture: ' + this.name(this.culture), () => { this.culture = null; this.render(); this.syncBar(); }));
+    if (this.thread) chips.push(pill('Thread: ' + (THREADS.find(t => t.id === this.thread)?.name ?? ''), () => { this.thread = null; (this.panel.querySelector('select') as HTMLSelectElement).value = ''; this.render(); this.syncBar(); }));
+    this.active.replaceChildren(...chips); this.active.hidden = !chips.length;
   }
 
   render() {
     const vis = this.visible();
     const sel = STRANDS.find(s => s.id === state.strand) ?? null;
+    this.syncBar();
     if (!STRANDS.length) { this.body.replaceChildren(h('p', { class: 'th-empty' }, 'No threads yet.')); this.detail.replaceChildren(); return; }
-    this.body.replaceChildren(vis.length ? (this.mode === 'diagram' ? this.diagram(vis, sel) : this.listView(vis, sel)) : h('p', { class: 'th-empty' }, 'No transfers match these filters.'));
+    const inline = this.mode !== 'diagram';
+    const count = h('p', { class: 'th-count', role: 'status' }, `${vis.length} of ${STRANDS.length} transfers`);
+    const main = this.mode === 'cultures' ? this.culturesView(vis, sel) : !vis.length ? h('p', { class: 'th-empty' }, 'No transfers match. Clear a filter or the search.') : this.mode === 'diagram' ? this.diagram(vis, sel) : this.listView(vis, sel);
+    this.body.replaceChildren(count, main);
     this.lastW = this.body.clientWidth;
-    const inline = this.mode === 'list';
-    this.detail.replaceChildren(inline ? '' : sel ? this.card(sel) : h('p', { class: 'th-hint' }, 'Select a ribbon to see what was passed on, the evidence for it, and what argues against it.'));
+    this.detail.replaceChildren(inline ? '' : sel ? this.card(sel) : h('p', { class: 'th-hint' }, 'Select a ribbon to see what was passed on, the evidence for it, and what argues against it. Select a culture name to follow everything it gave and received.'));
+    this.detail.hidden = inline;
     this.detail.classList.toggle('has', !!sel && !inline);
     this.layout.classList.toggle('has', !!sel && !inline);
-    this.detail.hidden = inline;
     if (sel && this.rendered !== sel.id) {
       this.rendered = sel.id;
       requestAnimationFrame(() => { const el = inline ? this.body.querySelector('.th-card') : (innerWidth < 1100 ? this.detail : null); (el as HTMLElement | null)?.scrollIntoView({ block: 'nearest', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); });
@@ -105,8 +158,14 @@ export class ThreadsView {
     let band = ''; lanes.forEach((c, i) => {
       const y = top + i * laneH;
       if (c.group !== band) { band = c.group; root.append(svg('line', { x1: 0, x2: W, y1: y, y2: y, class: 'th-band' })); }
-      root.append(svg('rect', { x: X(c.start), y: y + 7, width: Math.max(3, X(c.end) - X(c.start)), height: laneH - 14, rx: 4, class: 'th-span' }));
-      const lab = svg('text', { x: 8, y: y + laneH / 2 + 4, class: 'th-lane' }); lab.textContent = c.name.length > 33 ? c.name.slice(0, 32) + '…' : c.name; const lt = svg('title'); lt.textContent = c.name; lab.append(lt); root.append(lab);
+      const on = this.culture === c.id;
+      root.append(svg('rect', { x: X(c.start), y: y + 7, width: Math.max(3, X(c.end) - X(c.start)), height: laneH - 14, rx: 4, class: 'th-span' + (on ? ' on' : '') }));
+      const g = svg('g', { class: 'th-lanebtn' + (on ? ' on' : ''), tabindex: 0, role: 'button', 'aria-pressed': String(on), 'aria-label': `Follow ${c.name}` });
+      g.append(svg('rect', { x: 0, y, width: left - 6, height: laneH, fill: 'transparent' }));
+      const lab = svg('text', { x: 8, y: y + laneH / 2 + 4, class: 'th-lane' }); lab.textContent = c.name.length > 33 ? c.name.slice(0, 32) + '…' : c.name; const lt = svg('title'); lt.textContent = c.name + ' (select to follow)'; lab.append(lt); g.append(lab);
+      const toggle = () => { this.culture = this.culture === c.id ? null : c.id; this.render(); };
+      g.addEventListener('click', toggle); g.addEventListener('keydown', e => { if ((e as KeyboardEvent).key === 'Enter' || (e as KeyboardEvent).key === ' ') { e.preventDefault(); toggle(); } });
+      root.append(g);
     });
     const g = svg('g'); root.append(g);
     const order = [...vis].sort((a, b) => (a.id === sel?.id ? 1 : 0) - (b.id === sel?.id ? 1 : 0));
@@ -127,24 +186,60 @@ export class ThreadsView {
     return wrap;
   }
 
-  // ---- list
+  // ---- shared row
+  private row(s: Strand, sel: Strand | null, from?: string) {
+    const on = sel?.id === s.id;
+    const e = STATUS[s.status];
+    const ev = [`${s.for.length} for`, `${s.against.length} against`, (s.passages ?? []).length ? `${(s.passages ?? []).length} primary passage${(s.passages ?? []).length === 1 ? '' : 's'}` : ''].filter(Boolean).join(' · ');
+    const other = from ? (s.from === from ? s.to : s.from) : null;
+    return h('li', null, h('button', { class: 'th-row' + (on ? ' on' : ''), style: `--c:${CARRIED[s.carried].color}`, 'aria-pressed': String(on), 'aria-expanded': String(on), on: { click: () => set({ strand: on ? null : s.id }) } },
+      h('span', { class: 'th-route' }, from ? [h('b', { 'aria-hidden': 'true' }, s.from === from ? '→ ' : '← '), this.name(other!)] : [this.name(s.from), h('b', { 'aria-hidden': 'true' }, ' → '), this.name(s.to)]),
+      h('span', { class: 'th-what' }, s.what),
+      h('span', { class: 'th-meta' },
+        lineSample(s.directness, CARRIED[s.carried].color), h('span', null, DIRECT[s.directness].label),
+        h('span', { class: 'th-dot', style: `--c:${e.color}`, title: e.label }, h('i'), s.status),
+        h('span', { class: 'dim' }, fmtRange(s.start, s.end))),
+      h('span', { class: 'th-ev' }, ev)), on ? this.card(s) : null);
+  }
+
+  // ---- by thread
   private listView(vis: Strand[], sel: Strand | null) {
     const byThread = new Map<string, Strand[]>(); vis.forEach(s => { (byThread.get(s.thread) ?? byThread.set(s.thread, []).get(s.thread)!).push(s); });
-    return h('div', { class: 'th-list' }, THREADS.filter(t => byThread.has(t.id)).map(t =>
-      h('section', { class: 'th-group' },
-        h('h3', { style: `--c:${CARRIED[t.carried].color}` }, h('i'), t.name),
-        h('p', { class: 'dim small' }, t.blurb),
-        h('ul', null, byThread.get(t.id)!.sort((a, b) => a.start - b.start).map(s =>
-          h('li', null, h('button', { class: 'th-row' + (sel?.id === s.id ? ' on' : ''), style: `--c:${CARRIED[s.carried].color}`, 'aria-pressed': String(sel?.id === s.id), on: { click: () => set({ strand: sel?.id === s.id ? null : s.id }) } },
-            h('span', { class: 'th-route' }, this.name(s.from), h('b', { 'aria-hidden': 'true' }, ' → '), this.name(s.to)),
-            h('span', { class: 'th-what' }, s.what),
-            h('span', { class: 'th-meta' }, fmtRange(s.start, s.end), ' · ', DIRECT[s.directness].label)), sel?.id === s.id ? this.card(s) : null))))));
+    const groups = THREADS.filter(t => byThread.has(t.id));
+    return h('div', { class: 'th-list' }, groups.map((t, i) => {
+      const items = byThread.get(t.id)!.sort((a, b) => a.start - b.start);
+      const open = !!this.thread || !!this.query || groups.length === 1 || (sel ? items.some(s => s.id === sel.id) : i === 0);
+      return h('details', { class: 'th-group', open, style: `--c:${CARRIED[t.carried].color}` },
+        h('summary', null, h('i'), h('span', { class: 'th-gname' }, t.name), h('em', null, String(items.length))),
+        h('p', { class: 'th-blurb' }, t.blurb),
+        h('ul', null, items.map(s => this.row(s, sel))));
+    }));
+  }
+
+  // ---- by culture: everything one culture gave and received
+  private culturesView(vis: Strand[], sel: Strand | null) {
+    const touching = (id: string) => vis.filter(s => s.from === id || s.to === id);
+    const groups = [...new Set(CULTURES.map(c => c.group))];
+    return h('div', { class: 'th-list th-cultures' }, groups.map(g => {
+      const cs = CULTURES.filter(c => c.group === g && touching(c.id).length);
+      if (!cs.length) return null;
+      return h('section', { class: 'th-cgroup' }, h('h3', null, g), cs.map(c => {
+        const out = vis.filter(s => s.from === c.id), inn = vis.filter(s => s.to === c.id);
+        const open = this.culture === c.id || (!!sel && (sel.from === c.id || sel.to === c.id) && this.culture === null && false);
+        const d = h('details', { class: 'th-cult', open },
+          h('summary', null, h('span', { class: 'th-cname' }, c.name), h('span', { class: 'th-cnum', title: 'Received / gave' }, `← ${inn.length}  → ${out.length}`)),
+          out.length ? h('div', null, h('h4', null, 'Gave'), h('ul', null, out.sort((a, b) => a.start - b.start).map(s => this.row(s, sel, c.id)))) : null,
+          inn.length ? h('div', null, h('h4', null, 'Received'), h('ul', null, inn.sort((a, b) => a.start - b.start).map(s => this.row(s, sel, c.id)))) : null);
+        d.addEventListener('toggle', () => { if (d.open && this.culture !== c.id) { this.culture = c.id; this.syncBar(); } else if (!d.open && this.culture === c.id) { this.culture = null; this.syncBar(); } });
+        return d;
+      }));
+    }));
   }
 
   private passage(p: import('../types').Passage) {
     const comp = p.compStart == null && p.compEnd == null ? 'not dated here' : p.compStart === p.compEnd ? `c. ${fmtYear(p.compStart!)}` : `${p.compStart == null ? '?' : fmtYear(p.compStart)} – ${p.compEnd == null ? '?' : fmtYear(p.compEnd)}`;
     return h('figure', { class: 'th-q' },
-      h('blockquote', { lang: /hebrew|greek|latin|akkad|sumer|egypt|sanskrit|avest|chinese|old persian/i.test(p.language) && !/english|translat/i.test(p.language) ? undefined : undefined }, '“' + p.quote + '”'),
+      h('blockquote', null, '“' + p.quote + '”'),
       h('figcaption', null, h('b', null, p.work + ' ' + p.locator), ' · ', p.language),
       h('dl', { class: 'th-dates' },
         h('dt', null, 'Work composed'), h('dd', null, comp, h('span', { class: 'dim' }, ' — ' + p.compBasis)),
@@ -167,15 +262,16 @@ export class ThreadsView {
           h('span', { class: 'tag' }, fmtRange(s.start, s.end)), h('span', { class: 'tag' }, 'by ' + (MEDIUM[s.medium] ?? s.medium)),
           h('span', { class: 'tag d-' + s.directness, title: DIRECT[s.directness].tip }, DIRECT[s.directness].label),
           h('span', { title: 'Evidence for the transfer itself' }, badge(s.status))),
-        h('button', { class: 'btn small th-close', 'aria-label': 'Close details', on: { click: () => set({ strand: null }) } }, 'Close')),
+        h('div', { class: 'th-cardbtns' },
+          h('button', { class: 'btn small', on: { click: () => { this.culture = s.from; this.mode = 'cultures'; set({ strand: null }); this.render(); } } }, 'Everything ' + this.name(s.from).split(' (')[0] + ' gave'),
+          h('button', { class: 'btn small th-close', 'aria-label': 'Close details', on: { click: () => set({ strand: null }) } }, 'Close'))),
       h('p', null, s.note),
       s.for.length ? h('div', { class: 'lc-g' }, h('h4', { class: 'pos' }, 'Evidence for'), list(s.for, 'pos')) : null,
       s.against.length ? h('div', { class: 'lc-g' }, h('h4', { class: 'neg' }, 'Against, or limits'), list(s.against, 'neg')) : null,
       s.unresolved?.length ? h('div', { class: 'lc-g' }, h('h4', null, 'Unresolved'), list(s.unresolved)) : null,
-      (s.passages ?? []).length ? h('div', { class: 'lc-g th-pass' }, h('h4', null, 'Primary passages'), (s.passages ?? []).map(id => PASSAGE_BY_ID[id]).filter(Boolean).map(p => this.passage(p))) : null,
+      (s.passages ?? []).length ? h('div', { class: 'lc-g th-pass' }, h('h4', null, `Primary passages (${(s.passages ?? []).length})`), (s.passages ?? []).map(id => PASSAGE_BY_ID[id]).filter(Boolean).map(p => this.passage(p))) : null,
       rel.length ? h('div', { class: 'lc-g' }, h('h4', null, 'Related records'), h('div', { class: 'chips' }, rel.map(id => h('a', { class: 'chip', href: `#/map?e=${id}`, on: { click: (e: Event) => { e.preventDefault(); set({ view: 'map', selected: { kind: 'entry', id } }); } } }, ENTRY_BY_ID[id].title)))) : null,
-      h('details', { class: 'sec small', open: true }, h('summary', null, 'Sources', h('em', null, String(s.src.length))), h('ul', { class: 'srcs' }, s.src.map(sourceCard))),
-      h('p', { class: 'rule' }, 'Status grades the evidence for this transfer, not for either culture. Model-free: nothing here is inferred by software.'));
+      h('details', { class: 'sec small' }, h('summary', null, 'Sources', h('em', null, String(s.src.length))), h('ul', { class: 'srcs' }, s.src.map(sourceCard))),
+      h('p', { class: 'rule' }, 'Status grades the evidence for this transfer, not for either culture.'));
   }
 }
-void STATUS;

@@ -1,0 +1,38 @@
+[
+ {
+  "candidate": {
+   "brief": "ie-primary-papers",
+   "records": [],
+   "title": "Massive migration from the steppe is a source for Indo-European languages in Europe (bioRxiv preprint v1)",
+   "authors": "Haak W., Lazaridis I., Patterson N., Rohland N., Mallick S., Llamas B., ... Reich D.",
+   "year": 2015,
+   "venue": "bioRxiv 013433 (preprint of Nature 522:207-211)",
+   "url": "https://www.biorxiv.org/content/10.1101/013433v1.full",
+   "doi": "10.1101/013433",
+   "accessed": "2026-11-17",
+   "kind": "primary",
+   "discipline": "Population genetics / historical linguistics",
+   "stance": "supports",
+   "ask_addressed": "Open and quote the primary aDNA and phylogenetic papers on Indo-European origins: Haak et al. 2015, Allentoft et al. 2015, Damgaard et al. 2018, Narasimhan et al. 2019, Bouckaert et al. 2012, Heggarty et al. 2023, Lazaridis et al. on the Anatolian question. Use bioRxiv, Europe PMC, PMC, institutional repositories, or Crossref/Unpaywall to find open copies.",
+   "quote": "Corded Ware people from Germany traced ~3/4 of their ancestry to the Yamnaya, documenting a massive migration into the heartland of Europe",
+   "summary": "Genome-wide data from 69 ancient Europeans show Yamnaya-related steppe ancestry arriving in Corded Ware Germany ~4,500 years ago; the authors present this as support for a steppe origin of at least some European Indo-European languages.",
+   "limits": "Preprint text, not the published Nature version (the title changed from 'is' to 'was'). The paper itself says 'ancient DNA is silent on the question of the languages spoken by preliterate populations' and cautions the PIE homeland 'cannot be determined from the data reported here'. Language transfer is inferred, not shown. Co-authors include proponents of the steppe model.",
+   "reliability": "unassessed",
+   "review": {
+    "status": "unreviewed",
+    "by": null
+   },
+   "strand": {
+    "from": "Pontic-Caspian steppe (Yamnaya)",
+    "to": "Late Neolithic central Europe (Corded Ware)",
+    "carried": "people",
+    "what": "steppe ancestry, with Indo-European languages argued to ride on it",
+    "medium": "migration",
+    "start": -3000,
+    "end": -2500,
+    "directness": "documented"
+   }
+  },
+  "reason": "unreachable: bioRxiv returned HTTP 429 on the check and again on one retry after a pause; page not opened, quote not re-found by the verifier"
+ }
+]

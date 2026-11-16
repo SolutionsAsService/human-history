@@ -1,0 +1,372 @@
+[
+ {
+  "brief": "ie-primary-papers",
+  "records": [],
+  "title": "Population genomics of Bronze Age Eurasia",
+  "authors": "Allentoft M.E., Sikora M., Sjogren K.-G., ... Willerslev E.",
+  "year": 2015,
+  "venue": "Nature 522:167-172",
+  "url": "https://www.nature.com/articles/nature14507",
+  "doi": "10.1038/nature14507",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Population genetics / historical linguistics",
+  "stance": "supports",
+  "ask_addressed": "Open and quote the primary aDNA and phylogenetic papers on Indo-European origins: Haak et al. 2015, Allentoft et al. 2015, Damgaard et al. 2018, Narasimhan et al. 2019, Bouckaert et al. 2012, Heggarty et al. 2023, Lazaridis et al. on the Anatolian question. Use bioRxiv, Europe PMC, PMC, institutional repositories, or Crossref/Unpaywall to find open copies.",
+  "quote": "Our findings are consistent with the hypothesized spread of Indo-European languages during the Early Bronze Age.",
+  "summary": "101 low-coverage Bronze Age genomes show large-scale migrations and replacements across Eurasia; the authors call the pattern consistent with an Early Bronze Age spread of Indo-European languages.",
+  "limits": "Only the abstract was opened (full text paywalled). 'Consistent with' is the authors' own hedge: the paper measures ancestry, not language. Companion to Haak et al. Verifier: strand changed from people/documented to language/inferred because the quoted passage is a hedged language claim; DNA shows ancestry, not language.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Pontic-Caspian steppe",
+   "to": "Europe and Central/South Siberia",
+   "carried": "language",
+   "what": "Indo-European languages (authors say findings are 'consistent with' an Early Bronze Age spread; the migrations themselves are in the abstract's preceding sentence)",
+   "medium": "migration",
+   "start": -3000,
+   "end": -1000,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "ie-primary-papers",
+  "records": [],
+  "title": "137 ancient human genomes from across the Eurasian steppes",
+  "authors": "Damgaard P.B., Marchi N., Rasmussen S., ... Willerslev E.",
+  "year": 2018,
+  "venue": "Nature 557:369-374",
+  "url": "https://www.nature.com/articles/s41586-018-0094-2",
+  "doi": "10.1038/s41586-018-0094-2",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Population genetics / historical linguistics",
+  "stance": "context",
+  "ask_addressed": "Open and quote the primary aDNA and phylogenetic papers on Indo-European origins: Haak et al. 2015, Allentoft et al. 2015, Damgaard et al. 2018, Narasimhan et al. 2019, Bouckaert et al. 2012, Heggarty et al. 2023, Lazaridis et al. on the Anatolian question. Use bioRxiv, Europe PMC, PMC, institutional repositories, or Crossref/Unpaywall to find open copies.",
+  "quote": "transformed the Eurasian steppes from being inhabited by Indo-European speakers of largely West Eurasian ancestry to the mostly Turkic-speaking groups of the present day",
+  "summary": "Covers the steppe after the Bronze Age migrations; shows Scythian, Xiongnu, Hun and later groups mixing so that West Eurasian-ancestry Indo-European speakers gave way to East Asian-ancestry Turkic speakers.",
+  "limits": "Only the abstract was opened (paywalled). It is about steppe history after the Indo-European dispersal, so it is context for the steppe side, not a test of the homeland. Language assignments rest on the historical record, not the DNA. Verifier: directness lowered from documented to inferred because the strand ties ancestry turnover to a language turnover, and the language side rests on the historical record.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Western Eurasian steppe (Indo-European-speaking)",
+   "to": "Eurasian steppe (Turkic-speaking, East Asian ancestry)",
+   "carried": "people",
+   "what": "ancestry turnover linked to a language turnover",
+   "medium": "migration",
+   "start": -200,
+   "end": 1500,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "ie-primary-papers",
+  "records": [],
+  "title": "The formation of human populations in South and Central Asia",
+  "authors": "Narasimhan V.M., Patterson N., Moorjani P., ... Reich D.",
+  "year": 2019,
+  "venue": "Science 365:eaat7487 (author manuscript, PMC6822619)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822619/",
+  "doi": "10.1126/science.aat7487",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Population genetics / historical linguistics",
+  "stance": "supports",
+  "ask_addressed": "Open and quote the primary aDNA and phylogenetic papers on Indo-European origins: Haak et al. 2015, Allentoft et al. 2015, Damgaard et al. 2018, Narasimhan et al. 2019, Bouckaert et al. 2012, Heggarty et al. 2023, Lazaridis et al. on the Anatolian question. Use bioRxiv, Europe PMC, PMC, institutional repositories, or Crossref/Unpaywall to find open copies.",
+  "quote": "tracking a movement of people that affected both regions and that likely spread the unique shared features shared between Indo-Iranian and Balto-Slavic languages",
+  "summary": "523 ancient genomes: Steppe pastoralist ancestry reached South Asia after ~4000 years ago with the same profile as Bronze Age eastern Europe, read as the carrier of Indo-Iranian languages; Iranian-related ancestry is argued to be less plausible.",
+  "limits": "Argues Steppe ancestry is the more plausible vehicle; the abstract itself notes 'There is no ancient DNA yet for the ANI and ASI' (inferred statistically). Language link is inferential. Says nothing on the Anatolian branch.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Eurasian steppe via Central Asia",
+   "to": "South Asia",
+   "carried": "language",
+   "what": "Indo-Iranian (Indo-European) languages with Steppe ancestry",
+   "medium": "migration",
+   "start": -2000,
+   "end": -1000,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "ie-primary-papers",
+  "records": [],
+  "title": "Mapping the origins and expansion of the Indo-European language family",
+  "authors": "Bouckaert R., Lemey P., Dunn M., Greenhill S.J., Alekseyenko A.V., Drummond A.J., Gray R.D., Suchard M.A., Atkinson Q.D.",
+  "year": 2012,
+  "venue": "Science 337:957-960 (author manuscript, PMC4112997)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4112997/",
+  "doi": "10.1126/science.1219669",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Computational phylogenetics / historical linguistics",
+  "stance": "supports",
+  "ask_addressed": "Open and quote the primary aDNA and phylogenetic papers on Indo-European origins: Haak et al. 2015, Allentoft et al. 2015, Damgaard et al. 2018, Narasimhan et al. 2019, Bouckaert et al. 2012, Heggarty et al. 2023, Lazaridis et al. on the Anatolian question. Use bioRxiv, Europe PMC, PMC, institutional repositories, or Crossref/Unpaywall to find open copies.",
+  "quote": "We find decisive support for an Anatolian over a steppe origin.",
+  "summary": "Bayesian phylogeographic model of vocabulary from 103 languages favours an Anatolian root and a farming-linked expansion beginning in the 9th millennium BP.",
+  "limits": "Superseded in part by later work (Chang et al. 2015 and Heggarty et al. 2023 get different roots; Heggarty uses ancestry-enabled trees and a new cognate database). The paper's own PMC page notes a published correction (Science 342:1446). Authors include proponents of the Anatolian view.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Anatolia",
+   "to": "Europe and the rest of the Indo-European area",
+   "carried": "language",
+   "what": "Indo-European, spread with farming",
+   "medium": "migration",
+   "start": -7000,
+   "end": -4500,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "ie-primary-papers",
+  "records": [],
+  "title": "Language trees with sampled ancestors support a hybrid model for the origin of Indo-European languages",
+  "authors": "Heggarty P., Anderson C., Scarborough M., ... Gray R.D.",
+  "year": 2023,
+  "venue": "Science 381:eabg0818 (open repository copy: Leiden University)",
+  "url": "https://scholarlypublications.universiteitleiden.nl/handle/1887/3720269",
+  "doi": "10.1126/science.abg0818",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Computational phylogenetics / historical linguistics",
+  "stance": "supports",
+  "ask_addressed": "Open and quote the primary aDNA and phylogenetic papers on Indo-European origins: Haak et al. 2015, Allentoft et al. 2015, Damgaard et al. 2018, Narasimhan et al. 2019, Bouckaert et al. 2012, Heggarty et al. 2023, Lazaridis et al. on the Anatolian question. Use bioRxiv, Europe PMC, PMC, institutional repositories, or Crossref/Unpaywall to find open copies.",
+  "quote": "it does not rule out an initial homeland south of the Caucasus, with a subsequent branch northward onto the steppe and then across Europe.",
+  "summary": "New core-vocabulary database and ancestry-enabled trees give a root of ~8120 yr B.P., which the authors say is not consistent with the Steppe hypothesis; they propose a hybrid homeland south of the Caucasus with a later steppe branch.",
+  "limits": "Only the abstract on the repository page was opened (science.org returned 403; the University Jaume I copy sits behind an Anubis bot wall and was not used). Criticised by Kassian and Starostin 2025.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "South of the Caucasus (West Asia)",
+   "to": "Pontic-Caspian steppe, then Europe",
+   "carried": "language",
+   "what": "Indo-European (hybrid model)",
+   "medium": "unknown",
+   "start": -6100,
+   "end": -4000,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "ie-primary-papers",
+  "records": [],
+  "title": "The genetic history of the Southern Arc: A bridge between West Asia and Europe",
+  "authors": "Lazaridis I., Alpaslan-Roodenberg S., Acar A., ... Reich D.",
+  "year": 2022,
+  "venue": "Science 377:eabm4247 (author manuscript, PMC10064553)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10064553/",
+  "doi": "10.1126/science.abm4247",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Population genetics / historical linguistics",
+  "stance": "supports",
+  "ask_addressed": "Open and quote the primary aDNA and phylogenetic papers on Indo-European origins: Haak et al. 2015, Allentoft et al. 2015, Damgaard et al. 2018, Narasimhan et al. 2019, Bouckaert et al. 2012, Heggarty et al. 2023, Lazaridis et al. on the Anatolian question. Use bioRxiv, Europe PMC, PMC, institutional repositories, or Crossref/Unpaywall to find open copies.",
+  "quote": "suggesting that the homeland of the Indo-Anatolian language family was in West Asia, with only secondary dispersals of non-Anatolian Indo-Europeans from the steppe.",
+  "summary": "727 ancient genomes from Anatolia and neighbours show Anatolia had negligible impact from later Yamnaya migrations, so the authors suggest a West Asian homeland for Indo-Anatolian, with Yamnaya a secondary dispersal.",
+  "limits": "The paper states 'Language is not encoded in the genome'; the homeland claim is an inference from the absence of steppe ancestry in Anatolian-speaking regions, not a measurement. Several authors also wrote the 2015 steppe papers.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "West Asian highlands (Caucasus/Armenia region)",
+   "to": "Anatolia and the steppe (Indo-Anatolian split)",
+   "carried": "language",
+   "what": "Proto-Indo-Anatolian, splitting into Anatolian and Indo-European",
+   "medium": "migration",
+   "start": -4000,
+   "end": -2000,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "ie-primary-papers",
+  "records": [],
+  "title": "Genomic insights into the origin of farming in the ancient Near East",
+  "authors": "Lazaridis I., Nadel D., Rollefson G., ... Reich D.",
+  "year": 2016,
+  "venue": "Nature 536:419-424 (author manuscript, PMC5003663)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5003663/",
+  "doi": "10.1038/nature19310",
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Population genetics / historical linguistics",
+  "stance": "context",
+  "ask_addressed": "Open and quote the primary aDNA and phylogenetic papers on Indo-European origins: Haak et al. 2015, Allentoft et al. 2015, Damgaard et al. 2018, Narasimhan et al. 2019, Bouckaert et al. 2012, Heggarty et al. 2023, Lazaridis et al. on the Anatolian question. Use bioRxiv, Europe PMC, PMC, institutional repositories, or Crossref/Unpaywall to find open copies.",
+  "quote": "farmers related to those from Iran spread northward into the Eurasian steppe",
+  "summary": "44 ancient Near Eastern genomes show Anatolian-related farmers spreading west into Europe and Iran-related farmers north into the steppe, which supplies the Near Eastern ancestry of the Yamnaya.",
+  "limits": "Abstract gives no date for the northward spread; dates are broad. It bears on the Anatolian question only indirectly (it documents farmer ancestry in Europe, not language).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Iran / Zagros",
+   "to": "Eurasian steppe",
+   "carried": "people",
+   "what": "Iranian-related farmer ancestry",
+   "medium": "migration",
+   "start": -6000,
+   "end": -3000,
+   "directness": "documented"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "ie-primary-papers",
+  "records": [],
+  "title": "Do 'language trees with sampled ancestors' really support a 'hybrid model' for the origin of Indo-European? Thoughts on the most recent attempt at yet another IE phylogeny",
+  "authors": "Kassian A.S., Starostin G.",
+  "year": 2025,
+  "venue": "Humanities and Social Sciences Communications 12:682",
+  "url": "https://www.nature.com/articles/s41599-025-04986-7",
+  "doi": "10.1057/s41599-025-04986-7",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Historical linguistics",
+  "stance": "fails_to_support",
+  "ask_addressed": "Quote each paper's own statement of what it shows and of its limits, and the strongest published criticisms.",
+  "quote": "there remain serious issues when it comes to marking cognation between different characters",
+  "summary": "Critique of Heggarty et al. 2023: data quality improved, but cognacy coding does not separate cognacy from areal diffusion, and the tree topology and datings contradict historical evidence in several ways.",
+  "limits": "Authors belong to the 'Moscow school' and argue for a different method (intermediate reconstructions), so they have a stake. Does not itself support the steppe hypothesis.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "South of the Caucasus (West Asia)",
+   "to": "Pontic-Caspian steppe, then Europe",
+   "carried": "language",
+   "what": "Indo-European (hybrid model)",
+   "medium": "unknown",
+   "start": -6100,
+   "end": -4000,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "ie-primary-papers",
+  "records": [],
+  "title": "Discussion: Are the Origins of Indo-European Languages Explained by the Migration of the Yamnaya Culture to the West?",
+  "authors": "Klejn L.S., Haak W., Lazaridis I., Patterson N., Reich D., Kristiansen K., Sjogren K.-G., Allentoft M.E., Sikora M., Willerslev E.",
+  "year": 2017,
+  "venue": "European Journal of Archaeology 21(1)",
+  "url": "https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/discussion-are-the-origins-of-indo-european-languages-explained-by-the-migration-of-the-yamnaya-culture-to-the-west/9E34F625389AF81B7EC16012F1D21FD9",
+  "doi": "10.1017/eaa.2017.35",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Archaeology",
+  "stance": "context",
+  "ask_addressed": "Quote each paper's own statement of what it shows and of its limits, and the strongest published criticisms.",
+  "quote": "Klejn, however, has come to the conclusion that the authors’ objections do not assuage his doubts.",
+  "summary": "Klejn criticises the step from the 2015 genetic migration to the Indo-European language inference; the 2015 authors reply and Klejn answers again.",
+  "limits": "Only the abstract was opened (full text paywalled), so Klejn's specific arguments are not quoted here. Verifier: stance lowered from contradicts to context; the quoted abstract sentence only records that Klejn remained unpersuaded, not his arguments. Page shows online date 28 July 2017, print issue Feb 2018 (vol. 21 no. 1, pp. 3-17); year kept as 2017 (online).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Pontic-Caspian steppe (Yamnaya)",
+   "to": "Central and northern Europe",
+   "carried": "language",
+   "what": "Indo-European",
+   "medium": "migration",
+   "start": -3000,
+   "end": -2500,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "ie-primary-papers",
+  "records": [],
+  "title": "Kossinna's smile",
+  "authors": "Heyd V.",
+  "year": 2017,
+  "venue": "Antiquity 91(356):348-359",
+  "url": "https://www.cambridge.org/core/journals/antiquity/article/kossinnas-smile/8ABA3BD9132B7605E8871236065CD4E3",
+  "doi": "10.15184/aqy.2017.21",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Archaeology",
+  "stance": "fails_to_support",
+  "ask_addressed": "Quote each paper's own statement of what it shows and of its limits, and the strongest published criticisms.",
+  "quote": "there is considerable evidence for centuries of connections and interactions across the continent, as far as Iberia.",
+  "summary": "An archaeologist argues the Yamnaya-to-Corded Ware picture from the two 2015 studies is too simple; the evidence points to long interaction across Europe rather than a single transmission.",
+  "limits": "Only the abstract was opened (full text 'temporarily unavailable'). The author is a specialist in the region's archaeology and is not hostile to genetics (he says genetics has much to offer archaeology).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Pontic-Caspian steppe (Yamnaya)",
+   "to": "Central Europe (Corded Ware)",
+   "carried": "people",
+   "what": "Yamnaya-related ancestry and culture",
+   "medium": "migration",
+   "start": -3000,
+   "end": -2500,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ }
+]

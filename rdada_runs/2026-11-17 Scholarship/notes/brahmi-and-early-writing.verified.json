@@ -1,0 +1,366 @@
+[
+ {
+  "brief": "brahmi-and-early-writing",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The Hybrid Origin of Brāhmī Script from Aramaic, Phoenician and Greek Letters",
+  "authors": "Pillai, K.D.",
+  "year": 2023,
+  "venue": "Indi@logs 10: 93-122 (SOAS)",
+  "url": "https://ddd.uab.cat/pub/indialogs/indialogs_a2023v10/indialogs_a2023v10p93.pdf",
+  "doi": "10.5565/rev/indialogs.213",
+  "kind": "secondary",
+  "discipline": "Indology / epigraphy",
+  "stance": "context",
+  "ask_addressed": "Open modern scholarship on the origin of Brahmi (Salomon 1998; Falk 2018; Indi@logs hybrid-origin paper)",
+  "quote": "Brāhmī was not derived from a single script, but instead was a hybrid invention by Indian scholars from Aramaic, Phoenician and Greek letters",
+  "summary": "Proposes Brahmi as a deliberate hybrid of Aramaic, Phoenician and Greek letters. Its introduction also states there is no consensus on Brahmi's origin and cites Salomon 1998 and Falk 1993/2018 (second-hand, not opened here).",
+  "limits": "Single-author minority proposal (author affiliated with SOAS, University of London); letter-by-letter comparison argument, no new inscriptional evidence; Phoenician/Greek input and 'western Semitic trader' are inferred. Salomon and Falk claims here are only as reported by Pillai. Verifier: quote found in the abstract of the opened PDF; strand start/end dates removed as the researcher's approximation, not shown by the page. Quote shortened by dropping the leading 'I argue that' (25-word cap).",
+  "strand": {
+   "from": "Achaemenid Aramaic, Phoenician and Greek writing",
+   "to": "Mauryan India (Brahmi)",
+   "carried": "writing",
+   "what": "letterforms for Brahmi, with indigenous Indian scholars as inventors",
+   "medium": "unknown",
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "brahmi-and-early-writing",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Writing systems (ch. 9, ed. E. Bashir), section 9.2 'General historical and analytical' by S. Baums",
+  "authors": "Baums, S.",
+  "year": null,
+  "venue": "Chapter 9 'Writing systems' in a handbook on South Asian languages (volume title not shown on opened PDF)",
+  "url": "https://stefanbaums.com/publications/baums_2016_1.pdf",
+  "doi": null,
+  "kind": "secondary",
+  "discipline": "Indology / epigraphy",
+  "stance": "supports",
+  "ask_addressed": "Open modern scholarship on the origin of Brahmi (Salomon 1998; Falk 2018; Indi@logs hybrid-origin paper)",
+  "quote": "it remains possible, though by no means certain, that he or his immediate predecessors may have invented the Brahmi script on the model of Kharosthi",
+  "summary": "Specialist overview: Kharosthi is tied to Achaemenid Aramaic scribal practice and dated no later than the 4th c. BCE; for Brahmi, there is no conclusive evidence for writing in mainland India before Asoka, so creation by Asoka or predecessors on the Kharosthi model is possible.",
+  "limits": "Overview chapter, not a new analysis; cautious ('by no means certain'). Year not shown on the opened page. Brahmi-from-Kharosthi is one position among several (Falk-type creation view), not consensus. Verifier: quote found in plain pdftotext of the opened PDF with whitespace removed (two-column layout; check_quote could not match it). Strand dates -350/-250 are the researcher's approximation from 'before the third century BCE' and 'Asoka'.",
+  "strand": {
+   "from": "Kharosthi (Aramaic-derived), Achaemenid northwest",
+   "to": "Mauryan Brahmi",
+   "carried": "writing",
+   "what": "model for the Brahmi script, possibly invented under or just before Asoka",
+   "medium": "court_or_empire",
+   "start": -350,
+   "end": -250,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "brahmi-and-early-writing",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Ancient Egypt and the earliest known stages of alphabetic writing",
+  "authors": "Haring, B.J.J.",
+  "year": 2019,
+  "venue": "In Boyes & Steele (eds), Understanding Relations Between Scripts II: Early Alphabets, Oxbow, pp. 53-67",
+  "url": "https://scholarlypublications.universiteitleiden.nl/download/1887/3295773/1?col=81522199610002711",
+  "doi": null,
+  "kind": "skeptical",
+  "discipline": "Egyptology / history of writing",
+  "stance": "fails_to_support",
+  "ask_addressed": "the Wadi el-Hol inscriptions (Darnell et al. 2005), the Proto-Sinaitic decipherment debate",
+  "quote": "the Proto-Sinaitic inscriptions have largely remained undeciphered, the Wadi el-Ḥôl texts entirely so",
+  "summary": "Egyptologist's review: Proto-Sinaitic and Wadi el-Hol datings are controversial (Hamilton c.1850-1700; Sass later c.1300 BC); Darnell's early-Middle-Kingdom reading is attractive but rests on two inscriptions of at most 28 signs; the Egyptian inspiration of the script remains obscure.",
+  "limits": "Quote found in the PDF text (plain pdftotext, whitespace removed) at the Leiden repository download link (record: hdl.handle.net/1887/3295773; the bare handle resolves only to a JavaScript catalogue shell). Sceptical on dating and decipherment, not a denial of Egyptian sign models. Strand dates -1850/-1300 follow the Hamilton (c.1850-1700) and Sass (c.1300) datings the article reports.",
+  "strand": {
+   "from": "Egyptian hieroglyphic and hieratic writing",
+   "to": "Proto-Sinaitic / Wadi el-Hol alphabetic script",
+   "carried": "writing",
+   "what": "acrophonic alphabetic signs modelled on Egyptian signs",
+   "medium": "unknown",
+   "start": -1850,
+   "end": -1300,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "brahmi-and-early-writing",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The Egyptian background of early alphabetic writing",
+  "authors": "Haring, B.J.J.",
+  "year": 2025,
+  "venue": "In The Dawn of Writing Systems, National Museum of World Writing Systems, pp. 239-254",
+  "url": "https://scholarlypublications.universiteitleiden.nl/download/1887/4210940/1?col=81522199610002711",
+  "doi": null,
+  "kind": "secondary",
+  "discipline": "Egyptology / history of writing",
+  "stance": "fails_to_support",
+  "ask_addressed": "the Wadi el-Hol inscriptions (Darnell et al. 2005), the Proto-Sinaitic decipherment debate",
+  "quote": "without a satisfactory decipherment of the Wadi el-Hol abjad texts it is impossible to say if they are really related to the expedition texts",
+  "summary": "Recent review: without a satisfactory decipherment of the Wadi el-Hol abjad texts it is impossible to say whether they are really related to the Amenemhat III expedition texts, and a much later date cannot be excluded.",
+  "limits": "Quote found in the PDF text (plain pdftotext, whitespace removed) at the Leiden repository download link (record: hdl.handle.net/1887/4210940); the page prints 'el-Hol' without diacritics. Researcher's fragment 'it is impossible to say' replaced by the full sentence. Strand dates are the researcher's approximation and are not stated in this passage.",
+  "strand": {
+   "from": "Egyptian hieroglyphic and hieratic writing",
+   "to": "Proto-Sinaitic / Wadi el-Hol alphabetic script",
+   "carried": "writing",
+   "what": "Wadi el-Hol abjad inscriptions and their date and relation to Egyptian expedition texts",
+   "medium": "unknown",
+   "start": -1850,
+   "end": -1300,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "brahmi-and-early-writing",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Proto-Sinaitic – Progenitor of the Alphabet",
+  "authors": "Simons, F.",
+  "year": 2011,
+  "venue": "Rosetta 9: 16-40 (University of Birmingham)",
+  "url": "https://rosetta.bham.ac.uk/wp-content/uploads/2024/02/Simons_Proto-Sinaitic_Rosetta9.pdf",
+  "doi": null,
+  "kind": "secondary",
+  "discipline": "Egyptology / epigraphy",
+  "stance": "supports",
+  "ask_addressed": "the Wadi el-Hol inscriptions (Darnell et al. 2005), the Proto-Sinaitic decipherment debate",
+  "quote": "The proto-Sinaitic script almost certainly used the principle of acrophony to assign phonetic values to its signs.",
+  "summary": "Argues Proto-Sinaitic is the first alphabet, drawing its signs from Egyptian hieroglyphic and hieratic and assigning values acrophonically; notes several scholars deny acrophony.",
+  "limits": "Online journal article, 2011 (older than the 2019+ reviews); the author's own decipherment readings are contested; acrophony is denied by some. Verifier: strand dates -1850/-1500 are the researcher's approximation; the article discusses an early date c.1850 BC and a later c.1550 BC.",
+  "strand": {
+   "from": "Egyptian hieroglyphic and hieratic writing",
+   "to": "Proto-Sinaitic script (Sinai)",
+   "carried": "writing",
+   "what": "sign shapes and acrophonic principle",
+   "medium": "unknown",
+   "start": -1850,
+   "end": -1500,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "brahmi-and-early-writing",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Early alphabetic writing in the ancient Near East: the 'missing link' from Tel Lachish",
+  "authors": "Höflmayer, F., Misgav, H., Webster, L., Streit, K.",
+  "year": 2021,
+  "venue": "Antiquity 95(381): 705-719",
+  "url": "https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/C73F769B7CF3A7E4E2607958A096B7D8/S0003598X2000157Xa.pdf/early-alphabetic-writing-in-the-ancient-near-east-the-missing-link-from-tel-lachish.pdf",
+  "doi": "10.15184/aqy.2020.157",
+  "kind": "primary",
+  "discipline": "Archaeology / epigraphy",
+  "stance": "context",
+  "ask_addressed": "the Wadi el-Hol inscriptions (Darnell et al. 2005), the Proto-Sinaitic decipherment debate",
+  "quote": "The date for the development of early alphabetic script is still disputed",
+  "summary": "Reports a Lachish inscription argued to bridge the gap between Sinai/Egypt (19th-18th c. BC) and later Levantine alphabetic texts; also records that the dating of the earliest alphabet is disputed (Sass's lower dates vs Darnell's Wadi el-Hol dates).",
+  "limits": "The quote is the article's own statement of the dispute; the Lachish reading is the authors' proposal and gap-filling is argued, not settled. Verifier: stance lowered from supports to context, because the quoted sentence states that the date is disputed and does not support any one position. Strand dates follow the abstract (19th to 15th c. BC).",
+  "strand": {
+   "from": "Egypt and Sinai early alphabet",
+   "to": "Levantine Canaanite alphabet",
+   "carried": "writing",
+   "what": "alphabetic script spread and continuity across the Middle-to-Late Bronze Age",
+   "medium": "unknown",
+   "start": -1850,
+   "end": -1450,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "brahmi-and-early-writing",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Digital Imaging and Archaeometric Analysis of the Cascajal Block: Establishing Context and Authenticity for the Earliest Known Olmec Text",
+  "authors": "Englehardt, J.D., Insaurralde Caballero, M.A., Melgar Tísoc, E.R., Velázquez Maldonado, L.R., Guzmán Torres, V., Bernard, H.N., Carrasco, M.D.",
+  "year": 2020,
+  "venue": "Ancient Mesoamerica 31: 189-209",
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/42B1EB580DAA062892886EA04F115046/S0956536119000257a.pdf/digital_imaging_and_archaeometric_analysis_of_the_cascajal_block_establishing_context_and_authenticity_for_the_earliest_known_olmec_text.pdf",
+  "doi": "10.1017/S0956536119000257",
+  "kind": "primary",
+  "discipline": "Archaeometry / Mesoamerican archaeology",
+  "stance": "context",
+  "ask_addressed": "the dating of Chinese and Mesoamerican writing (Cascajal block, Rodriguez Martinez et al. 2006)",
+  "quote": "Doubts linger, however, regarding the object’s authenticity,",
+  "summary": "Re-examines the Cascajal block with imaging and pXRF; reports its material and manufacture are consistent with securely provenanced Olmec serpentine and argues this supports authenticity, while stating doubts persist (Bruhns et al. 2007; Cyphers 2007) over its lack of secure context.",
+  "limits": "Quote found (plain pdftotext, whitespace removed). Stance lowered from supports to context, because the quoted passage states persisting doubts about authenticity; the authenticity-supporting claim is the authors' analysis, not this quote. Authenticity is supported by material comparison, not by excavation context; the block remains undated by direct methods; whether its signs are true writing is a separate question. Strand dates removed as the researcher's approximation.",
+  "strand": {
+   "from": "Olmec Gulf Coast sign system (Middle Formative)",
+   "to": "Later Mesoamerican writing systems",
+   "carried": "writing",
+   "what": "an ancestral sign system possibly preserved on the Cascajal block",
+   "medium": "unknown",
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "brahmi-and-early-writing",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The Cascajal Block: The Earliest Precolumbian Writing",
+  "authors": "Skidmore, J.",
+  "year": 2006,
+  "venue": "Mesoweb Reports (Precolumbia Mesoweb Press)",
+  "url": "https://www.mesoweb.org/reports/Cascajal.pdf",
+  "doi": null,
+  "kind": "secondary",
+  "discipline": "Mesoamerican epigraphy",
+  "stance": "context",
+  "ask_addressed": "the dating of Chinese and Mesoamerican writing (Cascajal block, Rodriguez Martinez et al. 2006)",
+  "quote": "Clearly associated with the Olmec civilization and dating to between approximately 1000 and 800 BCE, this script is the earliest in Mesoamerica",
+  "summary": "Summarises Rodriguez Martinez et al., Science 313 (2006), the original claim: 62 signs on a serpentine block near San Lorenzo, dated about 1000-800 BCE by associated ceramics.",
+  "limits": "Secondary summary of the Science paper (which was not opened); its date rests on associated ceramics in a quarry debris pile, a point later critics press. The Science article itself was a paywalled gap. Verifier: quote and 2006 date found on the opened PDF. Strand dates follow the 1000-800 BCE date it states.",
+  "strand": {
+   "from": "Olmec Gulf Coast",
+   "to": "Later Mesoamerican writing",
+   "carried": "writing",
+   "what": "earliest New World script claim",
+   "medium": "unknown",
+   "start": -1000,
+   "end": -800,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "brahmi-and-early-writing",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "The earliest writing? Sign use in the seventh millennium BC at Jiahu, Henan Province, China",
+  "authors": "Li, X., Harbottle, G., Zhang, J., Wang, C.",
+  "year": 2003,
+  "venue": "Antiquity 77(295): 31-44",
+  "url": "https://www.cambridge.org/core/product/6DDB3E0583ACB6896B3DBCAC143FA846",
+  "doi": "10.1017/S0003598X00061329",
+  "kind": "primary",
+  "discipline": "Archaeology",
+  "stance": "fails_to_support",
+  "ask_addressed": "the dating of Chinese and Mesoamerican writing (Cascajal block, Rodriguez Martinez et al. 2006)",
+  "quote": "The authors decide rather that the signs in this very early period performed as symbols connected with ritual practice",
+  "summary": "Reports tortoise-shell signs from Jiahu burials but concludes they are ritual symbols, presaging a long period of sign use leading to a writing system, not writing itself.",
+  "limits": "Only the abstract page was opened (full text paywalled), so only what the abstract says is supported. Year, volume, pages and DOI are taken from the page's own metadata (published 2003/03; online 2015). Strand dates are the researcher's approximation; the title gives the seventh millennium BC.",
+  "strand": {
+   "from": "Neolithic Jiahu sign use",
+   "to": "Shang Chinese writing",
+   "carried": "writing",
+   "what": "sign tradition leading eventually to a writing system",
+   "medium": "unknown",
+   "start": -6600,
+   "end": -1250,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "brahmi-and-early-writing",
+  "records": [],
+  "accessed": "2026-11-17",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "title": "Evidence of Earliest Maya Writing (Mesoweb report on San Bartolo)",
+  "authors": null,
+  "year": null,
+  "venue": "Mesoweb Reports",
+  "url": "https://www.mesoweb.org/reports/SanBartoloWriting.html",
+  "doi": null,
+  "kind": "secondary",
+  "discipline": "Mesoamerican epigraphy",
+  "stance": "context",
+  "ask_addressed": "the dating of Chinese and Mesoamerican writing (Cascajal block, Rodriguez Martinez et al. 2006)",
+  "quote": "the supposed glyphs are more likely to be iconic elements than signs that form a continuous text",
+  "summary": "Discussing San Bartolo (Saturno et al. 2006), notes the claim for writing on an Olmec cylinder seal (c.650 BC) is doubted: signs are likely iconic elements, not text (citing Houston 2004).",
+  "limits": "Unsigned Mesoweb page with no date shown on the page itself, so year is null (2006 is the date of Saturno et al., which it discusses). Relies on Saturno et al. 2006 and Houston 2004, neither opened, so stance lowered from fails_to_support to context. Bears on the cylinder-seal claim, not directly on Cascajal. Strand dates removed as the researcher's approximation.",
+  "strand": {
+   "from": "Olmec Gulf Coast sign systems",
+   "to": "Maya and other Mesoamerican writing",
+   "carried": "writing",
+   "what": "priority between Olmec, Maya and Zapotec early scripts",
+   "medium": "unknown",
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ }
+]
