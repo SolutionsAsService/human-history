@@ -1,0 +1,824 @@
+[
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Tacitus, Annals 15.44: Nero punishes the Christians after the fire of Rome (Church and Brodribb translation)",
+    "authors": "Tacitus (trans. A. J. Church and W. J. Brodribb)",
+    "year": null,
+    "venue": "Perseus Digital Library",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0078:book=15:chapter=44",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions",
+    "quote": "Nero fastened the guilt and inflicted the most exquisite tortures on a class hated for their abominations, called Christians by the populace.",
+    "summary": "Tacitus says Nero, to quell the belief that the Great Fire of AD 64 was ordered, put the blame on a group the populace called Christians. It is the earliest pagan description of Nero's punishment of Christians, written about 50 years after the event.",
+    "limits": "The Latin form (Chrestianos as first written in the manuscript, later corrected) and the authenticity and historicity debates are in the caution candidates below. This is a 19th-c. English translation, not a critical Latin edition.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Tacitus, Annals",
+      "locator": "15.44.2",
+      "language": "Latin (quoted in English)",
+      "edition": "Church and Brodribb translation (Perseus; Random House 1942 reprint of the 19th-c. translation)",
+      "composition": {
+        "start": 105,
+        "end": 116,
+        "basis": "Wikipedia 'Annals (Tacitus)' (opened 2026-11-17): infobox gives c. AD 105-116 and says Tacitus 'was well into writing it by AD 116'; Annals was his final work. Tertiary source: date should be re-checked against a commentary before the ledger relies on it."
+      },
+      "witness": "Annals 11-16 (incl. 15.44) survive only in the Second Medicean, Florence Laur. plut. 68.2, written at Monte Cassino 'perhaps during the abbacy of Richer (1038-55AD)' (R. Pearse, tertullian.org/rpearse/tacitus/); C. P. Jones (2017) calls it 'the only manuscript'. Annals 1-6 are a separate codex (Mediceus I, c. 850, Fulda)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Tacitus, Annals 15.44: Christus, Pilatus and the 'mischievous superstition'",
+    "authors": "Tacitus (trans. A. J. Church and W. J. Brodribb)",
+    "year": null,
+    "venue": "Perseus Digital Library",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0078:book=15:chapter=44",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions",
+    "quote": "Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius",
+    "summary": "Tacitus places the founder 'Christus' under Tiberius and the procurator Pontius Pilatus, and says the 'mischievous superstition' broke out again in Judaea, 'the first source of the evil', and then in Rome. He names no source for this.",
+    "limits": "Tacitus says 'procurator' where the Pilate Stone points to 'prefect'; scholars read this as Tacitus' anachronism, and a few as a sign of interpolation (see the Tacitus on Jesus candidate). The passage shows what an elite Roman historian believed c. 115, not independent evidence about Jesus. Verifier note: strand start (was 30) removed: no page opened dates the movement's start; end 64 from Shaw's abstract (fire of July 64). The passage's own 'reign of Tiberius' is the only date Tacitus gives.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Tacitus, Annals",
+      "locator": "15.44.3",
+      "language": "Latin (quoted in English)",
+      "edition": "Church and Brodribb translation (Perseus; Random House 1942 reprint of the 19th-c. translation)",
+      "composition": {
+        "start": 105,
+        "end": 116,
+        "basis": "Wikipedia 'Annals (Tacitus)' (opened 2026-11-17): infobox gives c. AD 105-116 and says Tacitus 'was well into writing it by AD 116'; Annals was his final work. Tertiary source: date should be re-checked against a commentary before the ledger relies on it."
+      },
+      "witness": "Annals 11-16 (incl. 15.44) survive only in the Second Medicean, Florence Laur. plut. 68.2, written at Monte Cassino 'perhaps during the abbacy of Richer (1038-55AD)' (R. Pearse, tertullian.org/rpearse/tacitus/); C. P. Jones (2017) calls it 'the only manuscript'. Annals 1-6 are a separate codex (Mediceus I, c. 850, Fulda)."
+    },
+    "strand": {
+      "from": "Judaea",
+      "to": "Rome",
+      "carried": "religion",
+      "what": "the Christian movement, described by a hostile Roman historian as a 'superstition' that began in Judaea and reached Rome",
+      "medium": "unknown",
+      "start": null,
+      "end": 64,
+      "directness": "documented"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Tacitus, Histories 5.2: competing accounts of Jewish origins",
+    "authors": "Tacitus (trans. A. J. Church and W. J. Brodribb)",
+    "year": null,
+    "venue": "Perseus Digital Library",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0080:book=5:chapter=2",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions",
+    "quote": "Others, again, assign a very distinguished origin to the Jews, alleging that they were the Solymi, a nation celebrated in the poems of Homer",
+    "summary": "Tacitus lists several origin stories (Cretan fugitives, Egyptian emigrants led by Hierosolymus and Judas, Ethiopians, Assyrians, Homeric Solymi) without choosing one, introducing them as he 'is about to relate the last days of a famous city'.",
+    "limits": "These are Roman reports, not Jewish self-description, and none matches the Hebrew Bible's account. They are claims Tacitus records, not demonstrated routes.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Tacitus, Histories",
+      "locator": "5.2",
+      "language": "Latin (quoted in English)",
+      "edition": "Church and Brodribb translation, The History (Perseus; Random House, 1873 per Perseus, reprinted 1942)",
+      "composition": {
+        "start": 100,
+        "end": 110,
+        "basis": "Wikipedia 'Histories (Tacitus)' (opened 2026-11-17): 'Written c. 100-110'; covers AD 69-96. Tertiary source; re-check against a commentary."
+      },
+      "witness": "Histories 1-5 survive only in the Second Medicean (Laur. plut. 68.2, Monte Cassino, c. 1038-55 per R. Pearse), where they stand as books 17-21 of a combined 30-book sequence."
+    },
+    "strand": {
+      "from": "Crete, Egypt, Ethiopia or Assyria (as variously claimed)",
+      "to": "Jews",
+      "carried": "people",
+      "what": "alleged origin of the Jewish people, as reported by Tacitus from several competing stories",
+      "medium": "migration",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Tacitus, Histories 5.5: Jewish customs, 'hatred of enemies' and monotheism",
+    "authors": "Tacitus (trans. A. J. Church and W. J. Brodribb)",
+    "year": null,
+    "venue": "Perseus Digital Library",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0080:book=5:chapter=5",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions",
+    "quote": "among themselves they are inflexibly honest and ever ready to shew compassion, though they regard the rest of mankind with all the hatred of enemies.",
+    "summary": "In the same chapter Tacitus says Jews have 'purely mental conceptions of Deity, as one in essence' and no images, and that proselytes are taught to 'despise all gods, to disown their country'. He pairs real knowledge (aniconism, circumcision, burial) with a hostile frame.",
+    "limits": "A hostile Roman senator's characterisation, not a neutral ethnography. The claim that Jewish burial follows 'the Egyptian custom' is Tacitus' own and is not shown to be a transfer. Same dating and manuscript limits as other Histories entries.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Tacitus, Histories",
+      "locator": "5.5",
+      "language": "Latin (quoted in English)",
+      "edition": "Church and Brodribb translation, The History (Perseus; Random House, 1873 per Perseus, reprinted 1942)",
+      "composition": {
+        "start": 100,
+        "end": 110,
+        "basis": "Wikipedia 'Histories (Tacitus)' (opened 2026-11-17): 'Written c. 100-110'; covers AD 69-96. Tertiary source; re-check against a commentary."
+      },
+      "witness": "Histories 1-5 survive only in the Second Medicean (Laur. plut. 68.2, Monte Cassino, c. 1038-55 per R. Pearse), where they stand as books 17-21 of a combined 30-book sequence."
+    },
+    "strand": {
+      "from": "Egypt (as Tacitus claims)",
+      "to": "Jewish practice",
+      "carried": "custom",
+      "what": "Tacitus' claim that Jewish burial and belief about the lower world follow Egyptian custom",
+      "medium": "unknown",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Tacitus, Histories 5.13: the siege omens and the Eastern prophecy",
+    "authors": "Tacitus (trans. A. J. Church and W. J. Brodribb)",
+    "year": null,
+    "venue": "Perseus Digital Library",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0080:book=5:chapter=13",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions",
+    "quote": "in the ancient records of their priests was contained a prediction of how at this very time the East was to grow powerful",
+    "summary": "Tacitus reports prodigies at the temple and a belief that rulers 'coming from Judaea' would acquire universal empire, a prophecy he says pointed to Vespasian and Titus; he also gives the besieged as 600,000 ('I have heard').",
+    "limits": "Tacitus relays the prediction second-hand and applies it to the Flavians; it is a Roman reading of Jewish expectation, and the 600,000 figure is hearsay. Josephus is a parallel but was not opened here. Verifier note: strand years (was 66-70) removed: the page does not give them.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Tacitus, Histories",
+      "locator": "5.13",
+      "language": "Latin (quoted in English)",
+      "edition": "Church and Brodribb translation, The History (Perseus; Random House, 1873 per Perseus, reprinted 1942)",
+      "composition": {
+        "start": 100,
+        "end": 110,
+        "basis": "Wikipedia 'Histories (Tacitus)' (opened 2026-11-17): 'Written c. 100-110'; covers AD 69-96. Tertiary source; re-check against a commentary."
+      },
+      "witness": "Histories 1-5 survive only in the Second Medicean (Laur. plut. 68.2, Monte Cassino, c. 1038-55 per R. Pearse), where they stand as books 17-21 of a combined 30-book sequence."
+    },
+    "strand": {
+      "from": "Jewish priestly oracle tradition",
+      "to": "Roman (Flavian) reading of prophecy",
+      "carried": "idea",
+      "what": "prophecy of a world ruler from Judaea, read as pointing to Vespasian and Titus",
+      "medium": "text",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Suetonius, Claudius 25.4: Jews expelled 'at the instigation of Chrestus'",
+    "authors": "Suetonius (trans. J. C. Rolfe)",
+    "year": 1914,
+    "venue": "Loeb Classical Library via LacusCurtius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions",
+    "quote": "Since the Jews constantly made disturbances at the instigation of Chrestus",
+    "summary": "Suetonius records, undated, a Claudian expulsion of Jews from Rome after disturbances connected with 'Chrestus'. It sits in a topical list, so the date has to come from other sources (Orosius gives AD 49; Dio 60.6.6 reports no expulsion).",
+    "limits": "Whether Chrestus is Jesus (a spelling of Christus), an otherwise unknown agitator, or someone else is disputed (see the Chrestus candidates). The Latin is ambiguous on whether all Jews or only the agitators were expelled. Verifier note: strand window set to AD 41-53, the maximal window for the expulsion given by Wikipedia 'Claudius' expulsion of Jews from Rome' (was 41-54, the whole reign). The Latin wording was removed from the summary because the Thayer page shows only the English.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Suetonius, Divus Claudius",
+      "locator": "25.4",
+      "language": "Latin (quoted in English)",
+      "edition": "J. C. Rolfe, Loeb Classical Library, 1914 (public domain; transcription by B. Thayer, LacusCurtius/Penelope)",
+      "composition": {
+        "start": 119,
+        "end": 121,
+        "basis": "Wikipedia 'The Twelve Caesars' (opened 2026-11-17): 'written in 121 AD ... while he served as a personal secretary to ... Hadrian'; dated 119-121 AD by the Septicius Clarus dedication. Tertiary source."
+      },
+      "witness": "Oldest surviving copy of the Lives: made at Tours in the late 8th or early 9th c., now Bibliotheque nationale de France (Wikipedia 'The Twelve Caesars'); not checked whether this is the witness for the Claudius and Nero chapters specifically."
+    },
+    "strand": {
+      "from": "Jewish communities in Rome",
+      "to": "Roman imperial authority",
+      "carried": "people",
+      "what": "expulsion of Jews from Rome under Claudius amid disturbances 'at the instigation of Chrestus' (possibly early Christian preaching among Roman Jews)",
+      "medium": "court_or_empire",
+      "start": 41,
+      "end": 53,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Suetonius, Nero 16.2: punishment of the Christians",
+    "authors": "Suetonius (trans. J. C. Rolfe)",
+    "year": 1914,
+    "venue": "Loeb Classical Library via LacusCurtius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions",
+    "quote": "Punishment was inflicted on the Christians, a class of men given to a new and mischievous superstition.",
+    "summary": "Suetonius lists the punishment of Christians among Nero's regulatory acts, with no mention of the fire of Rome. It agrees with Tacitus on 'mischievous superstition' (superstitio) but not on the occasion.",
+    "limits": "A one-line item in a list of reforms; it neither confirms nor denies the arson-scapegoat story. Tacitus and Suetonius wrote within a few years of each other, and whether Suetonius is independent of Tacitus was not established from the pages opened.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Suetonius, Nero",
+      "locator": "16.2",
+      "language": "Latin (quoted in English)",
+      "edition": "J. C. Rolfe, Loeb Classical Library, 1914 (public domain; transcription by B. Thayer, LacusCurtius/Penelope)",
+      "composition": {
+        "start": 119,
+        "end": 121,
+        "basis": "Wikipedia 'The Twelve Caesars' (opened 2026-11-17): 'written in 121 AD ... while he served as a personal secretary to ... Hadrian'; dated 119-121 AD by the Septicius Clarus dedication. Tertiary source."
+      },
+      "witness": "Oldest surviving copy of the Lives: made at Tours in the late 8th or early 9th c., now Bibliotheque nationale de France (Wikipedia 'The Twelve Caesars'); not checked whether this is the witness for the Claudius and Nero chapters specifically."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Cassius Dio 60.6.6: Claudius bars Jewish meetings but does not expel them",
+    "authors": "Cassius Dio (trans. E. Cary)",
+    "year": 1924,
+    "venue": "Loeb Classical Library via LacusCurtius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/60*.html",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "contradicts",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions; Chrestus identification",
+    "quote": "he did not drive them out, but ordered them, while continuing their traditional mode of life, not to hold meetings.",
+    "summary": "Dio places an action against Jews early in Claudius' reign and says he did not drive them out because they were too numerous, only forbade assemblies. This stands against the expulsion in Suetonius and Orosius.",
+    "limits": "Dio and Suetonius may describe different measures (AD 41 versus c. 49) or one event differently; the passage does not mention Chrestus or Christians.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Cassius Dio, Roman History",
+      "locator": "60.6.6",
+      "language": "Greek (quoted in English)",
+      "edition": "E. Cary, Loeb Classical Library, vol. VII, 1924 (public domain; Thayer transcription)",
+      "composition": {
+        "start": 211,
+        "end": 229,
+        "basis": "Wikipedia 'Cassius Dio' (opened 2026-11-17) quotes Dio: 'I spent ten years in collecting ... down to the death of Severus [211 AD], and twelve years more in composing my work'; history runs to AD 229. The range 211-229 is a loose reading of that, not a source's own date for these books. Verifier: the source gives 10 years collecting to 211 and 12 years composing, with no calendar dates; the 211-229 range is editor-conventional, not a source's date."
+      },
+      "witness": "Book 60 is among the books (56-60) that Wikipedia 'Cassius Dio' says survive complete; the manuscript witness was not established from pages opened."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Cassius Dio 66.7: the fall of Jerusalem and the tribute to Jupiter Capitolinus",
+    "authors": "Cassius Dio (trans. E. Cary)",
+    "year": 1925,
+    "venue": "Loeb Classical Library via LacusCurtius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/65*.html",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions (Dio 66.4-7)",
+    "quote": "From that time forth it was ordered that the Jews who continued to observe their ancestral customs should pay an annual tribute of two denarii",
+    "summary": "Dio narrates Titus' siege (three walls, burning of the sacred precinct, capture of 'Bargiora') and says Jerusalem fell 'on the very day of Saturn', dating the two-denarii tribute (fiscus Iudaicus) from that time.",
+    "limits": "Dio writes about 130 years after the siege and this part survives only in fragments or an epitome. The Thayer page is headed 'Epitome of Book 65' and shows the Loeb section marker 'LXVI 1' partway down, with the quoted sentence at chapter 7 section 2; the brief's 66.4-7 follows that numbering. The host marks the transcription as not yet proofread.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Cassius Dio, Roman History",
+      "locator": "66.7.2 (Loeb Epitome of Book LXV; siege narrative 66.4-7)",
+      "language": "Greek (quoted in English)",
+      "edition": "E. Cary, Loeb Classical Library, vol. VIII, 1925 (public domain; Thayer transcription, flagged by the host as not yet proofread)",
+      "composition": {
+        "start": 211,
+        "end": 229,
+        "basis": "Wikipedia 'Cassius Dio' (opened 2026-11-17) quotes Dio: 'I spent ten years in collecting ... down to the death of Severus [211 AD], and twelve years more in composing my work'; history runs to AD 229. The range 211-229 is a loose reading of that, not a source's own date for these books. Verifier: the source gives 10 years collecting to 211 and 12 years composing, with no calendar dates; the 211-229 range is editor-conventional, not a source's date."
+      },
+      "witness": "Books 61-80 survive only in fragments and the 11th-c. epitome of John Xiphilinus (Wikipedia 'Cassius Dio'); which of these carries this passage was not established from pages opened."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Cassius Dio 69.12: Aelia Capitolina and the cause of the Jewish revolt under Hadrian",
+    "authors": "Cassius Dio (trans. E. Cary)",
+    "year": 1925,
+    "venue": "Loeb Classical Library via LacusCurtius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions (Dio 69.12-14)",
+    "quote": "At Jerusalem he founded a city in place of the one which had been razed to the ground, naming it Aelia Capitolina",
+    "summary": "Dio gives the founding of Aelia Capitolina and a temple of Jupiter on the temple site as the cause of a 'war of no slight importance', in which Jews fortified positions with mines and walls.",
+    "limits": "Dio's causal account is one of several in modern scholarship; this entry does not resolve it. Dio never names Bar Kokhba in these chapters, so the link to the revolt of 132-135 rests on other sources. Book 69 survives only via Xiphilinus' epitome.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Cassius Dio, Roman History",
+      "locator": "69.12.1-2",
+      "language": "Greek (quoted in English)",
+      "edition": "E. Cary, Loeb Classical Library, vol. VIII, 1925 (public domain; Thayer transcription)",
+      "composition": {
+        "start": 211,
+        "end": 229,
+        "basis": "Wikipedia 'Cassius Dio' (opened 2026-11-17) quotes Dio: 'I spent ten years in collecting ... down to the death of Severus [211 AD], and twelve years more in composing my work'; history runs to AD 229. The range 211-229 is a loose reading of that, not a source's own date for these books. Verifier: the source gives 10 years collecting to 211 and 12 years composing, with no calendar dates; the 211-229 range is editor-conventional, not a source's date."
+      },
+      "witness": "Books 61-80 survive only in fragments and the 11th-c. epitome of John Xiphilinus (Wikipedia 'Cassius Dio'); which of these carries this passage was not established from pages opened."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Cassius Dio 69.14: the toll of the Hadrianic war in Judaea",
+    "authors": "Cassius Dio (trans. E. Cary)",
+    "year": 1925,
+    "venue": "Loeb Classical Library via LacusCurtius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions (Dio 69.12-14)",
+    "quote": "Five hundred and eighty thousand men were slain in the various raids and battles",
+    "summary": "Dio says fifty fortresses and 985 villages were razed, 580,000 killed in fighting, more by famine, disease and fire, and that Hadrian's letter to the senate omitted the usual 'if you and our children are in health' formula.",
+    "limits": "The figures are Dio's, with no source stated; treat them as an unverified total. The page gives no Roman casualty count.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Cassius Dio, Roman History",
+      "locator": "69.14.1",
+      "language": "Greek (quoted in English)",
+      "edition": "E. Cary, Loeb Classical Library, vol. VIII, 1925 (public domain; Thayer transcription)",
+      "composition": {
+        "start": 211,
+        "end": 229,
+        "basis": "Wikipedia 'Cassius Dio' (opened 2026-11-17) quotes Dio: 'I spent ten years in collecting ... down to the death of Severus [211 AD], and twelve years more in composing my work'; history runs to AD 229. The range 211-229 is a loose reading of that, not a source's own date for these books. Verifier: the source gives 10 years collecting to 211 and 12 years composing, with no calendar dates; the 211-229 range is editor-conventional, not a source's date."
+      },
+      "witness": "Books 61-80 survive only in fragments and the 11th-c. epitome of John Xiphilinus (Wikipedia 'Cassius Dio'); which of these carries this passage was not established from pages opened."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Pliny the Elder, Natural History, book 5 ch. 17: the Essenes west of the Dead Sea (Bostock and Riley translation)",
+    "authors": "Pliny the Elder (trans. J. Bostock and H. T. Riley)",
+    "year": null,
+    "venue": "Perseus Digital Library",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=5:chapter=15",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions",
+    "quote": "a people that live apart from the world, and marvellous beyond all others throughout the whole earth, for they have no women among them",
+    "summary": "Pliny places the Essenes west of Lake Asphaltites and describes them as celibate and moneyless, recruited by newcomers 'wearied with the miseries of life'; En-gedi, below them, is 'now ... a heap of ashes'.",
+    "limits": "Written within a decade of the war and dedicated to Titus; Pliny probably drew on a literary source. The passage does not tie the Essenes to Qumran or to Christianity; those links are modern inferences. Perseus numbers follow Bostock-Riley, not the modern 5.73 divisions. Verifier note: the modern section number 5.73 is not shown on the page, so it was removed from the title and locator.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Pliny the Elder, Naturalis Historia",
+      "locator": "Book 5, chapter 17 in Bostock-Riley numbering (Perseus chapter 15 page, marked '(17.)' in the text)",
+      "language": "Latin (quoted in English)",
+      "edition": "J. Bostock and H. T. Riley, Taylor and Francis, London, 1855 (Perseus)",
+      "composition": {
+        "start": 77,
+        "end": 79,
+        "basis": "Wikipedia 'Natural History (Pliny)' (opened 2026-11-17): 'Pliny wrote the first ten books in AD 77, and was engaged on revising the rest during the two remaining years of his life' (he died in AD 79). Tertiary source; Book 5 is within the first ten."
+      },
+      "witness": "About 307 extant medieval manuscripts in three independent stemma classes (Wikipedia 'Natural History (Pliny)'); which is the earliest witness for Book 5 was not established from the pages opened."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Philo, Against Flaccus 55: Alexandrian Jews confined to one quarter (38 CE)",
+    "authors": "Philo of Alexandria (trans. C. D. Yonge)",
+    "year": null,
+    "venue": "earlychristianwritings.com",
+    "url": "https://www.earlychristianwritings.com/yonge/book36.html",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions (Philo, Against Flaccus)",
+    "quote": "They drove the Jews entirely out of four quarters, and crammed them all into a very small portion of one",
+    "summary": "Philo, an Alexandrian Jew, says the Roman prefect Flaccus issued an edict calling Jews 'foreigners and aliens', after which the mob drove them from four of Alexandria's five districts into one and looted their shops.",
+    "limits": "Philo is a Jewish partisan writing about the persecution of his own community, and Flaccus is not a Roman historian; the brief names it expressly. Composition date is a loose inference (see basis). Verifier note: composition range set to null (no basis).",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Philo of Alexandria, In Flaccum (Against Flaccus)",
+      "locator": "55 (sections 53-56)",
+      "language": "Greek (quoted in English)",
+      "edition": "C. D. Yonge translation, as reproduced at earlychristianwritings.com",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "No page opened gives a date for writing Against Flaccus; the researcher's 38-41 range was a guess from the narrated events and was removed. Wikipedia 'Philo' dates the delegation to Gaius to 38 CE and says an event under Claudius places Philo's death between 45 and 50 CE."
+      },
+      "witness": "Manuscript tradition not established from the pages opened."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Philo, Embassy to Gaius 155-157: the Jews of Rome beyond the Tiber",
+    "authors": "Philo of Alexandria (trans. C. D. Yonge)",
+    "year": null,
+    "venue": "earlychristianwritings.com",
+    "url": "https://www.earlychristianwritings.com/yonge/book40.html",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Quote Roman and Greek historians on Jews and Christians from open editions (Philo, Embassy to Gaius)",
+    "quote": "And they were mostly Roman citizens, having been emancipated; for, having been brought as captives into Italy, they were manumitted",
+    "summary": "Philo describes a large Jewish quarter across the Tiber, mostly freedpeople and citizens, with synagogues, sabbath gatherings and temple tithes sent to Jerusalem, tolerated by Augustus; it is evidence for the community Claudius later disturbed.",
+    "limits": "Philo writes to praise Augustan policy and to nudge Claudius, so the picture is shaped for an argument. He mentions neither Chrestus nor any Christian group.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Philo of Alexandria, Legatio ad Gaium (Embassy to Gaius)",
+      "locator": "155-157",
+      "language": "Greek (quoted in English)",
+      "edition": "C. D. Yonge translation, as reproduced at earlychristianwritings.com",
+      "composition": {
+        "start": 41,
+        "end": 54,
+        "basis": "Philo's dates: Wikipedia 'Philo' (opened 2026-11-17) gives his delegation to Gaius in AD 38-40; the ERC 'Judaism and Rome' commentary (opened 2026-11-17) says 'As Philo wrote his treatise under Claudius' (Claudius ruled 41-54). Flaccus: range is the narrated events (the AD 38 riots) as terminus post quem; no page opened gives an independent date for its writing."
+      },
+      "witness": "Manuscript tradition not established from the pages opened."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "The Myth of the Neronian Persecution",
+    "authors": "Shaw, B. D.",
+    "year": 2015,
+    "venue": "Journal of Roman Studies 105, pp. 73-100",
+    "url": "https://www.cambridge.org/core/journals/journal-of-roman-studies/article/abs/myth-of-the-neronian-persecution/73AC9F872D273C643F4E910B87B1A234",
+    "doi": "10.1017/S0075435815000982",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Classics",
+    "stance": "contradicts",
+    "ask_addressed": "Composition dates with basis, earliest manuscript witness, and scholarly cautions (Tacitus authenticity debate, Chrestus identification)",
+    "quote": "The only source for this event is a brief passage in the historian Tacitus.",
+    "summary": "Shaw contests the conventional view that Nero ordered a general execution of Christians after the fire of July 64, and argues that Tacitus' passage reflects ideas of his own day. His abstract says the passage is 'probably genuine Tacitus', so the challenge is to historicity, not authorship.",
+    "limits": "Only the abstract and reference list opened (full text behind access). The abstract shows the debate is not about interpolation.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "The Historicity of the Neronian Persecution: A Response to Brent Shaw",
+    "authors": "Jones, C. P.",
+    "year": 2017,
+    "venue": "New Testament Studies 63(1), pp. 146-152",
+    "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/historicity-of-the-neronian-persecution-a-response-to-brent-shaw/72A73656C0F1372963C197F8945D38D3",
+    "doi": "10.1017/S0028688516000308",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Classics",
+    "stance": "supports",
+    "ask_addressed": "Composition dates with basis, earliest manuscript witness, and scholarly cautions (Tacitus authenticity debate, Chrestus identification)",
+    "quote": "In fact, there are no grounds for doubting Tacitus’ report of the persecution.",
+    "summary": "Jones answers Shaw and defends Tacitus' report. He argues that Chrestiani is not an anachronism, citing Acts 11.26 (Christianoi called first at Antioch) and the -ianus suffix as a hostile outsiders' name.",
+    "limits": "Jones separates Tacitus' report from the later tradition that Peter and Paul died in it. Both sides accept the passage as Tacitean, so this does not test the interpolation theory.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "The Historicity of the Neronian Persecution (on the manuscript reading Chrestiani)",
+    "authors": "Jones, C. P.",
+    "year": 2017,
+    "venue": "New Testament Studies 63(1), pp. 146-152",
+    "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/historicity-of-the-neronian-persecution-a-response-to-brent-shaw/72A73656C0F1372963C197F8945D38D3",
+    "doi": "10.1017/S0028688516000308",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest manuscript witness, and scholarly cautions (Tacitus authenticity debate, Chrestus identification)",
+    "quote": "In the only manuscript, the second Medicean, Chrestiani appears to have been changed to Christiani by a later hand",
+    "summary": "Jones reports that Annals 15.44's group name stands as Chrestiani in the sole witness and was later altered, bearing on the Chrestus/Christus spelling question and on how thinly the text is transmitted.",
+    "limits": "A scholar's description of the manuscript, not a collation; no image of the folio was opened. Whether the earlier spelling is Tacitus' or a scribe's is not settled by this sentence.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Tacitus and his manuscripts",
+    "authors": "Pearse, R.",
+    "year": null,
+    "venue": "tertullian.org",
+    "url": "https://www.tertullian.org/rpearse/tacitus/",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest manuscript witness, and scholarly cautions (Tacitus authenticity debate, Chrestus identification)",
+    "quote": "It was written at Monte Cassino, perhaps during the abbacy of Richer (1038-55AD).",
+    "summary": "Pearse gives the transmission of Annals 11-16 and Histories through the single Monte Cassino codex (Laur. 68.2), notes it may derive from a rustic-capital ancestor (Pearse cites an estimate of the 3rd or 4th century), and addresses the claim that Tacitus was a Renaissance forgery.",
+    "limits": "A site by a non-specialist for 'the interested layman'; the manuscript facts are his compilation of cited scholarship, and the date of the codex is his reading of those sources. Verifier note: the ancestor date was corrected from '5th century' to Pearse's 'at least 4th and probably 3rd century'.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Tacitus on Jesus (Wikipedia)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest manuscript witness, and scholarly cautions (Tacitus authenticity debate, Chrestus identification)",
+    "quote": "Most scholars hold the passage to be authentic and that Tacitus was the author.",
+    "summary": "A summary of the authenticity debate: most scholars hold the passage genuine; L. A. Yelnitsky has argued that 'procurator' betrays a Christian interpolation, while Crossan says Tacitus retrojected the title.",
+    "limits": "A Wikipedia synthesis that lists scholars by name; the scholarship it cites was not opened. A map to the literature, not evidence by itself.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Claudius' expulsion of Jews from Rome (Wikipedia)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Claudius%27_expulsion_of_Jews_from_Rome",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest manuscript witness, and scholarly cautions (Tacitus authenticity debate, Chrestus identification)",
+    "quote": "Scholars are divided on the identity of \"Chrestus\" in the Suetonius reference.",
+    "summary": "A synthesis of the Chrestus debate: Evans, Meier, Keener and Stern take Chrestus as Jesus; Benko takes him as an unknown agitator; Slingerland and Elliott doubt that Christian agitation caused the expulsion; chrestos was a common name, especially for slaves.",
+    "limits": "A Wikipedia synthesis; the named scholars' works were not opened. It also notes the date problem: Suetonius is topical, so the date rests on other texts. Verifier note: strand window set to AD 41-53 (the page's own maximal window; was 41-54).",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Jewish and Christ-believing groups in Rome",
+      "to": "Roman authorities",
+      "carried": "people",
+      "what": "whether the 'Chrestus' disturbances reflect early Christian preaching among Roman Jews",
+      "medium": "unknown",
+      "start": 41,
+      "end": 53,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Suetonius on Christians (Wikipedia)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Suetonius_on_Christians",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest manuscript witness, and scholarly cautions (Tacitus authenticity debate, Chrestus identification)",
+    "quote": "the overwhelming majority of scholars conclude that the passage is genuine",
+    "summary": "Argues that a Christian interpolator would hardly have written 'Chrestus' or called him a troublemaker, so Claudius 25.4 is taken as genuine; it also records the Latin ambiguity and the Chrestus/Christus spelling issue.",
+    "limits": "A Wikipedia synthesis. The quote concerns genuineness of the text, not whether Chrestus is Jesus, which is a separate question.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "roman-histories-on-jews-christians",
+    "records": [],
+    "title": "Philo, On the Embassy to Gaius 153-158 (commentary, Judaism and Rome project)",
+    "authors": null,
+    "year": null,
+    "venue": "Judaism and Rome project (ERC)",
+    "url": "https://www.judaism-and-rome.org/philo-embassy-gaius-153-158",
+    "doi": null,
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Classics",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest manuscript witness, and scholarly cautions (Tacitus authenticity debate, Chrestus identification)",
+    "quote": "yet Cassius Dio states that Claudius abandoned the idea because they were too numerous, and merely forbade their gatherings (LX.6.6)",
+    "summary": "A scholarly commentary from the ERC Judaism and Rome project that sets Philo's account of Roman Jews beside Acts 18:2, Suetonius Claudius 25.4, Dio 60.6.6 and Orosius, and says Philo wrote the Embassy 'under Claudius'.",
+    "limits": "The page was served with PHP deprecation notices but the commentary was readable. The page text opened shows no author or year for the entry, so those are null.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  }
+]
