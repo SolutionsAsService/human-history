@@ -1,0 +1,722 @@
+[
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Res Gestae Divi Augusti, heading (Latin)",
+  "authors": null,
+  "year": null,
+  "venue": "The Latin Library (Latin text; edition not named on page)",
+  "url": "https://www.thelatinlibrary.com/resgestae.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "Rerum gestarum divi Augusti, quibus orbem terrarum imperio populi Romani subiecit",
+  "summary": "The Latin heading states the claim of the monument: the deeds by which Augustus 'subjected the world to the empire of the Roman people', and his expenditures, as engraved on two bronze pillars at Rome.",
+  "limits": "The Latin Library page does not name the edition it reproduces. The heading is the text as inscribed at Rome per the Ancyra copy; the claim is self-presentation by Augustus (Livius, opened, calls the text propaganda).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Res Gestae Divi Augusti",
+   "locator": "Heading",
+   "language": "Latin",
+   "edition": "The Latin Library, resgestae.html (edition not named on the page; Thayer says the Loeb Latin rests on Mommsen's 2nd ed. 1883)",
+   "composition": {
+    "start": null,
+    "end": 14,
+    "basis": "Shipley (Loeb 1924 introduction, opened): not originally written in A.D. 14 but begun much earlier with later additions, the last words added in A.D. 14; Heurist/Cooley summary (opened): Augustus died 19 Aug 14 CE and the text was deposited with the Vestals"
+   },
+   "witness": "Bronze originals at Rome lost. Ancyra (Monumentum Ancyranum, Latin + Greek), Apollonia (Greek), Antioch in Pisidia (Latin, found 1914) and Sardis copies survive. Heurist (opened), citing Krencker and Schede, dates the Ancyra inscribing 'after Augustus's death and perhaps as late as 19 CE'"
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Res Gestae Divi Augusti, Greek version heading",
+  "authors": "Shipley, F.W. (trans.)",
+  "year": 1924,
+  "venue": "LacusCurtius (Bill Thayer), reproducing Loeb Classical Library 1924 (Shipley)",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Augustus/Res_Gestae/1*.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "Μεθηρμηνευμέναι ὑπεγράφησαν πράξεις τε καὶ δωρεαὶ Σεβαστοῦ θεοῦ",
+  "summary": "The contemporary Greek version of the Ancyra inscription titles the work 'the acts and gifts of the divine Augustus' and says they were left engraved on two bronze stelai at Rome.",
+  "limits": "Greek is a translation of the Latin, inscribed on an outer wall of the Ancyra temple per Shipley's introduction. Quoted exactly as the LacusCurtius page prints the Greek (accents as scanned).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Res Gestae Divi Augusti (Greek version)",
+   "locator": "Heading",
+   "language": "Greek",
+   "edition": "Loeb Classical Library (Shipley, 1924), as reproduced at LacusCurtius, Monumentum Ancyranum part I; Latin text based on Mommsen 2nd ed. 1883 per Shipley",
+   "composition": {
+    "start": null,
+    "end": 14,
+    "basis": "Shipley (Loeb 1924 introduction, opened): not originally written in A.D. 14 but begun much earlier with later additions, the last words added in A.D. 14; Heurist/Cooley summary (opened): Augustus died 19 Aug 14 CE and the text was deposited with the Vestals"
+   },
+   "witness": "Bronze originals at Rome lost. Ancyra (Monumentum Ancyranum, Latin + Greek), Apollonia (Greek), Antioch in Pisidia (Latin, found 1914) and Sardis copies survive. Heurist (opened), citing Krencker and Schede, dates the Ancyra inscribing 'after Augustus's death and perhaps as late as 19 CE'"
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Res Gestae Divi Augusti 26: extent of the provinces",
+  "authors": "Shipley, F.W. (trans.)",
+  "year": 1924,
+  "venue": "LacusCurtius (Bill Thayer), reproducing Loeb Classical Library 1924",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Augustus/Res_Gestae/5*.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "The provinces of the Gauls, the Spains, and Germany, bounded by the ocean from Gades to the mouth of the Elbe",
+  "summary": "In section 26 Augustus says he extended the boundaries of all provinces bordering peoples not yet subject, naming Gaul, Spain and Germany bounded by the Ocean from Gades to the Elbe, which he 'reduced to a state of peace'.",
+  "limits": "Augustus's own account; the claim for Germany as far as the Elbe was no longer true in 14 CE per Shipley's introduction. English by Shipley, Loeb 1924.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Res Gestae Divi Augusti",
+   "locator": "26",
+   "language": "Latin (quoted in English, Shipley)",
+   "edition": "Loeb Classical Library (Shipley, 1924), LacusCurtius Monumentum Ancyranum part V",
+   "composition": {
+    "start": null,
+    "end": 14,
+    "basis": "Shipley (Loeb 1924 introduction, opened): not originally written in A.D. 14 but begun much earlier with later additions, the last words added in A.D. 14; Heurist/Cooley summary (opened): Augustus died 19 Aug 14 CE and the text was deposited with the Vestals"
+   },
+   "witness": "Bronze originals at Rome lost. Ancyra (Monumentum Ancyranum, Latin + Greek), Apollonia (Greek), Antioch in Pisidia (Latin, found 1914) and Sardis copies survive. Heurist (opened), citing Krencker and Schede, dates the Ancyra inscribing 'after Augustus's death and perhaps as late as 19 CE'"
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Res Gestae Divi Augusti 27: Egypt added to the empire",
+  "authors": null,
+  "year": null,
+  "venue": "The Latin Library (edition not named on page)",
+  "url": "https://www.thelatinlibrary.com/resgestae.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "Aegyptum imperio populi Romani adieci.",
+  "summary": "Section 27 records the annexation of Egypt in the same phrasing of imperium populi Romani, and goes on to the Armenia decision.",
+  "limits": "Latin Library page does not name its edition. Short quotation; context (Armenia, province-making) not shown.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Res Gestae Divi Augusti",
+   "locator": "27",
+   "language": "Latin",
+   "edition": "The Latin Library, resgestae.html (edition not named)",
+   "composition": {
+    "start": null,
+    "end": 14,
+    "basis": "Shipley (Loeb 1924 introduction, opened): not originally written in A.D. 14 but begun much earlier with later additions, the last words added in A.D. 14; Heurist/Cooley summary (opened): Augustus died 19 Aug 14 CE and the text was deposited with the Vestals"
+   },
+   "witness": "Bronze originals at Rome lost. Ancyra (Monumentum Ancyranum, Latin + Greek), Apollonia (Greek), Antioch in Pisidia (Latin, found 1914) and Sardis copies survive. Heurist (opened), citing Krencker and Schede, dates the Ancyra inscribing 'after Augustus's death and perhaps as late as 19 CE'"
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Res Gestae Divi Augusti 34: the republic transferred",
+  "authors": "Shipley, F.W. (trans.)",
+  "year": 1924,
+  "venue": "LacusCurtius (Bill Thayer), reproducing Loeb Classical Library 1924",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Augustus/Res_Gestae/6*.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "I transferred the republic from my own control to the will of the senate and the Roman people.",
+  "summary": "Section 34 gives Augustus's own description of his settlement of 27 BCE as a restoration of the republic, followed by the title Augustus and a statement that he surpassed all in authority but had no more power than his colleagues.",
+  "limits": "Self-presentation; Livius (opened) summarises the whole text as 'propaganda'. English by Shipley.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Res Gestae Divi Augusti",
+   "locator": "34",
+   "language": "Latin (quoted in English, Shipley)",
+   "edition": "Loeb Classical Library (Shipley, 1924), LacusCurtius Monumentum Ancyranum part VI",
+   "composition": {
+    "start": null,
+    "end": 14,
+    "basis": "Shipley (Loeb 1924 introduction, opened): not originally written in A.D. 14 but begun much earlier with later additions, the last words added in A.D. 14; Heurist/Cooley summary (opened): Augustus died 19 Aug 14 CE and the text was deposited with the Vestals"
+   },
+   "witness": "Bronze originals at Rome lost. Ancyra (Monumentum Ancyranum, Latin + Greek), Apollonia (Greek), Antioch in Pisidia (Latin, found 1914) and Sardis copies survive. Heurist (opened), citing Krencker and Schede, dates the Ancyra inscribing 'after Augustus's death and perhaps as late as 19 CE'"
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Polybius, Histories 6.11: the mixed constitution of Rome",
+  "authors": null,
+  "year": 1923,
+  "venue": "LacusCurtius (Bill Thayer), reproducing Loeb Classical Library vol. III, 1923",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/6*.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "if one fixed one's eyes on the power of the consuls, the constitution seemed completely monarchical and royal",
+  "summary": "Polybius introduces the Roman constitution as a blend of consular (monarchical), senatorial (aristocratic) and popular (democratic) elements, so that even a native could not say which it was.",
+  "limits": "Quoted from the Loeb text on LacusCurtius, which the page itself says is not yet proofread. Polybius writes for Greek readers about the Rome of the Hannibalic war, not about the empire.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Polybius, Histories",
+   "locator": "6.11.12",
+   "language": "Greek (quoted in English, Loeb)",
+   "edition": "Loeb Classical Library vol. III (1923), LacusCurtius, text not yet proofread",
+   "composition": {
+    "start": -169,
+    "end": -146,
+    "basis": "Brink & Walbank, Classical Quarterly 4 (1954), opened: Mioni dates publication of all Book 6 before 146; Ziegler composition in the sixties then revision and publication before 146; Erbse long after 146. Range shown is one side of a live dispute."
+   },
+   "witness": "Not established from any opened source (manuscript witnesses not read); Loeb text reproduced at LacusCurtius."
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Caesar, Gallic War 1.1: the three parts of Gaul",
+  "authors": null,
+  "year": null,
+  "venue": "The Latin Library (edition not named on page)",
+  "url": "https://www.thelatinlibrary.com/caesar/gall1.shtml",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur.",
+  "summary": "Caesar opens by dividing Gaul into Belgae, Aquitani and Celts/Gauls, who 'differ from each other in language, customs and laws'; the Belgae are the bravest because furthest from the civilisation of 'our Province'.",
+  "limits": "Caesar is both author and protagonist; the framing of peoples is his, and a fixed ethnic map is argued by Creer to serve his narrative. The Latin Library page does not name its edition.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Caesar, Commentarii de Bello Gallico",
+   "locator": "1.1.1",
+   "language": "Latin",
+   "edition": "The Latin Library, gall1.shtml (edition not named)",
+   "composition": {
+    "start": -57,
+    "end": -50,
+    "basis": "Creer abstract (CAMWS 2016, opened): Caesar began writing as early as 57 BC and continued to 54 BC for books 1-6; Wikipedia 'Commentarii de Bello Gallico' (opened) summarises Nipperdey (all composed 50 BC), Adcock (written in stages, published together), Wiseman (yearly publication). Disputed."
+   },
+   "witness": "Earliest manuscripts named on the Wikipedia page opened: Amsterdam 73 (Fleury, later 9th c.) and a Corbie manuscript (last quarter of 9th c.)"
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Caesar, Gallic War 6.11: factions among the Gauls",
+  "authors": "McDevitte, W.A.; Bohn, W.S. (trans.)",
+  "year": 1869,
+  "venue": "Perseus Digital Library; W. A. McDevitte and W. S. Bohn translation, Harper & Brothers, New York, 1869",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0001:book=6:chapter=11",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "In Gaul there are factions not only in all the states, and in all the cantons and their divisions, but almost in each family",
+  "summary": "The opening of the Gaul/Germany digression: Caesar describes Gaul as divided by factions down to the household, a fact he uses to explain how Roman intervention could be framed as protecting the weak.",
+  "limits": "Translation by McDevitte and Bohn (1869), Perseus. Allen-Hornblower and Creer (separate candidates) argue the digression serves Caesar's military and political aims; this passage alone does not show that.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Caesar, Commentarii de Bello Gallico",
+   "locator": "6.11",
+   "language": "Latin (quoted in English, McDevitte and Bohn)",
+   "edition": "Perseus Digital Library, McDevitte and Bohn translation (Harper's New Classical Library, 1869)",
+   "composition": {
+    "start": -57,
+    "end": -50,
+    "basis": "Creer abstract (CAMWS 2016, opened): Caesar began writing as early as 57 BC and continued to 54 BC for books 1-6; Wikipedia 'Commentarii de Bello Gallico' (opened) summarises Nipperdey (all composed 50 BC), Adcock (written in stages, published together), Wiseman (yearly publication). Disputed."
+   },
+   "witness": "Earliest manuscripts named on the Wikipedia page opened: Amsterdam 73 (Fleury, later 9th c.) and a Corbie manuscript (last quarter of 9th c.)"
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Caesar, Gallic War 6.21: the Germans differ from the Gauls",
+  "authors": "McDevitte, W.A.; Bohn, W.S. (trans.)",
+  "year": 1869,
+  "venue": "Perseus Digital Library; McDevitte and Bohn translation, 1869",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0001:book=6:chapter=21",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "The Germans differ much from these usages, for they have neither Druids to preside over sacred offices, nor do they pay great regard to sacrifices.",
+  "summary": "Caesar's contrast: Germans have no druids and worship only the visible sun, fire and moon; their life is hunting and war. A Roman-authored ethnography of a people he never conquered.",
+  "limits": "Caesar's Germans are a rhetorical counterweight to his Gauls (Allen-Hornblower; Creer). Not independent observation of German religion; the date of the digression within the work is disputed.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Caesar, Commentarii de Bello Gallico",
+   "locator": "6.21",
+   "language": "Latin (quoted in English, McDevitte and Bohn)",
+   "edition": "Perseus Digital Library, McDevitte and Bohn translation (1869)",
+   "composition": {
+    "start": -57,
+    "end": -50,
+    "basis": "Creer abstract (CAMWS 2016, opened): Caesar began writing as early as 57 BC and continued to 54 BC for books 1-6; Wikipedia 'Commentarii de Bello Gallico' (opened) summarises Nipperdey (all composed 50 BC), Adcock (written in stages, published together), Wiseman (yearly publication). Disputed."
+   },
+   "witness": "Earliest manuscripts named on the Wikipedia page opened: Amsterdam 73 (Fleury, later 9th c.) and a Corbie manuscript (last quarter of 9th c.)"
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Livy, Ab urbe condita, Preface 7: Rome's empire accepted by the nations",
+  "authors": "Roberts, Canon (trans.)",
+  "year": 1912,
+  "venue": "Perseids (Perseus eng3), Roberts translation, J. M. Dent, London, 1912",
+  "url": "https://fgh.perseids.org/read/latinLit/phi0914/phi001/perseus-eng3/1.0.1-1.0.9",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "the nations of the world accept the statement with the same equanimity with which they accept her dominion",
+  "summary": "Livy says Rome's military renown is such that, when it claims Mars as founder's father, the nations accept it as readily as they accept Roman rule; the preface frames the history as moral decline from a mos maiorum that won and extended imperium.",
+  "limits": "Roberts translation (1912). Preface dating is disputed (see CAMWS candidate). Locator pr. 7 inferred from the Latin paragraph order, the page shows no section numbers.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Livy, Ab urbe condita",
+   "locator": "Praefatio 7",
+   "language": "Latin (quoted in English, Roberts)",
+   "edition": "Roberts translation, London: J. M. Dent; New York: E. P. Dutton, 1912, via Perseids",
+   "composition": {
+    "start": -33,
+    "end": -25,
+    "basis": "Camws abstract 'A More August Preface' (opened): older view 27-25 BCE (after the title Augustus, before the 25 BCE closing of Janus); Burton (2000, 2008) dates Book 1 to 33 BCE and the Praefatio to 32 BCE, with revision about 27 BCE. Disputed."
+   },
+   "witness": "Not established from any opened source."
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Tacitus, Agricola 21: Romanization of Britain",
+  "authors": "Church, A.J.; Brodribb, W.J. (trans.)",
+  "year": 1876,
+  "venue": "Perseus Digital Library; Church and Brodribb translation (Complete Works of Tacitus, Random House 1876, reprinted 1942)",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0081:chapter=21",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "All this in their ignorance, they called civilization, when it was but a part of their servitude.",
+  "summary": "Tacitus records Agricola's winter measures: temples, forums, houses, Roman education for chiefs' sons, the toga, then baths and banquets, which the Britons 'called civilization' though it was 'part of their servitude'.",
+  "limits": "Written by Agricola's son-in-law, a Roman senator, and the line is a famous rhetorical sting rather than a measured account of provincial culture; the sceptical modern view on Romanization is not in this source.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Tacitus, De vita Iulii Agricolae",
+   "locator": "21",
+   "language": "Latin (quoted in English, Church and Brodribb)",
+   "edition": "Church and Brodribb translation, Perseus (Complete Works of Tacitus, ed. Sara Bryant, Random House 1876, reprinted 1942)",
+   "composition": {
+    "start": 98,
+    "end": 98,
+    "basis": "Audano (Montesquieu.it, opened, in Italian): composition datable 'with good arguments' to 98 CE"
+   },
+   "witness": "Dickinson College Commentaries (opened) notes that chapter 21 begins on f. 58r of the codex Aesinas; manuscript date not read."
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Papyrus Giessen 40 (Constitutio Antoniniana), column 1 line 9",
+  "authors": null,
+  "year": null,
+  "venue": "Judaism and Rome database (Heurist), edition from papyri.info DDbDP P.Giss. 1 40",
+  "url": "https://heurist.huma-num.fr/judaism_and_rome/tpl/public-record/922",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "κατὰ τ]ὴ̣ν οἰκουμέν̣η̣ν π[ολιτ]είαν Ῥωμαίων",
+  "summary": "Greek papyrus text, line 9 (after didomi ... tois synapasin at the end of line 8): '[...] throughout the inhabited world the citizenship of the Romans'; oikoumene and politeia Romaion are legible, the rest restored or lost.",
+  "limits": "The column is extremely fragmentary and the restorations are contested (the Heurist commentary says so); the exception 'dediticii' is a restoration. The papyrus text is a copy of Caracalla's edict, not the original, and the edition printed here follows papyri.info DDbDP.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "P.Giss. 40 col. I (Constitutio Antoniniana)",
+   "locator": "col. I, lines 8-9 (quote is line 9)",
+   "language": "Greek",
+   "edition": "Heurist record 922, edition based on papyri.info/ddbdp/p.giss;1;40 (DDbDP, CC BY 3.0)",
+   "composition": {
+    "start": 212,
+    "end": 213,
+    "basis": "Heurist commentary (opened): early date supported by dated inscriptions showing new Aurelii as early as 212/3; ostia-antica.org (opened): consensus 212, perhaps 11 July, known in Asia Minor March 213"
+   },
+   "witness": "The papyrus itself (Giessen University Library, three edicts on one roll): Heurist dates it 211-215 CE; ostia-antica.org says the script suggests the early third century. The roll's last edict post-dates Caracalla's 215 visit to Egypt."
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Cassius Dio, Roman History, Epitome of Book 78: motive for the citizenship grant",
+  "authors": null,
+  "year": 1927,
+  "venue": "LacusCurtius (Bill Thayer), reproducing Loeb Classical Library vol. IX, 1927",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/78*.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "context",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2); Composition dates with basis, earliest witness, and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)",
+  "quote": "This was the reason why he made all the people in his empire Roman citizens; nominally he was honouring them",
+  "summary": "Dio (writing as a senator) says Caracalla extended citizenship to all subjects chiefly to increase tax revenue, because aliens did not pay most of the new inheritance and manumission taxes.",
+  "limits": "Dio is a hostile source, and the book survives only in an epitome (Xiphilinus per the Loeb). The Heurist commentary notes this motive is absent from the edict itself. Numbering: the Loeb page here is Book 78; Heurist cites it as 77 (78) 9.5.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Cassius Dio, Roman History",
+   "locator": "Epitome of Book 78, ch. 9 (cited by Heurist as 77 (78) 9.5)",
+   "language": "Greek (quoted in English, Loeb)",
+   "edition": "Loeb Classical Library vol. IX (1927), LacusCurtius, text not yet proofread",
+   "composition": {
+    "start": null,
+    "end": 229,
+    "basis": "Wikipedia 'Cassius Dio' (opened) quotes Dio: ten years collecting material to the death of Severus (211) and twelve composing; the history runs to 229. Not read in a scholarly work."
+   },
+   "witness": "Not established from any opened source; the book is transmitted through an epitome."
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Ammianus Marcellinus, Res Gestae 31.2.1: the Huns",
+  "authors": "Rolfe, J.C. (trans.)",
+  "year": 1939,
+  "venue": "LacusCurtius (Bill Thayer), reproducing Loeb Classical Library vol. III, 1939 (Rolfe)",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Ammian/31*.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Roman history",
+  "stance": "supports",
+  "ask_addressed": "Quote Roman primary sources on the empire itself (Res Gestae, Polybius 6.11-18, Caesar BG 1.1 and 6.11-28, Livy Preface, Tacitus Agricola 21, Constitutio Antoniniana, Ammianus 31.2)",
+  "quote": "but little known from ancient records, dwelling beyond the Maeotic Sea near the ice-bound ocean, exceed every degree of savagery.",
+  "summary": "Ammianus opens his digression on the Huns by calling them the origin of the coming disasters and describing them as little known from ancient records and exceeding every degree of savagery.",
+  "limits": "Burgersdijk and the CAMWS abstract (separate candidates) argue the ethnography is largely literary topos; this passage is the Latin author's portrait of an enemy, not neutral reporting.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Ammianus Marcellinus, Res Gestae",
+   "locator": "31.2.1",
+   "language": "Latin (quoted in English, Rolfe)",
+   "edition": "Loeb Classical Library vol. III (1939), LacusCurtius",
+   "composition": {
+    "start": 380,
+    "end": 391,
+    "basis": "Wikipedia 'Ammianus Marcellinus' (opened): written in Rome in the 380s, presumably completed before the destruction of the Serapeum in 391. Not read in a scholarly work."
+   },
+   "witness": "Not established from any opened source."
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Res Gestae Divi Augusti, Introduction (Shipley, Loeb 1924)",
+  "authors": "Shipley, F.W.",
+  "year": 1924,
+  "venue": "LacusCurtius (Bill Thayer), reproducing Loeb Classical Library 1924",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Augustus/Res_Gestae/Introduction*.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Classics / Roman history",
+  "stance": "context",
+  "ask_addressed": "Composition dates with basis, earliest witness, and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)",
+  "quote": "the document was not originally written in A.D. 14, as the last sentence would seem to indicate, but that it was begun much earlier",
+  "summary": "Shipley says the Res Gestae was begun much earlier than 14 CE with later additions, that copies were set up in Asia Minor, and that Mommsen's Ancyra copy is the fullest.",
+  "limits": "A 1924 introduction; since superseded by Scheid and Cooley. Shipley says the details of draft date and additions have been 'much controversy'.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Augustus, Res Gestae Divi Augusti (General Background), Judaism and Rome database",
+  "authors": null,
+  "year": null,
+  "venue": "Judaism and Rome database (Heurist)",
+  "url": "https://heurist.huma-num.fr/heurist/judaism_and_rome/view/261",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Classics / Roman history",
+  "stance": "context",
+  "ask_addressed": "Composition dates with basis, earliest witness, and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)",
+  "quote": "after Augustus’s death and perhaps as late as 19 CE",
+  "summary": "The record, summarising Krencker and Schede and Cooley, says the Ancyra inscription was a later addition to the temple, smoothed into the masonry after Augustus's death, perhaps as late as 19 CE.",
+  "limits": "A database entry summarising other scholars (Cooley, Krencker and Schede), not the primary study. The 19 CE figure is given as a possibility.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "P.Giss. 40 and the Constitutio Antoniniana, commentary",
+  "authors": null,
+  "year": null,
+  "venue": "Judaism and Rome database (Heurist)",
+  "url": "https://heurist.huma-num.fr/judaism_and_rome/tpl/public-record/922",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Classics / Roman history",
+  "stance": "context",
+  "ask_addressed": "Composition dates with basis, earliest witness, and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)",
+  "quote": "who affirms that money and damaged tax revenues were the actual reasons",
+  "summary": "The commentary says the edict's own stated motive (gratitude to the gods after Geta's attack, magnificence) is absent from the ancient sources, whose only note is Dio's fiscal reason, and that the restorations are fragile.",
+  "limits": "Author of the Heurist record not stated on the page extract. It argues the date question is only partly solved (211-215), with inscriptions showing Aurelii by 212/3.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Beasts and Barbarians in Caesar's Bellum Gallicum 6.21-8",
+  "authors": "Allen-Hornblower, E.",
+  "year": 2014,
+  "venue": "The Classical Quarterly 64.2, 682-693",
+  "url": "https://rutgersclassics.com/wp-content/uploads/2015/05/2014-eah-cq-caesar-beasts-and-barbarians-11pp.pdf",
+  "doi": "10.1017/S0009838814000044",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Classics",
+  "stance": "fails_to_support",
+  "ask_addressed": "Composition dates with basis, earliest witness, and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)",
+  "quote": "the presence of the Hercynian forest passage with its largely fantastical beasts fits with these broader military and political goals",
+  "summary": "Allen-Hornblower argues that the German ethnography in BG 6.21-8, including the fantastical Hercynian beasts, serves Caesar's decision not to cross the Rhine and his claim that Gaul is complete, rather than being plain ethnographic reporting.",
+  "limits": "A CQ article read via a Rutgers-hosted copy; the argument is a literary-political reading, not independent evidence about Germans.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Ethnography Encountered: The Troubled Ethnographic Framework of Caesar's Gallic War (CAMWS abstract)",
+  "authors": null,
+  "year": null,
+  "venue": "CAMWS 2016 meeting abstract",
+  "url": "https://camws.org/sites/default/files/meeting2016/207.EthnographyEncountered.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Classics",
+  "stance": "fails_to_support",
+  "ask_addressed": "Composition dates with basis, earliest witness, and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)",
+  "quote": "he appropriated the precedents of Greek ethnography for the decidedly Roman purpose of glorifying his victories over the barbarian tribes",
+  "summary": "The abstract argues Caesar built an 'ethnographic framework' from Greek topoi about Gauls and others to magnify his victories, and dates the writing of the work from 57 to 54 BC.",
+  "limits": "A conference abstract (author's name not shown on the extract); the argument is a thesis reading and the composition dating relies on Krebs and Wiseman.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "The Construction of the Sixth Book of Polybius",
+  "authors": "Brink, C.O.; Walbank, F.W.",
+  "year": 1954,
+  "venue": "The Classical Quarterly 4 (3-4), 97-122",
+  "url": "https://resolve.cambridge.org/core/journals/classical-quarterly/article/construction-of-the-sixth-book-of-polybius/6207F4C718A4A9D684254F64497965A7",
+  "doi": "10.1017/S0009838800007977",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Classics",
+  "stance": "context",
+  "ask_addressed": "Composition dates with basis, earliest witness, and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)",
+  "quote": "Mioni dates the publication of all Book 6 before 146, while admitting the possibility of two stages in composition before that date.",
+  "summary": "Brink and Walbank survey the dating of Polybius 6: Mioni before 146, Ziegler composition in the sixties with revision before 146, and Erbse long after 146; the article itself argues for layers of composition.",
+  "limits": "Page text as opened includes footnotes only, not the full argument; 1954 scholarship.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "A More August Preface: Re-examining Livy's Praefatio (CAMWS abstract)",
+  "authors": null,
+  "year": null,
+  "venue": "CAMWS abstract",
+  "url": "https://camws.org/sites/default/files/31699%20A%20More%20August%20Preface.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Classics",
+  "stance": "context",
+  "ask_addressed": "Composition dates with basis, earliest witness, and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)",
+  "quote": "Historically, scholars placed the First Pentad and its Praefatio somewhere between 27 and 25 BCE",
+  "summary": "The abstract reports the older 27-25 BCE dating (after 'Augustus', before 25 BCE Janus closing), Burton's earlier dating to 33/32 BCE, and argues for revision about 27 BCE.",
+  "limits": "A conference abstract (author not shown); not a full article. The dispute is unresolved.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "Creating the Enemy: Ammianus Marcellinus' Double Digression on Huns and Alans (Res Gestae 31.2)",
+  "authors": "Burgersdijk, D.",
+  "year": 2016,
+  "venue": "Bulletin of the Institute of Classical Studies 59(1), 111-132",
+  "url": "https://dare.uva.nl/id/3a41ca87-d490-4165-8f43-72c1c51eb08c",
+  "doi": "10.1111/j.2041-5370.2016.12021.x",
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Classics",
+  "stance": "fails_to_support",
+  "ask_addressed": "Composition dates with basis, earliest witness, and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)",
+  "quote": "draw on older Greek as well as Latin ethnographical templates, prevail over historical accuracy",
+  "summary": "Burgersdijk argues the Huns and Alans digression builds an enemy image from older ethnographic templates and serves narrative suspense and a message to the emperor, and calls the account 'largely fictitious'.",
+  "limits": "Abstract only on the repository page. The CAMWS abstract on Ammianus and Priscus (opened) cites King 1995 for the same view, but Woudhuysen's dissent was found only through a search snippet, not opened.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": true
+ },
+ {
+  "brief": "roman-empire-primary",
+  "records": [],
+  "title": "La politesse, l'humanitas e l'imperialismo: una riflessione di Montesquieu e l'Agricola di Tacito",
+  "authors": "Audano, S.",
+  "year": null,
+  "venue": "Montesquieu.it (University of Bologna)",
+  "url": "https://montesquieu.unibo.it/article/download/10733/10644",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Classics",
+  "stance": "context",
+  "ask_addressed": "Composition dates with basis, earliest witness, and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)",
+  "quote": "la data di composizione, che, con buoni argomenti, è collocabile nel 98 d.C.",
+  "summary": "Audano dates the Agricola to 98 CE and reads chapter 21 as Agricola imposing a cultural conquest by humanitas that erased memory of freedom.",
+  "limits": "In Italian. The article is about Montesquieu's reception; its modern-Romanization-sceptic literature (Mattingly, Woolf) was not found.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": true
+ }
+]
