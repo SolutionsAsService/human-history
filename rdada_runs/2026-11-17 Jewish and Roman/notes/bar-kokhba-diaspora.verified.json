@@ -1,0 +1,910 @@
+[
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Roman History, Epitome of Book 69, chapter 12 (foundation of Aelia Capitolina)",
+    "authors": "Cassius Dio (epitomised by Xiphilinus); trans. E. Cary",
+    "year": 1925,
+    "venue": "Loeb Classical Library vol. VIII, on LacusCurtius (U. Chicago)",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html",
+    "kind": "primary",
+    "discipline": "Classics / Roman history",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "At Jerusalem he founded a city in place of the one which had been razed to the ground, naming it Aelia Capitolina",
+    "summary": "Dio gives the founding of Aelia Capitolina, with a temple of Jupiter on the Temple site, as the cause of a war 'of no slight importance nor of brief duration', and says the Jews sabotaged weapons they were ordered to make.",
+    "limits": "Dio is a Roman senator writing about a century after the war and the text is an 11th-century epitome. The Historia Augusta gives a different cause (circumcision ban); see the separate candidates. Dating of the colony's foundation relative to the revolt is itself debated. [Verifier] Composition range nulled by verifier: the 200-235 bracket was the researcher's own, not a source's. Locator, quote, chapter content and Loeb text checked on the LacusCurtius page.",
+    "text": {
+      "work": "Cassius Dio, Roman History (Epitome of Book 69)",
+      "locator": "69.12.1-2",
+      "language": "Greek (quoted in English, E. Cary, Loeb)",
+      "edition": "Loeb Classical Library vol. VIII (1925, trans. Earnest Cary), transcribed on LacusCurtius (Bill Thayer)",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Wikipedia 'Cassius Dio' (opened) says the history was written over 22 years and runs to 229 CE; no source opened gives a composition range, so the researcher's 200-235 bracket was removed (null)."
+      },
+      "witness": "The revolt chapters survive only in the 11th-century Epitome of John Xiphilinus (per Wikipedia 'Bar Kokhba Revolt', citing Horbury 2014); no earlier manuscript opened"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Roman History, Epitome of Book 69, chapter 13 (the revolt spreads)",
+    "authors": "Cassius Dio (epitomised by Xiphilinus); trans. E. Cary",
+    "year": 1925,
+    "venue": "Loeb Classical Library vol. VIII, on LacusCurtius (U. Chicago)",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html",
+    "kind": "primary",
+    "discipline": "Classics / Roman history",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "Soon, however, all Judaea had been stirred up, and the Jews everywhere were showing signs of disturbance",
+    "summary": "Dio says unrest reached 'the Jews everywhere' and that many outside nations joined 'through eagerness for gain'; Hadrian sent his best generals, first Julius Severus from Britain.",
+    "limits": "Single narrative source; 'the whole earth ... stirred up' is rhetoric and no diaspora rising in 132-135 is documented by Dio. Eck (JRS 1999) and the Current Epigraphy report cite Roman diplomas and inscriptions as showing the army effort was real, but they do not show a diaspora revolt. [Verifier] Composition range nulled by verifier: the 200-235 bracket was the researcher's own, not a source's. Locator, quote, chapter content and Loeb text checked on the LacusCurtius page.",
+    "text": {
+      "work": "Cassius Dio, Roman History (Epitome of Book 69)",
+      "locator": "69.13.1-2",
+      "language": "Greek (quoted in English, E. Cary, Loeb)",
+      "edition": "Loeb Classical Library vol. VIII (1925, trans. Earnest Cary), transcribed on LacusCurtius (Bill Thayer)",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Wikipedia 'Cassius Dio' (opened) says the history was written over 22 years and runs to 229 CE; no source opened gives a composition range, so the researcher's 200-235 bracket was removed (null)."
+      },
+      "witness": "The revolt chapters survive only in the 11th-century Epitome of John Xiphilinus (per Wikipedia 'Bar Kokhba Revolt', citing Horbury 2014); no earlier manuscript opened"
+    },
+    "strand": {
+      "from": "Gentile peoples outside Judaea",
+      "to": "Bar Kokhba revolt",
+      "carried": "people",
+      "what": "non-Jewish fighters joining the rebels 'through eagerness for gain'",
+      "medium": "unknown",
+      "start": 132,
+      "end": 135,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Roman History, Epitome of Book 69, chapter 14 (losses and the end of the war)",
+    "authors": "Cassius Dio (epitomised by Xiphilinus); trans. E. Cary",
+    "year": 1925,
+    "venue": "Loeb Classical Library vol. VIII, on LacusCurtius (U. Chicago)",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html",
+    "kind": "primary",
+    "discipline": "Classics / Roman history",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "Five hundred and eighty thousand men were slain in the various raids and battles",
+    "summary": "Dio reports 50 outposts and 985 villages razed, 580,000 killed in raids and battles, and Judaea 'made desolate'; many Romans also died, so Hadrian omitted the usual health formula in his letter to the Senate.",
+    "limits": "The figure is a single late literary number, not independently verifiable; Wikipedia 'Bar Kokhba Revolt' notes some scholars (Cotton, Raviv and Ben David) accept it. Treat as Dio's claim. [Verifier] Composition range nulled by verifier: the 200-235 bracket was the researcher's own, not a source's. Locator, quote, chapter content and Loeb text checked on the LacusCurtius page.",
+    "text": {
+      "work": "Cassius Dio, Roman History (Epitome of Book 69)",
+      "locator": "69.14.1-3",
+      "language": "Greek (quoted in English, E. Cary, Loeb)",
+      "edition": "Loeb Classical Library vol. VIII (1925, trans. Earnest Cary), transcribed on LacusCurtius (Bill Thayer)",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Wikipedia 'Cassius Dio' (opened) says the history was written over 22 years and runs to 229 CE; no source opened gives a composition range, so the researcher's 200-235 bracket was removed (null)."
+      },
+      "witness": "The revolt chapters survive only in the 11th-century Epitome of John Xiphilinus (per Wikipedia 'Bar Kokhba Revolt', citing Horbury 2014); no earlier manuscript opened"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Church History, Book IV, chapter 2: The Calamities of the Jews during Trajan's Reign",
+    "authors": "Eusebius of Caesarea; trans. McGiffert",
+    "year": 1890,
+    "venue": "Nicene and Post-Nicene Fathers 2nd ser. vol. 1, New Advent",
+    "url": "https://www.newadvent.org/fathers/250104.htm",
+    "kind": "primary",
+    "discipline": "Church history",
+    "stance": "context",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "the calamities of the Jews increased, and they underwent a constant succession of evils",
+    "summary": "Eusebius dates a further disturbance to Trajan's eighteenth year and describes the earlier diaspora war (115-117 CE: Alexandria, Egypt, Cyrene, then Mesopotamia), the background to the Alexandrian and Cyrenaican Jewish losses before the Second Revolt.",
+    "limits": "Eusebius says these events are recorded 'by the Greek historians'; he is a Christian writer of the early 4th c. with a theological reading of Jewish suffering (Wikipedia 'Ecclesiastical History' notes this). Not about 132-135.",
+    "text": {
+      "work": "Eusebius, Ecclesiastical History",
+      "locator": "4.2.1-5",
+      "language": "Greek (quoted in English, A. C. McGiffert)",
+      "edition": "Nicene and Post-Nicene Fathers, Second Series vol. 1 (Buffalo, 1890, trans. McGiffert), revised for New Advent by Kevin Knight",
+      "composition": {
+        "start": 313,
+        "end": 326,
+        "basis": "Wikipedia 'Ecclesiastical History (Eusebius)' (opened): Louth argues first published 313; the present form was completed before July 326, book 10 c. 323-324"
+      },
+      "witness": "Not established from pages opened (the page notes Syriac, Latin and Armenian versions survive)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Church History, Book IV, chapter 6: The Last Siege of the Jews under Adrian (Bar Kokhba)",
+    "authors": "Eusebius of Caesarea; trans. McGiffert",
+    "year": 1890,
+    "venue": "Nicene and Post-Nicene Fathers 2nd ser. vol. 1, New Advent",
+    "url": "https://www.newadvent.org/fathers/250104.htm",
+    "kind": "primary",
+    "discipline": "Church history",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "The leader of the Jews at this time was a man by the name of Barcocheba (which signifies a star)",
+    "summary": "Eusebius names the leader, hostile in tone, puts the climax in Adrian's eighteenth year at Bithara near Jerusalem, and cites Aristo of Pella as his authority for the account.",
+    "limits": "Hostile Christian source writing nearly two centuries after the war, relying on Aristo of Pella (not preserved in the pages opened). Jewish documents from the Judaean Desert give the name as Shimon bar Kosiba.",
+    "text": {
+      "work": "Eusebius, Ecclesiastical History",
+      "locator": "4.6.2-3",
+      "language": "Greek (quoted in English, A. C. McGiffert)",
+      "edition": "Nicene and Post-Nicene Fathers, Second Series vol. 1 (Buffalo, 1890, trans. McGiffert), revised for New Advent by Kevin Knight",
+      "composition": {
+        "start": 313,
+        "end": 326,
+        "basis": "Wikipedia 'Ecclesiastical History (Eusebius)' (opened): Louth argues first published 313; the present form was completed before July 326, book 10 c. 323-324"
+      },
+      "witness": "Not established from pages opened (the page notes Syriac, Latin and Armenian versions survive)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Church History, Book IV, chapter 6: exclusion from Jerusalem and the Gentile Aelia",
+    "authors": "Eusebius of Caesarea; trans. McGiffert",
+    "year": 1890,
+    "venue": "Nicene and Post-Nicene Fathers 2nd ser. vol. 1, New Advent",
+    "url": "https://www.newadvent.org/fathers/250104.htm",
+    "kind": "primary",
+    "discipline": "Church history",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "when the city had been emptied of the Jewish nation and had suffered the total destruction of its ancient inhabitants",
+    "summary": "After Bethar the Jewish nation was barred by decree from the country around Jerusalem; the city, colonised by a different race, became Aelia, and its church became Gentile under the bishop Marcus.",
+    "limits": "Eusebius' claim of a total ban and emptying is a Christian reading; the extent of Jewish depopulation of Judaea is disputed in modern scholarship (Wikipedia 'Bar Kokhba Revolt' says Jews stayed a relative majority after 70 CE, but I did not open a source on post-135 demography). [Verifier] Directness lowered from documented to inferred: Eusebius is a 4th-c. report (citing Aristo of Pella) of the decree, not a contemporary dated record; quote and locator 4.6.3-4 verified.",
+    "text": {
+      "work": "Eusebius, Ecclesiastical History",
+      "locator": "4.6.3-4",
+      "language": "Greek (quoted in English, A. C. McGiffert)",
+      "edition": "Nicene and Post-Nicene Fathers, Second Series vol. 1 (Buffalo, 1890, trans. McGiffert), revised for New Advent by Kevin Knight",
+      "composition": {
+        "start": 313,
+        "end": 326,
+        "basis": "Wikipedia 'Ecclesiastical History (Eusebius)' (opened): Louth argues first published 313; the present form was completed before July 326, book 10 c. 323-324"
+      },
+      "witness": "Not established from pages opened (the page notes Syriac, Latin and Armenian versions survive)"
+    },
+    "strand": {
+      "from": "Jewish Jerusalem",
+      "to": "Roman and Gentile-Christian Aelia Capitolina",
+      "carried": "people",
+      "what": "population replacement and exclusion of Jews from Jerusalem after 135 CE",
+      "medium": "conquest",
+      "start": 135,
+      "end": 135,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Historia Augusta, Life of Hadrian 14 (the circumcision ban as cause)",
+    "authors": "Historia Augusta (Spartianus); trans. D. Magie",
+    "year": 1921,
+    "venue": "Loeb Classical Library, on LacusCurtius (U. Chicago)",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Hadrian/1*.html",
+    "kind": "primary",
+    "discipline": "Classics / Roman history",
+    "stance": "context",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "because they were forbidden to practice circumcision",
+    "summary": "The Historia Augusta gives a single sentence naming a circumcision ban as the cause of a Jewish war under Hadrian, in a passage placed before 130 CE; the Loeb note says Dio's account is 'probably a more correct account'.",
+    "limits": "Late compilation (4th c.) with chronological disorder; Wikipedia 'Bar Kokhba Revolt' (opened) says recent scholarship has increasingly rejected this as the primary cause. Whether a ban preceded the war or followed it is debated. [Verifier] Verified: Loeb note 118 on the page says Dio's account is 'probably a more correct account' and that the sentence is out of chronological order.",
+    "text": {
+      "work": "Historia Augusta, Vita Hadriani",
+      "locator": "14.2",
+      "language": "Latin (quoted in English, D. Magie, Loeb)",
+      "edition": "Loeb Classical Library (1921, trans. David Magie), LacusCurtius",
+      "composition": {
+        "start": 300,
+        "end": 400,
+        "basis": "'a late Roman collection of imperial biographies compiled in the 4th century' - Wikipedia 'Bar Kokhba Revolt' citing Horbury 2014 p. 16 (opened); the Hadrian life is thought to draw on earlier Latin sources"
+      },
+      "witness": "Not established from pages opened"
+    },
+    "strand": {
+      "from": "Hadrianic Rome",
+      "to": "Judaean Jews",
+      "carried": "custom",
+      "what": "alleged Roman prohibition of circumcision as the trigger of the revolt",
+      "medium": "court_or_empire",
+      "start": 130,
+      "end": 132,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Jerusalem Talmud Taanit 4:5, Mishnah lemma on the Ninth of Av (Betar taken, city ploughed over)",
+    "authors": "Mishnah redactors; Jerusalem Talmud; trans. H. W. Guggenheimer",
+    "year": 1999,
+    "venue": "Sefaria (Guggenheimer, De Gruyter 1999-2015, CC-BY)",
+    "url": "https://www.sefaria.org/Jerusalem_Talmud_Taanit.4.5",
+    "kind": "primary",
+    "discipline": "Rabbinic literature",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "Betar was taken, and the city ploughed over",
+    "summary": "The Mishnah lists Betar's capture and the ploughing of Jerusalem among five Ninth-of-Av disasters; Guggenheimer's note links the ploughing to Hadrian founding Aelia Capitolina and a coin of c. 130.",
+    "limits": "The Mishnah does not name Hadrian or Bar Kokhba. Mishnah text quoted via the Jerusalem Talmud lemma (the same Mishnah is Taanit 4:6); the standalone Mishnah on Sefaria is the William Davidson elucidated translation.",
+    "text": {
+      "work": "Jerusalem Talmud, Taanit (lemma of Mishnah Taanit 4:6)",
+      "locator": "Taanit 4:5, Mishnah",
+      "language": "Hebrew/Aramaic (quoted in English, Guggenheimer)",
+      "edition": "Guggenheimer, The Jerusalem Talmud (Berlin: De Gruyter, 1999-2015), via Sefaria API",
+      "composition": {
+        "start": 190,
+        "end": 230,
+        "basis": "Sefaria index metadata compDate 190-230 CE for Mishnah Taanit (opened via API); the Jerusalem Talmud's gemara is dated late 4th to first half of 5th c. per Wikipedia 'Jerusalem Talmud'"
+      },
+      "witness": "Not established from pages opened"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Jerusalem Talmud Taanit 4:5, Halakhah: Akiva and 'Bar Koziba'; the fall of Bettar",
+    "authors": "Jerusalem Talmud (Rabbi Simeon ben Yohai tradition); trans. H. W. Guggenheimer",
+    "year": 1999,
+    "venue": "Sefaria (Guggenheimer, De Gruyter, CC-BY)",
+    "url": "https://www.sefaria.org/Jerusalem_Talmud_Taanit.4.5",
+    "kind": "primary",
+    "discipline": "Rabbinic literature",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "When Rebbi Aqiba saw Bar Koziba he said, this is King Messias.",
+    "summary": "Akiva reads Numbers 24:17 ('a star out of Jacob', Koziba) of Bar Koziba and is rebuked by Rabbi Johanan ben Torta; the same passage has Hadrian besiege Bettar for three and a half years, Bar Koziba kill Rabbi Eleazar of Modiin, and Bettar fall.",
+    "limits": "Redacted two to three centuries after the events, legendary in detail (snake round the body, blood moving rocks), and 'Koziba/Kozeba' is a rabbinic wordplay; the autograph form in the desert letters is Kosiba (see Wikipedia 'Bar Kokhba Revolt'). Whether Akiva actually endorsed Bar Kokhba is debated.",
+    "text": {
+      "work": "Jerusalem Talmud, Taanit",
+      "locator": "4:5 (Halakhah, sec. 13)",
+      "language": "Hebrew/Aramaic (quoted in English, Guggenheimer)",
+      "edition": "Guggenheimer, The Jerusalem Talmud (Berlin: De Gruyter, 1999-2015), via Sefaria API",
+      "composition": {
+        "start": 350,
+        "end": 450,
+        "basis": "'compiled between the late fourth century to the first half of the fifth century' - Wikipedia 'Jerusalem Talmud' (opened); the traditions attributed to Simeon ben Yohai and Johanan are tannaitic/amoraic"
+      },
+      "witness": "Not established from pages opened"
+    },
+    "strand": {
+      "from": "Numbers 24:17 (Balaam's star oracle)",
+      "to": "Bar Kosiba's messianic claim",
+      "carried": "idea",
+      "what": "reading the 'star out of Jacob' as the revolt's leader",
+      "medium": "teaching",
+      "start": 132,
+      "end": 135,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Babylonian Talmud Gittin 57b: Hadrian, six hundred thousand killed in Alexandria, and Vespasian at Beitar",
+    "authors": "Babylonian Talmud; William Davidson Edition (Steinsaltz), English",
+    "year": null,
+    "venue": "Sefaria (William Davidson Edition, CC-BY-NC)",
+    "url": "https://www.sefaria.org/Gittin.57b",
+    "kind": "primary",
+    "discipline": "Rabbinic literature",
+    "stance": "context",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "killed six hundred thousand on six hundred thousand in Alexandria of Egypt, twice",
+    "summary": "A homily on Genesis 27:22 attributes to Hadrian a slaughter in Alexandria and to Vespasian a slaughter at Beitar, so the rabbis' memory of the diaspora losses and of Beitar is scrambled across emperors.",
+    "limits": "Chronologically confused (Beitar is 135 CE, Hadrian; Vespasian is 69-79), numbers are homiletic, and the English is an elucidated edition whose bold text marks the original Aramaic. The Alexandria reference may reflect the 115-117 diaspora war, which is not established by this page.",
+    "text": {
+      "work": "Babylonian Talmud, Gittin",
+      "locator": "57b, sec. 9",
+      "language": "Aramaic (quoted in English, William Davidson Edition)",
+      "edition": "William Davidson Edition - English, via Sefaria API",
+      "composition": {
+        "start": 450,
+        "end": 550,
+        "basis": "Sefaria index metadata compDate 450-550 CE for Gittin (opened via API); Wikipedia 'Babylonian Talmud' (opened) says compiled c. 500 CE or more likely mid-6th c."
+      },
+      "witness": "Not established from pages opened"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Four letters of Bar Kochba: letter [1], Shimeon bar Kosiba to Yehonathan and Masabala",
+    "authors": "Yadin, Y. (trans.); Livius.org",
+    "year": 1971,
+    "venue": "Livius.org (translation from Yadin, Bar-Kokhba, 1971)",
+    "url": "https://www.livius.org/sources/content/oriental-varia/four-letters-of-bar-kochba/",
+    "kind": "primary",
+    "discipline": "Papyrology / epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "Let all men from Tekoa and other places who are with you, be sent to me without delay.",
+    "summary": "Shimeon bar Kosiba orders subordinates to send men from Tekoa and elsewhere to him, with a threat of punishment; the letter shows a commander coercing local manpower.",
+    "limits": "The Livius page does not give papyrus numbers or findspot (Nahal Hever versus Murabba'at) and uses Yadin's 1971 English; check against the DJD or Yadin et al. edition before relying on wording.",
+    "text": {
+      "work": "Bar Kokhba letters (Judaean Desert papyri)",
+      "locator": "Livius letter [1]",
+      "language": "Hebrew/Aramaic (quoted in English, Y. Yadin)",
+      "edition": "Yigael Yadin, Bar-Kokhba (London, 1971), as reproduced on Livius.org",
+      "composition": {
+        "start": 132,
+        "end": 135,
+        "basis": "Livius.org: 'Between 132 and 135, he was the leader of the last resistance'; the Center for Online Judaic Studies dates the Sukkot letter 132-135 CE"
+      },
+      "witness": "The papyrus itself (original letters from the 1960 Nahal Hever and Wadi Murabba'at finds; Yadin found the Cave of Letters archive in March 1960 per COJS)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Four letters of Bar Kochba: letter [4], to the men of En-gedi",
+    "authors": "Yadin, Y. (trans.); Livius.org",
+    "year": 1971,
+    "venue": "Livius.org (translation from Yadin, Bar-Kokhba, 1971)",
+    "url": "https://www.livius.org/sources/content/oriental-varia/four-letters-of-bar-kochba/",
+    "kind": "primary",
+    "discipline": "Papyrology / epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "From Shimeon bar Kosiba to the men of En-gedi. To Masabala and to Yehonathan bar Bey'ayan, peace!",
+    "summary": "Bar Kosiba reproaches the men of En-gedi for sitting at ease and eating 'from the property of the House of Israel' while their brothers fight; the letter attests the rebels' own phrase 'House of Israel' (the page's note says the men had failed to join a battle).",
+    "limits": "Livius adds a gloss that this seems to reproach En-gedi for missing a battle; that reading is the page's, not the text's. Same edition caveats as letter [1].",
+    "text": {
+      "work": "Bar Kokhba letters (Judaean Desert papyri)",
+      "locator": "Livius letter [4]",
+      "language": "Hebrew/Aramaic (quoted in English, Y. Yadin)",
+      "edition": "Yigael Yadin, Bar-Kokhba (London, 1971), as reproduced on Livius.org",
+      "composition": {
+        "start": 132,
+        "end": 135,
+        "basis": "Livius.org: 'Between 132 and 135, he was the leader of the last resistance'; the Center for Online Judaic Studies dates the Sukkot letter 132-135 CE"
+      },
+      "witness": "The papyrus itself (original letters from the 1960 Nahal Hever and Wadi Murabba'at finds; Yadin found the Cave of Letters archive in March 1960 per COJS)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Bar Kokhba Letter, 132-135 CE (Sukkot letter to Yehudah son of Menasheh)",
+    "authors": "Center for Online Judaic Studies",
+    "year": null,
+    "venue": "COJS, Israel Museum object page quoting Yadin",
+    "url": "https://cojs.org/Bar_Kokhba_Letter-_132-135_CE/",
+    "kind": "primary",
+    "discipline": "Papyrology / epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "And prepare them, and deliver them to the camp, because the population is large.",
+    "summary": "Shimon asks for lulav, etrog, myrtle and willow for Sukkot to be sent to the camp; Yadin calls it testimony to Bar Kokhba's strict piety and COJS notes the Greek twin letter by Soumaios may or may not be his.",
+    "limits": "Translation, not the papyrus; the page notes the identification of Soumaios with Bar Kosiba is disputed. Yadin's own line is 'There are many problems concerning this letter'.",
+    "text": {
+      "work": "Bar Kokhba letter to Yehudah son of Menasheh (Sukkot letter)",
+      "locator": "Israel Museum object (COJS)",
+      "language": "Aramaic (quoted in English)",
+      "edition": "English version on COJS (Center for Online Judaic Studies); Yadin 1971 is quoted on the page",
+      "composition": {
+        "start": 132,
+        "end": 135,
+        "basis": "COJS object page date line 132-135 CE"
+      },
+      "witness": "The papyrus in the Israel Museum, found March 1960 in the Cave of Letters (Nahal Hever) by Yadin per COJS"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Against Flaccus 41-46: images set up in the synagogues of Alexandria",
+    "authors": "Philo of Alexandria; trans. C. D. Yonge",
+    "year": 1855,
+    "venue": "The Works of Philo, earlychristianwritings.com",
+    "url": "https://www.earlychristianwritings.com/yonge/book36.html",
+    "kind": "primary",
+    "discipline": "Hellenistic Jewish literature",
+    "stance": "context",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "all cried out, as if at a signal given, to erect images in the synagogues",
+    "summary": "Philo says the Alexandrian crowd demanded images in the synagogues, that Jews in Egypt 'were not less than a million', and that news of the attack would spread east and west because 'no one country can contain the whole Jewish nation'.",
+    "limits": "An aggrieved Jewish eyewitness writing about 38 CE, a century before the Second Revolt; the million figure is an estimate in a polemic. It documents Alexandrian communal conflict, not a link to Bar Kokhba. [Verifier] Composition 38-50 is a bracket derived from two facts on the opened Wikipedia page (riots 38 CE; Philo died c. 45-50 CE), not a dated treatise; it is not a source-stated range.",
+    "text": {
+      "work": "Philo, Against Flaccus (In Flaccum)",
+      "locator": "41-46",
+      "language": "Greek (quoted in English, C. D. Yonge)",
+      "edition": "C. D. Yonge, The Works of Philo (London: Bohn, 1854-55), transcribed on earlychristianwritings.com",
+      "composition": {
+        "start": 38,
+        "end": 50,
+        "basis": "The riots it narrates took place in 38 CE and Philo (c. 20 BCE - c. 50 CE, Wikipedia 'Philo') calls himself old by 38; the exact date of the treatise was not given in the pages I opened, so this is a bracket"
+      },
+      "witness": "Not established from pages opened"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Against Flaccus 54-55: Jews declared aliens and driven into one quarter",
+    "authors": "Philo of Alexandria; trans. C. D. Yonge",
+    "year": 1855,
+    "venue": "The Works of Philo, earlychristianwritings.com",
+    "url": "https://www.earlychristianwritings.com/yonge/book36.html",
+    "kind": "primary",
+    "discipline": "Hellenistic Jewish literature",
+    "stance": "context",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "he issued a notice in which he called us all foreigners and aliens",
+    "summary": "Flaccus's edict classes the Jews as foreigners; Philo adds that the mob drove them from four of Alexandria's five districts into a very small part of the two Jewish quarters.",
+    "limits": "Polemical, one-sided account by a Jewish writer; the legal status of Alexandrian Jews remains debated and this page does not address that. [Verifier] Composition 38-50 is a bracket derived from two facts on the opened Wikipedia page (riots 38 CE; Philo died c. 45-50 CE), not a dated treatise; it is not a source-stated range.",
+    "text": {
+      "work": "Philo, Against Flaccus (In Flaccum)",
+      "locator": "54-55",
+      "language": "Greek (quoted in English, C. D. Yonge)",
+      "edition": "C. D. Yonge, The Works of Philo (London: Bohn, 1854-55), transcribed on earlychristianwritings.com",
+      "composition": {
+        "start": 38,
+        "end": 50,
+        "basis": "The riots it narrates took place in 38 CE and Philo (c. 20 BCE - c. 50 CE, Wikipedia 'Philo') calls himself old by 38; the exact date of the treatise was not given in the pages I opened, so this is a bracket"
+      },
+      "witness": "Not established from pages opened"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Theodotos inscription (CIJ II 1404): dedication of a synagogue, Jerusalem",
+    "authors": "Kloppenborg, J. S. (trans.); Harland, P. A. (ed.), AGRW 270",
+    "year": 2012,
+    "venue": "Associations in the Greco-Roman World (AGRW)",
+    "url": "https://philipharland.com/greco-roman-associations/270-dedication-of-a-synagogue-by-theodotos/",
+    "kind": "primary",
+    "discipline": "Epigraphy",
+    "stance": "context",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "for the reading of the law and for the teaching of the commandments, as well as the guest room",
+    "summary": "Theodotos, priest and archisynagogos, son and grandson of archisynagogoi, built a synagogue with a guest room and water fittings as an inn for those in need from abroad, on a foundation laid by his fathers, the elders and Simonides.",
+    "limits": "Harland dates it 'before 70 CE' on Kloppenborg's 2000 JJS argument; the date and the Jerusalem setting are contested (see next candidate). Tangential to the revolt: it shows a Jerusalem synagogue serving foreign visitors.",
+    "text": {
+      "work": "Theodotos inscription (CIJ II 1404)",
+      "locator": "lines 1-10",
+      "language": "Greek (quoted in English, J. S. Kloppenborg)",
+      "edition": "Kloppenborg translation, AGRW 270 (2012)",
+      "composition": {
+        "start": -100,
+        "end": 70,
+        "basis": "Wikipedia 'Theodotos inscription' (opened): paleography dates it to the Herodian or early Roman period, 1st c. BCE to 70 CE; Harland says 'before 70 CE'"
+      },
+      "witness": "The limestone block itself, found 1913 on the Ophel by Raymond Weill (Rockefeller Museum, IAA S 842, per Wikipedia)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Theodotos inscription: date dispute (Wikipedia summary of McKay and Kloppenborg)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia, 'Theodotos inscription'",
+    "url": "https://en.wikipedia.org/wiki/Theodotos_inscription",
+    "kind": "skeptical",
+    "discipline": "Epigraphy",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest witness, and the scholarly caution on each source.",
+    "quote": "Two alternative, later datings have been proposed, though they represent a minority view in current research.",
+    "summary": "The article calls two later datings a minority view; it reports that one scholar (McKay) argued for a 3rd-century date by claiming 'synagogue' meant only a gathering before then, and that Kloppenborg disputes this with the 55/56 CE Berenice inscription and the Ophel having been uninhabited after 70 CE.",
+    "limits": "Tertiary summary of the dispute; I did not open McKay or Kloppenborg 2000 themselves. Use for the existence of the date debate, not for the arguments. [Verifier] Stance lowered from fails_to_support to context: Wikipedia-only, tertiary summary.",
+    "text": {
+      "work": "Theodotos inscription (secondary summary)",
+      "locator": "article section on dating",
+      "language": "English",
+      "edition": "Wikipedia, as opened 2026-11-17",
+      "composition": {
+        "start": -100,
+        "end": 70,
+        "basis": "Same as the primary candidate; the 3rd-century alternative is reported, not adopted"
+      },
+      "witness": "See primary candidate"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Greek donor inscription from Aphrodisias, Asia Minor (Jews, proselytes and theosebeis)",
+    "authors": "Bonz, M. P. (trans.)",
+    "year": 2025,
+    "venue": "The Posen Library of Jewish Culture and Civilization vol. 2 (Yale UP), online",
+    "url": "https://www.posenlibrary.com/node/11268",
+    "kind": "primary",
+    "discipline": "Epigraphy",
+    "stance": "context",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "And those who are Godfearers",
+    "summary": "The second list of donors begins 'those who are Godfearers' (theosebeis) and names councillors; the first list includes Jews and proselytes, and the opening text refers to the 'decany of the disciples of the law'.",
+    "limits": "Posen page is a licence-restricted online text (free registration for part); translation from Bonz 1994. Whether theosebeis are a distinct class of gentile sympathisers is hotly disputed, and the date is uncertain (see Chaniotis). [Verifier] Authors corrected: the page credits only Bonz (HSCP 96, 1994, pp. 282-84, used with permission); it does not name Reynolds and Tannenbaum. The Posen page itself labels the inscription '3rd Century'; the 200-500 range is Chaniotis's palaeographic range (opened). Text is licence-restricted by the publisher, not an unauthorised upload.",
+    "text": {
+      "work": "Aphrodisias Jewish donor inscription (Reynolds and Tannenbaum 1987)",
+      "locator": "faces I and II (Chaniotis numbering)",
+      "language": "Greek (quoted in English, Bonz)",
+      "edition": "Bonz, HSCP 96 (1994), reproduced with minor amendments in the Posen Library (Yale UP 2025)",
+      "composition": {
+        "start": 200,
+        "end": 500,
+        "basis": "Chaniotis 2002 (opened): palaeography fits any date between c. 200 and c. 500; Reynolds preferred c. 200; Botermann and Mitchell say 4th c.; Bonz c. 200 for face I, 5th c. for the other face"
+      },
+      "witness": "A marble pillar excavated at Aphrodisias in 1976 (Tannenbaum 1986 on COJS); no earlier manuscript tradition"
+    },
+    "strand": {
+      "from": "Jewish community of Aphrodisias",
+      "to": "Gentile 'Godfearers'",
+      "carried": "religion",
+      "what": "a class of non-Jews attached to the synagogue and donating to its memorial",
+      "medium": "unknown",
+      "start": 200,
+      "end": 500,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "The Jews of Aphrodisias: New Evidence and Old Problems",
+    "authors": "Chaniotis, A.",
+    "year": 2002,
+    "venue": "Scripta Classica Israelica 21, pp. 209-242",
+    "url": "https://scriptaclassica.org/index.php/sci/article/download/3831/3325/7197",
+    "kind": "skeptical",
+    "discipline": "Epigraphy",
+    "stance": "fails_to_support",
+    "ask_addressed": "Composition dates with basis, earliest witness, and the scholarly caution on each source.",
+    "quote": "If the palaeography can be reconciled with any date between c. 200 and 500",
+    "summary": "Chaniotis argues the donor inscriptions need not date to c. 200: Reynolds' main arguments (absence of Aurelii, letter forms) fit any date between c. 200 and c. 500, so a 4th or 5th-century date is possible, and the two faces were not written together.",
+    "limits": "Quote replaced by verifier with the dating sentence from section 3 (the original quote, a count of names, did not support the dating claim in the summary; it is also on the page). Chaniotis is a position-taker; his table of letter forms is the evidence. The sentence is conditional ('If ... can be reconciled'); the page also records Reynolds preferring c. 200 and others the 3rd-5th centuries.",
+    "text": {
+      "work": "Aphrodisias Jewish donor inscription (secondary study)",
+      "locator": "section 3 'The date of the donor inscriptions'",
+      "language": "English",
+      "edition": "Scripta Classica Israelica 21 (2002)",
+      "composition": {
+        "start": 200,
+        "end": 500,
+        "basis": "Chaniotis's range"
+      },
+      "witness": "See Aphrodisias primary candidate"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Aramaic inscription painted on ceiling tiles from the Dura-Europos synagogue",
+    "authors": null,
+    "year": 2025,
+    "venue": "The Posen Library of Jewish Culture and Civilization vol. 2 (Yale UP), online",
+    "url": "https://www.posenlibrary.com/node/11249",
+    "kind": "primary",
+    "discipline": "Epigraphy / archaeology",
+    "stance": "supports",
+    "ask_addressed": "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters, Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt, Philo Against Flaccus, the Dura-Europos synagogue, the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "quote": "This building was erected in the year five hundred and fifty-six, which is the second year of Philip Julius Caesar",
+    "summary": "The dipinto dates the synagogue's remodelling to year 556 of an era (given as the second year of Philip Julius Caesar), under the presbyter Samuel the priest, son of Yedaya; the overseers include a proselyte. A related Posen entry (IJO 3.86) gives a Greek tile saying 'Samuel (son) of Yedaya, elder of the Jews, founded (the building)'.",
+    "limits": "Posen preview is partial (rest behind free registration) and the Greek tile is from IJO 3.86 per Posen; I did not open Kraeling 1956. Dura fell c. 256-257, so the synagogue is a Roman-Parthian frontier diaspora community, not evidence about Judaea. [Verifier] Authors set to null: the page does not name Kraeling or a translator. Dura abandoned 256-257 per Wikipedia (opened). Page is the publisher's licence-restricted text, not an upload.",
+    "text": {
+      "work": "Dura-Europos synagogue ceiling-tile dipinto (Kraeling/Torrey 1a)",
+      "locator": "Aramaic tile",
+      "language": "Aramaic (quoted in English)",
+      "edition": "Posen Library 2025 (translator not named on the page; excerpt only, rest behind free registration)",
+      "composition": {
+        "start": 244,
+        "end": 244,
+        "basis": "Wikipedia 'Dura-Europos synagogue' infobox: completed c. 244 CE; the Posen page itself says '3rd Century' and gives the tile's year 556 and 'second year of Philip' without a CE conversion. The 244/245 conversion was not shown by a source and is not used."
+      },
+      "witness": "Painted ceiling tiles recovered in the 1930s excavations (Wikipedia 'Dura-Europos synagogue': discovered 1932; abandoned 256-257 CE)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": "10.2307/300735",
+    "title": "The Bar Kokhba Revolt: The Roman Point of View",
+    "authors": "Eck, W.",
+    "year": 1999,
+    "venue": "Journal of Roman Studies 89, pp. 76-89",
+    "url": "https://www.cambridge.org/core/journals/journal-of-roman-studies/article/abs/bar-kokhba-revolt-the-roman-point-of-view/27E95F52A627562F93178F17A51D5FD4",
+    "kind": "secondary",
+    "discipline": "Roman history",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest witness, and the scholarly caution on each source.",
+    "quote": "Above all it has been maintained that the threat to Roman power constituted by the revolt has been grossly exaggerated.",
+    "summary": "Eck's opening extract says the scholarly debate over the revolt's causes, course and result has not reached unanimity and counters the view that Rome's reaction proves nothing, citing 'powerful evidence which comes from Rome itself'.",
+    "limits": "Only the open Cambridge extract was read, not the argument. It addresses the Roman scale of the war, not diaspora effects. A report of Eck's 2008 lecture (currentepigraphy.org, opened) says diplomas show recruiting of 2600-5300 fleet men in 134, supporting Dio's 'whole earth stirred up'. [Verifier] Stance lowered from supports to context: the quoted sentence states the critique Eck goes on to rebut, and only the open abstract was read. DOI, author (Werner Eck), year and pp. 76-89 confirmed on the page.",
+    "text": {
+      "work": "Eck 1999 (secondary study)",
+      "locator": "JRS 89, 76-89, abstract",
+      "language": "English",
+      "edition": "Cambridge Core extract",
+      "composition": {
+        "start": 1999,
+        "end": 1999,
+        "basis": "Published 1999 (online 14 March 2012)"
+      },
+      "witness": "Journal"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "bar-kokhba-diaspora",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "doi": null,
+    "title": "Bar Kokhba Revolt (causes section)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bar_Kokhba_Revolt",
+    "kind": "skeptical",
+    "discipline": "Roman / Jewish history",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest witness, and the scholarly caution on each source.",
+    "quote": "Recent scholarship has increasingly rejected the latter source as unreliable",
+    "summary": "The article says Dio blames the founding of Aelia Capitolina and the Historia Augusta a circumcision ban, and that Berthelot and others now regard Aelia as the primary cause.",
+    "limits": "Tertiary; I did not open Berthelot 2021. Used only to flag the scholarly caution on the Historia Augusta passage. [Verifier] Stance lowered from contradicts to context: Wikipedia-only, tertiary summary.",
+    "text": {
+      "work": "Bar Kokhba Revolt (secondary summary)",
+      "locator": "Causes",
+      "language": "English",
+      "edition": "Wikipedia as opened 2026-11-17",
+      "composition": {
+        "start": 2026,
+        "end": 2026,
+        "basis": "Live article"
+      },
+      "witness": "Cites Smallwood 1976, Goodman 2004, Berthelot 2021"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  }
+]
