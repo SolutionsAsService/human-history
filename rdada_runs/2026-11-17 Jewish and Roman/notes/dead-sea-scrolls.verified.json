@@ -1,0 +1,808 @@
+[
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "The Community Rule (1QS), translated by G. Vermes, col. III: the two spirits",
+    "authors": "Vermes, G. (translator)",
+    "year": null,
+    "venue": "CCAT (ccat.sas.upenn.edu), University of Pennsylvania; course text file '1QS'",
+    "url": "https://ccat.sas.upenn.edu/gopher/other/courses/rels/225/Texts/1QS",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Dead Sea Scrolls (Qumran Cave 1)",
+    "stance": "supports",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "by the Prince of Light and walk in the ways of light, but all the children of falsehood are ruled",
+    "summary": "Treatise on the Two Spirits as Vermes translates it: God appoints two spirits, truth and falsehood; the children of righteousness are ruled by the Prince of Light, the children of falsehood by the Angel of Darkness. The page is a translation only, with no apparatus or Hebrew.",
+    "limits": "Translation date not printed on the page. Composition is not dated here: the Iranica date is for the sect's founding and the hand date is for a copy. Hempel's abstract (page 21) says the Treatise was probably incorporated into the Rule late. Says nothing on who wrote it. Correction by verifier: the researcher's note that 1QS was not radiocarbon-dated in Jull et al. was wrong; Table 2 dates it. copy: unauthorised-looking upload; cite the publication, not this URL.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Community Rule (Serek ha-Yahad, 1QS)",
+      "locator": "III 20-21 (within the Treatise on the Two Spirits, from III 13; the page numbers the lines)",
+      "language": "Hebrew, quoted in English (Vermes)",
+      "edition": "G. Vermes translation as posted on CCAT (Penn), file '1QS'; the page names Vermes and prints no publication details",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "No source I opened dates the composition of the Treatise or of 1QS. Iranica (Duchesne-Guillemin 1994) says only that the sect was founded in the mid-2nd c. BCE; the c. 100-75 BCE hand is a copy date (Jull et al. 1995, App. 1). Hempel (2010, abstract) argues the Treatise was probably incorporated into the Rule at a late stage."
+      },
+      "witness": "1QS from Cave 1, hand c. 100-75 BCE (Cross, quoted in Jull et al. 1995, App. 1); radiocarbon on 1QS (sample DSS-4, AA-13418): 2041 +/- 68 BP, 2-sigma 206 BC-AD 111 (98%) (Jull et al. 1995, Table 2). 4Q258 (Cave 4 copy): script 'beginning of the first century BC' (Cross, in Jull et al.), radiocarbon-dated too."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Damascus Document (CD), Schechter 1910 base text: the Teacher of Righteousness",
+    "authors": "Schechter, S. (translator/editor)",
+    "year": 1910,
+    "venue": "CCAT, University of Pennsylvania (Fragments of a Zadokite Work, Cairo Genizah MSS A and B)",
+    "url": "https://ccat.sas.upenn.edu/gopher/other/courses/rels/225/Texts/CD",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Dead Sea Scrolls / Cairo Genizah",
+    "stance": "supports",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "to make them walk in the way of His heart.",
+    "summary": "The Genizah text of CD 1 says that after twenty years of groping God raised a 'teacher of righteousness' for the repentant remnant. This is the Teacher's first appearance in the Damascus Document.",
+    "limits": "Page is Schechter's 1910 translation of the medieval Genizah copies; the Qumran Cave 4 copies (4Q266 etc.) are the ancient witnesses. The passage gives no name or date; the Teacher's date is inferred from other texts (Collins: first half of the 1st c. BCE, per the ASOR blog; Rodley and Thiering argue later). Verifier: the researcher's 100-50 BCE 'composition window' was a copy date and is nulled. The page is a work-in-progress comparison file; the quoted line is in the Schechter base text.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Damascus Document (CD / Zadokite Fragments)",
+      "locator": "CD I 10-12 (Schechter's lines, MS A)",
+      "language": "Hebrew, quoted in English (Schechter 1910)",
+      "edition": "Schechter 1910 translation as posted on CCAT (Penn)",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "No source I opened dates composition. 4Q266 is a copy in a Hasmonean hand, 100-50 BC (Baumgarten; Stegemann 75-50 BC; Jull et al. 1995 App. 1), so composition is at or before that; this is a terminus ante quem, not a range."
+      },
+      "witness": "Cairo Genizah MSS A and B (named on the page; no date read there); Qumran 4Q266 hand 100-50 BCE, radiocarbon-dated in Jull et al. 1995 (DSS-1)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Commentary on Habakkuk (1QpHab), translated by G. Vermes, rev. R. A. Kraft: Teacher of Righteousness and Wicked Priest",
+    "authors": "Vermes, G. (translator); Kraft, R. A. (reviser)",
+    "year": null,
+    "venue": "CCAT, University of Pennsylvania",
+    "url": "https://ccat.sas.upenn.edu/gopher/other/courses/rels/225/Texts/Pesher%20Habakkuk",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Dead Sea Scrolls (Qumran Cave 1)",
+    "stance": "supports",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "Interpreted this concerns the Teacher of Righteousness, to whom God made known all the",
+    "summary": "1QpHab (on Hab 2:2) says God made known to the Teacher of Righteousness all the mysteries of the prophets' words; col. 8 accuses the Wicked Priest, who 'forsook God and betrayed the precepts for the sake of riches'. Both are coded titles, not names.",
+    "limits": "The page does not identify the figures. Composition date is contested: Rodley and Thiering (Radiocarbon 41, 1999) argue a 1st c. CE setting for the Kittim; Collins puts the Teacher in the first half of the 1st c. BCE (ASOR blog). Translation date not printed. copy: unauthorised-looking upload; cite the publication, not this URL.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Pesher Habakkuk (1QpHab)",
+      "locator": "col. VII 4-5 (Teacher); col. VIII 8-13 (Wicked Priest, on Hab 2:5-6)",
+      "language": "Hebrew, quoted in English (Vermes, revised Kraft)",
+      "edition": "Vermes translation, revised R. A. Kraft, CCAT (Penn)",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Disputed; no window fixed here. The copy is early Herodian, c. 30-1 BCE (Cross/Avigad, in Jull et al. 1995 App. 1), so composition is at or before that on the mainstream view; Rodley and Thiering 1999 argue for a 1st c. CE setting."
+      },
+      "witness": "1QpHab (Cave 1), hand c. 30-1 BCE (Jull et al. App. 1); radiocarbon on this scroll (DSS-3) in Jull et al. 1995 Table 2, 14C age 2054 +/- 22 BP."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "The War Scroll (1QM; 4Q491-496), translation by Wise, Abegg and Cook, excerpted by PBS Frontline",
+    "authors": "Wise, M.; Abegg, M. Jr.; Cook, E. (translators)",
+    "year": 1996,
+    "venue": "PBS Frontline, 'From Jesus to Christ' (reprinting HarperSanFrancisco 1996)",
+    "url": "https://www.pbs.org/wgbh/pages/frontline/shows/religion/portrait/scrolltranslation.html",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Dead Sea Scrolls (Qumran Cave 1 and Cave 4)",
+    "stance": "supports",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "The first attack of the Sons of Light shall be undertaken against the forces of the Sons of Darkness, the army of Belial",
+    "summary": "Opening of the War Scroll: a planned eschatological war of the Sons of Light against the Sons of Darkness and the army of Belial, with the Kittim of Asshur and 'those who have violated the covenant' on the dark side.",
+    "limits": "Excerpt on a popular site, not a scholarly edition. The page does not date the scroll and no composition range appears in anything I opened. It glosses the Kittim as 'archetypical bad guys' rather than Romans, one reading among several. Verifier: reprinted on PBS by arrangement with the publisher, so not an unauthorised copy; the line numbers 1:1-7 are the page's own.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "War Scroll / Rule of the War (1QM)",
+      "locator": "1QM 1:1-7",
+      "language": "Hebrew, quoted in English (Wise, Abegg, Cook 1996)",
+      "edition": "The Dead Sea Scrolls: A New Translation (HarperSanFrancisco 1996), as reprinted on PBS Frontline",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "No dating source opened for 1QM; left unstated rather than guessed."
+      },
+      "witness": "1QM (Cave 1) and 4Q491-496 (Cave 4), per the PBS page; copy dates not given there."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Pesher Nahum (4QpNah = 4Q169), translation by J. Allegro (DJD V, 1968), adapted by R. A. Kraft",
+    "authors": "Allegro, J. M. (translator); Kraft, R. A. (adapter)",
+    "year": 1968,
+    "venue": "CCAT, University of Pennsylvania (from DJD V)",
+    "url": "https://ccat.sas.upenn.edu/gopher/other/courses/rels/225/Texts/Pesher%20Nahum%20(part)",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Dead Sea Scrolls (Qumran Cave 4)",
+    "stance": "context",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "for of the man hanged alive upon a tree",
+    "summary": "The pesher on Nahum 2 speaks of vengeance on the 'Seekers-of-Smooth-Things' when a 'Lion of Wrath' hangs men up alive, and names Demetrius of Yavan (Greece); it bears on the Hasmonean setting of Qumran polemic and on hanging as punishment.",
+    "limits": "Fragmentary; identifications of the Lion of Wrath are scholars' restorations, not in the text. Allegro's 1968 translation as adapted, not a modern edition. Verifier: 'Demetrius' is a restored reading in brackets on this page, not intact text. copy: unauthorised-looking upload; cite the publication, not this URL.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Pesher Nahum (4Q169)",
+      "locator": "frgs 3-4 col. i 1-8 (on Nah 2:11-13)",
+      "language": "Hebrew, quoted in English (Allegro, DJD V; adapted Kraft)",
+      "edition": "CCAT (Penn) posting from DJD V, 1968",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Not dated by the page. It names the Kittim and 'Deme]trius' (the name is a bracketed restoration on the page), so it post-dates the events it describes only if that restoration holds."
+      },
+      "witness": "4Q169 from Cave 4; script date not given on the page."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "The Messiah Who Was Cursed on the Tree",
+    "authors": "Elgvin, T.",
+    "year": null,
+    "venue": "Themelios 22.3 (The Gospel Coalition)",
+    "url": "https://thegospelcoalition.org/themelios/article/the-messiah-who-was-cursed-on-the-tree",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Dead Sea Scrolls / New Testament studies",
+    "stance": "supports",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "you shall hang him on the tree so that he dies.",
+    "summary": "Elgvin quotes Temple Scroll 64:6-13, which orders hanging informers and defectors alive on a tree and burying them the same day, and uses it with Pesher Nahum to argue for crucifixion-style hanging in Second Temple Judaism.",
+    "limits": "The translation is the one given in Elgvin's article, not an edition I could open (Yadin 1983 is cited there, not read); Themelios describes itself as a peer-reviewed evangelical journal; the crucifixion reading is Elgvin's argument. Elgvin himself notes the Temple Scroll was probably not the Qumran community's own authoritative Torah. The page shows no publication year. Hebrew not seen.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Temple Scroll (11QTa = 11Q19)",
+      "locator": "64:6-13",
+      "language": "Hebrew, quoted in English (as given by T. Elgvin)",
+      "edition": "Quoted in Elgvin's article, which cites Y. Yadin, The Temple Scroll I-III (1977 Heb., 1983 Eng.)",
+      "composition": {
+        "start": -199,
+        "end": -100,
+        "basis": "Elgvin: 'In the second century bc a Jewish author close to the Essene community made a new edition of the laws of Deuteronomy' (one scholar's view; Wikipedia notes no consensus)."
+      },
+      "witness": "Two copies found by bedouin in 1956 (Elgvin); copy dates not given by him."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "The Copper Scroll (3Q15), West Semitic Research Project page",
+    "authors": "University of Southern California, West Semitic Research Project",
+    "year": null,
+    "venue": "USC Dornsife, WSRP",
+    "url": "https://dornsife.usc.edu/wsrp/copper-scroll/",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Dead Sea Scrolls (Qumran Cave 3)",
+    "stance": "context",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "In the fortress which is in the Vale of Achor, forty cubits under the steps entering to the east",
+    "summary": "First column of the Copper Scroll as rendered on the page: a list of buried treasure beginning with a chest of seventeen talents. The page says it was found in 1952 in Cave 3 by archaeologists and cut into 23 strips.",
+    "limits": "A project explainer, not an edition; translator not named. Renderings vary ('ruin' elsewhere). No date for the inscription is given. Whether the treasure is real is not settled here. Verifier: the page says the quoted text opens the first column; it gives no line numbers, so the locator is the column only.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Copper Scroll (3Q15)",
+      "locator": "col. I (opening entry; the page gives no line numbers)",
+      "language": "Hebrew, quoted in English (translator not named)",
+      "edition": "USC West Semitic Research Project web page",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "No dating source opened for the Copper Scroll; left unstated."
+      },
+      "witness": "The inscribed copper sheets themselves, found 1952 in Qumran Cave 3 (WSRP page), cut into 23 strips."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "“He will see light” in Isaiah 53:11",
+    "authors": "Meade, J.",
+    "year": 2020,
+    "venue": "Evangelical Textual Criticism (blog)",
+    "url": "https://evangelicaltextualcriticism.blogspot.com/2020/04/he-will-see-light-in-isaiah-5311.html",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Textual criticism / Dead Sea Scrolls",
+    "stance": "supports",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "He will see light and be satisfied",
+    "summary": "The Great Isaiah Scroll (1QIsaa) reads 'he will see light and be satisfied' at Isa 53:11, where the Masoretic Text has no 'light'; the post lists 1QIsab, 4QIsad and the Septuagint as agreeing and argues the longer reading is original.",
+    "limits": "A blog post (byline John Meade), not peer reviewed; it gives a transcription and argument, not the manuscript image. Wikipedia's Isaiah Scroll page says 1QIsaa and the Septuagint agree here and that some translations adopt the reading.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Isaiah (Great Isaiah Scroll 1QIsaa)",
+      "locator": "Isa 53:11 (column not stated on the page; Jull et al. place their sample DSS-50 in col. XXXIX of 1QIsaa, which is not shown to be the 53:11 column)",
+      "language": "Hebrew (transcribed and glossed by the blog)",
+      "edition": "Transcription and gloss as given in the blog post; image credited there to the Digital Dead Sea Scrolls",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "No source opened on the composition of Isaiah; left unstated to keep composition separate from the witness date."
+      },
+      "witness": "1QIsaa: hand c. 150-125 BCE (Cross, in Jull et al. 1995 App. 1; Avigad: second half of the 2nd c. BCE). Radiocarbon: ETH 2128 +/- 38 BP and Arizona 2141 +/- 32 BP, weighted mean 2136 +/- 24 BP (Jull et al.). Discovered 1946-47 in Cave 1 (Wikipedia, Isaiah Scroll)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Isaiah 53:11, Masoretic Text (Miqra according to the Masorah), Sefaria",
+    "authors": "Sefaria; text from Miqra according to the Masorah",
+    "year": null,
+    "venue": "Sefaria API (CC-BY-SA)",
+    "url": "https://www.sefaria.org/api/texts/Isaiah_53.11?context=0&commentary=0",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Hebrew Bible",
+    "stance": "context",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "מֵעֲמַ֤ל נַפְשׁוֹ֙ יִרְאֶ֣ה יִשְׂבָּ֔ע בְּדַעְתּ֗וֹ יַצְדִּ֥יק צַדִּ֛יק עַבְדִּ֖י לָרַבִּ֑ים וַעֲוֺנֹתָ֖ם ה֥וּא יִסְבֹּֽל׃",
+    "summary": "The Hebrew of Isaiah 53:11 in the Masorah edition reads yir'eh yisba' with no 'light' (no 'or' in the verse). Sefaria's English (JPS) renders it 'Out of his anguish he shall see it; He shall enjoy it to the full'. It is the comparison text for the 1QIsaa and 4QIsad reading in the blog candidate.",
+    "limits": "A modern digital edition of the medieval Masoretic tradition, i.e. the later witness being compared. The API response names the Hebrew version 'Miqra according to the Masorah' (CC-BY-SA) and the English as the JPS Gender-Sensitive Edition. No date for the underlying codices appears on this page.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Isaiah",
+      "locator": "53:11",
+      "language": "Hebrew",
+      "edition": "Sefaria: Miqra according to the Masorah (Hebrew)",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "No source opened on the composition of Isaiah; left unstated."
+      },
+      "witness": "Masoretic Text: medieval codices, date not read on the page. Compare the earlier Qumran witness 1QIsaa, c. 150-125 BCE."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Josephus, War 2.8.1-14 (117-166): the three sects, Essenes (English translation on CCAT)",
+    "authors": "Josephus (translator not named on the page)",
+    "year": null,
+    "venue": "CCAT, University of Pennsylvania",
+    "url": "https://ccat.sas.upenn.edu/gopher/other/courses/rels/225/Texts/Josephus%20War2",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Ancient history",
+    "stance": "context",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "there are three philosophical sects among the Jews. The followers of the first of which are the Pharisees; of the second, the Sadducees",
+    "summary": "Josephus names three Jewish sects, Pharisees, Sadducees and Essenes, and describes the Essenes' community of goods and strictness. This is the main ancient description used to identify the Qumran sect with the Essenes.",
+    "limits": "Translator and translation date are not named on the page. Josephus's Essenes 'dwell in every city', not only in the desert, which critics of the Qumran-Essene link use. The page does not itself link them to Qumran.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Josephus, Jewish War",
+      "locator": "2.8.2 (119)",
+      "language": "Greek, quoted in English (translator not named on the page)",
+      "edition": "English translation as posted on CCAT (Penn); the page names no translator and prints no edition details",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Not dated by the page; the Josephus brief in this run covers the date."
+      },
+      "witness": "Not discussed on the page."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Pliny the Elder, Natural History 5.70-73: the Essenes beside the Dead Sea (Harland's adaptation)",
+    "authors": "Pliny the Elder; Harland, P. A. (adapter)",
+    "year": 2022,
+    "venue": "Ethnic Relations and Migration in the Ancient World (P. A. Harland), web page",
+    "url": "https://www.philipharland.com/Blog/2022/07/judeans-pliny-the-elder-and-julius-solinus-on-the-essenes-beside-the-dead-sea-first-century-ce/",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Ancient history",
+    "stance": "context",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "Lying on the west of Asphalt lake, and sufficiently distant to escape its noxious fumes, are the Essenes.",
+    "summary": "Pliny places the Essenes on the west shore of the Dead Sea, above Engedi ('Below this settlement was formerly the town of Engedi'), the key text for tying them to Qumran.",
+    "limits": "The 1855 translator is not named on the page. 'Below' and the exact site are disputed in the literature (Ein Gedi vs Qumran) and the page does not say Qumran. Pliny does not mention scrolls. Verifier: the strand was removed because this page does not say the Essenes were the Qumran sect.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "Pliny the Elder, Natural History",
+      "locator": "5.73",
+      "language": "Latin, quoted in English (1855 London translation adapted by Harland; translator not named on the page)",
+      "edition": "The Natural History of Pliny (London: Taylor and Francis, 1855), public domain, adapted by P. A. Harland; page published 2022, modified 12 May 2024",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Date not given on the opened page; left unstated."
+      },
+      "witness": "Not discussed on the page."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "4QMMT (Halakhic Letter), fragments adapted from Garcia Martinez",
+    "authors": "Garcia Martinez, F. (translation); adapted by 'RAK' (initials as on the page)",
+    "year": null,
+    "venue": "CCAT, University of Pennsylvania",
+    "url": "https://ccat.sas.upenn.edu/gopher/other/courses/rels/225/Texts/4QMMT(new)",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Dead Sea Scrolls (Qumran Cave 4)",
+    "stance": "context",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "These are some of our regulations",
+    "summary": "4QMMT lists rulings on purity and the Temple ('we think that the temple ... is the camp') and warns against leading 'the people into error'. It is the text Schiffman used to argue for a Sadducean root of the sect.",
+    "limits": "Provisional posted translation with gaps, adapted from Garcia Martinez 'and web sites'; the page does not argue the Sadducean case or date the text. Verifier: the strand was removed because this page makes no claim about Sadducean origins. copy: unauthorised-looking upload; cite the publication, not this URL.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "text": {
+      "work": "4QMMT (Miqsat Ma'aseh ha-Torah)",
+      "locator": "lines 1-36 of the posted composite text",
+      "language": "Hebrew, quoted in English (Garcia Martinez, adapted)",
+      "edition": "CCAT (Penn) provisional composite from Garcia Martinez, The Dead Sea Scrolls Translated",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Not dated by the page."
+      },
+      "witness": "Cave 4 manuscripts (page title); the page does not date them. The calendar preface is from the Virtual Qumran page (candidate 18)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Radiocarbon Dating of Scrolls and Linen Fragments from the Judean Desert",
+    "authors": "Jull, A. J. T.; Donahue, D. J.; Broshi, M.; Tov, E.",
+    "year": 1995,
+    "venue": "Radiocarbon 37(1): 11-19",
+    "url": "https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/8ABC8DDCB3043F747D7701B19B5BA520/S0033822200014740a.pdf/radiocarbon-dating-of-scrolls-and-linen-fragments-from-the-judean-desert.pdf",
+    "doi": "10.1017/S0033822200014740",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Radiocarbon dating / Archaeology",
+    "stance": "supports",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "The radiocarbon results are in good agreement with estimates of age based on paleography.",
+    "summary": "AMS dates on 18 texts and 2 linen pieces (Arizona) fit the palaeographic dates except the first sample of 4Q258; 1QIsaa at 2141 +/- 32 BP agrees with the earlier Zurich value. Two documentary texts, 4Q342 and 4Q344, are dated as late as Bar-Kokhba and thought mixed in by dealers (Broshi).",
+    "limits": "Measures the age of parchment, not of composition. Calibration and sample-cleaning issues (castor oil on some parchments) are raised in Rodley and Thiering 1999, which discusses Doudna's 1998 reanalysis. Authors are affiliated with the Israel Museum Shrine of the Book (Broshi) and the Dead Sea Scrolls Publication Project (Tov), which supplied the samples; no conflict statement on the page. Verifier: the 'first sample of 4Q258' exception is on the page; Table 2 also gives 1QS (DSS-4) and 4Q266 results.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Radiocarbon Dating of Fourteen Dead Sea Scrolls",
+    "authors": "Bonani, G.; Ivy, S.; Wolfli, W.; Broshi, M.; Carmi, I.; Strugnell, J.",
+    "year": 1992,
+    "venue": "Radiocarbon 34(3): 843-849 (Proceedings of the 14th International Radiocarbon Conference)",
+    "url": "https://www.cambridge.org/core/journals/radiocarbon/article/radiocarbon-dating-of-fourteen-dead-sea-scrolls/3D21205A1B209878952A8EBB31771077",
+    "doi": "10.1017/S0033822200064158",
+    "accessed": "2026-11-17",
+    "kind": "primary",
+    "discipline": "Radiocarbon dating / Archaeology",
+    "stance": "supports",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "The calibrated radiocarbon ages agree well, except in one case, with the paleographic estimates or the specific dates noted on the scrolls.",
+    "summary": "The Zurich AMS study of 14 selected scrolls checked palaeographic dating: ages matched the palaeographic or stated dates in all but one case. Only the abstract page was open (full PDF behind Cambridge access).",
+    "limits": "Only the abstract was read, so per-scroll results are not given here. Rodley (1993) argues the conventional ages run about 40 years too old. Co-authors include M. Broshi (Israel Museum) and J. Strugnell (Harvard Divinity School); no stake statement on the abstract page.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "An Assessment of the Radiocarbon Dating of the Dead Sea Scrolls",
+    "authors": "Rodley, G. A.",
+    "year": 1993,
+    "venue": "Radiocarbon 35(2): 335-338 (abstract page)",
+    "url": "https://resolve.cambridge.org/core/journals/radiocarbon/article/an-assessment-of-the-radiocarbon-dating-of-the-dead-sea-scrolls/21C881C07D5F03597FE3E69FD71C6A33",
+    "doi": "10.1017/S0033822200065036",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Radiocarbon dating / Statistics",
+    "stance": "context",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "are offset systematically by about +40 yr",
+    "summary": "A statistical reanalysis of the Zurich results: the conventional ages look about 40 years too old, and a correction gives closer agreement with palaeographic and dated texts, so 14C may be more precise than first thought.",
+    "limits": "Abstract only (full PDF behind Cambridge access); a note, not a new measurement; it challenges the raw ages while broadly backing the palaeographic dates. Verifier: stance lowered from fails_to_support to context. The abstract questions the raw conventional ages (about +40 yr) but says a corrected value agrees more closely with palaeographic dates, so it does not fail to support the dating; it refines it.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Use of Radiocarbon Dating in Assessing Christian Connections to the Dead Sea Scrolls",
+    "authors": "Rodley, G. A.; Thiering, B. E.",
+    "year": 1999,
+    "venue": "Radiocarbon 41(2): 169-182",
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B643B2523828D99A5E451A94D4041728/S0033822200019524a.pdf/use-of-radiocarbon-dating-in-assessing-christian-connections-to-the-dead-sea-scrolls.pdf",
+    "doi": "10.1017/S0033822200019524",
+    "accessed": "2026-11-17",
+    "kind": "alternative",
+    "discipline": "Radiocarbon dating / Dead Sea Scrolls",
+    "stance": "contradicts",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "may be seen as compatible with a view that personalities mentioned in the Scrolls were contemporary with the founders of Christianity.",
+    "summary": "Re-reads the Bonani and Jull dates and Doudna's recalibration to argue that the Teacher and Wicked Priest may be placed in the 1st c. CE, so the Scrolls may bear on Christian origins; it rejects Doudna's claim that the first century CE disappears from Qumran.",
+    "limits": "Rodley and Thiering say 14C dates the writing material, not composition. Their placement of the Teacher in the 1st c. CE (body of the paper) differs from Collins's first-half-1st-c.-BCE placement (ASOR blog, candidate 19). The quoted sentence is the abstract's hedged claim; the body argues more strongly.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "The Origins of the Dead Sea Scrolls",
+    "authors": "Golb, N.",
+    "year": 1995,
+    "venue": "Fathom Archive, University of Chicago (excerpt of Scribner 1995)",
+    "url": "https://fathom.lib.uchicago.edu/1/777777190227/",
+    "accessed": "2026-11-17",
+    "kind": "alternative",
+    "discipline": "Jewish history / Dead Sea Scrolls",
+    "stance": "contradicts",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "Taken from Jerusalem libraries and personal collections at a crucial hour and hidden away in many places in the wilderness",
+    "summary": "Golb's thesis in his own words: the Scrolls are remains of Jerusalem libraries and private collections hidden in the Judaean Wilderness before 70 CE, not a sectarian library; he also says the 'Qumran-Essene hypothesis had become a fact in the minds of the editors' and points to over fifty hands in Cave 1.",
+    "limits": "Advocacy by the proponent; the excerpt gives the manuscript argument but not the archaeological case for a fortress. Many scholars still accept an Essene or yahad link (Virtual Qumran; Collins in the ASOR blog), and the Temple-library idea does not by itself explain the sectarian texts (Virtual Qumran). Verifier: Golb's page says only 'the time of the First Revolt'; the years 66-70 CE are given for this thesis on the ASOR blog page (candidate 19), not on this page. Page reprinted by arrangement with Scribner, so not an unauthorised copy.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Jerusalem libraries and Jewish groups of the Second Commonwealth",
+      "to": "Judaean Wilderness caves (Qumran)",
+      "carried": "writing",
+      "what": "manuscripts moved out of Jerusalem before the 70 CE siege",
+      "medium": "unknown",
+      "start": 66,
+      "end": 70,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "The Orion Virtual Qumran Tour: The Scrolls, the Sect, and Qumran",
+    "authors": "Orion Center / Hebrew University (page, authors not named)",
+    "year": null,
+    "venue": "Hebrew University of Jerusalem, Virtual Qumran Tour",
+    "url": "https://virtualqumran.huji.ac.il/scrolls/SectQumran.htm",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Dead Sea Scrolls",
+    "stance": "supports",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "The “Essene hypothesis” remains the best way to interpret the evidence from our archaeological and literary sources",
+    "summary": "A university overview concludes the Essene hypothesis is still the best reading but must be flexible about the scope of the label; it lists Sadducee, Zadokite and Zealot alternatives and notes theories that the corpus came from Jerusalem or that Qumran was a fortress, villa or manor house, saying the evidence still ties the writers of the sectarian literature to the site.",
+    "limits": "Teaching site with no named authors or date; not peer reviewed. It states the fortress, villa and manor-house readings but answers them briefly. Verifier: an unsigned institutional page; stance kept at supports because it argues the conclusion itself, but it is an overview, not a primary study.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Essenes (Josephus, Philo, Pliny)",
+      "to": "the Qumran sect",
+      "carried": "people",
+      "what": "identification of the yahad with the Essenes",
+      "medium": "unknown",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "The Orion Virtual Qumran Tour: Sadducees or Essenes",
+    "authors": "Orion Center / Hebrew University (page, authors not named)",
+    "year": null,
+    "venue": "Hebrew University of Jerusalem, Virtual Qumran Tour",
+    "url": "https://virtualqumran.huji.ac.il/moreInfo/SadduceesEssenes.htm",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Dead Sea Scrolls",
+    "stance": "fails_to_support",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "The identification of the sect as Sadducees does not seem justified by the evidence.",
+    "summary": "The page summarises why strict purity and Sabbath rules (4QMMT) and a 364-day calendar led some to call the sect Sadducean, then rejects the identification, while crediting the debate with highlighting halakhah.",
+    "limits": "One side's rebuttal on an unsigned teaching page. Schiffman's own position (Sadducean roots, not that the sect was the Sadducees) is not quoted from a source I opened.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Sadducean priestly tradition",
+      "to": "the Qumran sect",
+      "carried": "custom",
+      "what": "legal (halakhic) positions on purity and the Temple",
+      "medium": "text",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Rethinking the “Qumran Community”: Recent Approaches",
+    "authors": "Elledge, C. D.; Yeo, O.",
+    "year": 2013,
+    "venue": "ASOR Blog (American Society of Overseas Research)",
+    "url": "https://asorblog.org/2013/12/13/rethinking-the-qumran-community-recent-approaches.html",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Dead Sea Scrolls",
+    "stance": "context",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "Qumran was one settlement of the yahad",
+    "summary": "Surveys two post-Essene-hypothesis models: Boccaccini's Enochic-Essene parent movement with a Qumran schism, and Collins's varied yahad, quoted as saying Qumran was only one settlement. Also notes Magness's later dating of the Hellenistic occupation to the first half of the 1st c. BCE.",
+    "limits": "Blog summary by a professor and a student; the quote is Collins's, relayed by them. Collins is also cited as placing the Teacher in the first half of the 1st c. BCE.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Enochic and Essene movements",
+      "to": "the Qumran yahad",
+      "carried": "religion",
+      "what": "parent-movement origins of the scroll community",
+      "medium": "unknown",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Dead Sea Scrolls",
+    "authors": "Duchesne-Guillemin, J.",
+    "year": 1994,
+    "venue": "Encyclopaedia Iranica VII/2: 177-179 (online, updated 2013)",
+    "url": "https://www.iranicaonline.org/articles/dead-sea-scrolls",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Iranian studies / Dead Sea Scrolls",
+    "stance": "supports",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "A number of Iranian elements can be discerned in these documents, particularly pertaining to dualism, a characteristic of Iranian religions.",
+    "summary": "The entry argues that the Community Rule's two-spirits treatise echoes Zoroastrian dualism (Dupont-Sommer, Kuhn), though it stresses predestination rather than free choice, and that the light-darkness identification points to a non-Gathic source, probably Zurvanite.",
+    "limits": "The author's own claim: a similarity argument with no documented route, so 'inferred', not 'documented'. Hempel argues dualism is less central than once thought.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Iranian (Zoroastrian) religion",
+      "to": "the Qumran sect",
+      "carried": "idea",
+      "what": "ethical and eschatological dualism of two spirits, light and darkness",
+      "medium": "unknown",
+      "start": null,
+      "end": null,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "The Treatise on the Two Spirits and the Literary History of the Rule of the Community",
+    "authors": "Hempel, C.",
+    "year": 2010,
+    "venue": "in G. G. Xeravits (ed.), Dualism in Qumran (Orion Center bibliography record)",
+    "url": "https://orion-bibliography.huji.ac.il/node/59688",
+    "accessed": "2026-11-17",
+    "kind": "skeptical",
+    "discipline": "Dead Sea Scrolls",
+    "stance": "fails_to_support",
+    "ask_addressed": "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages (Community Rule, War Scroll, Damascus Document, Pesher Habakkuk, Temple Scroll, Copper Scroll, Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible)",
+    "quote": "an erosion of the prominence of the dualistic ideas found in the Treatise of the Two Spirits",
+    "summary": "Hempel argues that light-and-darkness dualism is proportionally less central to the whole scroll corpus than once assumed, which weakens reading it as a core, imported doctrine.",
+    "limits": "Abstract on a bibliography page; the full argument was not seen. The record gives Year 2010, Xeravits (ed.), Dualism in Qumran, T&T Clark (Library of Second Temple Studies 76), pp. 102-120.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "strand": {
+      "from": "Iranian (Zoroastrian) religion",
+      "to": "the Qumran sect",
+      "carried": "idea",
+      "what": "dualism of the Treatise of the Two Spirits (centrality questioned)",
+      "medium": "unknown",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "dead-sea-scrolls",
+    "records": [],
+    "title": "Isaiah Scroll",
+    "authors": "Wikipedia contributors",
+    "year": null,
+    "venue": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Isaiah_Scroll",
+    "accessed": "2026-11-17",
+    "kind": "secondary",
+    "discipline": "Dead Sea Scrolls",
+    "stance": "context",
+    "ask_addressed": "Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others)",
+    "quote": "first discovered by Bedouin shepherds in 1947 from Qumran Cave 1",
+    "summary": "Gives the 1946-47 discovery in Qumran Cave 1 by Ta'amireh shepherds, its sale to Kando and Mar Samuel, ASOR's 1948 photography, a hand of 125-100 BCE and calibrated 14C ranges of 356-103 BCE.",
+    "limits": "Encyclopedia article, context only; its discovery account rests on its own footnotes. Used because no scholarly discovery page opened for 1QIsaa.",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  }
+]
