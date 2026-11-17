@@ -383,6 +383,11 @@ X('s-craft-to-roman-alchemy', { src: ['g_rageot2023', 'g_walter1999', 'g_shortla
 import { STRANDS_H } from './extra/h';
 
 CULTURES.push(
+  CA('qumran', ['Dead Sea Scrolls', 'Essenes', 'yahad', 'Qumran'], 'Qumran sect (the yahad)', 'Near East', -150, 70),
+  CA('judaea-roman', ['Roman Judaea', 'Syria Palaestina', 'Bar Kokhba'], 'Roman Judaea and Palaestina', 'Near East', 6, 640),
+  CA('jewish-diaspora', ['Diaspora', 'Jewish communities abroad'], 'Jewish diaspora communities', 'Mediterranean', -586, 640),
+  C('elephantine', 'Elephantine Jewish garrison (Egypt)', 'Egypt', -525, -399),
+  C('moab', 'Moab (Mesha’s kingdom)', 'Near East', -900, -580),
   CA('bantu-homeland', ['Nigeria', 'Cameroon'], 'Bantu homeland (Nigeria–Cameroon)', 'Africa', -3000, -1000),
   C('congo-rainforest', 'Congo rainforest', 'Africa', -1000, 1500),
   CA('bantu-africa', ['Bantu', 'sub-Saharan Africa'], 'Bantu-speaking Africa', 'Africa', -1000, 1500),
@@ -436,6 +441,9 @@ CULTURES.push(
   CA('ilkhanate', ['Tabriz', 'Rashid al-Din'], 'Ilkhanate Persia', 'Iran', 1256, 1335),
 );
 THREADS.push(
+  { id: 'th-qumran', name: 'Dead Sea Scrolls and Second Temple Judaism', carried: 'idea', blurb: 'What the Qumran manuscripts say about the sect that kept them, set against what Josephus, Philo and Pliny report about the Essenes. Who wrote them, and whether Qumran was a settlement, a fortress or a library, is argued; both sides are kept.' },
+  { id: 'th-jewishsrc', name: 'Jewish sources, inscriptions and Josephus', carried: 'idea', blurb: 'Josephus on Jewish origins and sects, the Testimonium and its transmission through Christian hands, and the inscriptions (Merneptah, Tel Dan, Mesha, Siloam, Lachish, Elephantine) that touch Israel and Judah directly.' },
+  { id: 'th-romejews', name: 'Rome, Jews and Christians', carried: 'people', blurb: 'What Roman historians wrote about Jews and Christians, and the Bar Kokhba revolt and the diaspora that followed. Hostile and late reports are graded as such.' },
   { id: 'th-africa', name: 'Africa: peoples, iron and trade', carried: 'people', blurb: 'The Bantu expansion, the debated origins of African iron, and what Arabic geographers and the Periplus record of trade and conversion. Genomic, linguistic and archaeological reconstructions of the Bantu route disagree, and the page keeps both.' },
   { id: 'th-americas', name: 'The Americas: crops and contact', carried: 'crop_or_animal', blurb: 'Maize and its spread, Polynesian and Norse contact, and the Columbian exchange. Dated finds are separated from inference; the sceptic is quoted where one was opened.' },
   { id: 'th-eastasia', name: 'East Asia: the Sinosphere', carried: 'religion', blurb: 'Writing, Buddhism, paper and technologies between China, Korea, Japan and Vietnam, read from Nihon Shoki, Samguk sagi and Hangul’s own prefaces. Scholars date the arrival of Buddhism in Japan differently from the chronicle.' },
@@ -454,6 +462,29 @@ for (const r of STRANDS_H) {
 }
 
 // Finer detail: route and branch strands nested under their overview strand (shown with "Show fine detail").
+// Hand-authored strands from the Jewish and Roman wave: each rests on passages quoted at their locus and re-found by a verifier.
+T2('s-testimonium', { thread: 'th-jewishsrc', from: 'israel-judah', to: 'early-christianity', carried: 'writing', what: 'The Testimonium Flavianum (Antiquities 18.3.3): Josephus’s text on Jesus as copied by Christian hands', medium: 'text', start: 93, end: 324, directness: 'debated', status: 'E4',
+  note: 'Josephus wrote the Antiquities c. 93/94 CE, and Eusebius quotes a Testimonium by 324. Whether the passage is wholly authentic, wholly added, or an authentic core with Christian additions is the open question; the surviving Greek manuscripts are medieval. Jerome (late 4th c.) quotes a variant, “believed to be Christ”, that departs from the Greek, which shows the text was not fixed.',
+  passages: ['p_josephusantiqu_1833whiston1', 'p_eusebiuseccles_churchhistor', 'p_jeromelivesofi_devirisillus', 'p_josephusantiqu_2091whiston2'],
+  for: ['Josephus (Ant. 18.3.3): “He drew over to him both many of the Jews and many of the Gentiles.”', 'Eusebius (HE 1.11): “a wise man, if indeed it be proper to call him a man”: the passage existed in Christian hands by 324'],
+  against: ['Jerome quotes “and was believed to be Christ”, not the Greek “He was [the] Christ”: the wording varies between witnesses', 'Eusebius, HE 2.23, says Jerusalem fell “to avenge James the Just”, a sentence not in the extant Antiquities, so Christian readers also shaped how Josephus was remembered'],
+  unresolved: ['Is there an authentic core, and where do the Christian additions begin?', 'No pre-Eusebian quotation of the passage was captured from the sources opened.'], src: ['g_josephus94f', 'g_eusebius1890b', 'g_eusebius1890c', 'g_jerome1892'] });
+T2('s-essenes-qumran', { thread: 'th-qumran', from: 'israel-judah', to: 'qumran', carried: 'people', what: 'Were the Essenes of Josephus, Philo and Pliny the sect whose scrolls were hidden at Qumran?', medium: 'text', start: -150, end: 70, directness: 'debated', status: 'E4',
+  note: 'Pliny the Elder places the Essenes on the west shore of the Dead Sea, above En-gedi, and Josephus describes their rules. Many scholars identify them with the Community Rule’s yahad; Golb argues the scrolls came from Jerusalem libraries, and others look to a Sadducean priestly tradition. The page keeps these as separate strands.',
+  passages: ['p_plinytheeldern_573', 'p_josephusjewish_282119'],
+  for: ['Pliny the Elder: “Lying on the west of Asphalt lake … are the Essenes.” (the location only; he does not mention scrolls or Qumran by name)'],
+  against: ['The Community Rule is not named as Essene by any of the three classical writers; the identification is an inference from the match of rules and place', 'Golb: the scrolls were taken from Jerusalem libraries in 66-70 CE (see the library strand)'],
+  unresolved: ['Is the match of place and practice enough, or does it need a document that names the sect?'], src: ['g_pliny2022', 'g_josephusndb'] });
+T2('s-tacitus-christians', { thread: 'th-romejews', from: 'israel-judah', to: 'rome', carried: 'religion', what: 'Christians in Rome by 64 CE: Tacitus on Christus and the fire (Annals 15.44)', medium: 'text', start: 64, end: 64, directness: 'documented', status: 'E3',
+  note: 'Tacitus (written c. 105-116) says Christus “suffered the extreme penalty during the reign of Tiberius” and that a “vast multitude” was punished at Rome after the fire of 64. Shaw (2015) argues the general execution reported is contested. It is a hostile, later witness: strong that Christians were known in Rome, weaker on the details.',
+  passages: ['p_tacitusannals_15443', 'p_tacitusannals_15442'],
+  for: ['Tacitus, Annals 15.44.3: “Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius”'],
+  against: ['Shaw (2015) argues that the large-scale execution Tacitus describes is contested, though not that nothing happened'], src: ['g_tacitusndb', 'g_shaw2015'] });
+T2('s-citizenship-212', { thread: 'th-romejews', from: 'rome', to: 'egypt-roman', carried: 'institution', what: 'Citizenship for “the whole inhabited world”: the Constitutio Antoniniana as preserved in P.Giss. 40', medium: 'text', start: 211, end: 213, directness: 'documented', status: 'E2',
+  note: 'The papyrus reads “[…] the whole world citizenship of the Romans”. The column is fragmentary and its restorations are contested, so what it grants and to whom is argued even though the document itself is first-hand.',
+  passages: ['p_pgiss40colicon_colilines89q'],
+  for: ['P.Giss. 40 col. I, line 9: “κατὰ τ]ὴ̣ν οἰκουμέν̣η̣ν π[ολιτ]είαν Ῥωμαίων”'],
+  against: ['The column is fragmentary and the restorations are contested: the scope of the grant is not read directly from the surviving words'], src: ['g_papyrusgiessennd'] });
 const PARENTS: Record<string, string[]> = {
   'x-africa-bantu-homeland-bantu-africa-peop': ['x-africa-bantu-homeland-congo-rainforest-lang', 'x-africa-bantu-homeland-congo-rainforest-peop', 'x-africa-congo-rainforest-bantu-africa-peop'],
   'x-mongol-golden-horde-latin-europe-peop': ['x-mongol-golden-horde-italian-ports-peop', 'x-mongol-tian-shan-western-eurasia-peop'],

@@ -11,9 +11,17 @@ from pathlib import Path
 ROOT = Path(sys.argv[1]); RUNS = sys.argv[2:]
 idmap = json.load(open(ROOT / 'idmap.json'))
 BRIEF_THREAD = {'africa-bantu-sahara': 'th-africa', 'americas-crops-contact': 'th-americas', 'east-asia-sinosphere': 'th-eastasia', 'indianization-se-asia': 'th-seasia',
-  'indo-european-branches': 'th-ie', 'islam-arabic-science': 'th-islam', 'law-christianity-mediterranean': 'th-lawchurch', 'mongol-plague-exchange': 'th-plague', 'writing-systems-breakdown': 'th-writing'}
+  'indo-european-branches': 'th-ie', 'islam-arabic-science': 'th-islam', 'law-christianity-mediterranean': 'th-lawchurch', 'mongol-plague-exchange': 'th-plague', 'writing-systems-breakdown': 'th-writing',
+  'dead-sea-scrolls': 'th-qumran', 'josephus-war-life-apion': 'th-jewishsrc', 'josephus-antiquities-testimonium': 'th-jewishsrc', 'jewish-ancient-inscriptions': 'th-jewishsrc',
+  'roman-histories-on-jews-christians': 'th-romejews', 'bar-kokhba-diaspora': 'th-romejews'}
 # (regex on the free text, culture id): first match wins
 CULTURE_RULES = [
+ (r'^unspecified|^Gentile peoples|^Christian tradition|^Crete, Egypt', None),
+ (r'^Elephantine|Jewish garrison', 'elephantine'), (r'Judaean Wilderness|Qumran', 'qumran'), (r'^Essenes|^Sadducean|^Enochic|^Jerusalem libraries|^Numbers 24|^Judaism ->?$|^Judaism$|^Jewish Jerusalem|Jewish priestly|^Judaea$|Judaean community|Judaean governor|Judaean origins|Jewish nation|Moses and Jewish|Judaean Jews|^Jewish practice|^Jews$', 'israel-judah'),
+ (r'Hadrianic Rome|Roman and Gentile|Aelia', 'rome'), (r"Bar Kosiba", 'judaea-roman'), (r'Achaemenid court|Iranian \(Zoroastrian\)', 'achaemenid'),
+ (r'Jewish community of Aphrodisias|Jewish communities in Rome|Jewish and Christ-believing', 'jewish-diaspora'), (r"Gentile 'Godfearers'", 'roman-east'), (r'Roman \(Flavian\)|Roman authorities|Roman imperial authority', 'rome'),
+ (r'Moab and Israel', 'moab'), (r'^Phoenician', 'levant-phoenicia'), (r'Hebrew and Aramaic', 'israel-judah'), (r'^Pythagorean|Greek philosophy', 'greece-archaic'),
+ (r'^Egypt|Egyptian Heliopolis|^Egypt \(Hyksos', 'egypt-pharaonic'),
  (r'^unspecified', None), (r'^Americas$', 'americas-all'), (r'^Old World', 'old-world'), (r'Mediterranean or Nile', 'north-africa-sahara'),
  (r'Pre-Anatolian', 'pre-anatolian'), (r'Pontic-Caspian', 'yamnaya'), (r'^Anatolia', 'anatolia'), (r'Europe and Asia', 'europe-asia-ie'), (r'^Alpine', 'alpine'), (r'Germanic', 'germanic-north'), (r'^Tarim', 'tarim'),
  (r'^Bantu|West Central Africa', 'bantu-homeland'), (r'Congo|rainforest', 'congo-rainforest'), (r'Central, eastern|western central|Bantu-speaking|sub-Saharan|Late Iron Age', 'bantu-africa'), (r'Nok', 'nok'),

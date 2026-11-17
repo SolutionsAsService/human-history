@@ -7,7 +7,7 @@ import json, glob, re, sys, hashlib
 from pathlib import Path
 ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else 'rdada_runs')
 # Source ids are first-come: ingest runs in the order they were added so ids never shift under strands that cite them.
-ORDER = ['2026-11-16 Threads', '2026-11-17 Primary texts', '2026-11-17 Scholarship', '2026-11-17 Breadth']
+ORDER = ['2026-11-16 Threads', '2026-11-17 Primary texts', '2026-11-17 Scholarship', '2026-11-17 Breadth', '2026-11-17 Jewish and Roman']
 rank = lambda f: (ORDER.index(Path(f).parent.parent.name) if Path(f).parent.parent.name in ORDER else len(ORDER), f)
 files = sorted((f for f in glob.glob(str(ROOT / '*' / 'notes' / '*.verified.json')) if not (Path(f).parent.parent / 'NO_INGEST').exists()), key=rank)   # a run folder with a NO_INGEST file was hand-ingested earlier
 def slug(s): return re.sub(r'[^a-z0-9]+', '', s.lower())
