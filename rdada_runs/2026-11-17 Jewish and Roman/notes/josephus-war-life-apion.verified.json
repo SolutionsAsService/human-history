@@ -1,0 +1,838 @@
+[
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Jewish War, Preface: the author, and why he writes",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "Joseph, the son of Matthias, by birth a Hebrew, a priest also, and one who at first fought against the Romans myself",
+  "summary": "Josephus names himself, his priestly status and his role on the Jewish side, and says he translates into Greek an earlier work he wrote in the 'language of our country' for the Upper Barbarians.",
+  "limits": "Self-description by an interested participant; the Aramaic/Hebrew first version is lost. Says nothing by itself on patronage. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source. Quote located in Preface 1 of the file; section 2 was not checked.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Jewish War",
+   "locator": "War, Preface 1",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 75,
+    "end": 79,
+    "basis": "Thackeray's Loeb introduction (1927) as reproduced on Pearse's page: 'probably written before the death of Vespasian in 79, as he received a copy, but after the dedication of the Temple of Pax (vii. 158ff) in the year 75'; Livius (last modified 2020): presented to Vespasian 75-79 (book 7 a later addition). 'Probably' is the source's own hedge."
+   },
+   "witness": "Per Pearse/Thackeray list: 3rd-c. papyrus P.Rain. 3.36 (BJ 2.20.6-7 only, not this passage); Parisinus gr. 1425 and Ambrosianus D.50 sup. (each '10 or 11' c.); a Latin version 'known to Cassiodorus in the fifth century' (the page's wording) and Hegesippus (Latin, written about 370); traces of the 'inferior' text type already in Porphyry (3rd c.), per Thackeray's introduction"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Jewish War 2.8.2: Pharisees, Sadducees and Essenes",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "the third sect, which pretends to a severer discipline, are called Essens. These last are Jews by birth",
+  "summary": "Opening of Josephus's description of the Essenes, the earliest long account of them; he stresses continence, community of goods and training of others' children.",
+  "limits": "Josephus's own, possibly idealising, account; he claims firsthand trial of all three sects (Life 2 in the file's numbering). Not tested here against the Dead Sea Scrolls or Philo. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Jewish War",
+   "locator": "War 2.8.2",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 75,
+    "end": 79,
+    "basis": "Thackeray's Loeb introduction (1927) as reproduced on Pearse's page: 'probably written before the death of Vespasian in 79, as he received a copy, but after the dedication of the Temple of Pax (vii. 158ff) in the year 75'; Livius (last modified 2020): presented to Vespasian 75-79 (book 7 a later addition). 'Probably' is the source's own hedge."
+   },
+   "witness": "Per Pearse/Thackeray list: 3rd-c. papyrus P.Rain. 3.36 (BJ 2.20.6-7 only, not this passage); Parisinus gr. 1425 and Ambrosianus D.50 sup. (each '10 or 11' c.); a Latin version 'known to Cassiodorus in the fifth century' (the page's wording) and Hegesippus (Latin, written about 370); traces of the 'inferior' text type already in Porphyry (3rd c.), per Thackeray's introduction"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Antiquities 15.10.4: Essenes live like Pythagoreans",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers). (Josephus's own Essene-Pythagorean comparison)",
+  "quote": "These men live the same kind of life as do those whom the Greeks call Pythagoreans",
+  "summary": "Josephus says the Essene way of life matches that of the Greek Pythagoreans; the passage claims likeness, not a route or influence.",
+  "limits": "A comparison by Josephus for a Greek audience; no transmission route is stated here, so the strand is only 'inferred'. No sceptical scholarship on this specific parallel was opened in this run. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source. Strand directness lowered from 'debated' to 'inferred': the page asserts likeness only and states no transfer, route or contact; no source on modern debate was opened. Strand years (-300, 73) removed: no opened source gives them; read the strand as the researcher's inference, not as Josephus's claim of transmission.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Jewish Antiquities",
+   "locator": "Antiquities 15.10.4",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 93,
+    "end": 94,
+    "basis": "Antiquities closes with a date in Ant. 20.267, 'the 13th year of Domitian and the 56th year of his own age, that is A.D. 93-94' (Thackeray via Pearse's Vita/Apion page); the same page says a second or later edition exists, so this is the date of the first ending"
+   },
+   "witness": "Not established from sources opened in this run (the Antiquities manuscript tradition was not checked)"
+  },
+  "strand": {
+   "from": "Pythagorean communities (Greek)",
+   "to": "Essenes (Judaea)",
+   "carried": "custom",
+   "what": "communal, ascetic way of life, as likened by Josephus",
+   "medium": "unknown",
+   "start": null,
+   "end": null,
+   "directness": "inferred"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Jewish War 3.8.9: the prophecy to Vespasian",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses.",
+  "quote": "Thou, O Vespasian, art Caesar and emperor, thou, and this thy son. Bind me now still faster",
+  "summary": "After surrender at Jotapata Josephus tells Vespasian he will be emperor; the scene underlies debate over his Flavian loyalty.",
+  "limits": "Josephus's own report of a conversation held with Titus and two friends present; Romm (NYRB) notes the doubt whether it was invented or a lucky guess. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Jewish War",
+   "locator": "War 3.8.9",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 75,
+    "end": 79,
+    "basis": "Thackeray's Loeb introduction (1927) as reproduced on Pearse's page: 'probably written before the death of Vespasian in 79, as he received a copy, but after the dedication of the Temple of Pax (vii. 158ff) in the year 75'; Livius (last modified 2020): presented to Vespasian 75-79 (book 7 a later addition). 'Probably' is the source's own hedge."
+   },
+   "witness": "Per Pearse/Thackeray list: 3rd-c. papyrus P.Rain. 3.36 (BJ 2.20.6-7 only, not this passage); Parisinus gr. 1425 and Ambrosianus D.50 sup. (each '10 or 11' c.); a Latin version 'known to Cassiodorus in the fifth century' (the page's wording) and Hegesippus (Latin, written about 370); traces of the 'inferior' text type already in Porphyry (3rd c.), per Thackeray's introduction"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Jewish War 6.2.1: Josephus warns John of Gischala that God brings the fire",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "It is God, therefore, it is God himself who is bringing on this fire, to purge that city and temple by means of the Romans",
+  "summary": "In a speech to the besieged Josephus gives the Temple's coming destruction a theological cause and places the blame on the Jewish factions rather than on Rome.",
+  "limits": "A speech composed by Josephus; shows his theodicy and his stance, not what he actually said under the walls. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Jewish War",
+   "locator": "War 6.2.1",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 75,
+    "end": 79,
+    "basis": "Thackeray's Loeb introduction (1927) as reproduced on Pearse's page: 'probably written before the death of Vespasian in 79, as he received a copy, but after the dedication of the Temple of Pax (vii. 158ff) in the year 75'; Livius (last modified 2020): presented to Vespasian 75-79 (book 7 a later addition). 'Probably' is the source's own hedge."
+   },
+   "witness": "Per Pearse/Thackeray list: 3rd-c. papyrus P.Rain. 3.36 (BJ 2.20.6-7 only, not this passage); Parisinus gr. 1425 and Ambrosianus D.50 sup. (each '10 or 11' c.); a Latin version 'known to Cassiodorus in the fifth century' (the page's wording) and Hegesippus (Latin, written about 370); traces of the 'inferior' text type already in Porphyry (3rd c.), per Thackeray's introduction"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Jewish War 6.4.5: God had doomed the Temple to the fire",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "as for that house, God had, for certain, long ago doomed it to the fire; and now that fatal day was come",
+  "summary": "Josephus begins the Temple's burning with the claim that its fate was divinely set and fell on the same month-day as the Babylonian burning.",
+  "limits": "Interpretive framing by Josephus; the sources are his own and the lost commentaries of the Flavians. No independent contemporary account of the burning was opened. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Jewish War",
+   "locator": "War 6.4.5",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 75,
+    "end": 79,
+    "basis": "Thackeray's Loeb introduction (1927) as reproduced on Pearse's page: 'probably written before the death of Vespasian in 79, as he received a copy, but after the dedication of the Temple of Pax (vii. 158ff) in the year 75'; Livius (last modified 2020): presented to Vespasian 75-79 (book 7 a later addition). 'Probably' is the source's own hedge."
+   },
+   "witness": "Per Pearse/Thackeray list: 3rd-c. papyrus P.Rain. 3.36 (BJ 2.20.6-7 only, not this passage); Parisinus gr. 1425 and Ambrosianus D.50 sup. (each '10 or 11' c.); a Latin version 'known to Cassiodorus in the fifth century' (the page's wording) and Hegesippus (Latin, written about 370); traces of the 'inferior' text type already in Porphyry (3rd c.), per Thackeray's introduction"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Jewish War 6.4.7: the holy house burnt without Caesar's approval",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers). ; Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses.",
+  "quote": "And thus was the holy house burnt down, without Caesar's approbation.",
+  "summary": "Josephus says Titus tried to save the Temple and soldiers fired it against orders. This exoneration is the clearest instance of the Flavian-favourable slant debated by Magness and Mason.",
+  "limits": "A claim favourable to his patrons; Magness (per Romm) reads it as exonerating them, Mason dissents from the 'commission' premise. Later writers' accounts were not opened here. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Jewish War",
+   "locator": "War 6.4.7",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 75,
+    "end": 79,
+    "basis": "Thackeray's Loeb introduction (1927) as reproduced on Pearse's page: 'probably written before the death of Vespasian in 79, as he received a copy, but after the dedication of the Temple of Pax (vii. 158ff) in the year 75'; Livius (last modified 2020): presented to Vespasian 75-79 (book 7 a later addition). 'Probably' is the source's own hedge."
+   },
+   "witness": "Per Pearse/Thackeray list: 3rd-c. papyrus P.Rain. 3.36 (BJ 2.20.6-7 only, not this passage); Parisinus gr. 1425 and Ambrosianus D.50 sup. (each '10 or 11' c.); a Latin version 'known to Cassiodorus in the fifth century' (the page's wording) and Hegesippus (Latin, written about 370); traces of the 'inferior' text type already in Porphyry (3rd c.), per Thackeray's introduction"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Jewish War 7.8.6: Eleazar's first speech",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "we, long ago, my generous friends, resolved never to be servants to the Romans, nor to any other than to God himself",
+  "summary": "The Masada commander persuades his men to die rather than submit, in a speech Josephus supplies.",
+  "limits": "Livius observes that almost no one survived and Josephus cannot have had a report of Eleazar's last words, so the speech is his composition. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source. Livius states the speech cannot rest on a report of Eleazar's words (checked).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Jewish War",
+   "locator": "War 7.8.6",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 75,
+    "end": null,
+    "basis": "start 75: Pearse/Thackeray cite the Temple of Pax dedication at BJ vii.158ff (75) as a terminus post quem, so book 7 was written after 75; end left null: Livius calls book 7 a later addition without giving a date, and Schwartz 1986 (abstract) says only that book 7 is 'problematic throughout' and that earlier scholars discussed its date"
+   },
+   "witness": "Per Pearse/Thackeray list: 3rd-c. papyrus P.Rain. 3.36 (BJ 2.20.6-7 only, not this passage); Parisinus gr. 1425 and Ambrosianus D.50 sup. (each '10 or 11' c.); a Latin version 'known to Cassiodorus in the fifth century' (the page's wording) and Hegesippus (Latin, written about 370); traces of the 'inferior' text type already in Porphyry (3rd c.), per Thackeray's introduction"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Jewish War 7.9.1: the end at Masada",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "Those others were nine hundred and sixty in number, the women and children being withal included in that computation.",
+  "summary": "Josephus gives the numbers (960) and says an old woman and a kinswoman of Eleazar with five children hid in caverns and told the Romans what happened.",
+  "limits": "Only literary evidence for the mass death; whether archaeology confirms it is argued (Magness: 'not a question archaeology is equipped to answer', per Romm). Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Jewish War",
+   "locator": "War 7.9.1",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 75,
+    "end": null,
+    "basis": "start 75: Pearse/Thackeray cite the Temple of Pax dedication at BJ vii.158ff (75) as a terminus post quem, so book 7 was written after 75; end left null: Livius calls book 7 a later addition without giving a date, and Schwartz 1986 (abstract) says only that book 7 is 'problematic throughout' and that earlier scholars discussed its date"
+   },
+   "witness": "Per Pearse/Thackeray list: 3rd-c. papyrus P.Rain. 3.36 (BJ 2.20.6-7 only, not this passage); Parisinus gr. 1425 and Ambrosianus D.50 sup. (each '10 or 11' c.); a Latin version 'known to Cassiodorus in the fifth century' (the page's wording) and Hegesippus (Latin, written about 370); traces of the 'inferior' text type already in Porphyry (3rd c.), per Thackeray's introduction"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Life 76: Flavian gifts, citizenship, pension and a house",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses.",
+  "quote": "he gave me an apartment in his own house, which he lived in before he came to the empire",
+  "summary": "Josephus records Roman citizenship, an annual pension, lodging and land from Vespasian and further favours from Titus: the base of the Flavian patronage that colours the War.",
+  "limits": "Self-reported; Romm (NYRB) says no evidence exists for an imperial commission of the War, so patronage here does not prove commissioning. Niese numbers not verified in an opened source. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source. Composition range corrected: the researcher gave 94-100, but Thackeray places the Life after 100, not before.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Life of Josephus",
+   "locator": "Life 76",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 100,
+    "end": null,
+    "basis": "Thackeray via Pearse: the Life 'did not appear until after 100' (allusion to Justus's rival history after Agrippa II's death, 'we are told ... A.D. 100') and was issued 'early in the second century under the Emperor Trajan'; it is an appendix to a second or later edition of the Antiquities (closing date Ant. 20.267, A.D. 93-94). No upper bound is given, so end is null"
+   },
+   "witness": "Per Pearse/Thackeray: Vat. Palatinus gr. 14 (9th or 10th c.), Ambrosianus F.128 (11th c.); Eusebius, HE iii.10, quotes Life 361-364 (Niese numbering as printed on the page)"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Life 65: Justus of Tiberias and rival histories",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses.",
+  "quote": "thou hast the assurance to say, that thou hast better related these affairs [of the war] than have all the others",
+  "summary": "Josephus attacks Justus of Tiberias, whose rival war history accused him of causing Tiberias's revolt; the Life is largely a response (Thackeray).",
+  "limits": "One-sided polemic; Justus's text is lost, so Josephus's reply cannot be checked against it. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source. Composition range corrected from 94-100 (Thackeray says after 100).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Life of Josephus",
+   "locator": "Life 65",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 100,
+    "end": null,
+    "basis": "Thackeray via Pearse: the Life 'did not appear until after 100' (allusion to Justus's rival history after Agrippa II's death, 'we are told ... A.D. 100') and was issued 'early in the second century under the Emperor Trajan'; it is an appendix to a second or later edition of the Antiquities (closing date Ant. 20.267, A.D. 93-94). No upper bound is given, so end is null"
+   },
+   "witness": "Per Pearse/Thackeray: Vat. Palatinus gr. 14 (9th or 10th c.), Ambrosianus F.128 (11th c.); Eusebius, HE iii.10, quotes Life 361-364 (Niese numbering as printed on the page)"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Against Apion 1.8: the twenty-two books",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "we have not an innumerable multitude of books among us, disagreeing from and contradicting one another",
+  "summary": "Josephus lists twenty-two books held to be divine: five of Moses, thirteen of the prophets, four of hymns and precepts; he ties authority to an exact prophetic succession ending with Artaxerxes.",
+  "limits": "Does not name the books; it is a defence of Jewish record-keeping against Greek writers, not a canon list or a council decision. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source. Composition range corrected: the researcher's 110 upper bound is not on the source and was removed.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Against Apion",
+   "locator": "Against Apion 1.8",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 94,
+    "end": null,
+    "basis": "Thackeray's Loeb introduction (1926) via Pearse: Against Apion is 'in any case later than 94, the date of the Antiquities' and 'may therefore likewise be assigned to the beginning of the second century'; no upper bound is given, so end is null"
+   },
+   "witness": "Greek rests on one MS, Laurentianus plut. lxix. 22 (11th c.), of which other MSS are copies; the lacuna in Book II 52-113 is supplied from the old Latin version made by order of Cassiodorus (page gives no century for it); Eusebius quotes passages (Pearse/Thackeray)"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Against Apion 1.14: Manetho's account of the Shepherds",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "they built a city in that country which is now called Judea",
+  "summary": "Josephus reports Manetho's story that the Shepherds (Hyksos in the text) left Egypt and built a city in what is now Judea, called Jerusalem, then affirms that Manetho's identification of the Shepherds with his own forefathers is true because they fed sheep.",
+  "limits": "Manetho is known here only through Josephus's report; Manetho's own Aegyptiaca is lost. Niese numbers unverified. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source. Summary corrected: the researcher said Josephus here 'accepts that the Jews were not originally Egyptian'; that is argued at 1.30 (next candidate), not in this passage. Strand years (-1550 to -1500) removed: no opened source dates the Hyksos story. 'debated' rests on the ancient dispute shown on the page (Josephus against Manetho, 1.28 onward); composition range corrected, upper bound 110 removed.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Against Apion",
+   "locator": "Against Apion 1.14",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 94,
+    "end": null,
+    "basis": "Thackeray's Loeb introduction (1926) via Pearse: Against Apion is 'in any case later than 94, the date of the Antiquities' and 'may therefore likewise be assigned to the beginning of the second century'; no upper bound is given, so end is null"
+   },
+   "witness": "Greek rests on one MS, Laurentianus plut. lxix. 22 (11th c.), of which other MSS are copies; the lacuna in Book II 52-113 is supplied from the old Latin version made by order of Cassiodorus (page gives no century for it); Eusebius quotes passages (Pearse/Thackeray)"
+  },
+  "strand": {
+   "from": "Egypt (Hyksos tradition)",
+   "to": "Judaean origins",
+   "carried": "people",
+   "what": "Hyksos 'Shepherds' departure from Egypt equated with Jewish origins, as reported by Manetho",
+   "medium": "migration",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Against Apion 1.30: Josephus answers Manetho on Moses",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "contradicts",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "Our nation, therefore, according to Manetho, was not derived from Egypt, nor were any of the Egyptians mingled with us.",
+  "summary": "Josephus argues from Manetho's own account that the Jews were not Egyptian in origin, then turns to the tale that Moses was an Egyptian priest.",
+  "limits": "Polemic against a source known only through his quotation; shows what Josephus claims, not what Manetho wrote. Niese numbers unverified. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source. Quote is in section 30 of the file (title and locator narrowed from 1.28-31). Strand years (-1300 to -1200) removed: not given by any opened source. 'debated' rests on the ancient dispute shown on the page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Against Apion",
+   "locator": "Against Apion 1.30",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 94,
+    "end": null,
+    "basis": "Thackeray's Loeb introduction (1926) via Pearse: Against Apion is 'in any case later than 94, the date of the Antiquities' and 'may therefore likewise be assigned to the beginning of the second century'; no upper bound is given, so end is null"
+   },
+   "witness": "Greek rests on one MS, Laurentianus plut. lxix. 22 (11th c.), of which other MSS are copies; the lacuna in Book II 52-113 is supplied from the old Latin version made by order of Cassiodorus (page gives no century for it); Eusebius quotes passages (Pearse/Thackeray)"
+  },
+  "strand": {
+   "from": "Egypt",
+   "to": "Jewish nation",
+   "carried": "people",
+   "what": "Josephus's rebuttal that the Jews were not an Egyptian leper-population",
+   "medium": "unknown",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Against Apion 2.2: Apion says Moses was of Heliopolis",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "I have heard of the ancient men of Egypt, that Moses was of Heliopolis",
+  "summary": "Josephus quotes Apion's claim linking Moses and Jewish prayer practice to Heliopolis, then rejects it as shown false by Moses's own tabernacle.",
+  "limits": "Apion's Aegyptiaca is lost, so the quotation is known only through Josephus. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source. Strand years (-1300 to -1200) removed: not given by any opened source. 'debated' rests on Josephus rejecting Apion's claim on the page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Against Apion",
+   "locator": "Against Apion 2.2",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 94,
+    "end": null,
+    "basis": "Thackeray's Loeb introduction (1926) via Pearse: Against Apion is 'in any case later than 94, the date of the Antiquities' and 'may therefore likewise be assigned to the beginning of the second century'; no upper bound is given, so end is null"
+   },
+   "witness": "Greek rests on one MS, Laurentianus plut. lxix. 22 (11th c.), of which other MSS are copies; the lacuna in Book II 52-113 is supplied from the old Latin version made by order of Cassiodorus (page gives no century for it); Eusebius quotes passages (Pearse/Thackeray)"
+  },
+  "strand": {
+   "from": "Egyptian Heliopolis (Apion's account)",
+   "to": "Moses and Jewish worship",
+   "carried": "idea",
+   "what": "Apion's claim that Moses was of Heliopolis and turned Jewish prayer to the sunrise as at Heliopolis",
+   "medium": "text",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Against Apion 1.22: Pythagoras and the laws of the Jews",
+  "authors": "Josephus, Flavius",
+  "year": null,
+  "venue": "CCEL, Josephus: The Complete Works",
+  "url": "https://www.ccel.org/ccel/j/josephus/complete/cache/complete.txt",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Classics / Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Flavius Josephus at his loci from open editions: Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+  "quote": "This he did and said in imitation of the doctrines of the Jews and Thracians, which he transferred into his own philosophy.",
+  "summary": "Josephus cites Hermippus for the claim that Pythagoras took Jewish doctrines into his philosophy and adds that Pythagoras 'took a great many of the laws of the Jews'.",
+  "limits": "Josephus's own advocacy for Jewish antiquity; the quoted Hermippus is lost and the claim is not evidence of a documented route. No sceptical modern study was opened in this run. Niese section numbers removed from the locator: the opened edition does not print them and none was checked in a source. Strand years (-530 to -500) removed: no opened source gives them. Directness 'debated' is the researcher's label: the page shows only Josephus's (and Hermippus's) assertion, and no source on modern disagreement was opened.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Against Apion",
+   "locator": "Against Apion 1.22",
+   "language": "Greek (quoted in English; translator not named in the opened file)",
+   "edition": "CCEL, Josephus: The Complete Works, plain-text file (file header: 'Print Basis: 1737', public domain); translator not named in the opened file (Whiston is the conventional attribution of this print basis but is not shown there); book.chapter.section numbers as printed in the file; digitisation undated",
+   "composition": {
+    "start": 94,
+    "end": null,
+    "basis": "Thackeray's Loeb introduction (1926) via Pearse: Against Apion is 'in any case later than 94, the date of the Antiquities' and 'may therefore likewise be assigned to the beginning of the second century'; no upper bound is given, so end is null"
+   },
+   "witness": "Greek rests on one MS, Laurentianus plut. lxix. 22 (11th c.), of which other MSS are copies; the lacuna in Book II 52-113 is supplied from the old Latin version made by order of Cassiodorus (page gives no century for it); Eusebius quotes passages (Pearse/Thackeray)"
+  },
+  "strand": {
+   "from": "Judaism",
+   "to": "Greek philosophy (Pythagoras)",
+   "carried": "idea",
+   "what": "Jewish doctrines said to be adopted by Pythagoras (Hermippus via Josephus)",
+   "medium": "text",
+   "start": null,
+   "end": null,
+   "directness": "debated"
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Josephus: the Main Manuscripts of \"The Jewish War\"",
+  "authors": "Pearse, R. (reproducing H. St. J. Thackeray, Loeb 1927)",
+  "year": 2002,
+  "venue": "tertullian.org (Roger Pearse)",
+  "url": "https://tertullian.org/rpearse/manuscripts/josephus_jewish_war.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "supports",
+  "ask_addressed": "Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses.",
+  "quote": "The work was probably written before the death of Vespasian in 79, as he received a copy",
+  "summary": "Gives the War's terminus post quem (Temple of Peace, 75) and ante quem (79), notes later retouching, lists the 10th-12th c. codices, a 3rd-c. papyrus fragment and early Latin versions.",
+  "limits": "A web page built on a 1927 Loeb introduction; 'probably' dating, and it says the manuscript list is not complete. Notes may be dated by later scholarship. Page text 'Written 7th August 2002' checked; reproduces Thackeray, Loeb 1927.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Josephus: the Main Manuscripts of the Minor Works: The \"Vita\" and the \"Contra Apion\"",
+  "authors": "Pearse, R. (reproducing H. St. J. Thackeray, Loeb 1926)",
+  "year": 2002,
+  "venue": "tertullian.org (Roger Pearse)",
+  "url": "https://www.tertullian.org/rpearse/manuscripts/josephus_vita_apion.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "supports",
+  "ask_addressed": "Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses.",
+  "quote": "The Contra Apionem is in any case later than 94, the date of the Antiquities, to which reference is made",
+  "summary": "Thackeray dates Life and Apion to the early second century, ties the Life to Justus of Tiberias's rival history, and lists the Life's and Apion's manuscripts (Apion from a single 11th-c. codex). It places the Life after 100 and Against Apion at the beginning of the second century; both lack an upper bound.",
+  "limits": "Reproduces a 1926 introduction; later scholarship may differ. The page itself says Agrippa II's death in 100 is something 'we are told'; the researcher's claim that the date is 'disputed' is not shown by the page and was removed. Page dated 8 June 2002.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Josephus' Jewish War",
+  "authors": "Lendering, J.",
+  "year": 2020,
+  "venue": "Livius.org",
+  "url": "https://livius.org/sources/about/josephus-jewish-war",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses.",
+  "quote": "imperial patronage made the story unreliable. Vespasian's bid for power is presented in a favorable way",
+  "summary": "Concise overview: War presented to Vespasian 75-79, Greek edition dedicated to Titus, book 7 a later addition, access to imperial archives but a pro-Flavian slant, and Eleazar's Masada speech Josephus's own composition.",
+  "limits": "Popular-scholarly website, undated bibliography; uses a view of Josephus as 'excellent historian by ancient criteria' that other scholars qualify. Context, not a dating authority. Year 2020 is the page's 'last modified' date (created 1997).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "What Happened at Masada?",
+  "authors": "Romm, J.",
+  "year": 2021,
+  "venue": "The New York Review of Books",
+  "url": "https://www.nybooks.com/articles/2021/01/14/what-happened-at-masada/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Ancient history",
+  "stance": "fails_to_support",
+  "ask_addressed": "Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses.",
+  "quote": "Mason's Josephus is neither a Römling nor a Flavian lap dog but a \"pragmatic statesman guided by political-moral concerns.\"",
+  "summary": "Review of S. Mason, A History of the Jewish War, AD 66-74 and J. Magness, Masada: From Jewish Revolt to Modern Myth (title as printed on the page). It sets out the poles of the debate: Graetz's 'Romling', Mason's view of Josephus as a pragmatic statesman who did not write propaganda, Magness's more pro-Flavian reading, and the unresolved question of the Masada suicide.",
+  "limits": "A review essay, not a primary study; Romm himself notes that Mason dismisses the idea that the emperors commissioned the War and that Masada's truth is 'probably unrecoverable' for Mason.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "Review of T. Rajak, Josephus: The Historian and His Society (1983)",
+  "authors": "Price, J. J.",
+  "year": 1983,
+  "venue": "Scripta Classica Israelica, Vol. 7 (1983), Reviews",
+  "url": "https://scriptaclassica.org/index.php/sci/article/download/4727/4213/8355",
+  "doi": "10.71043/sci.v7i.4727",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "supports",
+  "ask_addressed": "Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses.",
+  "quote": "BJ is not a big unpatriotic lie, Flavian propaganda, mendacious apology or vituperative slanders against personal or class enemies, but a serious history",
+  "summary": "A review summarising Rajak's sympathetic reading of the War: it can be trusted on most points once its point of view is recognised, and neither the Aramaic nor the Greek War was Flavian propaganda; the reviewer offers reservations on her Life/War harmonisation.",
+  "limits": "Secondary report of Rajak, not her text; the reviewer also has reservations (e.g. on Rajak's neglect of Antiquities and BJ 1). Reviewer (Jonathan J. Price), volume/year and DOI are shown on the article landing page https://scriptaclassica.org/index.php/sci/article/view/4727 (the DOI is not printed on the PDF itself); the review text is the PDF at the url. Cohen's Life/War work was not opened.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ },
+ {
+  "brief": "josephus-war-life-apion",
+  "records": [],
+  "title": "The Composition and Publication of Josephus's Bellum Iudaicum Book 7",
+  "authors": "Schwartz, S.",
+  "year": 1986,
+  "venue": "Harvard Theological Review 79(4): 373-386",
+  "url": "https://www.cambridge.org/core/journals/harvard-theological-review/article/composition-and-publication-of-josephuss-bellum-iudaicum-book-7/66316AE1D20F576C60C37B7B87682774",
+  "doi": "10.1017/S0017816000020162",
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses.",
+  "quote": "In fact, Bell. 7 is problematic throughout.",
+  "summary": "The opened extract notes that book 7 (apart from Masada) has been neglected and that scholarship has mostly noted its poor style and discussed its date; it frames why the Masada book's composition is treated separately.",
+  "limits": "Only the abstract/extract was opened (full text behind access); it does not state Schwartz's own dating, so it supports the 'book 7 is debated' caution only. Author Seth Schwartz, Harvard Theological Review 79(4), October 1986, pp. 373-386, DOI confirmed on the Cambridge Core page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "verified": {
+   "by": "verifier",
+   "date": "2026-11-17"
+  }
+ }
+]
