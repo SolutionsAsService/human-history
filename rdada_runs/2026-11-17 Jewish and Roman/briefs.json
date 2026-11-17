@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "note": "Jewish and Roman primary-source wave. Leads, not evidence."
+ },
+ "briefs": [
+  {
+   "id": "dead-sea-scrolls",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Read and quote the Dead Sea Scrolls themselves from open translations or scholarly pages: the Community Rule (1QS, the two spirits and the Teacher), the War Scroll (1QM), the Damascus Document, Pesher Habakkuk (1QpHab), the Temple Scroll, the Copper Scroll, the Great Isaiah Scroll and Cave 4 biblical manuscripts as witnesses to the Hebrew Bible. Give the discovery (1946-47, Cave 1) and the dating evidence: radiocarbon (Jull et al. 1995, Radiocarbon 37; Bonani 1992), palaeography, and the competing readings of who wrote them (Essene hypothesis vs Golb's Jerusalem-library theory vs others).",
+    "Open the Israel Museum / Leon Levy Digital Library or Qumran sites if they serve you; otherwise use open translations (archive.org _djvu.txt, Wikisource, Wikipedia pages naming the translators) and open-access scholarship. Quote at loci with composition date, earliest witness and basis. Quote the strongest sceptical view."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "josephus-war-life-apion",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote Flavius Josephus at his loci from open editions (Perseus Greek and Whiston/Thackeray translations, Gutenberg, CCEL, archive.org _djvu.txt): Jewish War Prologue and the Essene account (2.119-161), the siege and fall of Jerusalem (book 6, the Temple's burning), Masada (7.252-406), Life (his own role at Jotapata), Against Apion (1.37-43 on the Jewish canon; his replies on Egyptian and Greek writers).",
+    "Give composition dates with their basis (c. 75-79 CE for the War), his Flavian patronage and the scholarly caution on reliability (Rajak, Mason, Cohen), and the earliest manuscript witnesses."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "josephus-antiquities-testimonium",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote Josephus's Antiquities of the Jews at loci that touch other threads: 11.1 (Cyrus and Isaiah), 11.8 (Alexander and Jerusalem), 12.2 (the translation of the Law into Greek), 13-14 (Maccabees, Pompey), 18.3.3 (the Testimonium Flavianum), 18.5.2 (John the Baptist), 20.9.1 (James the brother of Jesus). For the Testimonium give the manuscript and transmission evidence: Eusebius's quotation, the Arabic version in Agapius, and the scholarly positions (authentic, partial interpolation, full forgery), quoting scholars first-hand where open.",
+    "Composition date (c. 93-94 CE), earliest witnesses and what is disputed."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "roman-histories-on-jews-christians",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote Roman and Greek historians on Jews and Christians from open editions (Perseus, LacusCurtius, Gutenberg, archive.org _djvu.txt): Tacitus Annals 15.44 (Christians under Nero) and Histories 5.1-13 (Jews), Suetonius Claudius 25.4 (Chrestus) and Nero 16, Cassius Dio 66.4-7 and 69.12-14 (Jewish War, Bar Kokhba), Pliny the Elder Natural History 5.73 (Essenes), Philo's Embassy to Gaius and Against Flaccus.",
+    "Composition dates with basis, earliest manuscript witness (the Medicean for Tacitus Annals 15), and scholarly cautions (the Tacitus passage's authenticity debate, Chrestus identification)."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "roman-empire-primary",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote Roman primary sources on the empire itself: Res Gestae Divi Augusti (the Ankara inscription: achievements, extent, provinces; the Greek and Latin text), Polybius 6.11-18 (the Roman constitution), Julius Caesar Gallic War 1.1 and 6.11-28 (Gauls and Germans), Livy Preface, Tacitus Agricola 21 (Romanization), the Constitutio Antoniniana (212 CE: Papyrus Giessen 40 and Cassius Dio 78.9), Ammianus Marcellinus on the Huns (31.2).",
+    "Composition dates with basis, earliest witness (Monumentum Ancyranum, papyrus), and scholarly cautions (the Dio reason for 212, Caesar's ethnography as propaganda)."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "jewish-ancient-inscriptions",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote the extra-biblical inscriptions and chronicles that bear on Israelite and Judaean history, from open translations (Livius, Wikisource, archive.org _djvu.txt, Pritchard-era scans, open scholarship): the Merneptah Stele ('Israel', c. 1208 BCE), the Tel Dan Stele ('House of David'), the Mesha Stele, the Sennacherib Prism on Hezekiah, the Siloam inscription, the Lachish letters, the Babylonian Chronicle (ABC 5) on the capture of Jerusalem in 597 BCE, and the Elephantine papyri (the 419 BCE Passover letter and the 407 BCE petition to Bagoas, tying Judaeans to Persian rule).",
+    "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists (Tel Dan reading, Mesha date, minimalist critiques)."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "bar-kokhba-diaspora",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote sources on the Second Revolt and the diaspora: the Bar Kokhba letters (Nahal Hever, Murabba'at), Cassius Dio 69.12-14, Eusebius HE 4.6, Mishnah and Talmud passages on the revolt via Sefaria (python3 /home/user/rdada/scripts/fetch_text.py sefaria ...), Philo Against Flaccus on the Alexandria riots, the Dura-Europos synagogue (c. 244 CE), the Aphrodisias 'God-fearers' inscription, the Theodotos synagogue inscription.",
+    "Composition dates with basis, earliest witness, and the scholarly caution on each source."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  },
+  {
+   "id": "judaism-text-formation",
+   "kind": "primary",
+   "records": [],
+   "asks": [
+    "Quote the sources for how the Hebrew Bible and rabbinic texts took shape: Josephus Against Apion 1.38-41 (twenty-two books), 4 Ezra 14 on the ninety-four books, Mishnah Yadayim 3:5 and Bava Batra 14b (canon and authorship lists; use Sefaria via fetch_text.py), the Masoretic colophons (Aleppo Codex, Leningrad Codex B19a), and the Mishnah's own account of its transmission (Avot 1:1).",
+    "Composition dates with basis, earliest witness, and what scholars dispute (the 'Council of Jamnia' as a myth, when the canon closed)."
+   ],
+   "wanted_kinds": [
+    "primary",
+    "secondary",
+    "skeptical"
+   ]
+  }
+ ]
+}
