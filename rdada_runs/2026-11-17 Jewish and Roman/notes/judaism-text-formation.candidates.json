@@ -1,0 +1,597 @@
+[
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Against Apion 1.37-1.43 (Whiston translation)",
+    "authors": "Josephus, Flavius; Whiston, W. (tr.)",
+    "year": null,
+    "venue": "Lexundria digital library",
+    "url": "https://lexundria.com/j_ap/1.37-1.43/wst",
+    "kind": "primary",
+    "discipline": "Classics / Second Temple Judaism",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape",
+    "quote": "only twenty-two books, which contain the records of all the past times; which are justly believed to be divine",
+    "summary": "Josephus states that the Jews have only twenty-two books held divine: five of Moses, thirteen of the prophets from Moses to Artaxerxes, and four of hymns and precepts. He does not name the books.",
+    "limits": "Josephus lists a number and a division, not titles, so the identity of the 22 (versus the later 24) is inferred. Composition date from a page showing 'c. AD 97' and from Wikipedia (opened) noting Against Apion cites Antiquities, so is later than 94 CE; Josephus died c. 100. Earliest manuscript witness not established from a source I opened. Whiston's 18th-c. translation, not the Greek.",
+    "text": {
+      "work": "Against Apion",
+      "locator": "1.37-1.43 (quote at 1.38)",
+      "language": "Greek original; quoted in English (Whiston)",
+      "edition": "Lexundria, William Whiston translation",
+      "composition": {
+        "start": 94,
+        "end": 100,
+        "basis": "Lexundria page header 'c. AD 97'; Wikipedia 'Against Apion' (opened): cites Antiquities (94 CE), so dated after 94"
+      },
+      "witness": "Not established from a source I opened (modern editions rest on medieval Greek manuscripts and an ancient Latin translation, not verified here)"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Josephus, Against Apion I, 37-43: Authenticity of Scripture",
+    "authors": "Schiffman, L. H. (Texts and Traditions, Ktav 1998, as reproduced by CoJS)",
+    "year": 1998,
+    "venue": "Center for Online Judaic Studies",
+    "url": "https://cojs.org/?p=6420",
+    "kind": "primary",
+    "discipline": "Second Temple Judaism",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape",
+    "quote": "there has not been an exact succession of prophets since that time",
+    "summary": "Josephus says later history (after Artaxerxes) was not held of equal authority because the exact succession of prophets had lapsed, and that no one has dared add, remove or change anything in the books. This is the closed-by-prophecy rationale for his 22.",
+    "limits": "Same Josephus passage as the Whiston candidate (1.41-42), in a different translation, as printed in a teaching anthology. Josephus describes attitude and practice, not a formal act of closure. Footnote 99 on the page identifies Artaxerxes as Artaxerxes I (465 BCE).",
+    "text": {
+      "work": "Against Apion",
+      "locator": "1.41-1.42",
+      "language": "Greek original; quoted in English (anthology translation)",
+      "edition": "CoJS reproduction of Schiffman, Texts and Traditions",
+      "composition": {
+        "start": 94,
+        "end": 100,
+        "basis": "As in the Whiston candidate (Lexundria 'c. AD 97'; after 94 CE)"
+      },
+      "witness": "Not established from a source I opened"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "2 Esdras 14 (RSV)",
+    "authors": null,
+    "year": null,
+    "venue": "Biblia.com (Revised Standard Version, NCC 1952 etc.)",
+    "url": "https://biblia.com/bible/rsv/2Esd14",
+    "kind": "primary",
+    "discipline": "Second Temple Judaism / Apocalyptic",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape",
+    "quote": "Make public the twenty-four books that you wrote first and let the worthy and the unworthy read them",
+    "summary": "After the law is said to be burned, Ezra dictates ninety-four books in forty days; twenty-four are to be public, seventy reserved for the wise. The earliest allusion to a 24-book public collection.",
+    "limits": "Pseudepigraphic apocalypse; the 24 is not enumerated here, and the identity of the seventy is debated. The book survives in eight ancient translations (Fortress introduction); I did not examine which version the RSV follows. Date from the Fortress introduction, see separate candidate.",
+    "text": {
+      "work": "4 Ezra (2 Esdras 3-14)",
+      "locator": "14:44-46",
+      "language": "Ancient versions (Latin etc.); quoted in English (RSV)",
+      "edition": "RSV, via biblia.com",
+      "composition": {
+        "start": 90,
+        "end": 100,
+        "basis": "Fortress introduction (opened): Eagle Vision identifies Flavian emperors; composed in time of Domitian, last decade of 1st c. CE"
+      },
+      "witness": "Earliest surviving quotations are by Clement of Alexandria toward the end of the 2nd c. CE (Fortress introduction); manuscript witnesses in the ancient translations not examined"
+    },
+    "strand": {
+      "from": "Ezra the scribe (as narrated in 4 Ezra 14)",
+      "to": "the people of Israel (24 public books; 70 secret books)",
+      "carried": "writing",
+      "what": "restoration of the burned law and the divine dictation of 94 books",
+      "medium": "text",
+      "start": 90,
+      "end": 100,
+      "directness": "debated"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "2 Esdras 14:19-22 (RSV)",
+    "authors": null,
+    "year": null,
+    "venue": "Biblia.com (Revised Standard Version)",
+    "url": "https://biblia.com/bible/rsv/2Esd14",
+    "kind": "primary",
+    "discipline": "Second Temple Judaism / Apocalyptic",
+    "stance": "context",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape",
+    "quote": "For thy law has been burned, and so no one knows the things which have been done or will be done by thee.",
+    "summary": "The premise of the dictation: the law was lost in the Babylonian destruction, so Ezra must be inspired to rewrite it. It frames the book's account of how scripture was restored.",
+    "limits": "A narrative legitimation for the author's own book (Fortress introduction: the book presumably belongs to the seventy), not a historical report of a canon event.",
+    "text": {
+      "work": "4 Ezra (2 Esdras 3-14)",
+      "locator": "14:21",
+      "language": "Ancient versions (Latin etc.); quoted in English (RSV)",
+      "edition": "RSV, via biblia.com",
+      "composition": {
+        "start": 90,
+        "end": 100,
+        "basis": "Fortress introduction (opened): last decade of the 1st c. CE"
+      },
+      "witness": "Earliest surviving quotations are by Clement of Alexandria, late 2nd c. CE (Fortress introduction)"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "4 Ezra and 2 Baruch: Introduction",
+    "authors": null,
+    "year": null,
+    "venue": "Fortress Press (front-matter PDF; the page shows no author names beyond a reference to Henze)",
+    "url": "https://ms.fortresspress.com/downloads/9780800699680Intro.pdf",
+    "kind": "secondary",
+    "discipline": "Second Temple Judaism",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest witness, and what scholars dispute (the 'Council of Jamnia' as a myth, when the canon closed)",
+    "quote": "the work was composed in the time of the Roman emperor Domitian (81–96 ce) and most likely during",
+    "summary": "Dates 4 Ezra to the last decade of the 1st c. CE from the Eagle Vision's Flavian emperors, and notes the final vision of ninety-four books, seventy esoteric.",
+    "limits": "Dating by internal allusion; the 'thirtieth year' of the opening is not read literally."
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Mishnah Yadayim 3:5 (Mishnah Yomit, Kulp)",
+    "authors": "Kulp, J. (tr.)",
+    "year": null,
+    "venue": "Sefaria (CC-BY)",
+    "url": "https://www.sefaria.org/api/texts/Mishnah_Yadayim.3.5?context=0&commentary=0",
+    "kind": "primary",
+    "discipline": "Rabbinic literature",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape; Mishnah Yadayim 3:5",
+    "quote": "All the Holy Scriptures defile the hands. The Song of Songs and Kohelet (Ecclesiastes) defile the hands.",
+    "summary": "The Mishnah's rule that holy scripture 'defiles the hands', followed by a dispute (Judah, Yose, Shimon) over Kohelet and the Song of Songs and Akiva's rejection of any doubt about the Song of Songs.",
+    "limits": "The passage records a legal-ritual status and disagreement over two books; it contains no list of books and no act of closing a canon. Hebrew text also available via fetch_text --lang he (not quoted).",
+    "text": {
+      "work": "Mishnah Yadayim",
+      "locator": "3:5",
+      "language": "Mishnaic Hebrew; quoted in English (Kulp)",
+      "edition": "Sefaria: Mishnah Yomit by Dr. Joshua Kulp (CC-BY)",
+      "composition": {
+        "start": 190,
+        "end": 220,
+        "basis": "Mishnah redacted by Judah the Prince ca. 200 CE (Schiffman, 'The Redaction of the Mishnah', CoJS page opened); materials earlier, some later additions; the debates are attributed to sages c. 90-135 CE"
+      },
+      "witness": "Earliest extant material witness to rabbinic literature of any kind is 6th-7th c. CE (Mosaic of Rehob); Mishnah codices: Parma A late 11th c., Kaufmann 12th-13th c.; Cairo Geniza fragments (per Wikipedia 'Mishnah', opened)"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Mishnah Yadayim 3:5: The Debate Over the Biblical Canon",
+    "authors": "Schiffman, L. H. (Texts and Traditions, Ktav 1998; trans. S. Berrin)",
+    "year": 1998,
+    "venue": "Center for Online Judaic Studies",
+    "url": "https://cojs.org/Mishnah_Yadayim_3-5-_The_Debate_Over_the_Biblical_Canon/",
+    "kind": "primary",
+    "discipline": "Rabbinic literature",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest witness, and what scholars dispute (the 'Council of Jamnia' as a myth, when the canon closed)",
+    "quote": "on the day when Rabbi Eleazar ben Azariah was appointed head of the Academy, it was decided that Song of Songs and Ecclesiastes",
+    "summary": "Ben Azzai's tradition, the sole text tying a ruling on these two books to Eleazar ben Azariah's appointment, the hook on which Graetz hung his 'Council of Jamnia'. Footnotes explain the Shammai/Hillel positions.",
+    "limits": "The page's bracket '[that both ... are included in the canon]' is the translator/editor's gloss. Same Mishnah passage as the Sefaria candidate, in a second translation. Does not mention Yavneh by name.",
+    "text": {
+      "work": "Mishnah Yadayim",
+      "locator": "3:5 (Ben Azzai, Akiva, Yohanan ben Joshua)",
+      "language": "Mishnaic Hebrew; quoted in English (Berrin)",
+      "edition": "Schiffman, Texts and Traditions (1998), CoJS reproduction",
+      "composition": {
+        "start": 190,
+        "end": 220,
+        "basis": "Mishnah redacted by Judah the Prince ca. 200 CE (Schiffman, 'The Redaction of the Mishnah', CoJS page opened); materials earlier, some later additions"
+      },
+      "witness": "Earliest extant material witness to rabbinic literature of any kind is 6th-7th c. CE (Mosaic of Rehob); Mishnah codices: Parma A late 11th c., Kaufmann 12th-13th c.; Cairo Geniza fragments (per Wikipedia 'Mishnah', opened)"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Tosefta Yadayim 2:14: The Biblical Canon and Divine Inspiration",
+    "authors": "Schiffman, L. H. (Texts and Traditions, Ktav 1998; trans. S. Berrin)",
+    "year": 1998,
+    "venue": "Center for Online Judaic Studies",
+    "url": "https://cojs.org/tosefta_yadayim_2-14-_the_biblical_canon_and_divine_inspiration/",
+    "kind": "primary",
+    "discipline": "Rabbinic literature",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape",
+    "quote": "Ecclesiastes does not defile the hands since it is only the wisdom of Solomon",
+    "summary": "Shimon ben Menasya separates inspired scripture (Song of Songs) from Solomonic wisdom (Ecclesiastes); the others reply by citing Solomon's other writings. Shows the canonicity argument turned on inspiration and authorship.",
+    "limits": "Tosefta composition date not given on the page and not opened elsewhere, so left null. The page's editorial summary says both books are part of the twenty-four, which the quoted text itself does not state.",
+    "text": {
+      "work": "Tosefta Yadayim",
+      "locator": "2:14",
+      "language": "Mishnaic Hebrew; quoted in English (Berrin)",
+      "edition": "Schiffman, Texts and Traditions (1998), CoJS reproduction",
+      "composition": {
+        "start": null,
+        "end": null,
+        "basis": "Not dated by any source I opened"
+      },
+      "witness": "Not established from a source I opened"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Bava Batra 14b (William Davidson Edition) - order of Prophets and Writings",
+    "authors": null,
+    "year": null,
+    "venue": "Sefaria API, William Davidson Talmud (CC-BY-NC)",
+    "url": "https://www.sefaria.org/api/texts/Bava_Batra.14b?context=0&commentary=0",
+    "kind": "primary",
+    "discipline": "Rabbinic literature",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape; Bava Batra 14b",
+    "quote": "The order of the Writings is: Ruth and the book of Psalms, and Job and Proverbs; Ecclesiastes, Song of Songs, and Lamentations",
+    "summary": "A baraita ('The Sages taught') gives the order of Prophets (Joshua-Judges, Samuel-Kings, Jeremiah-Ezekiel-Isaiah, Twelve) and Writings, i.e. the same 24-book content as later canon but in a different order from the Masoretic one.",
+    "limits": "Compiled in the Babylonian Talmud (3rd-6th c., Britannica via Wikipedia 'Talmud', opened); the baraita itself is undated in sources I opened. English is the Steinsaltz/Davidson elucidated translation with glosses. A list of order is not an act of closure.",
+    "text": {
+      "work": "Babylonian Talmud, Bava Batra",
+      "locator": "14b",
+      "language": "Babylonian Aramaic/Hebrew (baraita); quoted in English (William Davidson)",
+      "edition": "Sefaria API: William Davidson Edition - English (CC-BY-NC)",
+      "composition": {
+        "start": 200,
+        "end": 600,
+        "basis": "Wikipedia 'Talmud' (opened): Babylonian Talmud compiled 3rd-6th c.; baraita is tannaitic by form but not independently dated in an opened source"
+      },
+      "witness": "Cairo Genizah fragments of the Talmud from late 7th/8th c.; only complete manuscript Munich Codex Hebraica 95 (1342) (per Wikipedia 'Talmud', opened)"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Bava Batra 14b (William Davidson Edition) - who wrote the books (Moses to David)",
+    "authors": null,
+    "year": null,
+    "venue": "Sefaria API, William Davidson Talmud (CC-BY-NC)",
+    "url": "https://www.sefaria.org/api/texts/Bava_Batra.14b?context=0&commentary=0",
+    "kind": "primary",
+    "discipline": "Rabbinic literature",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape; Bava Batra 14b authorship list",
+    "quote": "Moses wrote his own book, i.e., the Torah, and the portion of Balaam in the Torah, and the book of Job",
+    "summary": "The baraita's authorship list begins: Moses (Torah, Balaam, Job), Joshua (his book and the last eight verses of the Torah), Samuel (Samuel, Judges, Ruth), David (Psalms through ten elders). It continues on 15a.",
+    "limits": "Rabbinic tradition of authorship, not a historical-critical account; modern scholarship dates the books differently. The English contains Steinsaltz elucidations ('i.e.').",
+    "text": {
+      "work": "Babylonian Talmud, Bava Batra",
+      "locator": "14b (continues 15a)",
+      "language": "Babylonian Aramaic/Hebrew (baraita); quoted in English (William Davidson)",
+      "edition": "Sefaria API: William Davidson Edition - English (CC-BY-NC)",
+      "composition": {
+        "start": 200,
+        "end": 600,
+        "basis": "Wikipedia 'Talmud' (opened): Babylonian Talmud compiled 3rd-6th c.; baraita undated in sources opened"
+      },
+      "witness": "Cairo Genizah fragments of the Talmud from late 7th/8th c.; only complete manuscript Munich Codex Hebraica 95 (1342) (per Wikipedia 'Talmud', opened)"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Bava Batra 15a (William Davidson Edition) - Hezekiah, the Great Assembly and Ezra as authors",
+    "authors": null,
+    "year": null,
+    "venue": "Sefaria API, William Davidson Talmud (CC-BY-NC)",
+    "url": "https://www.sefaria.org/api/texts/Bava_Batra.15a?context=0&commentary=0",
+    "kind": "primary",
+    "discipline": "Rabbinic literature",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape; Bava Batra 14b-15a authorship list",
+    "quote": "The members of the Great Assembly wrote the following, and a mnemonic to remember these books is kuf, nun, dalet, gimmel",
+    "summary": "The list continues: Jeremiah (Jeremiah, Kings, Lamentations); Hezekiah and colleagues (Isaiah, Proverbs, Song of Songs, Ecclesiastes); the Great Assembly (Ezekiel, the Twelve, Daniel, Esther); Ezra (his book and Chronicles genealogy). The late books are credited to a post-exilic body.",
+    "limits": "Ties 'writing' to a Great Assembly that Wikipedia 'Great Assembly' (opened) calls a tradition, not a documented institution; I did not open a critical source on its historicity. English includes elucidations.",
+    "text": {
+      "work": "Babylonian Talmud, Bava Batra",
+      "locator": "15a",
+      "language": "Babylonian Aramaic/Hebrew (baraita); quoted in English (William Davidson)",
+      "edition": "Sefaria API: William Davidson Edition - English (CC-BY-NC)",
+      "composition": {
+        "start": 200,
+        "end": 600,
+        "basis": "Wikipedia 'Talmud' (opened): Babylonian Talmud compiled 3rd-6th c.; baraita undated in sources opened"
+      },
+      "witness": "Cairo Genizah fragments of the Talmud from late 7th/8th c.; only complete manuscript Munich Codex Hebraica 95 (1342) (per Wikipedia 'Talmud', opened)"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Pirkei Avot 1:1 (Mishnah Yomit, Kulp)",
+    "authors": "Kulp, J. (tr.)",
+    "year": null,
+    "venue": "Sefaria (CC-BY)",
+    "url": "https://www.sefaria.org/api/texts/Pirkei_Avot.1.1?context=0&commentary=0",
+    "kind": "primary",
+    "discipline": "Rabbinic literature",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape; Avot 1:1 (Mishnah's account of its transmission)",
+    "quote": "Moses received the Torah at Sinai and transmitted it to Joshua, Joshua to the elders, and the elders to the prophets",
+    "summary": "The Mishnah's opening chain of Torah tradition from Sinai through the Great Assembly, the rabbinic self-account of its authority. It is a claim, not a history.",
+    "limits": "Avot is a late-redacted tractate; Wikipedia 'Pirkei Avot' (opened) notes modern scholars think some material (5:21) was added later. The Great Assembly's historicity is not established in sources I opened.",
+    "text": {
+      "work": "Mishnah Avot (Pirkei Avot)",
+      "locator": "1:1",
+      "language": "Mishnaic Hebrew; quoted in English (Kulp)",
+      "edition": "Sefaria: Mishnah Yomit by Dr. Joshua Kulp (CC-BY)",
+      "composition": {
+        "start": 190,
+        "end": 220,
+        "basis": "Mishnah redacted by Judah the Prince ca. 200 CE (Schiffman, 'The Redaction of the Mishnah', CoJS page opened); materials earlier, some later additions; Avot possibly with later additions (Wikipedia 'Pirkei Avot')"
+      },
+      "witness": "Earliest extant material witness to rabbinic literature of any kind is 6th-7th c. CE (Mosaic of Rehob); Mishnah codices: Parma A late 11th c., Kaufmann 12th-13th c.; Cairo Geniza fragments (per Wikipedia 'Mishnah', opened)"
+    },
+    "strand": {
+      "from": "Moses at Sinai (as claimed by the Mishnah)",
+      "to": "the Men of the Great Assembly (the early sages)",
+      "carried": "religion",
+      "what": "the Torah as an unbroken chain of oral and written transmission",
+      "medium": "teaching",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "A New Ben Asher Manuscript (quoting the Aleppo Codex colophon)",
+    "authors": "Haberman, M.",
+    "year": null,
+    "venue": "Hakirah (Vol. 21)",
+    "url": "https://hakirah.org/Vol21Haberman.pdf",
+    "kind": "primary",
+    "discipline": "Hebrew manuscripts",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape; the Masoretic colophons (Aleppo Codex)",
+    "quote": "this codex was written by the scribe Shlomo Ben Boya’a and vocalized and transmitted by Aaron Ben Asher in the year 929 CE.",
+    "summary": "Quotes the Aleppo Codex colophon: consonantal text by Shlomo ben Boya'a, vocalization/masorah by Aaron ben Asher, then purchase by Israel ben Simcha and gift to the Karaite synagogue in Jerusalem (c. 1064 per this page).",
+    "limits": "Haberman's English rendering of the dedicatory colophon, not the Hebrew; the Wikipedia 'Aleppo Codex' page (opened) says the copying was circa 920 and the Karaite gift 1040-1050, so dates disagree by source. Search results said the dedication was written c. a century after the codex; I did not open a source for that.",
+    "text": {
+      "work": "Aleppo Codex (colophon)",
+      "locator": "dedicatory colophon (lost first page); per Haberman",
+      "language": "Hebrew colophon; quoted in English (Haberman)",
+      "edition": "Hakirah vol. 21, Haberman article",
+      "composition": {
+        "start": 920,
+        "end": 930,
+        "basis": "Haberman: 929 CE per colophon; Wikipedia 'Aleppo Codex' (opened): consonants copied in Judea circa 920"
+      },
+      "witness": "The codex itself is the witness for the Masoretic (ben Asher) text; manuscript c. 920-930 CE"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Leningrad Codex (Wikiquote: colophon quoted from Wurthwein)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikiquote (quoting E. Wurthwein, The Text of the Old Testament, 2nd ed. 1995, p. 180)",
+    "url": "https://en.wikiquote.org/wiki/Leningrad_Codex",
+    "kind": "primary",
+    "discipline": "Hebrew manuscripts",
+    "stance": "supports",
+    "ask_addressed": "Quote the sources for how the Hebrew Bible and rabbinic texts took shape; the Masoretic colophons (Leningrad Codex B19a)",
+    "quote": "Samuel ben Jacob wrote and pointed and provided with Masora this codex of the Holy Scriptures from the corrected and annotated books",
+    "summary": "The scribal colophon of the Leningrad Codex: Samuel ben Jacob copied, pointed and added Masorah from books corrected by Aaron ben Moses ben Asher. Wikipedia 'Leningrad Codex' (opened) says its colophon dates it to Cairo in AD 1008 (or possibly 1009).",
+    "limits": "Wikiquote is a tertiary collection; the English is a translation carried from Wurthwein, not the Hebrew colophon and not checked against the codex. I did not open an image of folio 491 or the shelfmark page; the 'Firkovich B 19 A' shelfmark came only from a search summary. The Wikipedia page notes there is no evidence ben Asher saw the manuscript.",
+    "text": {
+      "work": "Leningrad Codex (colophon)",
+      "locator": "colophon (Firkovich B 19 A, per search summary; folio not checked)",
+      "language": "Hebrew colophon; quoted in English (via Wurthwein)",
+      "edition": "Wikiquote, citing Wurthwein 1995",
+      "composition": {
+        "start": 1008,
+        "end": 1009,
+        "basis": "Wikipedia 'Leningrad Codex' (opened): colophon dates it AD 1008 (or possibly 1009)"
+      },
+      "witness": "The codex is itself the witness; oldest dated complete Hebrew Bible per BHS foreword quoted on the page"
+    }
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Redaction of the Mishnah",
+    "authors": "Schiffman, L. H. (From Text to Tradition, Ktav 1991, as reproduced by CoJS)",
+    "year": 1991,
+    "venue": "Center for Online Judaic Studies",
+    "url": "https://cojs.org/the_redaction_of_the_mishnah/",
+    "kind": "secondary",
+    "discipline": "Rabbinic literature",
+    "stance": "supports",
+    "ask_addressed": "Composition dates with basis, earliest witness, and what scholars dispute (the 'Council of Jamnia' as a myth, when the canon closed)",
+    "quote": "The redaction of the Mishnah by Rabbi Judah the Prince (ca. 200 C.E.) represented the end of a process",
+    "summary": "Dates the final redaction of the Mishnah to ca. 200 CE as the end of a process running from Hillel/Shammai through Yavneh and Usha; Judah inherited nearly-complete tractates and an order-based classification.",
+    "limits": "One scholar's synthesis; the page says it is hard to say when redaction began and that the attribution of the six orders to Akiva cannot be verified. Used as the dating basis for Mishnah candidates."
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Jamnia Period in Jewish History",
+    "authors": "Christie, W. M.",
+    "year": 1925,
+    "venue": "Journal of Theological Studies (os) 26(104):347-364",
+    "url": "https://biblicalstudies.org.uk/pdf/jts/026_347.pdf",
+    "doi": "10.1093/jts/os-XXVI.104.347",
+    "kind": "skeptical",
+    "discipline": "Jewish history / canon",
+    "stance": "contradicts",
+    "ask_addressed": "Composition dates with basis, earliest witness, and what scholars dispute (the 'Council of Jamnia' as a myth, when the canon closed)",
+    "quote": "There never seems to have been a formal canonizing of any portion of the Old Testament",
+    "summary": "An early dissent from Graetz's view: Ben Azzai's report does not show that the canon was fixed at Jamnia that day, the debates on Esther, Canticles and Koheleth ran on to about AD 200, and books gradually won acceptance.",
+    "limits": "The DOI is printed on the Wikipedia reference to this article, not on the scanned PDF I opened; OCR text of a 1925 scan. Christie still treats Jamnia as a body of real authority and does not deny the debates, only a formal closing."
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Council of Jamnia",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia (tertiary; cites Lewis 1964, Leiman 1976, Sundberg 1997, Aune 1991)",
+    "url": "https://en.wikipedia.org/wiki/Council_of_Jamnia",
+    "kind": "skeptical",
+    "discipline": "Jewish history / canon",
+    "stance": "contradicts",
+    "ask_addressed": "Composition dates with basis, earliest witness, and what scholars dispute (the 'Council of Jamnia' as a myth, when the canon closed)",
+    "quote": "No book is ever mentioned in the sources as being excluded from the canon at Jabneh.",
+    "summary": "Summarises the case that Graetz (1871) invented a council, that Lewis (1964) and Leiman (1976) refuted it, and that the date of canon closure is still debated, with some scholars (P. R. Davies) favouring the Hasmonean period.",
+    "limits": "A tertiary summary of scholarship I could not open directly (Lewis, Leiman and Aune are behind JSTOR or books). Use only to locate the primary scholarship."
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Canon(s) of the Jewish Scriptures (review of Lim, The Formation of the Jewish Canon, Yale UP 2013)",
+    "authors": "Gallagher, E. L.",
+    "year": 2013,
+    "venue": "The Marginalia Review of Books",
+    "url": "https://themarginaliareview.com/?p=4678",
+    "kind": "skeptical",
+    "discipline": "Second Temple Judaism / canon",
+    "stance": "fails_to_support",
+    "ask_addressed": "Composition dates with basis, earliest witness, and what scholars dispute (the 'Council of Jamnia' as a myth, when the canon closed)",
+    "quote": "Lim is unwilling to say that the canon was closed before the third century",
+    "summary": "Reviewer's account of Lim's thesis that a diversity of 'collections of authoritative scriptures' gave way to the 22/24-book Pharisaic canon at the end of the 1st c. CE, with no closed canon asserted before the third century; also notes the Qumran community did not say what its Bible was.",
+    "limits": "A review of a book I did not open; Lim's own words are not seen. The reviewer is critical of the book's method. Used to show the live scholarly range, not to settle the date of closure."
+  },
+  {
+    "brief": "judaism-text-formation",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Masoretic Text",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia (tertiary; cites Tov 1992 and M. Cohen)",
+    "url": "https://en.wikipedia.org/wiki/Masoretic_Text",
+    "kind": "secondary",
+    "discipline": "Textual criticism",
+    "stance": "context",
+    "ask_addressed": "Composition dates with basis, earliest witness, and what scholars dispute (the 'Council of Jamnia' as a myth, when the canon closed)",
+    "quote": "there was no uniform text",
+    "summary": "Reports that the Dead Sea Scrolls (c. 150 BCE - 75 CE) show no uniform Hebrew text in that period and that most Qumran fragments are closer to the Masoretic Text than to any other surviving text group; fixes the gap between the scrolls and the 9th-c. Masoretic fragments.",
+    "limits": "Tertiary; the phrase is a short excerpt of a longer sentence. A reader needs Tov (1992) to check the proportions. Textual plurality is not the same question as canon list."
+  }
+]

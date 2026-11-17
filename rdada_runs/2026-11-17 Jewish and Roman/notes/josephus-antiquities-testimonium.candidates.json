@@ -1,0 +1,759 @@
+[
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus, Antiquities of the Jews 11.1.2 (Whiston 11.1.2; Niese numbering [5] shown on page) (Whiston translation)",
+  "authors": "Josephus, F. (trans. Whiston, W.)",
+  "year": 94,
+  "venue": "Perseus Digital Library, Tufts University",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=11:whiston%20chapter=1:whiston%20section=2",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "This was known to Cyrus by his reading the book which Isaiah left behind him of his prophecies",
+  "summary": "Josephus has Cyrus read Isaiah's prophecy naming him and then authorise the return and rebuilding. The passage is the locus for the Cyrus/Isaiah thread: it is Josephus's claim, not independent evidence that Cyrus read Isaiah.",
+  "limits": "Whiston's 1737 English is dated and sometimes paraphrastic; the date of composition and the witness line are taken from the sources named in the text object, not from Perseus. Composition (c. 93-94 CE), earliest Greek witness (11th c.) and the Whiston edition (1737/1895) are three different dates. Whiston's footnote on this page remarks that the leave to build Jerusalem and the epistle of Cyrus are omitted in all copies but one.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Josephus, Antiquities of the Jews",
+   "locator": "11.1.2 (Whiston 11.1.2; Niese numbering [5] shown on page)",
+   "language": "Greek (quoted in English, Whiston)",
+   "edition": "William Whiston translation (1737) in the 1895 Auburn/Buffalo edition (Beardsley), as digitized by Perseus (Tufts); CC BY-SA 3.0",
+   "composition": {
+    "start": 93,
+    "end": 94,
+    "basis": "Josephus's own statement at Ant. 20.267 ('the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth year of my own life'), read on Perseus; same dating in Wikipedia 'Antiquities of the Jews' (93/94 CE) and Kirby ('around 93 CE'); see the dating candidates."
+   },
+   "witness": "Greek: no manuscript before the 11th c.; earliest surviving Greek MS containing the Testimonium is Ambrosianus 370 (F 128), 11th c. (Mason 2001 as reported by Wikipedia); Latin translations go back to the 6th c.; Eusebius quotes passages of Ant. 18 by c. 324 CE at the latest."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus, Antiquities of the Jews 11.8.5 (Whiston 11.8.5; Niese [329-335]) (Whiston translation)",
+  "authors": "Josephus, F. (trans. Whiston, W.)",
+  "year": 94,
+  "venue": "Perseus Digital Library, Tufts University",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=11:whiston%20chapter=8:whiston%20section=5",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "I did not adore him, but that God who hath honored him with his high priesthood",
+  "summary": "Alexander's meeting with the Jerusalem high priest: Alexander explains his obeisance by a dream-vision of the high priest in Macedonia. Josephus's account has no counterpart in the Alexander historians read here.",
+  "limits": "Whiston's 1737 English is dated and sometimes paraphrastic; the date of composition and the witness line are taken from the sources named in the text object, not from Perseus. Composition (c. 93-94 CE), earliest Greek witness (11th c.) and the Whiston edition (1737/1895) are three different dates. I did not open Arrian/Curtius or scholarship on the story's historicity; the episode is widely doubted but that is not documented here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Josephus, Antiquities of the Jews",
+   "locator": "11.8.5 (Whiston 11.8.5; Niese [329-335])",
+   "language": "Greek (quoted in English, Whiston)",
+   "edition": "William Whiston translation (1737) in the 1895 Auburn/Buffalo edition (Beardsley), as digitized by Perseus (Tufts); CC BY-SA 3.0",
+   "composition": {
+    "start": 93,
+    "end": 94,
+    "basis": "Josephus's own statement at Ant. 20.267 ('the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth year of my own life'), read on Perseus; same dating in Wikipedia 'Antiquities of the Jews' (93/94 CE) and Kirby ('around 93 CE'); see the dating candidates."
+   },
+   "witness": "Greek: no manuscript before the 11th c.; earliest surviving Greek MS containing the Testimonium is Ambrosianus 370 (F 128), 11th c. (Mason 2001 as reported by Wikipedia); Latin translations go back to the 6th c.; Eusebius quotes passages of Ant. 18 by c. 324 CE at the latest."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus, Antiquities of the Jews 12.2.1 (Whiston 12.2.1; Niese 12.11-) (Whiston translation)",
+  "authors": "Josephus, F. (trans. Whiston, W.)",
+  "year": 94,
+  "venue": "Perseus Digital Library, Tufts University",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=12:whiston%20chapter=2:whiston%20section=1",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "He procured the law to be interpreted, and set free those that were come from Jerusalem into Egypt",
+  "summary": "Opening of Josephus's account of the translation of the Law into Greek under Ptolemy Philadelphus, prompted by Demetrius of Phalerum's library; he notes the script is like Syrian and that the books must be translated into Greek.",
+  "limits": "Whiston's 1737 English is dated and sometimes paraphrastic; the date of composition and the witness line are taken from the sources named in the text object, not from Perseus. Composition (c. 93-94 CE), earliest Greek witness (11th c.) and the Whiston edition (1737/1895) are three different dates. Whiston's note on the page points to the Letter of Aristeas and Philo as the sources; the Letter of Aristeas itself was not opened, so the relationship is not assessed.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Josephus, Antiquities of the Jews",
+   "locator": "12.2.1 (Whiston 12.2.1; Niese 12.11-)",
+   "language": "Greek (quoted in English, Whiston)",
+   "edition": "William Whiston translation (1737) in the 1895 Auburn/Buffalo edition (Beardsley), as digitized by Perseus (Tufts); CC BY-SA 3.0",
+   "composition": {
+    "start": 93,
+    "end": 94,
+    "basis": "Josephus's own statement at Ant. 20.267 ('the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth year of my own life'), read on Perseus; same dating in Wikipedia 'Antiquities of the Jews' (93/94 CE) and Kirby ('around 93 CE'); see the dating candidates."
+   },
+   "witness": "Greek: no manuscript before the 11th c.; earliest surviving Greek MS containing the Testimonium is Ambrosianus 370 (F 128), 11th c. (Mason 2001 as reported by Wikipedia); Latin translations go back to the 6th c.; Eusebius quotes passages of Ant. 18 by c. 324 CE at the latest."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus, Antiquities of the Jews 13.9.1 (Whiston 13.9.1; Niese 13.254-258) (Whiston translation)",
+  "authors": "Josephus, F. (trans. Whiston, W.)",
+  "year": 94,
+  "venue": "Perseus Digital Library, Tufts University",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=13:whiston%20chapter=9:whiston%20section=1",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "permitted them to stay in that country, if they would circumcise their genitals, and make use of the laws of the Jews",
+  "summary": "Hyrcanus subdues the Idumeans and the Cutheans at Gerizim: Idumeans keep their land on condition of circumcision and Jewish law, 'no other than Jews'; the Samaritan temple at Gerizim is described as deserted two hundred years after its building.",
+  "limits": "Whiston's 1737 English is dated and sometimes paraphrastic; the date of composition and the witness line are taken from the sources named in the text object, not from Perseus. Composition (c. 93-94 CE), earliest Greek witness (11th c.) and the Whiston edition (1737/1895) are three different dates. No sceptical scholarship on the Idumean conversion was opened (gap), so no strand is asserted.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Josephus, Antiquities of the Jews",
+   "locator": "13.9.1 (Whiston 13.9.1; Niese 13.254-258)",
+   "language": "Greek (quoted in English, Whiston)",
+   "edition": "William Whiston translation (1737) in the 1895 Auburn/Buffalo edition (Beardsley), as digitized by Perseus (Tufts); CC BY-SA 3.0",
+   "composition": {
+    "start": 93,
+    "end": 94,
+    "basis": "Josephus's own statement at Ant. 20.267 ('the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth year of my own life'), read on Perseus; same dating in Wikipedia 'Antiquities of the Jews' (93/94 CE) and Kirby ('around 93 CE'); see the dating candidates."
+   },
+   "witness": "Greek: no manuscript before the 11th c.; earliest surviving Greek MS containing the Testimonium is Ambrosianus 370 (F 128), 11th c. (Mason 2001 as reported by Wikipedia); Latin translations go back to the 6th c.; Eusebius quotes passages of Ant. 18 by c. 324 CE at the latest."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus, Antiquities of the Jews 14.4.4 (Whiston 14.4.4; Niese 14.69-72) (Whiston translation)",
+  "authors": "Josephus, F. (trans. Whiston, W.)",
+  "year": 94,
+  "venue": "Perseus Digital Library, Tufts University",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=14:whiston%20chapter=4:whiston%20section=4",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "Pompey went into it, and not a few of those that were with him also, and saw all that which it was unlawful",
+  "summary": "Pompey's capture of the Temple (63 BCE): twelve thousand Jews fall; Pompey enters the sanctuary and sees the golden table, the candlestick, the vessels and spices.",
+  "limits": "Whiston's 1737 English is dated and sometimes paraphrastic; the date of composition and the witness line are taken from the sources named in the text object, not from Perseus. Composition (c. 93-94 CE), earliest Greek witness (11th c.) and the Whiston edition (1737/1895) are three different dates. Josephus writes about 150 years after the event; no parallel source (Strabo, Cicero, Tacitus) was opened here.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Josephus, Antiquities of the Jews",
+   "locator": "14.4.4 (Whiston 14.4.4; Niese 14.69-72)",
+   "language": "Greek (quoted in English, Whiston)",
+   "edition": "William Whiston translation (1737) in the 1895 Auburn/Buffalo edition (Beardsley), as digitized by Perseus (Tufts); CC BY-SA 3.0",
+   "composition": {
+    "start": 93,
+    "end": 94,
+    "basis": "Josephus's own statement at Ant. 20.267 ('the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth year of my own life'), read on Perseus; same dating in Wikipedia 'Antiquities of the Jews' (93/94 CE) and Kirby ('around 93 CE'); see the dating candidates."
+   },
+   "witness": "Greek: no manuscript before the 11th c.; earliest surviving Greek MS containing the Testimonium is Ambrosianus 370 (F 128), 11th c. (Mason 2001 as reported by Wikipedia); Latin translations go back to the 6th c.; Eusebius quotes passages of Ant. 18 by c. 324 CE at the latest."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus, Antiquities of the Jews 18.3.3 (Whiston 18.3.3; Niese 18.63-64) - the Testimonium Flavianum (Whiston translation)",
+  "authors": "Josephus, F. (trans. Whiston, W.)",
+  "year": 94,
+  "venue": "Perseus Digital Library, Tufts University",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=18:whiston%20chapter=3:whiston%20section=3",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "He drew over to him both many of the Jews and many of the Gentiles. He was [the] Christ.",
+  "summary": "Whiston's translation of the Testimonium Flavianum as printed on Perseus; he brackets 'the' in 'He was [the] Christ'. The Greek (Niese 1892, same site) opens 'Γίνεται δὲ κατὰ τοῦτον τὸν χρόνον Ἰησοῦς σοφὸς ἀνήρ, εἴγε ἄνδρα αὐτὸν λέγειν χρή' (confirmed with check_quote on the Perseus Greek page); the Greek and Whiston differ in small details.",
+  "limits": "Whiston's 1737 English is dated and sometimes paraphrastic; the date of composition and the witness line are taken from the sources named in the text object, not from Perseus. Composition (c. 93-94 CE), earliest Greek witness (11th c.) and the Whiston edition (1737/1895) are three different dates. Authenticity is disputed; see the scholarship candidates. Do not cite this page as proof that Josephus wrote every clause.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Josephus, Antiquities of the Jews",
+   "locator": "18.3.3 (Whiston 18.3.3; Niese 18.63-64) - the Testimonium Flavianum",
+   "language": "Greek (quoted in English, Whiston)",
+   "edition": "William Whiston translation (1737) in the 1895 Auburn/Buffalo edition (Beardsley), as digitized by Perseus (Tufts); CC BY-SA 3.0",
+   "composition": {
+    "start": 93,
+    "end": 94,
+    "basis": "Josephus's own statement at Ant. 20.267 ('the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth year of my own life'), read on Perseus; same dating in Wikipedia 'Antiquities of the Jews' (93/94 CE) and Kirby ('around 93 CE'); see the dating candidates."
+   },
+   "witness": "Greek: no manuscript before the 11th c.; earliest surviving Greek MS containing the Testimonium is Ambrosianus 370 (F 128), 11th c. (Mason 2001 as reported by Wikipedia); Latin translations go back to the 6th c.; Eusebius quotes passages of Ant. 18 by c. 324 CE at the latest."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus, Antiquities of the Jews 18.5.2 (Whiston 18.5.2; Niese 18.116-119) - John the Baptist (Whiston translation)",
+  "authors": "Josephus, F. (trans. Whiston, W.)",
+  "year": 94,
+  "venue": "Perseus Digital Library, Tufts University",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=18:whiston%20chapter=5:whiston%20section=2",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "for Herod slew him, who was a good man, and commanded the Jews to exercise virtue",
+  "summary": "Josephus on John 'that was called the Baptist': baptism as purification of the body (soul already purified by righteousness); Herod kills him at Macherus fearing sedition; the Jews held that Herod's army was destroyed as a punishment.",
+  "limits": "Whiston's 1737 English is dated and sometimes paraphrastic; the date of composition and the witness line are taken from the sources named in the text object, not from Perseus. Composition (c. 93-94 CE), earliest Greek witness (11th c.) and the Whiston edition (1737/1895) are three different dates. Origen (Contra Celsum 1.47) and Eusebius (HE 1.11.4-6) both know and quote this passage, so it has earlier attestation than the Testimonium.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Josephus, Antiquities of the Jews",
+   "locator": "18.5.2 (Whiston 18.5.2; Niese 18.116-119) - John the Baptist",
+   "language": "Greek (quoted in English, Whiston)",
+   "edition": "William Whiston translation (1737) in the 1895 Auburn/Buffalo edition (Beardsley), as digitized by Perseus (Tufts); CC BY-SA 3.0",
+   "composition": {
+    "start": 93,
+    "end": 94,
+    "basis": "Josephus's own statement at Ant. 20.267 ('the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth year of my own life'), read on Perseus; same dating in Wikipedia 'Antiquities of the Jews' (93/94 CE) and Kirby ('around 93 CE'); see the dating candidates."
+   },
+   "witness": "Greek: no manuscript before the 11th c.; earliest surviving Greek MS containing the Testimonium is Ambrosianus 370 (F 128), 11th c. (Mason 2001 as reported by Wikipedia); Latin translations go back to the 6th c.; Eusebius quotes passages of Ant. 18 by c. 324 CE at the latest."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus, Antiquities of the Jews 20.9.1 (Whiston 20.9.1; Niese 20.197-203) - James (Whiston translation)",
+  "authors": "Josephus, F. (trans. Whiston, W.)",
+  "year": 94,
+  "venue": "Perseus Digital Library, Tufts University",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=20:whiston%20chapter=9:whiston%20section=1",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "he assembled the sanhedrim of judges, and brought before them the brother of Jesus, who was called Christ, whose name was James",
+  "summary": "Ananus the younger, a Sadducee high priest, has James 'the brother of Jesus, who was called Christ' and others stoned in the interval after Festus's death; Albinus and Agrippa remove Ananus. The extant text has no sentence about the fall of Jerusalem avenging James.",
+  "limits": "Whiston's 1737 English is dated and sometimes paraphrastic; the date of composition and the witness line are taken from the sources named in the text object, not from Perseus. Composition (c. 93-94 CE), earliest Greek witness (11th c.) and the Whiston edition (1737/1895) are three different dates. Origen and Eusebius attribute to Josephus a sentence linking the siege to James's death that is not in this extant passage; Carrier argues the phrase 'called Christ' may be an accidental interpolation (see his candidate).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Josephus, Antiquities of the Jews",
+   "locator": "20.9.1 (Whiston 20.9.1; Niese 20.197-203) - James",
+   "language": "Greek (quoted in English, Whiston)",
+   "edition": "William Whiston translation (1737) in the 1895 Auburn/Buffalo edition (Beardsley), as digitized by Perseus (Tufts); CC BY-SA 3.0",
+   "composition": {
+    "start": 93,
+    "end": 94,
+    "basis": "Josephus's own statement at Ant. 20.267 ('the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth year of my own life'), read on Perseus; same dating in Wikipedia 'Antiquities of the Jews' (93/94 CE) and Kirby ('around 93 CE'); see the dating candidates."
+   },
+   "witness": "Greek: no manuscript before the 11th c.; earliest surviving Greek MS containing the Testimonium is Ambrosianus 370 (F 128), 11th c. (Mason 2001 as reported by Wikipedia); Latin translations go back to the 6th c.; Eusebius quotes passages of Ant. 18 by c. 324 CE at the latest."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus, Antiquities of the Jews 20.12.1 (Whiston translation): the closing date",
+  "authors": "Josephus, F. (trans. Whiston, W.)",
+  "year": 94,
+  "venue": "Perseus Digital Library, Tufts University",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0146:book=20:whiston%20chapter=12",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth year of my own life",
+  "summary": "Josephus closes the Antiquities by dating its completion to Domitian's 13th year and his own 56th year, i.e. 93-94 CE; he says the work runs from creation to the twelfth year of Nero.",
+  "limits": "Self-dating by the author; the earliest witness to this colophon-like passage is still the medieval Greek MSS. Whiston's edition omits the Niese section numbers within the chapter on this page.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Josephus, Antiquities of the Jews",
+   "locator": "20.12.1 (Whiston 20.12.1; Niese 20.259-267) - Josephus dates the work",
+   "language": "Greek (quoted in English, Whiston)",
+   "edition": "William Whiston translation (1737) in the 1895 Auburn/Buffalo edition (Beardsley), as digitized by Perseus (Tufts); CC BY-SA 3.0",
+   "composition": {
+    "start": 93,
+    "end": 94,
+    "basis": "Josephus's own statement at Ant. 20.267 ('the thirteenth year of the reign of Caesar Domitian, and the fifty-sixth year of my own life'), read on Perseus; same dating in Wikipedia 'Antiquities of the Jews' (93/94 CE) and Kirby ('around 93 CE'); see the dating candidates."
+   },
+   "witness": "Greek: no manuscript before the 11th c.; earliest surviving Greek MS containing the Testimonium is Ambrosianus 370 (F 128), 11th c. (Mason 2001 as reported by Wikipedia); Latin translations go back to the 6th c.; Eusebius quotes passages of Ant. 18 by c. 324 CE at the latest."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Eusebius, Ecclesiastical History Church History 1.11.7-8 (Eusebius quotes the Testimonium)",
+  "authors": "Eusebius (trans. see edition)",
+  "year": 1890,
+  "venue": "New Advent / Christian Classics Ethereal Library edition of NPNF2",
+  "url": "https://www.newadvent.org/fathers/250101.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Patristics",
+  "stance": "supports",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "a wise man, if indeed it be proper to call him a man",
+  "summary": "Eusebius introduces the Testimonium 'in the same work' immediately after quoting the John the Baptist passage, and gives it in essentially the extant form, including 'He was the Christ'. This is the earliest surviving quotation of it.",
+  "limits": "McGiffert's translation of 1890; the NPNF page does not give Eusebius's Greek. Eusebius also quotes the passage in the Demonstratio Evangelica 3.5 and the Theophany (named in Hillar's essay; neither opened here).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Eusebius, Ecclesiastical History",
+   "locator": "Church History 1.11.7-8 (Eusebius quotes the Testimonium)",
+   "language": "Greek (quoted in English)",
+   "edition": "Schaff, P. and Wace, H. (eds.), Nicene and Post-Nicene Fathers, Series 2, vol. 1 (Eusebius, McGiffert trans.), via New Advent",
+   "composition": {
+    "start": null,
+    "end": 324,
+    "basis": "terminus ante quem 324 CE for Eusebius's quotation, from Wikipedia 'Josephus on Jesus' (citing Louth 1990); no scholarly dating of the History itself was opened, so the start is left null."
+   },
+   "witness": "Earliest quotation of the Testimonium anywhere; Eusebius is also the first author who can be shown to have it (Carrier, Olson). Manuscripts of the History itself are later; not examined."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Eusebius, Ecclesiastical History Church History 2.23.20-22 (Eusebius on James and Josephus)",
+  "authors": "Eusebius (trans. see edition)",
+  "year": 1890,
+  "venue": "New Advent / CCEL edition of NPNF2",
+  "url": "https://www.newadvent.org/fathers/250102.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Patristics",
+  "stance": "supports",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "These things happened to the Jews to avenge James the Just",
+  "summary": "Eusebius ascribes this sentence to Josephus, then quotes Ant. 20 (Festus, Albinus, Ananus, 'the brother of Jesus, the so-called Christ'). The first sentence is not in the extant Antiquities passage read on Perseus.",
+  "limits": "McGiffert translation; Eusebius's attribution of the avenging sentence to Josephus is not matched in extant manuscripts. Carrier argues Origen confused Hegesippus with Josephus (see his candidate).",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Eusebius, Ecclesiastical History",
+   "locator": "Church History 2.23.20-22 (Eusebius on James and Josephus)",
+   "language": "Greek (quoted in English)",
+   "edition": "Schaff, P. and Wace, H. (eds.), Nicene and Post-Nicene Fathers, Series 2, vol. 1 (Eusebius, McGiffert trans.), via New Advent",
+   "composition": {
+    "start": null,
+    "end": 324,
+    "basis": "terminus ante quem 324 CE (Wikipedia 'Josephus on Jesus', citing Louth 1990); start unsourced."
+   },
+   "witness": "Eusebius is a fourth-century witness that the 20.9.1 text read 'the brother of Jesus, who was called Christ'."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Origen, Against Celsus Contra Celsum 1.47 (Origen on Josephus, John and James)",
+  "authors": "Origen (trans. see edition)",
+  "year": 1885,
+  "venue": "New Advent edition of ANF 4",
+  "url": "https://www.newadvent.org/fathers/04161.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Patristics",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "Now this writer, although not believing in Jesus as the Christ",
+  "summary": "Origen cites Ant. 18 for John the Baptist and then says Josephus, 'not believing in Jesus as the Christ', ascribed the fall of Jerusalem to the death of James the Just, 'a brother of Jesus (called Christ)'. He does not quote the Testimonium here.",
+  "limits": "ANF translation (Crombie); Origen's silence on the Testimonium is an argument from silence, countered by Meier (see his candidate) and used by Carrier. The passage's James sentence is not in extant Josephus.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Origen, Against Celsus",
+   "locator": "Contra Celsum 1.47 (Origen on Josephus, John and James)",
+   "language": "Greek (quoted in English)",
+   "edition": "Ante-Nicene Fathers vol. 4 (Roberts/Donaldson/Crombie trans.) via New Advent",
+   "composition": {
+    "start": 200,
+    "end": 299,
+    "basis": "'Origen in the 3d century' as stated by Meier in the passage quoted on Kirby's page; no precise date opened."
+   },
+   "witness": "Origen is the earliest named witness to Josephus's John and James passages, and is silent on the Testimonium in this passage."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Jerome, Lives of Illustrious Men De viris illustribus 13 (Jerome's wording of the Testimonium)",
+  "authors": "Jerome (trans. see edition)",
+  "year": 1892,
+  "venue": "New Advent edition of NPNF2 vol.3",
+  "url": "https://www.newadvent.org/fathers/2708.htm",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Patristics",
+  "stance": "supports",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "and was believed to be Christ, and when through the envy of our chief men Pilate had crucified him",
+  "summary": "Jerome gives a Latin Testimonium reading 'credebatur esse Christus' ('was believed to be Christ') instead of 'He was the Christ'. This is the main Latin variant against the Greek tradition.",
+  "limits": "NPNF translation (Richardson); Jerome's date was not read from an opened source, so composition is left null. The variant is explained by Whealey/Carrier as a later emendation; contested.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Jerome, Lives of Illustrious Men",
+   "locator": "De viris illustribus 13 (Jerome's wording of the Testimonium)",
+   "language": "Latin (quoted in English, Richardson in NPNF)",
+   "edition": "Nicene and Post-Nicene Fathers 2nd series vol. 3, via New Advent",
+   "composition": {
+    "start": null,
+    "end": null,
+    "basis": "not dated from an opened scholarly source"
+   },
+   "witness": "Jerome's De viris illustribus 13 gives the Latin variant 'credebatur esse Christus'; manuscripts of De viris not examined."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Agapius of Hierapolis, Kitab al-'Unwan: the Arabic Testimonium (as translated by Pines, quoted by Hillar)",
+  "authors": "Hillar, M.",
+  "year": 2004,
+  "venue": "Center for Philosophy and Socinian Studies lecture (Science-Religion Discussion Club); shorter version Essays in the Philosophy of Humanism 13 (2005)",
+  "url": "https://www.socinian.org/files/Testimonium_Flavianum_FULL_TEXT.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "primary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "At this time there was a wise man who was called Jesus. His conduct was good, and [he] was known to be virtuous.",
+  "summary": "Hillar prints Pines's English translation of Agapius's Arabic version of the Testimonium: Jesus is a wise, virtuous man; Pilate condemns him to crucifixion; his disciples 'reported that he had appeared to them three days after his crucifixion', so 'perhaps' the Messiah.",
+  "limits": "Second-hand: the translation is quoted in Hillar's lecture, not opened in Pines's 1971 monograph (archive.org copy is lending-only; khazarzar.skeptik.net copy did not connect). Hillar is a humanist-studies author, not a Josephus specialist. Whealey (2008) argues the Arabic text derives from the Syriac Eusebius, so it is not an independent witness.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "text": {
+   "work": "Agapius of Hierapolis, Kitab al-'Unwan (Book of the Title), quoting Josephus",
+   "locator": "the Testimonium excerpt, discussed in Pines 1971 p. 8-10 (page numbers not verified)",
+   "language": "Arabic (quoted in English, Pines trans. via Hillar)",
+   "edition": "Pines, S., An Arabic Version of the Testimonium Flavianum and its Implications (Israel Academy of Sciences and Humanities, 1971), translation as quoted in Hillar 2004",
+   "composition": {
+    "start": 942,
+    "end": 942,
+    "basis": "Hillar states the Kitab al-'Unwan is 'dated 942 C.E.'; Wikipedia says tenth-century."
+   },
+   "witness": "Known in a single manuscript, also quoted by the 13th-c. Coptic historian al-Makin (Hillar); Michael the Syrian (1195) preserves a Syriac version."
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus on Jesus - Extant manuscripts",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Josephus_on_Jesus",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Composition date (c. 93-94 CE), earliest witnesses and what is disputed",
+  "quote": "The earliest surviving Greek manuscript that contains the Testimonium is the eleventh-century Ambrosianus 370 (F 128)",
+  "summary": "Wikipedia, citing Mason (2001) and Feldman/Hata, states no Josephus manuscript predates the 11th century, with about 120 Greek and 170 Latin witnesses; the Testimonium is in all extant Greek manuscripts, 700 years after composition.",
+  "limits": "Encyclopedia summary of Mason 2001 p. LI and Baras 1987; the cited books were not opened. The page was a rendered article read on 2026-11-17 and may be edited.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Antiquities of the Jews - dating of the work",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Antiquities_of_the_Jews",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "supports",
+  "ask_addressed": "Composition date (c. 93-94 CE), earliest witnesses and what is disputed",
+  "quote": "in the 13th year of the reign of the Roman emperor Domitian",
+  "summary": "Wikipedia dates completion of the Antiquities to Domitian's 13th year (Sept 93-Sept 94 CE, infobox '93/94 CE'), resting on Josephus's own statement at Ant. 20.267.",
+  "limits": "Encyclopedia summary, not a first-hand scholarly dating; the infobox reads 93/94 CE while the text says 94. Not independent of the Josephus self-date.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus and Jesus: The Testimonium Flavianum Question",
+  "authors": "Kirby, P.",
+  "year": null,
+  "venue": "Early Christian Writings",
+  "url": "https://earlychristianwritings.com/testimonium.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "supports",
+  "ask_addressed": "Composition date (c. 93-94 CE), earliest witnesses and what is disputed",
+  "quote": "Flavius Josephus published a history of the Jews in twenty books around 93 CE.",
+  "summary": "Kirby's survey of the arguments dates the Antiquities to about 93 CE, in agreement with Josephus's own date.",
+  "limits": "Kirby is a lay researcher, not a university specialist in Josephus; the page is a survey, and its year of publication is not printed in the text read.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus and Jesus: The Testimonium Flavianum Question (Feldman's survey of scholarship)",
+  "authors": "Kirby, P. (reporting Feldman, L.H., Josephus and Modern Scholarship, 1984)",
+  "year": null,
+  "venue": "Early Christian Writings",
+  "url": "https://earlychristianwritings.com/testimonium.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "context",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "Feldman noted that 4 scholars regarded the Testimonium Flavianum as entirely genuine, 6 as mostly genuine, 20 accept it with some interpolations",
+  "summary": "Kirby reports Feldman's tally of literature from 1937 to 1980: 4 entirely genuine, 6 mostly genuine, 20 genuine with some interpolations, 9 with several interpolations, 13 wholly interpolated. This is the spread of positions on authenticity.",
+  "limits": "Second-hand: Feldman's book (1984) was not opened. Page then adds Kirby's own view that the passage cannot be entirely genuine; the tally is of 1937-1980 scholarship only.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Christian tradition",
+   "to": "Josephus's Antiquities text",
+   "carried": "religion",
+   "what": "Christian wording about Jesus in Ant. 18.63-64 (how much is Josephan)",
+   "medium": "text",
+   "start": 200,
+   "end": 324,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus and Jesus: The Testimonium Flavianum Question (Meier on the pre-Eusebian silence)",
+  "authors": "Kirby, P. (quoting Meier, J.P., A Marginal Jew, vol. 1, 1991)",
+  "year": null,
+  "venue": "Early Christian Writings",
+  "url": "https://earlychristianwritings.com/testimonium.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "supports",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "If until shortly before the time of Eusebius the Testimonium lacked the three Christian interpolations I have bracketed",
+  "summary": "Meier's partial-authenticity position: a Josephan core with three Christian interpolations, and the Church Fathers' silence before Eusebius explained because the core did not support Jesus's divinity. Origen's affirmation that Josephus did not believe Jesus to be the Messiah is read the same way.",
+  "limits": "Meier's book was not opened (archive.org copy is lending-only); his words are read from Kirby's quotation (p.79 per Kirby), which is followed by Earl Doherty's rebuttal. Meier is a Catholic priest-scholar; his thesis is contested by Olson and Carrier.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Christian tradition",
+   "to": "Josephus's Antiquities text",
+   "carried": "religion",
+   "what": "three Christian interpolations added to a Josephan core before Eusebius",
+   "medium": "text",
+   "start": 200,
+   "end": 324,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "The Testimonium Flavianum, Eusebius, and Consensus (guest post)",
+  "authors": "Olson, K.",
+  "year": 2013,
+  "venue": "The Jesus Blog (Anthony Le Donne)",
+  "url": "https://historicaljesusresearch.blogspot.com/2013/08/the-testimonium-flavianum-eusebius-and.html",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Ancient history",
+  "stance": "contradicts",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "I argued that Eusebius, the fourth century Bishop of Caesarea who is the first person to quote the passage, was its actual author",
+  "summary": "Olson, first-hand, restates his case (CBQ 1999) that Eusebius wrote the Testimonium, notes Feldman (2012) leans the same way, and says Meier's core/interpolation division depends on an unsafe assumption about Christian writers.",
+  "limits": "Blog post by the scholar, not peer reviewed; Olson's article was not opened. Cited criticism of his view by Carleton Paget (2001) and Whealey (2007) is mentioned but not read.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Christian tradition",
+   "to": "Josephus's Antiquities text",
+   "carried": "religion",
+   "what": "Eusebius composing the Testimonium and placing it in Antiquities 18",
+   "medium": "text",
+   "start": 300,
+   "end": 324,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Jesus among the Historians: How the Manuscripts of Josephus Changed Over Time and What They Originally Said",
+  "authors": "Carrier, R.",
+  "year": 2017,
+  "venue": "richardcarrier.info (self-published survey)",
+  "url": "https://richardcarrier.info/testimonium.pdf",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "skeptical",
+  "discipline": "Ancient history",
+  "stance": "contradicts",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "Both references to Jesus were probably added after their first custodian, Origen (who had no knowledge of them)",
+  "summary": "Carrier, first-hand, argues all Antiquities manuscripts descend from the Caesarea library copy, that Origen did not know either Jesus passage, that the Testimonium was added deliberately (Eusebius or Pamphilus) and the James phrase accidentally, and that the Arabic version must not be relied upon.",
+  "limits": "Self-published slide-style survey dated 10 February 2017; Carrier is a Jesus-mythicist author, which is a stated position on the wider question; his JECS 2012 article was paywalled (Project MUSE) and not opened. Rejects Whealey's thesis; peer-reviewed rejoinders not opened.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Christian tradition",
+   "to": "Josephus's Antiquities text",
+   "carried": "religion",
+   "what": "Testimonium and the phrase 'called Christ' inserted in the Caesarea manuscript line",
+   "medium": "text",
+   "start": 220,
+   "end": 324,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Earl Doherty's Response to Bart Ehrman's Case Against Mythicism: Jewish Sources (quoting Ehrman, Did Jesus Exist?)",
+  "authors": "Vridar (quoting Ehrman, B.D., Did Jesus Exist?, 2012, p. 60)",
+  "year": 2012,
+  "venue": "Vridar",
+  "url": "https://vridar.org/2012/04/27/6-earl-dohertys-response-to-bart-ehrmans-case-against-mythicism-jewish-sources/",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "supports",
+  "ask_addressed": "Quote Josephus's Antiquities of the Jews at loci that touch other threads (11.1, 11.8, 12.2, 13-14, 18.3.3, 18.5.2, 20.9.1) and give the Testimonium's manuscript/transmission evidence and scholarly positions",
+  "quote": "experts on Josephus, think that . . . one or more Christian scribes ‘touched up’ the passage a bit.",
+  "summary": "Ehrman's position as quoted: the passage's divinity, messiahship and resurrection clauses are Christian additions; a core is Josephan. Doherty's reply, which the page prints, rejects the digression and silence arguments.",
+  "limits": "Second-hand: Ehrman's book was not opened (archive.org copy lending-only). The host is a mythicist-leaning blog whose author argues against Ehrman; the quotation is the blog's, with page number from it.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Christian tradition",
+   "to": "Josephus's Antiquities text",
+   "carried": "religion",
+   "what": "Christian scribal touching-up of a Josephan core",
+   "medium": "text",
+   "start": 200,
+   "end": 324,
+   "directness": "debated"
+  }
+ },
+ {
+  "brief": "josephus-antiquities-testimonium",
+  "records": [],
+  "title": "Josephus on Jesus - Whealey on Agapius and Michael the Syrian",
+  "authors": null,
+  "year": null,
+  "venue": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Josephus_on_Jesus",
+  "doi": null,
+  "accessed": "2026-11-17",
+  "kind": "secondary",
+  "discipline": "Ancient history",
+  "stance": "contradicts",
+  "ask_addressed": "Composition date (c. 93-94 CE), earliest witnesses and what is disputed",
+  "quote": "they both ultimately derive from the Syriac translation of the Ecclesiastical History written by Eusebius",
+  "summary": "Wikipedia summarises Whealey (2008, NTS 54): Agapius's and Michael's Syriac/Arabic Testimonia are not independent of Eusebius; Michael's is nearer to Josephus. This is the principal rebuttal of Pines's 1971 reading of Agapius as an independent witness.",
+  "limits": "Encyclopedia summary; Whealey's article (Cambridge, paywalled HTML only) and Pines's monograph (archive.org lending-only; khazarzar.skeptik.net did not connect) were not opened, so both are recalled-not-fetched.",
+  "reliability": "unassessed",
+  "review": {
+   "status": "unreviewed",
+   "by": null
+  },
+  "strand": {
+   "from": "Christian tradition",
+   "to": "Josephus's Antiquities text",
+   "carried": "religion",
+   "what": "Agapius's Arabic Testimonium as paraphrase of Eusebius, not an independent Josephus witness",
+   "medium": "translation",
+   "start": 300,
+   "end": 942,
+   "directness": "debated"
+  }
+ }
+]
