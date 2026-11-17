@@ -1,0 +1,783 @@
+[
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Ancient Records of Egypt, vol. III: The Nineteenth Dynasty, Merneptah, Hymn of Victory (Israel Stela), section 617",
+    "authors": "Breasted, J. H.",
+    "year": 1906,
+    "venue": "University of Chicago Press (archive.org scan, public domain)",
+    "url": "https://archive.org/stream/ancientrecordsof03brea/ancientrecordsof03brea_djvu.txt",
+    "kind": "primary",
+    "discipline": "Egyptology",
+    "stance": "supports",
+    "ask_addressed": "Quote the extra-biblical inscriptions and chronicles that bear on Israelite and Judaean history, from open translations",
+    "quote": "is desolated, his seed is not;",
+    "summary": "Breasted's 1906 translation of the closing strophe of the Merneptah Stele: Ashkelon, Gezer, Yenoam and Israel are listed among the defeated, 'Israel ... is desolated, his seed is not' (the quote omits the OCR-garbled hieroglyph transliteration of 'Israel' that precedes it). Breasted notes the stela is dated to Merneptah's fifth year and had been found by Petrie in Merneptah's mortuary temple.",
+    "limits": "Translation of 1906, since refined; the OCR text garbles the name transliteration. Breasted also notes that the Israel passage is 'so brief and bald that little can be drawn from it' (checked against the same page). The year (c. 1208 BCE) is derived from the regnal year 5 plus a modern chronology, and is read from Wikipedia 'Merneptah Stele', not from Breasted.",
+    "text": {
+      "work": "Merneptah (Israel) Stele, line 27 in the closing strophe",
+      "locator": "Ancient Records of Egypt III, section 617 (p. 263-264)",
+      "language": "Egyptian (hieroglyphic), quoted in English (Breasted 1906)",
+      "edition": "Breasted, Ancient Records of Egypt III (1906), archive.org djvu text",
+      "composition": {
+        "start": -1208,
+        "end": -1208,
+        "basis": "Inscription says it was carved in Merneptah's regnal year 5; c. 1208 BCE per Wikipedia 'Merneptah Stele' (opened; reign 1213-1203 BCE). Breasted: 'fifth year of his reign'."
+      },
+      "witness": "Black granite stele found by Petrie at Thebes in 1896 in Merneptah's mortuary temple, now in the Egyptian Museum, Cairo; fragmentary duplicate at Karnak (Breasted; Wikipedia)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Merneptah Stele (the Israel Stele): determinative and alternative readings",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia (open encyclopedia; tertiary, used here only as the open host of the quoted text)",
+    "url": "https://en.wikipedia.org/wiki/Merneptah_Stele",
+    "kind": "skeptical",
+    "discipline": "Egyptology",
+    "stance": "context",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "The argument is good, but not conclusive, because of the notorious carelessness of Late-Egyptian scribes",
+    "summary": "The article reports J. A. Wilson's 1955 caution (ANET 378 n. 18) that the 'people' determinative after the name does not conclusively show a people rather than a place, and records the minority readings of the name as 'Jezreel' (Hjelm and Thompson 2002) with Hasel's rebuttal. It also states the majority view that 'Israel' is correct.",
+    "limits": "Wilson's words are quoted second-hand through Wikipedia, which cites ANET; the original was not opened. The Jezreel reading is a minority view and Hasel (2008, quoted in the same article) argues it fails on Egyptian orthography. Verifier: stance lowered from fails_to_support to context; Wikipedia-only/second-hand report of a scholar's view; the cited work was not opened.",
+    "text": {
+      "work": "Merneptah (Israel) Stele, line 27 (the name ysriar and its determinatives)",
+      "locator": "line 27, discussion section",
+      "language": "Egyptian (hieroglyphic), commentary in English",
+      "edition": "Wikipedia 'Merneptah Stele' (accessed 2026-11-17), quoting J. A. Wilson in ANET (1955)",
+      "composition": {
+        "start": -1208,
+        "end": -1208,
+        "basis": "Regnal year 5 of Merneptah; 'created c. 1208 BCE' per the same Wikipedia article."
+      },
+      "witness": "Cairo stele (found Thebes 1896) plus a Karnak fragment."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Tel Dan stele: text and translation (Biran and Naveh 1995 reading)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia (open encyclopedia; tertiary, used here only as the open host of the quoted text)",
+    "url": "https://en.wikipedia.org/wiki/Tel_Dan_stele",
+    "kind": "primary",
+    "discipline": "Near Eastern epigraphy",
+    "stance": "context",
+    "ask_addressed": "Quote the extra-biblical inscriptions and chronicles that bear on Israelite and Judaean history, from open translations",
+    "quote": "[Ahaz]iahu son of [Jehoram kin-] g of the House of David, and I set",
+    "summary": "Lines 8-9 of the Old Aramaic stele fragment as translated by Biran and Naveh (1995): the speaker claims to have killed a king of Israel (restored as Joram son of Ahab) and [Ahaz]iahu son of [Joram] 'king of the House of David' (bytdwd). The restoration of both royal names is conjectural; only 'king of Israel' and 'bytdwd' are on the stone.",
+    "limits": "Wikipedia reproduces the 1995 translation, which was not opened at its source (IEJ 45, 1995, pp. 1-18). Names in square brackets are restorations. No word divider stands between byt and dwd, which is the basis of the dissent (see the other Tel Dan candidates). Verifier: stance lowered from supports to context; the translation is read only through Wikipedia (Biran and Naveh 1995 / Lemaire 1998 not opened at source); verified only that Wikipedia prints these words.",
+    "text": {
+      "work": "Tel Dan Inscription (Tel Dan Stele), fragments A, B1, B2",
+      "locator": "lines 8-9",
+      "language": "Old Aramaic, quoted in English",
+      "edition": "Wikipedia 'Tel Dan stele' reproducing Biran and Naveh, IEJ 45 (1995) translation",
+      "composition": {
+        "start": -840,
+        "end": -800,
+        "basis": "Hagelia (2010, Bible and Interpretation, opened): palaeography fits 'the latter part of 9th century or around 800 BCE'; if Hazael (c. 842-806 BCE) is the author, late 9th century. Biran and Naveh first said c. 870 BCE (1993); a few scholars (Copenhagen school) argue later."
+      },
+      "witness": "Three basalt fragments (A found June 1993; B1, B2 found June 1994) at Tel Dan, re-used in secondary contexts (a plaza and a wall) (Hagelia: found re-used, within a plaza and in a wall, not in their original site); now in the Israel Museum, Jerusalem (Wikipedia)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Tel Dan stele: Lemaire's 1998 translation (two kings, not seventy)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia (open encyclopedia; tertiary, used here only as the open host of the quoted text)",
+    "url": "https://en.wikipedia.org/wiki/Tel_Dan_stele",
+    "kind": "primary",
+    "discipline": "Near Eastern epigraphy",
+    "stance": "context",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "I killed two power[ful] kin[gs]",
+    "summary": "An alternative scholarly rendering (A. Lemaire 1998) reads lines 6-7 as 'two powerful kings' and 'two thousand' chariots/horsemen where Biran and Naveh read 'seventy kings' and 'thousands'. Both versions keep 'king of Israel' and 'House of David'.",
+    "limits": "Second-hand through Wikipedia; Lemaire's own article not opened. The disagreement is over a fragmentary letter ('ayin?) and does not affect the 'House of David' reading. Verifier: stance lowered from context to context; the translation is read only through Wikipedia (Biran and Naveh 1995 / Lemaire 1998 not opened at source); verified only that Wikipedia prints these words.",
+    "text": {
+      "work": "Tel Dan Inscription (Tel Dan Stele)",
+      "locator": "lines 6-7",
+      "language": "Old Aramaic, quoted in English",
+      "edition": "Wikipedia 'Tel Dan stele', Lemaire 1998 translation",
+      "composition": {
+        "start": -840,
+        "end": -800,
+        "basis": "Hagelia 2010 (opened): late 9th century or c. 800 BCE."
+      },
+      "witness": "Fragments A, B1, B2, Israel Museum."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Dan Debate",
+    "authors": "Hagelia, H.",
+    "year": 2010,
+    "venue": "The Bible and Interpretation (Arizona Center for Judaic Studies)",
+    "url": "https://bibleinterp.arizona.edu/articles/teldan257923",
+    "kind": "secondary",
+    "discipline": "Near Eastern epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "there is almost consensus that the letters fit palaeographically to the latter part of 9th century or around 800 BCE",
+    "summary": "Survey of the Tel Dan debate by the author of two monographs on it. It dates the stele on palaeography and content (not stratigraphy, since the fragments were found re-used), reports that the editors moved from c. 870 BCE to the late 9th century, lists 33 proposed reconstructions, and describes the minimalist/maximalist split over bytdwd.",
+    "limits": "A summary article by a scholar who sides with the mainstream reading; it says few now argue forgery and that the debate has 'come to a standstill'. A comment by G. Athas (reading a lamed in line 4) is appended and unresolved.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Does the Tel Dan Inscription 'Prove' David to Be a Historical Person? (notes on Lemche and Thompson, 'Did Biran Kill David?', JSOT 64, 1994)",
+    "authors": null,
+    "year": 2011,
+    "venue": "Vridar (blog)",
+    "url": "https://vridar.org/2011/07/19/does-the-tel-dan-inscription-prove-david-to-be-a-historical-person/",
+    "kind": "alternative",
+    "discipline": "Biblical studies",
+    "stance": "context",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "Analogously, dwd is a referent to Yahweh as ‘beloved’, as byt dwd is a reference to his temple.",
+    "summary": "The post excerpts Lemche and Thompson's minimalist argument that bytdwd is not a dynastic name: it notes the plene spelling and the missing divider and proposes that dwd is an epithet of Yahweh ('beloved') and byt dwd a temple or place.",
+    "limits": "Blog notes quoting the article, not the article itself (JSOT 64 (1994) 3-22 was not opened, recalled-not-fetched). The author's name is not printed in the opened text. Specialists in Semitic languages mostly reject this reading (Hagelia; Wikipedia 'Tel Dan stele'). Verifier: stance lowered from contradicts to context; blog excerpts of Lemche and Thompson (JSOT 1994), second-hand; the original was not opened.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Tel Dan stele: the 'House of David' reading disputed (Stavrakopoulou, quoted)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia (open encyclopedia; tertiary, used here only as the open host of the quoted text)",
+    "url": "https://en.wikipedia.org/wiki/Tel_Dan_stele",
+    "kind": "skeptical",
+    "discipline": "Near Eastern epigraphy",
+    "stance": "context",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "the rendering of the phrase bytdwd as \"House of David\" is disputed, not least because it occurs without the expected word dividers",
+    "summary": "The article quotes F. Stavrakopoulou (2004, p. 86): the 'king of Israel' is secure but 'House of David' is disputed because word dividers appear elsewhere in the inscription and not between byt and dwd. It adds that even if the reading is right it need not show a 9th-century united monarchy, and it records Rainey's reply that dividers are often inconsequential, and a forgery claim by Cryer and Lemche that most scholars rejected.",
+    "limits": "The quotation is inside a Wikipedia footnote; Stavrakopoulou's book was not opened. Her wording is 'it is disputed', not 'it is wrong'. The forgery charge is rejected by most scholars because the pieces came from controlled excavation. Verifier: stance lowered from fails_to_support to context; Wikipedia-only/second-hand report of a scholar's view; the cited work was not opened.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "2 Kings 9:24-27 (Jehu shoots Joram and Ahaziah) read against the Tel Dan claim",
+    "authors": null,
+    "year": null,
+    "venue": "Sefaria API, JPS Tanakh 1985 (gender-sensitive ed.)",
+    "url": "https://www.sefaria.org/api/texts/II_Kings.9.27?context=0&lang=en",
+    "kind": "primary",
+    "discipline": "Hebrew Bible",
+    "stance": "context",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "King Ahaziah of Judah fled along the road to Beth-haggan. Jehu pursued him and said, \"Shoot him down too!\"",
+    "summary": "In 2 Kings 9 it is Jehu who has Joram of Israel and Ahaziah of Judah killed (9:24, 9:27). The Tel Dan speaker (usually Hazael of Damascus) claims in lines 8-9 to have killed a king of Israel and a king of the House of David. The two accounts name different killers; the stele's royal names are themselves restored.",
+    "limits": "Parallels only; neither text refers to the other. Whether the two accounts conflict, or the stele boasts of a joint war that Jehu then completed, is argued by specialists and I did not open a source that settles it. The identification of the stele's author as Hazael is itself an inference (Hagelia). Verifier: stance lowered from contradicts to context; the page (Sefaria) shows only the Kings passage; that it conflicts with Tel Dan is the researcher's reading, and the Tel Dan side is Wikipedia-only.",
+    "text": {
+      "work": "2 Kings",
+      "locator": "9:24-27",
+      "language": "Hebrew, quoted in English (JPS 1985)",
+      "edition": "Sefaria API: JPS Tanakh 1985/2006 gender-sensitive (English, CC-BY-NC)",
+      "composition": {
+        "start": -620,
+        "end": -550,
+        "basis": "Wikipedia 'Books of Kings' (opened): 'Scholars tend to treat the books as consisting of a first edition from the late 7th century BC and of a second and final edition from the mid-6th century BC.'"
+      },
+      "witness": "Earliest manuscripts: Qumran fragments 5QKgs, 6QpapKgs, 4QKgs (Wikipedia 'Books of Kings'); earliest complete copy Aleppo Codex (10th c. CE)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Inscription on the Stele of Mesa' commonly called the Moabite Stone (translation, lines 1-9)",
+    "authors": "Compston, H. F. B.",
+    "year": 1919,
+    "venue": "SPCK, Texts for Students no. 9 (archive.org scan, public domain)",
+    "url": "https://archive.org/stream/inscriptiononste00compuoft/inscriptiononste00compuoft_djvu.txt",
+    "kind": "primary",
+    "discipline": "Near Eastern epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Quote the extra-biblical inscriptions and chronicles that bear on Israelite and Judaean history, from open translations",
+    "quote": "Israel utterly perished everlastingly.",
+    "summary": "Compston's 1919 translation: Mesha, king of Moab, says Omri was king of Israel, afflicted Moab many days, that Chemosh restored Medeba in his days, and that 'Israel utterly perished everlastingly'. Compston dates the text 'somewhere about mid-ninth century B.C.' and notes it is in Phoenician-type script used by Moab and by Israel.",
+    "limits": "A 1919 translation; later editions read some damaged lines differently. The OCR is clean enough to quote but the stone was broken in 1868 and restored from a squeeze, so some letters are conjectural. The script claim ('Phoenician script ... used not only by Moab but by Israel') is Compston's inference from the Siloam text, not a documented route. Verifier: Compston prints the script statement (Phoenician script used by Moab and by Israel, citing Siloam, 8th c.) but no route of transfer; strand kept as inferred.",
+    "text": {
+      "work": "Mesha Stele (Moabite Stone)",
+      "locator": "lines 1-9",
+      "language": "Moabite, quoted in English (Compston 1919)",
+      "edition": "Compston, The Moabite Stone (London 1919), archive.org djvu text",
+      "composition": {
+        "start": -840,
+        "end": -810,
+        "basis": "Compston: 'somewhere about mid-ninth century B.C.'; Wikipedia 'Mesha Stele' (opened): usual date c. 840 BCE, possibly as late as 810 BCE (Lemaire)."
+      },
+      "witness": "Basalt stele found at Dhiban (Dibon) by F. A. Klein in 1868, broken by local people, recovered from fragments and a paper squeeze; now in the Louvre (Compston)."
+    },
+    "strand": {
+      "from": "Phoenician script tradition",
+      "to": "Moab and Israel",
+      "carried": "writing",
+      "what": "the linear alphabetic script of the Mesha and Siloam inscriptions",
+      "medium": "unknown",
+      "start": -840,
+      "end": -700,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Mesha Stele: date of the inscription (c. 840 BCE or as late as 810 BCE)",
+    "authors": null,
+    "year": null,
+    "venue": "Wikipedia (open encyclopedia; tertiary, used here only as the open host of the quoted text)",
+    "url": "https://en.wikipedia.org/wiki/Mesha_Stele",
+    "kind": "secondary",
+    "discipline": "Near Eastern epigraphy",
+    "stance": "context",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "André Lemaire has cautioned that the identification is not certain and the stele may be as late as 810 BCE",
+    "summary": "The usual c. 840 BCE date rests on matching Mesha's rebellion with 2 Kings 3 (Joram, Jehoshaphat); Lemaire (2007, p. 137) cautions that this identification is uncertain and allows a date down to 810 BCE. The article also records the 2019 proposal (Finkelstein, Na'aman, Romer) that line 31 reads Balak rather than 'House of David'.",
+    "limits": "Date derives from historical identification rather than from palaeography or a dated archaeological layer. Lemaire's own text and the 2019 Tel Aviv article were not opened (the Tel Aviv PDF at serval.unil.ch returned a human-verification page). Wikipedia is tertiary.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Annals of Sennacherib (Oriental Institute Prism), third campaign: Hezekiah shut up in Jerusalem",
+    "authors": "Luckenbill, D. D.",
+    "year": 1924,
+    "venue": "Oriental Institute Publications 2, University of Chicago (OI open PDF)",
+    "url": "https://oi-idb-static.uchicago.edu/multimedia/315/oip2.pdf",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "Quote the extra-biblical inscriptions and chronicles that bear on Israelite and Judaean history, from open translations",
+    "quote": "Himself, like a caged bird I shut up in Jerusalem, his royal city.",
+    "summary": "Luckenbill's translation of Sennacherib's account of his campaign in Judah: 46 walled cities of Hezekiah taken, 200,150 people carried off, and Hezekiah himself 'like a caged bird' shut up in Jerusalem with earthworks thrown up. The text claims tribute and the desertion of Hezekiah's Arab troops but never claims the capture of Jerusalem; Luckenbill reads the length of the account as 'a sure sign that the victory claimed was not at all decisive'.",
+    "limits": "Royal annal propaganda; no date for the siege itself is printed on the prism beyond the limu. The quote is from Luckenbill's prose-rendered introduction, and the same lines appear as col. III ll. 27-29 of the Oriental Institute Prism in his line-by-line edition. The Taylor Prism copy is in the British Museum, which was not confirmed from an opened source.",
+    "text": {
+      "work": "Annals of Sennacherib, Oriental Institute Prism (duplicate of the Taylor Prism text)",
+      "locator": "third campaign, ll. 27-29 of the prism section; translation in Luckenbill's Introduction p. 11",
+      "language": "Akkadian, quoted in English (Luckenbill 1924)",
+      "edition": "Luckenbill, The Annals of Sennacherib, OIP 2 (1924), OI open PDF",
+      "composition": {
+        "start": -689,
+        "end": -689,
+        "basis": "Luckenbill: Oriental Institute Prism dated in the limu of Gahilu (689 BCE); Taylor Prism in the limu of Bel-emuranni (691 BCE); Bellino Cylinder (first two campaigns) 702 BCE."
+      },
+      "witness": "Oriental Institute Prism (hexagonal clay prism, published by Luckenbill); Taylor Prism published in Rawlinson IR 37 f. (Luckenbill's list of sources)."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "2 Kings 18:13-17 (Sennacherib's campaign against Judah) read against the prism",
+    "authors": null,
+    "year": null,
+    "venue": "Sefaria API, JPS Tanakh 1985 (gender-sensitive ed.)",
+    "url": "https://www.sefaria.org/api/texts/II_Kings.18.13?context=0&lang=en",
+    "kind": "primary",
+    "discipline": "Hebrew Bible",
+    "stance": "context",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "In the fourteenth year of King Hezekiah, King Sennacherib of Assyria marched against all the fortified towns of Judah and seized them.",
+    "summary": "2 Kings 18:13-16 shares with the prism the seizure of Judah's fortified towns and a payment by Hezekiah (300 talents of silver, 30 of gold); the prism's own wording differs in detail and omits the biblical outcome. Luckenbill's introduction notes the prism 'does not mention the capture of the city' when it mentions Hezekiah's submission.",
+    "limits": "Parallels in outline only; neither text cites the other. The prism lists no siege of Jerusalem's end and the Bible's sequel (18:17 ff., Rabshakeh at the conduit of the Upper Pool) has no counterpart in the prism. The composition range for 2 Kings follows Wikipedia 'Books of Kings', not a scholarly monograph I opened.",
+    "text": {
+      "work": "2 Kings",
+      "locator": "18:13-17",
+      "language": "Hebrew, quoted in English (JPS 1985)",
+      "edition": "Sefaria API: JPS Tanakh 1985/2006 gender-sensitive (English, CC-BY-NC)",
+      "composition": {
+        "start": -620,
+        "end": -550,
+        "basis": "Wikipedia 'Books of Kings' (opened): 'Scholars tend to treat the books as consisting of a first edition from the late 7th century BC and of a second and final edition from the mid-6th century BC.'"
+      },
+      "witness": "Earliest manuscripts: Qumran fragments 5QKgs, 6QpapKgs, 4QKgs (Wikipedia 'Books of Kings'); earliest complete copy Aleppo Codex (10th c. CE)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Palestine Exploration Fund Quarterly Statement 1894: The Siloam and Later Palestinian Inscriptions (translation of the Siloam text)",
+    "authors": "Davis, E.",
+    "year": 1894,
+    "venue": "Palestine Exploration Fund Quarterly Statement (Wikisource, public domain)",
+    "url": "https://en.wikisource.org/wiki/Palestine_Exploration_Fund_-_Quarterly_Statement_for_1894/The_Siloam_and_Later_Palestinian_Inscriptions",
+    "kind": "primary",
+    "discipline": "Hebrew epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Quote the extra-biblical inscriptions and chronicles that bear on Israelite and Judaean history, from open translations",
+    "quote": "the pick each to his neighbour, and while three cubits [of rock remained]",
+    "summary": "Printed Hebrew text and an English translation of the six-line Siloam tunnel inscription: two parties of tunnellers dug towards each other, heard each other's voice, 'struck through ... pick upon pick', and the waters flowed 'from the spring to the pool through the space of a thousand cubits' . The inscription names no king.",
+    "limits": "1894 translation; line 1 and line 6 are partly broken (printed with brackets and dots), and the printed length figure differs from the earlier PEFQS article's. The inscription carries no date or king's name, so any link to Hezekiah rests on 2 Kings 20:20 and on the tunnel's dating.",
+    "text": {
+      "work": "Siloam (Hezekiah's Tunnel) Inscription",
+      "locator": "lines 1-6",
+      "language": "Hebrew (Palaeo-Hebrew), quoted in English (PEFQS 1894)",
+      "edition": "PEF Quarterly Statement 1894, article by E. Davis, Wikisource transcription",
+      "composition": {
+        "start": null,
+        "end": -550,
+        "basis": "No internal date. PEFQS 1883 article (opened; author not printed in the text): the letter forms only prove it is older than the mid-6th century BCE; most commentators then ascribed it to Hezekiah, the writer preferred Solomon. Frumkin, Shimron and Rosenbaum (Nature 2003, opened) date the tunnel to Iron Age II."
+      },
+      "witness": "Carved on a recessed tablet in the tunnel wall, found in 1880 by boys passing through the tunnel (PEFQS 1894); squeeze and cast taken by Conder and Mantell. Present museum location not confirmed from an opened source."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Siloam Inscription (PEFQS): the date to be decided on historical, not palaeographical, grounds",
+    "authors": null,
+    "year": null,
+    "venue": "Palestine Exploration Fund Quarterly Statement, pp. 210-ff.",
+    "url": "https://biblicalstudies.org.uk/pdf/pefqs/1883_04_210.pdf",
+    "kind": "skeptical",
+    "discipline": "Hebrew epigraphy",
+    "stance": "contradicts",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "I am still inclined, with hesitation, to assign it to the age of Solomon.",
+    "summary": "The author reports that 'the majority of those who have commented' ascribe the inscription to Hezekiah, argues that the 'pool' and 'conduit' of 2 Kings 20:20 are not obviously the same as the inscription's, and prefers an earlier, Solomonic date. He says the letter forms only prove it is older than the middle of the sixth century BCE.",
+    "limits": "An 1883 opinion superseded in part by later palaeography and by the 2003 radiometric dating of the tunnel. The author's name is not printed in the opened PDF (internal evidence suggests A. H. Sayce; not relied on). It is included as the earliest documented dating dispute, not as a current view. Verifier: the year (1883) and issue (April) are not printed in the page text, only in the file name (1883_04_210); year set to null. The text says the question had stood \"two years\" since the author last wrote.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Radiometric dating of the Siloam Tunnel, Jerusalem",
+    "authors": "Frumkin, A., Shimron, A., Rosenbaum, J.",
+    "year": 2003,
+    "venue": "Nature 425, 169-171",
+    "url": "https://www.nature.com/articles/nature01875",
+    "doi": "10.1038/nature01875",
+    "kind": "primary",
+    "discipline": "Geoarchaeology",
+    "stance": "supports",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "proving its Iron Age II date; we conclude that the Biblical text presents an accurate historic record of the Siloam Tunnel's construction.",
+    "summary": "Radiocarbon dating of plaster and U-Th dating of stalactites place the tunnel in Iron Age II and the paper says this refutes a claim that it was cut in the second century BCE (the paper's reference list includes Rogerson and Davies 1996, 'Was the Siloam Tunnel built by Hezekiah?', and Hackett et al. 1997, 'The Siloam inscription ain't Hasmonean'; that these are the claim meant is my inference). It dates the tunnel, not the inscription.",
+    "limits": "Abstract only was read. It measures the tunnel, not the inscription; the identification with Hezekiah is an inference from 2 Kings. The paper's wording 'accurate historic record' goes beyond what a radiometric range of the Iron Age can show.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "PEFQS 1894 (E. Davis): the Phoenician alphabet as 'sister rather than parent' of the Jewish and Aramaic letters",
+    "authors": "Davis, E.",
+    "year": 1894,
+    "venue": "Palestine Exploration Fund Quarterly Statement (Wikisource, public domain)",
+    "url": "https://en.wikisource.org/wiki/Palestine_Exploration_Fund_-_Quarterly_Statement_for_1894/The_Siloam_and_Later_Palestinian_Inscriptions",
+    "kind": "secondary",
+    "discipline": "Hebrew epigraphy",
+    "stance": "context",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "the Phœnician alphabet is the sister rather than the parent of the Jewish and Aramean letters",
+    "summary": "The author argues from the Siloam inscription that the Phoenician alphabet was not the parent of Hebrew and Aramaic writing, against the view (Isaac Taylor) of an Egyptian-to-Phoenician-to-Hebrew line, and suggests an independent Asian origin. A claim about transfer of writing that the article treats as unsettled.",
+    "limits": "An 1894 opinion; the 'Hittite or Altaic' origin proposed is not accepted today. Included as a documented example of a disputed transmission claim about the script, not as current scholarship. Verifier: strand end year (-700) removed; Davis gives no date for the Siloam text.",
+    "strand": {
+      "from": "Phoenician writing",
+      "to": "Hebrew and Aramaic writing",
+      "carried": "writing",
+      "what": "the linear alphabet of the Siloam inscription",
+      "medium": "unknown",
+      "start": null,
+      "end": null,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "The Lachish Letters: A Reappraisal of the Ostraca Discovered in 1935 and 1938 at Tell ed-Duweir (Lachish 4)",
+    "authors": "Zammit, A.",
+    "year": 2016,
+    "venue": "DPhil thesis, University of Oxford (ORA open access), vol. 1",
+    "url": "https://ora.ox.ac.uk/objects/uuid:db71cf81-ba6c-4a91-8e51-3c694993ebfe/download_file?file_format=pdf&safe_filename=Zammit_THESIS_Volume%2B1_2016_Original.pdf&type_of_work=Thesis",
+    "kind": "primary",
+    "discipline": "Hebrew epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Quote the extra-biblical inscriptions and chronicles that bear on Israelite and Judaean history, from open translations",
+    "quote": "a declaration that the sender and his men are watching the signals of Lachish, but cannot see",
+    "summary": "Zammit's reappraisal of all 21 Lachish ostraca summarises Lachish 4: a field report that the sender's party is watching the (fire/smoke-)signals of Lachish but cannot see Azekah. The ostraca come from the Level II guardroom of the gate at Lachish, destroyed in the Babylonian campaign of 588-586 BCE.",
+    "limits": "The quote is Zammit's summary sentence; her line-by-line translation of Lachish 4.10-13 sits in a two-column table (lines 10-13) that does not quote cleanly. The summer-589 BCE date attributed to D. Winton Thomas could not be found in the Zammit PDF and is not relied on.",
+    "text": {
+      "work": "Lachish ostracon 4 (Lachish Letter IV)",
+      "locator": "obverse and reverse, 13 legible lines; reverse ll. 9-13 (signals of Lachish; Azekah)",
+      "language": "Hebrew (Palaeo-Hebrew), quoted in English (Zammit 2016)",
+      "edition": "Zammit, DPhil thesis, Oxford 2016, vol. 1 (ORA), transcription and translation",
+      "composition": {
+        "start": null,
+        "end": -586,
+        "basis": "Zammit 2016 (opened): the Level II gate area, with the ostraca, was destroyed in Nebuchadnezzar II's campaign, dated 588/6 BCE (others 587/6); the letters pre-date that destruction. No start date is shown by an opened source."
+      },
+      "witness": "Ostracon from the Level II 'guardroom' (E.18:C) at Tell ed-Duweir, excavated by J. L. Starkey; deciphered in 1935; present museum location not confirmed from an opened source."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Lachish 4.12-13: 'for we cannot see Azekah' versus 'no longer'",
+    "authors": "Zammit, A.",
+    "year": 2016,
+    "venue": "DPhil thesis, University of Oxford (ORA open access), vol. 1",
+    "url": "https://ora.ox.ac.uk/objects/uuid:db71cf81-ba6c-4a91-8e51-3c694993ebfe/download_file?file_format=pdf&safe_filename=Zammit_THESIS_Volume%2B1_2016_Original.pdf&type_of_work=Thesis",
+    "kind": "skeptical",
+    "discipline": "Hebrew epigraphy",
+    "stance": "fails_to_support",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "most scholars have mistakenly translated Lachish 4.12b–13 as “for we can no longer see Azekah”",
+    "summary": "Zammit argues that the inherited reading 'we can no longer see Azekah' inserts a word and led to the assumption that Azekah had already fallen to Babylon; the text says only 'we cannot see Azekah', which does not by itself show a fall.",
+    "limits": "One scholar's argument (a doctoral thesis); I have not opened a published reply. It bears on the link usually drawn to Jeremiah 34:7, not on the date of the letters.",
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Chronicles of Chaldaean Kings (626-556 B.C.) in the British Museum, B.M. 21946 (ABC 5), reverse 11-13",
+    "authors": "Wiseman, D. J.",
+    "year": 1956,
+    "venue": "Trustees of the British Museum (ETANA open PDF)",
+    "url": "https://etana.org/sites/default/files/coretexts/20337.pdf",
+    "kind": "primary",
+    "discipline": "Assyriology",
+    "stance": "supports",
+    "ask_addressed": "Quote the extra-biblical inscriptions and chronicles that bear on Israelite and Judaean history, from open translations",
+    "quote": "and on the second day of the month of Adar he seized the city and captured the king.",
+    "summary": "Wiseman's edition: in Nebuchadnezzar's seventh year the king of Akkad marched to Hatti, encamped against the 'city of Judah' and took it on 2 Adar, captured its king and appointed a king of his own choice. Wiseman dates this to 15/16 March 597 BCE and says the date is 'now known precisely for the first time'.",
+    "limits": "'City of Judah' means Jerusalem by inference from the biblical parallel; the king is not named in the chronicle. Wiseman says the tablet's script 'does not of itself allow any precise dating' (near-contemporary to the end of Achaemenid rule). The Livius page (https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/) gives the same entry from Grayson and Glassner and was also opened. Verifier: the Wiseman text is hosted by ETANA (an academic text-corpus project); a modern publication, so cite the 1956 book, not only the URL.",
+    "text": {
+      "work": "Babylonian Chronicle 5 (Chronicle Concerning the Early Years of Nebuchadnezzar II, ABC 5)",
+      "locator": "reverse lines 11-13 (year 7, Kislev to Adar)",
+      "language": "Akkadian, quoted in English (Wiseman 1956)",
+      "edition": "Wiseman, Chronicles of Chaldaean Kings (1956), ETANA PDF; Grayson 1975 translation also seen via Livius",
+      "composition": {
+        "start": -597,
+        "end": null,
+        "basis": "Records events of 598/597 BCE; Wiseman: script 'does not of itself allow any precise dating' but the chronicle tablets were written 'from any time almost contemporary with the events themselves to the end of the Achaemenid rule'."
+      },
+      "witness": "Cuneiform tablet B.M. 21946, British Museum (Wiseman); Babylon provenance inferred, copied in part at Sippar for related chronicles."
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "2 Kings 24:12 (Jehoiachin surrenders 'in the eighth year') versus the Babylonian Chronicle's seventh year",
+    "authors": null,
+    "year": null,
+    "venue": "Sefaria API, JPS Tanakh 1985 (gender-sensitive ed.)",
+    "url": "https://www.sefaria.org/api/texts/II_Kings.24.12?context=0&lang=en",
+    "kind": "primary",
+    "discipline": "Hebrew Bible",
+    "stance": "context",
+    "ask_addressed": "Date each inscription with the basis (palaeography, regnal year), the object's location and witness, and the dispute where one exists",
+    "quote": "The king of Babylon took him captive in the eighth year of his reign.",
+    "summary": "2 Kings 24:12 dates the capture of Jehoiachin to Nebuchadnezzar's eighth year, while the Babylonian Chronicle (ABC 5) puts the fall of the city and capture of the king on 2 Adar of his seventh year (March 597 BCE). The Livius page notes that the chronicle 'contradicts the date in 2 Kings 24.12'.",
+    "limits": "Two reckonings of regnal years (Judaean vs Babylonian new-year reckoning) are one commonly argued reconciliation, but I did not open a source for it, so it is not claimed here. Wiseman says the Chronicle tablet cannot be dated precisely from its script, so neither text is a dated contemporary witness. Verifier: stance lowered from contradicts to context; the Sefaria page shows only 2 Kings 24:12; no opened source for the conflict with ABC 5 was verified (the Livius page cited in the summary was not re-opened by the verifier).",
+    "text": {
+      "work": "2 Kings",
+      "locator": "24:12",
+      "language": "Hebrew, quoted in English (JPS 1985)",
+      "edition": "Sefaria API: JPS Tanakh 1985/2006 gender-sensitive (English, CC-BY-NC)",
+      "composition": {
+        "start": -620,
+        "end": -550,
+        "basis": "Wikipedia 'Books of Kings' (opened): 'Scholars tend to treat the books as consisting of a first edition from the late 7th century BC and of a second and final edition from the mid-6th century BC.'"
+      },
+      "witness": "Earliest manuscripts: Qumran fragments 5QKgs, 6QpapKgs, 4QKgs (Wikipedia 'Books of Kings'); earliest complete copy Aleppo Codex (10th c. CE)"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Aramaic Papyri of the Fifth Century B.C., no. 21: Order to keep the (Passover and) Feast of Unleavened Bread, 419 B.C.",
+    "authors": "Cowley, A. E.",
+    "year": 1923,
+    "venue": "Clarendon Press, Oxford (archive.org scan, public domain)",
+    "url": "https://archive.org/stream/aramaicpapyrioff00ahikuoft/aramaicpapyrioff00ahikuoft_djvu.txt",
+    "kind": "primary",
+    "discipline": "Aramaic epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Quote the extra-biblical inscriptions and chronicles that bear on Israelite and Judaean history, from open translations",
+    "quote": "Now this year, the 5th year of King Darius, word was sent from the king to Armies",
+    "summary": "Cowley's translation of the letter from Hananiah to Yedoniah and 'the Jewish garrison' at Elephantine: word came from King Darius (II) that a festival be kept, with rules for 15th-21st Nisan (Unleavened Bread). Cowley dates it 419 BCE and reads Yedoniah as the community head, as in no. 30. Cowley says the word 'Passover' is only a proposed restoration in the broken lines (see limits).",
+    "limits": "Half of lines 4-10 are lost. Cowley himself writes 'if the proposed restoration is right, the Passover' and prints '(Passover ?' in his heading; Wikipedia 'Elephantine papyri and ostraca' (opened) says Passover itself 'is not mentioned in the extant text'. So the brief's 'Passover letter' is better described as the Unleavened Bread letter. The royal origin of the instruction is Cowley's reading and the papyrus is not itself a Jerusalem document. Verifier: Cowley says the mission of Hananiah was official; the \"Judaean authorities\" end of the strand is the researcher's inference, not stated in the opened text.",
+    "text": {
+      "work": "Elephantine papyri (Cowley no. 21)",
+      "locator": "Cowley 21, ll. 3-8 (the 'Passover' or Unleavened Bread letter)",
+      "language": "Aramaic (Imperial Aramaic), quoted in English (Cowley 1923)",
+      "edition": "Cowley, Aramaic Papyri of the Fifth Century B.C. (Oxford 1923), archive.org djvu text",
+      "composition": {
+        "start": -419,
+        "end": -419,
+        "basis": "Cowley: 'the 5th year of Darius ... must be Darius II, since Yedoniah ... holds the same position in no. 30 ... The year is therefore 419 b.c.'"
+      },
+      "witness": "Papyrus found at Elephantine, now in the Egyptian Museum of Berlin (Wikipedia 'Elephantine papyri and ostraca': discovered 1907)."
+    },
+    "strand": {
+      "from": "Achaemenid court and Judaean authorities (via the envoy Hananiah)",
+      "to": "Jewish garrison at Elephantine",
+      "carried": "custom",
+      "what": "calendar and rules for the Feast of Unleavened Bread (and perhaps Passover)",
+      "medium": "court_or_empire",
+      "start": -419,
+      "end": -419,
+      "directness": "debated"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  },
+  {
+    "brief": "jewish-ancient-inscriptions",
+    "records": [],
+    "accessed": "2026-11-17",
+    "reliability": "unassessed",
+    "review": {
+      "status": "unreviewed",
+      "by": null
+    },
+    "title": "Aramaic Papyri of the Fifth Century B.C., no. 30: Petition to the governor of Judaea (Bigvai/Bagohi) for the rebuilding of the temple of Ya'u",
+    "authors": "Cowley, A. E.",
+    "year": 1923,
+    "venue": "Clarendon Press, Oxford (archive.org scan, public domain)",
+    "url": "https://archive.org/stream/aramaicpapyrioff00ahikuoft/aramaicpapyrioff00ahikuoft_djvu.txt",
+    "kind": "primary",
+    "discipline": "Aramaic epigraphy",
+    "stance": "supports",
+    "ask_addressed": "Quote the extra-biblical inscriptions and chronicles that bear on Israelite and Judaean history, from open translations",
+    "quote": "The temple of Ya'u the God, which is in the fortress of Yeb let them remove from there.",
+    "summary": "Yedoniah and the priests at Yeb (Elephantine) petition Bigvai, governor of Judaea, and say they also wrote to Johanan the high priest and 'the nobles of the Jews' in Jerusalem and to the sons of Sanballat, governor of Samaria. They report that the priests of Khnub, with the Persian official Waidrang, had the Yahu temple destroyed in the 14th year of Darius. Cowley dates the letter to the 17th year of Darius II.",
+    "limits": "Cowley prints 408 BCE for the 17th year of Darius II; Wikipedia 'Elephantine papyri and ostraca' (opened) says the letter was written in 407 BCE, as the brief states. I did not open a source that reconciles the two, so the range -408/-407 is recorded. The papyrus is a draft or copy, not the letter as sent. 'Bagoas' is the Greek form of Bigvai/Bagohi (Cowley). Verifier: strand directness lowered documented -> inferred; the petition documents contact with Jerusalem and Samaria authorities, not a transfer of an institution. Date: Cowley prints 408 BCE (\"17th year of Darius II = 408 b.c.\"); Wikipedia prints 407; no opened source settles it, so -408/-407 kept.",
+    "text": {
+      "work": "Elephantine papyri (Cowley no. 30; Sayce-Cowley collection)",
+      "locator": "Cowley 30, ll. 1-8 and 17-19, 29",
+      "language": "Aramaic (Imperial Aramaic), quoted in English (Cowley 1923)",
+      "edition": "Cowley, Aramaic Papyri of the Fifth Century B.C. (Oxford 1923), archive.org djvu text",
+      "composition": {
+        "start": -408,
+        "end": -407,
+        "basis": "Cowley: 'The date (1. 30) is the 17th year of Darius II = 408 b.c.'; Wikipedia: 'written in 407 BCE'."
+      },
+      "witness": "Papyrus with ll. 1-17 on the recto and ll. 18-30 on the verso, in excellent condition (Cowley); in the Sayce-Cowley collection (Wikipedia); present location not confirmed from an opened source."
+    },
+    "strand": {
+      "from": "Elephantine Judaean community",
+      "to": "Judaean governor, Jerusalem high priest and Samaria governors",
+      "carried": "institution",
+      "what": "petition for permission to rebuild the temple of Ya'u, showing ties between the Egyptian garrison and Judah's Persian-era authorities",
+      "medium": "court_or_empire",
+      "start": -408,
+      "end": -407,
+      "directness": "inferred"
+    },
+    "verified": {
+      "by": "verifier",
+      "date": "2026-11-17"
+    }
+  }
+]
