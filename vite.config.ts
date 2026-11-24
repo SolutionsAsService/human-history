@@ -1,2 +1,3 @@
+import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
-export default defineConfig({ base: './', build: { target: 'es2022', chunkSizeWarningLimit: 1200 } });
+export default defineConfig({ plugins: [sveltekit()], build: { target: 'es2022', chunkSizeWarningLimit: 1200 } });
