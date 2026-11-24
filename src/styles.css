@@ -37,7 +37,7 @@ code { font: 12px var(--mono); background: var(--raise); padding: 1px 5px; borde
 .stage { position: relative; overflow: hidden; min-height: 0; }
 .view { position: absolute; inset: 0; display: none; min-height: 0; }
 .stage[data-view='map'] .v-map { display: grid; }
-.stage[data-view='graph'] .v-graph, .stage[data-view='threads'] .v-threads, .stage[data-view='lab'] .v-lab, .stage[data-view='ledger'] .v-ledger, .stage[data-view='audit'] .v-audit, .stage[data-view='about'] .v-about { display: block; }
+.stage[data-view='graph'] .v-graph, .stage[data-view='threads'] .v-threads, .stage[data-view='lab'] .v-lab, .stage[data-view='ledger'] .v-ledger, .stage[data-view='audit'] .v-audit, .stage[data-view='method'] .v-about { display: block; }
 .v-lab, .v-ledger, .v-audit, .v-about, .v-graph, .v-threads { overflow: auto; }
 .v-graph { overflow: hidden; }
 

@@ -36,7 +36,7 @@ The sea-level shelf and the migration routes are **schematic** and are labelled 
 npm install
 npm run dev          # http://localhost:5173
 npm run validate     # data integrity + the evidence rules (also runs in CI)
-npm run build        # type-check and production build to dist/
+npm run build        # type-check and production build to dist/ (static)
 ```
 
 `npm run audit` runs the cross-table checks (exit 1 on errors, `--strict` also on warnings, `--all` lists notes).
@@ -60,12 +60,9 @@ Add a record to the ledger **before** building any narrative on it.
 
 ## Stack and architecture
 
-TypeScript, Vite and D3 (d3-geo canvas rendering, d3-force, d3-zoom). No framework and no runtime services: the app is a static
-site and deploys to GitHub Pages (`.github/workflows/pages.yml`). The master prompt’s suggested Next.js, PostGIS and vector-search
-stack is the intended destination as the dataset grows. The data layer is already shaped as typed records so it can be moved
-into a database; the current choice keeps the map fast, offline-capable and reviewable in diffs.
+SvelteKit 2 with Svelte 5 (runes), TypeScript, D3 (d3-geo canvas rendering, d3-force, d3-zoom), prerendered to a static site with `adapter-static` and deployed to GitHub Pages (`.github/workflows/pages.yml` sets `BASE_PATH`). Each view is a route: `/` (map), `/graph`, `/threads`, `/lab`, `/ledger`, `/audit`, `/method`; selection and time live in the URL (`/?e=gobekli-tepe&t=-9600`), and old `#/map?e=...` links are rewritten on load. Shared state is one runes store (`src/lib/app.svelte.ts`). The data layer (`src/data`, `src/lib/audit.ts`, `time.ts`, `classification.ts`) is plain TypeScript with no framework, so `npm run validate`, `audit` and `coverage` run without it. The previous vanilla TypeScript + Vite edition is kept on the `legacy-vanilla` branch.
 
-Base map data (Natural Earth land and 0/200 m bathymetry, public domain) is committed in `public/data/`; see `scripts/build-geo.sh`.
+Base map data (Natural Earth land and 0/200 m bathymetry, public domain) is committed in `static/data/`; see `scripts/build-geo.sh`.
 
 ## Roadmap
 

@@ -3,7 +3,7 @@ import { readFileSync } from 'node:fs';
 import { feature } from 'topojson-client';
 import { RULES, runAudit } from '../src/lib/audit';
 
-const topo = JSON.parse(readFileSync(new URL('../public/data/land-50m.topo.json', import.meta.url), 'utf8'));
+const topo = JSON.parse(readFileSync(new URL('../static/data/land-50m.topo.json', import.meta.url), 'utf8'));
 const land = feature(topo, topo.objects[Object.keys(topo.objects)[0]]);
 const a = runAudit({ land });
 const strict = process.argv.includes('--strict');

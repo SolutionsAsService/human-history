@@ -36,9 +36,9 @@
   onMount(() => {
     if (location.hash.startsWith('#/')) {
       const [v, qs] = location.hash.slice(2).split('?'); const known = TABS.find(([x]) => x === v || (v === 'about' && x === 'method'));
-      if (known) { goto(`${base}${pathOf(known[0])}${qs ? '?' + qs : ''}`, { replaceState: true }).then(() => { readUrl(page.url); ready = true; }); return; }
+      if (known) { goto(`${base}${pathOf(known[0])}${qs ? '?' + qs : ''}`, { replaceState: true }).then(() => { readUrl(page.url); setTimeout(() => (ready = true), 50); }); return; }
     }
-    readUrl(page.url); ready = true;
+    readUrl(page.url); setTimeout(() => (ready = true), 50); // after the router has hydrated: replaceState needs it
   });
   $effect(() => {
     if (!ready) return;

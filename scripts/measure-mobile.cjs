@@ -8,7 +8,7 @@ const shots = args.includes('--shots') ? args[args.indexOf('--shots') + 1] : nul
 const widths = (args.includes('--widths') ? args[args.indexOf('--widths') + 1] : '360,390,430,768').split(',').map(Number);
 const VIEWS = [
   ['map', '#/map?t=-9000'], ['map+drawer', '#/map?e=gobekli-tepe&t=-9000'], ['graph', '#/graph'], ['lab', '#/lab?q=q-americas'],
-  ['ledger', '#/ledger'], ['audit', '#/audit'], ['about', '#/about'],
+  ['ledger', '#/ledger'], ['audit', '#/audit'], ['about', '#/method'],
 ];
 const probe = () => {
   const vis = el => { const r = el.getBoundingClientRect(); const s = getComputedStyle(el); return r.width > 0 && r.height > 0 && s.visibility !== 'hidden' && s.display !== 'none' && +s.opacity > 0.05 && r.bottom > 0 && r.right > 0 && r.left < innerWidth + 1; };
